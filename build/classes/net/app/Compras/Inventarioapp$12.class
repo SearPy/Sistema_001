@@ -1,0 +1,9 @@
+MiB (+50) Peak: 312MiB (+49)   Pagefile Usage: 664MiB (+183) Peak: 665MiB (+104)   Private Usage: 664MiB (+183)
+000455.096|   OKAY| Page Fault Count: 2612K (+118)
+000460.096|   OKAY| Pagefile Usage: 631MiB (-33) Peak: 668MiB (+3)   Private Usage: 631MiB (-33)
+000465.097|   OKAY| Pagefile Usage: 587MiB (-44) Peak: 668MiB (+0)   Private Usage: 587MiB (-44)
+000470.097|   OKAY| Working Set Size: 318MiB (+8) Peak: 322MiB (+10)   Pagefile Usage: 689MiB (+102) Peak: 698MiB (+30)   Private Usage: 689MiB (+102)
+000470.097|   OKAY| Page Fault Count: 2728K (+116)
+000475.098|   OKAY| Pagefile Usage: 675MiB (-14) Peak: 698MiB (+0)   Private Usage: 675MiB (-14)
+000480.098|   OKAY| Working Set Size: 303MiB (-15) Peak: 322MiB (+0)   Pagefile Usage: 556MiB (-119) Peak: 698MiB (+0)   Private Usage: 556MiB (-119)
+000490.099|

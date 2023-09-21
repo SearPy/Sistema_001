@@ -1,0 +1,3 @@
+ phục.\"}, {\"locale\": \"zh_MY\", \"content\": \"我们发现一个异常，导致地区转移失败，现已关闭转移功能，进行全力修复。\"}, {\"locale\": \"zh_TW\", \"content\": \"我們發現一個異常，導致地區轉移失敗，現已關閉轉移功能，進行全力修復。\"}], \"publish_locations\": [\"game\", \"riotstatus\"], \"publish\": true, \"updated_at\": \"2023-09-01T00:15:00+00:00\", \"author\": \"Riot Games\", \"id\": 12241}], \"updated_at\": null, \"platforms\": [\"windows\", \"macos\"], \"id\": 7105, \"incident_severity\": \"warning\", \"maintenance_status\": null, \"archive_at\": null}]}"},
+{"t":"ns1","ts":8652328538,"mi":64,"na":"Update /chat/v4/presences"},
+{"t":"ns1","ts":8652341918,"mi":64,"na":"Update /lol-chat/v1/friends/be70277a-88ca-5fa3-9ed3-69ef577ed204@la2.pvp.net"},

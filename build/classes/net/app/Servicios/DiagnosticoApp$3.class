@@ -1,0 +1,9 @@
+mmon-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}
+002492.703|  ERROR|  rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}
+002492.709|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: startCountdown
+002506.465|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: optOutHonor: selectionChosen
+002506.716|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="honor-vote"
+002506.716|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="challenge-level-up-celebration"
+002506.716|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: hideHonor: Attempt to hideHonor
+002506.872|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: api: hideHonor
+002510.517|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-ho

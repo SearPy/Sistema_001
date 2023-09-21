@@ -1,0 +1,8 @@
+390,"me":2,"ur":"/lol-lobby/v2/lobby","hc":16,"bl":0},
+{"t":"br1","ts":5453190680,"ri":8593,"ji":198150,"co":524855390,"me":2,"ur":"/lol-lobby/v1/autofill-displayed","hc":17,"bl":0},
+{"t":"rb1","ts":5453135956,"ri":8591,"sc":1,"rc":204,"hc":0,"bl":0},
+{"t":"rb1","ts":5453185533,"ri":8592,"sc":1,"rc":200,"hc":0,"bl":1},
+{"t":"rb1","ts":5453190770,"ri":8593,"sc":1,"rc":200,"hc":0,"bl":1},
+{"t":"sp1","ts":5453135948,"en":"UI_GameInProgress: STATE isGameInProgress=false,isWaitingForStats=false,isReconnect=false,isRepairing=false,isPreEndOfGame=false,phase=Lobby","mi":3},
+{"t":"ns1","ts":5454328842,"mi":128,"na":"Update /voice-chat/v3/sessions/league_of_legends/bf402601-cc4c-4447-8db4-57ed67ccd20d/participants/f1d5503e-4a2e-3847-b3ba-8917d74093fb"},
+{"t":"ns1","ts":5454329913,"mi":128,

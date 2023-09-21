@@ -1,0 +1,42 @@
+tion was added
+  rso-mobile-ui was added
+  disambiguation was added
+  lol was added
+  self_update was added
+  rms was added
+  scd was added
+  voice_chat was added
+  rso-authenticator was added
+  patcher was added
+  gamesession was added
+  background_patching was added
+  publishing_content was added
+  payments was added
+  kr-account was added
+  player-preferences was added
+  sanitizer was added
+  loyalty was added
+  mobile_push was added
+  client was added
+  player-account was added
+  client_config was added
+  riotstatus was added
+  player-affinity.playerAffinityServiceURL was added
+  accounts_security was added
+  riot was added
+  background was added
+  player-reporting was added
+  anti-addiction was added
+  rso_auth.implicit-grant-mode-telemetry was added
+  rso_auth.kount_merchant_id was added
+  rso_auth.enable_remember_me was added
+  rso_auth.url was added
+  rso_auth.use_new_login_api was added
+  system_warning was added
+  riotgamesapi.telemetry was added (config_key: ae933933-17b9-aa40-b1dc-23db61fbed5b)
+000000.541|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: allow_bad_cert = {"enabled":false}
+000000.541|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: handshake_timeout_ms = 5000
+000000.541|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: heartbeat_interval_seconds = 55
+000000.541|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: host = wss://unconfigured.edge.rms.si.riotgames.com
+000000.541|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: max_reconnect_delay_ms = 300000
+000000.541|   OKAY|

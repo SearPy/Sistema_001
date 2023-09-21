@@ -1,0 +1,8 @@
+:"ns1","ts":17226367,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/TeamBoost"},
+{"t":"ns1","ts":17226458,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/TeamBuilderDraft/EstimatedWaitAdjustmentEnabled"},
+{"t":"ns1","ts":17226540,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/TeamBuilderDraft/FillPrimaryWaitFactor"},
+{"t":"ns1","ts":17226569,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/TeamBuilderDraft/FillSecondaryWaitFactor"},
+{"t":"ns1","ts":17226648,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/TeamBuilderDraft/LogAllLCDSMessages"},
+{"t":"ns1","ts":17226746,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/TeamBuilderDraft/MidPrimaryWaitFactor"},
+{"t":"ns1","ts":17226833,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/TeamBuilderDraft/SkinPurchaseEnabled"},
+{"t":"ns1","ts":

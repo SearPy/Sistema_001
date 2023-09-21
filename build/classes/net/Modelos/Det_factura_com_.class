@@ -1,0 +1,12 @@
+patcher-lock","hc":0,"bl":0},
+{"t":"rb1","ts":10844992594,"ri":10960,"sc":1,"rc":204,"hc":0,"bl":0},
+{"t":"ns1","ts":10845350082,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
+{"t":"dw1","ts":10845350196,"sdi":0,"ddi":4},
+{"t":"br1","ts":10845348818,"ri":10961,"ji":351831,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
+{"t":"rb1","ts":10845350189,"ri":10961,"sc":1,"rc":204,"hc":0,"bl":0},
+{"t":"ns1","ts":10865488463,"mi":64,"na":"Update /chat/v4/presences"},
+{"t":"ns1","ts":10865501559,"mi":64,"na":"Update /lol-chat/v1/friends/f0d759cd-5896-5e6e-a5ec-0cc6bd98e54d@la2.pvp.net"},
+{"t":"ns1","ts":10865502114,"mi":108,"na":"Create /lol-game-client-chat/v1/buddies/Lee sin Piedad"},
+{"t":"ns1","ts":10865502300,"mi":108,"na":"Create /lol-game-client-chat/v2/buddies/f0d759cd-5896-5e6e-a5ec-0cc6bd98e54d@la2.pvp.net"},
+{"t":"ns1","ts":10865502639,"mi":64,"na":"Update /lol-chat/v1/friend-counts"},
+{"t":"ns1","ts":10865502713,"mi":112,"na":"Update /lol-hovercard/v1/friend-info/f0d759

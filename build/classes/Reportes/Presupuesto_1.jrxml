@@ -1,0 +1,89 @@
+GamesApi | client-config: Received notification for changes to all public and all player namespaces. Dispatching 2 async update requests.
+000000.077|   OKAY| RiotGamesApi | client-config: Request is about to take flight
+000000.077|   OKAY| RiotGamesApi | private-settings: Plugin is in local-user mode. Settings will be automatically loaded for the current platform user.
+000000.079|   OKAY| RiotGamesApi | private-settings: Loaded 1 namespaces from file
+000000.080|   OKAY| RiotGamesApi | rg::config: Changes from source 'PrivateSettings': private has changed type from Nil to Map
+000000.082|   OKAY| RiotGamesApi | telemetry: Sending telemetry to schema riotclient__ClientAction__v18 with: {"actionType":"productSessionStart","product":{"installId":"league_of_legends.live","patchline":"live","productId":"league_of_legends","version":"0"},"productSessionStartData":{"sessionHash":1668479195}}
+000000.082|   OKAY| RiotGamesApi | product-session: Created product session for league_of_legends on patchline live with version 0
+000000.082|   OKAY| RiotGamesApi | product-session: Created Product Session for host_app
+000000.084|   OKAY| RiotGamesApi | rso-auth: Note: config for (use_new_login_api, 0) or (stay-signed-in, 1) is set, but overridden due to `authorization-key`
+000000.084|   OKAY| RiotGamesApi | rso-auth: No static RSO config.
+000000.084|   OKAY| RiotGamesApi | rso-auth: in plugin library function RenderConfig: Configuration not ready: URL missing
+000000.085|   OKAY| RiotGamesApi | rso-auth: Authenticating with configured credentials progress: Ready
+000000.086|   OKAY| RiotGamesApi | rso-auth: in plugin endpoint function HandleAccessTokenGet during operation GetAccessToken: No RSO Access Token exists
+000000.086|   OKAY| RiotGamesApi | rso-auth: in plugin endpoint function HandleIdTokenGet during operation GetAuthorization: No RSO Authorization currently exists
+000000.086|   OKAY| RiotGamesApi | rso-auth: in plugin endpoint function HandleIdTokenGet during operation GetAuthorization: No RSO Authorization currently exists
+000000.088|   OKAY| RiotGamesApi | riot-login: Updated platform ID to 'localuser'
+000000.089|   OKAY| RiotGamesApi | client-config: Received request from 'league_of_legends' for legacy config status
+000000.091|   OKAY| RiotGamesApi | riot-messaging-service: Regional URL not found
+000000.091|   OKAY| RiotGamesApi | rso-auth: in plugin endpoint function HandleAccessTokenGet during operation GetAccessToken: No RSO Access Token exists
+000000.091|   OKAY| RiotGamesApi | riot-messaging-service: Proxy connection status Preparing 
+000000.091|   OKAY| RiotGamesApi | riot-messaging-service: Connecting to external process https://127.0.0.1:65407
+000000.093|   OKAY| RiotGamesApi | client-config: Updated product sessions (1 total)
+000000.094|   OKAY| RiotGamesApi | plugin-manager: All plugins initialized.
+000000.094|   OKAY| RiotGamesApi | App: Foundation is now running.
+000000.121|   OKAY| RiotGamesApi | riot-messaging-service: Proxy connection status Connected 
+000000.143| ALWAYS|              critical-flow| CF.STARTUP_FOUNDATION.APP.DIRECTLAUNCH_READY 2/2 payload=none
+000000.202|   OKAY| RiotGamesApi | telemetry: Dropping disabled AP event schemaless__ExternalWebRequest__v1
+000000.202|   OKAY| RiotGamesApi | riot-messaging-service: State is now Connected.
+000000.204|   OKAY| RiotGamesApi | telemetry: Dropping disabled AP event schemaless__ExternalWebRequest__v1
+000000.204|   OKAY| RiotGamesApi | riot-messaging-service: Proxy is subscribed
+000000.338| ALWAYS| ConfigAppModule::QueryConfig public: succeeded
+000000.423|   OKAY| RiotGamesApi | telemetry: Dropping disabled AP event schemaless__ExternalWebRequest__v1
+000000.433|   OKAY| RiotGamesApi | client-config: Updated public config for league_of_legends with 359 entries
+000000.454|   OKAY| RiotGamesApi | rg::config: Changes from source 'ClientConfigPublic': 
+  riot_login was added
+  player-reporting was added
+  lol was added
+  loyalty was added
+  sanitizer was added
+  mailbox was added
+  anticheat was added
+  rso_auth.use_new_login_api was added
+  rso_auth.kount_merchant_id was added
+  rso_auth.enable_remember_me was added
+  rso_auth.implicit-grant-mode-telemetry was added
+  rso_auth.url was added
+  riot was added
+  client_config was added
+  accounts_security was added
+  client was added
+  riotgamesapi.telemetry was added
+  system_warning was added
+  publishing_content was added
+  background_patching was added
+  player-affinity.playerAffinityServiceURL was added
+  scd was added
+  patcher was added
+  payments was added
+  riotstatus was added
+  entitlements was added
+  lifecycle was added
+  player-preferences was added
+  age_restriction was added
+  rewards was added
+  background was added
+  self_update was added
+  disambiguation was added
+  rso-authenticator was added
+  anti-addiction was added
+  voice_chat was added
+  gamesession was added
+  user_input_control was added
+  rms was added
+  rso-mobile-ui was added
+  kr-account was added
+  mobile_push was added
+  player-account was added (config_key: b3243cf8-0601-7245-a532-ceef38debfa6)
+000000.454|   OKAY| RiotGamesApi | player-affinity: Using Player Affinity Service at https://riot-geo.pas.si.riotgames.com
+000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: allow_bad_cert = {"enabled":false}
+000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: handshake_timeout_ms = 5000
+000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: heartbeat_interval_seconds = 55
+000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: host = wss://unconfigured.edge.rms.si.riotgames.com
+000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: max_reconnect_delay_ms = 300000
+000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: min_reconnect_delay_ms = 100
+000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: port = 443
+000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: protocol_preference = ipv4
+000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: socket_timeout_ms = 30000
+000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: use_direct_connection = true
+000000.454|   OKAY| RiotGame

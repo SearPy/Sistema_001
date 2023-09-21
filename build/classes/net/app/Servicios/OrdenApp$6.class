@@ -1,0 +1,10 @@
+ndow 1 is now visible.
+002730.096|   OKAY| Window 1 is activated.
+002740.891|   OKAY| CacheStats (expired): total: 9 files, 4403448 bytes, 12 uses / served: 2 unique, 3 total, 8192596 bytes.
+002744.285|   OKAY| Working Set Size: 89MiB (-11) Peak: 131MiB (+0)   Pagefile Usage: 79MiB (-10) Peak: 117MiB (+0)   Private Usage: 79MiB (-10)
+002750.106| ALWAYS| Window 1 is now visible.
+002750.107|   OKAY| Window 1 is activated.
+002755.904|   OKAY| CacheStats (expired): total: 3 files, 137772 bytes, 8 uses / served: 1 unique, 5 total, 253740 bytes.
+002770.925|   OKAY| CacheStats (expired): total: 3 files, 3944116 bytes, 13 uses / served: 2 unique, 10 total, 23474636 bytes.
+002781.169| ALWAYS| Window 1 is now visible.
+002781.171|   OKAY| Window 1 is activate

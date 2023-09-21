@@ -1,0 +1,10 @@
+645,"sc":1,"rc":204,"hc":0,"bl":0},
+{"t":"rb1","ts":9254534212,"ri":9647,"sc":1,"rc":204,"hc":0,"bl":0},
+{"t":"sp1","ts":9254529316,"en":"UI_GameInProgress: STATE isGameInProgress=false,isWaitingForStats=false,isReconnect=false,isRepairing=false,isPreEndOfGame=false,phase=Lobby","mi":3},
+{"t":"ns1","ts":9254672854,"mi":68,"na":"Update /lol-lobby/v1/lobby/availability"},
+{"t":"ns1","ts":9254673312,"mi":68,"na":"Create /lol-lobby/v2/lobby"},
+{"t":"ns1","ts":9254674268,"mi":68,"na":"Create /lol-lobby/v2/lobby/members"},
+{"t":"ns1","ts":9254675554,"mi":43,"na":"Update /lol-gameflow/v1/session"},
+{"t":"ns1","ts":9254679701,"mi":82,"na":"Update /lol-clash/v1/time"},
+{"t":"ns1","ts":9254679904,"mi":82,"na":"Update /lol-clash/v1/playmode-restricted"},
+{"t":"ns1","ts":9254679967,"mi":82,"na":"Update /

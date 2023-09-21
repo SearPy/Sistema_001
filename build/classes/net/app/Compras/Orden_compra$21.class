@@ -1,0 +1,21 @@
+5c701d996a4f5fb7a496\",\"85f2c1769396177e632db0247b3f3d6e\",\"b69f1eabc784652907c9013c158f8517\",\"71c7b939fb7141fd984a8fad0812dfa4\",\"9ab5f72188222bcba1029ecdd79f3890\",\"e238609d23f8e61d6e563bcffad068c7\",\"e29b014ab9f68e3ff65ab20c74f0631d\",\"4955d7df22397cf325b7a08a4b56c57b\",\"eb22a857adaab27773c8b1f8569e4bef\",\"9e4004f80d37c2e002eb5bc7d53f8b6c\",\"b305f416b8a43cbcc1b16c0b0b8ab38f\",\"3c09fbf8ca37f0e53cdb0e43a0a3fcba\",\"71fd55db706b4ccc73ef8a2c6f027120\",\"b09f9405e533d050baf93dd5ddf327f0\",\"9c8b136915e207aeb4f4be1724e21762\",\"7296fb8e68813d3d58ca39ac984220a2\",\"bf87eddf3f35384c8f5087ef3d5869d5\",\"59a008a0a4bdd4620706a915d943e7bc\",\"03974fcc4b7cb8968501addc31ef31b5\",\"2bd76b406b088f470966e80663188f6b\",\"b85ec81ea4190170c55916b5259bc63a\"]"
+            1: "39"
+            2: "5"
+            ambientAudioDisabled: "true"
+            fallbackSaved: "true"
+            fellback: "false"
+            introWatched: "true"
+            motionDisabled: "true"
+            tutorialWatched: "true"
+        winterblessed-embed-2022:
+            introWatched: "true"
+        worlds-hub-2022:
+            ambientAudioDisabled: "true"
+            introSkinLineWatched: "true"
+            introWorldsEventPassWatched: "true"
+            motionDisabled: "true"
+    schemaVersion: 1
+lol-honor:
+    data:
+        recallReleaseNotified: true
+    schem

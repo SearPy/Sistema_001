@@ -1,0 +1,6 @@
+otGamesApi | client-config: Received notification for changes to all public and all player namespaces. Dispatching 2 async update requests.
+000000.167|   OKAY| RiotGamesApi | client-config: Request is about to take flight
+000000.168|   OKAY| RiotGamesApi | private-settings: Plugin is in local-user mode. Settings will be automatically loaded for the current platform user.
+000000.171|   OKAY| RiotGamesApi | private-settings: Loaded 1 namespaces from file
+000000.173|   OKAY| RiotGamesApi | rg::config: Changes from source 'PrivateSettings': private has changed type from Nil to Map
+000000.176|   OKAY| RiotGamesApi | telemetry: Sending telemetry to schema riotclient__ClientAction__v18 with: {"actionType":"productSessionStart","product":{"installId":"lea

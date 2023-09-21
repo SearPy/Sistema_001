@@ -1,0 +1,49 @@
+ersion: '0'
+000000.026|   OKAY| RiotGamesApi | rg::config: Changes from source 'Foundation': 
+  host was added
+  globals.instance-id was added
+  globals.process-id was added
+  app was added
+000000.027|   OKAY| RiotGamesApi | DataStore: Unable to load private settings file: "C:/Users/Searp/AppData/Local/Riot Games/League of Legends/Data/RiotClientPrivateSettings.yaml": Error opening file: Error code 2 for path 'C:/Users/Searp/AppData/Local/Riot Games/League of Legends/Data/RiotClientPrivateSettings.yaml': El sistema no puede encontrar el archivo especificado.
+000000.027|   OKAY| RiotGamesApi | rg::config: Changes from source 'InstallSettings': 
+  rso-auth was added
+  telemetry was added
+  player-affinity was added
+  private was added
+  riot-client-auth was added
+  globals.locale was added
+  globals.region-locale was added
+  globals.region was added
+000000.028|   OKAY| RiotGamesApi | App: AppMobile running 'league_of_legends' with SDK version 22.9.19.4740406
+000000.028|   WARN| RiotGamesApi | Running with an explicit Plugin allowlist set. This is an advanced feature and may lead to instability.
+000000.028|   OKAY| RiotGamesApi | Loading explicitly allowed plugin: rcp-be-client-config
+000000.028|   OKAY| RiotGamesApi | Loading explicitly allowed plugin: rcp-be-private-settings
+000000.028|   OKAY| RiotGamesApi | Loading explicitly allowed plugin: rcp-be-product-session
+000000.028|   OKAY| RiotGamesApi | Loading explicitly allowed plugin: rcp-be-rso-auth
+000000.028|   OKAY| RiotGamesApi | Loading explicitly allowed plugin: rcp-be-player-affinity
+000000.028|   OKAY| RiotGamesApi | Loading explicitly allowed plugin: rcp-be-riot-client-auth
+000000.028|   OKAY| RiotGamesApi | Loading explicitly allowed plugin: rcp-be-riot-login
+000000.028|   OKAY| RiotGamesApi | Loading explicitly allowed plugin: rcp-be-riot-messaging-service
+000000.028|   OKAY| RiotGamesApi | Loading explicitly allowed plugin: rcp-be-entitlements
+000000.028|   OKAY| RiotGamesApi | Loading explicitly allowed plugin: rcp-be-client-config-dep-injector
+000000.029|   OKAY| RiotGamesApi | plugin-manager: App file system path is: D:\Riot Games\League of Legends\
+000000.029|   OKAY| RiotGamesApi | plugin-manager: Plugins file system path used : Plugins.
+000000.035|   OKAY| RiotGamesApi | system-info: OS is 'Windows 10 Home, x64'
+000000.035|   OKAY| RiotGamesApi | system-info: CPU is 0 MHz with 8 cores; 16384 MB of memory
+000000.035|   OKAY| RiotGamesApi | telemetry: OnConfigUpdated called. Will send to New Relic: Events SchemalessEvents Metrics
+000000.036|   OKAY| RiotGamesApi | telemetry: Analytics Platform configured for https://data.riotgames.com
+000000.037|   OKAY| RiotGamesApi | telemetry: New Relic Configured from install settings -- will send to New Relic: Events SchemalessEvents Metrics
+000000.037|   OKAY| RiotGamesApi | client-config: Configured with app name 'league_of_legends', patchline 'live', version '0'
+000000.039| ALWAYS| Phase Begin - Creating Modules
+000000.039| ALWAYS| TracingAppModule started
+000000.039| ALWAYS| ConfigAppModule enforceEarlyAppInit: false
+000000.039| ALWAYS| ConfigAppModule configAppModuleValidConfig: true
+000000.039|   OKAY| No RGA Options command line passed in. Using default: 0 (all disabled)
+000000.045| ALWAYS| ConfigAppModule: adding to App
+000000.045| ALWAYS| Phase Begin - Early ClientConfig Query
+000000.045| ALWAYS| ConfigAppModule::GetConfigInternal: starting...
+000000.049|   OKAY| RiotGamesApi | client-config: Failed to derive diagnostic scope
+000000.049|   OKAY| RiotGamesApi | client-config: Expiring public configs in namespace ''
+000000.049|   OKAY| RiotGamesApi | client-config: Expiring player configs in namespace ''
+000000.049|   OKAY| RiotGamesApi | client-config: player configuration for 'league_of_legends.live' in namespace '' has key 69b80118-7b15-084d-8a16-59ddb6b146b8
+000000.050|   OKAY| RiotGamesApi

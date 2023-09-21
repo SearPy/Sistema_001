@@ -1,0 +1,9 @@
+ock","hc":0,"bl":0},
+{"t":"rb1","ts":10210299440,"ri":10450,"sc":1,"rc":204,"hc":0,"bl":0},
+{"t":"ns1","ts":10210500518,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
+{"t":"dw1","ts":10210500627,"sdi":0,"ddi":28},
+{"t":"br1","ts":10210498894,"ri":10451,"ji":331220,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
+{"t":"rb1","ts":10210500620,"ri":10451,"sc":1,"rc":204,"hc":0,"bl":0},
+{"t":"dw1","ts":10211397015,"sdi":0,"ddi":31},
+{"t":"br1","ts":10211396930,"ri":10452,"ji":331249,"co":0,"me":2,"ur":"/data-store/v1/system-settings/riotclient/patchline","hc":0,"bl":0},
+{"t":"br1","ts":10211397049,"ri":10453,"ji":331250,"co":0,"me":2,"ur":"/riot-status/v1/products/lea

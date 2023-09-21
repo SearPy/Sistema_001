@@ -1,0 +1,5 @@
+ments/la2","hc":0,"bl":0},
+{"t":"rb1","ts":10691385541,"ri":10905,"sc":1,"rc":200,"hc":0,"bl":1},
+{"t":"xr1","ts":10691385592,"ri":571230650458,"mi":133,"me":2,"ur":"/riot-status/v1/products/league_of_legends/patchlines/live/deployments/la2"},
+{"t":"rb1","ts":10691523528,"ri":10906,"sc":1,"rc":200,"hc":6,"bl":1},
+{"t":"rx1","ts":10691523574,"ri":571230650458,"sc":1,"fl":0,"dds":"{\"id\": \"LA2\", \"name\": \"Latin America South\", \"locales\": [\"es_AR\", \"es_MX\"], \"maintenances\": [], \"incidents\": [{\"archive_at\": null, \"id\": 6977, \"updates\": [{\"translations\": [{\"locale\": \"en_US\", \"content\": \"We're aware of issues impacting players on Android and are investigating.\"}, {\"locale\": \"cs_CZ\", \"content\": \"Víme o potížích, které se dotýkají hráčů se systémem Android. Na řešení pracujeme.\"}, {\"locale\": \"de_DE\", \"content\": \"Uns ist bekannt, dass es Probleme für Androi

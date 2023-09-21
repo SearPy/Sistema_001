@@ -1,0 +1,6 @@
+://127.0.0.1:50020/fe/common-libs/rcp-fe-common-libs.js (1)
+[0908/224342.689:INFO:CONSOLE(1)] "       rcp-fe-lol-postgame| EoG Eternals updates length: 0", source: https://127.0.0.1:50020/fe/common-libs/rcp-fe-common-libs.js (1)
+[0908/224346.828:INFO:CONSOLE(1)] "         rcp-fe-ember-libs| ember-data-binding instantiated with no socket, will not receive updates, detail="ember-data-binding:unknown"", source: https://127.0.0.1:50020/fe/common-libs/rcp-fe-common-libs.js (1)
+[0908/224419.228:INFO:CONSOLE(1)] "          rcp-fe-lol-store| privateApi->showStore, detail={"local":true}", source: https://127.0.0.1:50020/fe/common-libs/rcp-fe-common-libs.js (1)
+[0908/224808.395:WARNING:sync_reader.cc(190)] SyncReader::Read timed out, audio glitch count=10
+[0908/224957.037:INFO:CON

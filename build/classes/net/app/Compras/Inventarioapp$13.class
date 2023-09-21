@@ -1,0 +1,5 @@
+etail="missions-celebration"", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205420.600:INFO:CONSOLE(1)] "Uncaught TypeError: this.$(...)[0].animateFill is not a function", source: https://127.0.0.1:61049/fe/lol-navigation/rcp-fe-lol-navigation.js (1)
+[0905/205424.044:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="missions-celebration"", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205424.044:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="ranked-celebration"", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205424.048:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handl

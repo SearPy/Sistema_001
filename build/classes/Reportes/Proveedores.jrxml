@@ -1,0 +1,49 @@
+000000.000| ALWAYS| Logging started at 2023-09-17T21:39:15.060
+000000.004| ALWAYS|   CFG| CrashHandler(Sentry)
+000000.053| ALWAYS|   CFG| Command Line:  "138.0.12.195 5358 ieW4npj7MR/qyg3LBZOqsg== 18371309" "-Product=LoL" "-PlayerID=18371309" "-GameID=1339272613" "-PlayerNameMode=SUMMONER" "-GameBaseDir=D:\Riot Games\League of Legends" "-Region=LA2" "-PlatformID=LA2" "-Locale=es_MX" "-SkipBuild" "-EnableCrashpad=true" "-EnableLNP" "-UseDX11=1:1" "-UseMetal=0:1" "-UseNewX3D" "-UseNewX3DFramebuffers" "-RiotClientPort=50282" "-RiotClientAuthToken=Yp5P_BUKp4u0coeTzJ6PYQ" 
+000000.121| ALWAYS| Live Profiling enabled. Will overwrite old RPD.
+000000.122| ALWAYS|   CFG| Build Version: Version 13.18.530.4653 (Sep 07 2023/19:26:39) [PUBLIC] <Releases/13.18> ChangeList: 5304653
+000000.142| ALWAYS| LCURemotingClient: Initializing on port 50282
+000000.160| ALWAYS| LCURemotingClient: Connected to app process.
+000000.165| ALWAYS|  FLOW| Initializing Renderer
+000000.165| ALWAYS| r3dRenderLayer::Init enter
+000000.165| ALWAYS| r3dRenderLayer::Init() exit successfully
+000000.841| ALWAYS| rr3dRenderLayer::InitDevice(XRes = 1920, YRes = 1080, BPP = 32) enter
+000000.841| ALWAYS| rr3dRenderLayer::InitDevice: Creating X3D device
+000000.847| ALWAYS| DXGI version: 1.6
+000000.847| ALWAYS| Detected Adapter 'NVIDIA GeForce GTX 860M'
+000000.849| ALWAYS| DXGI: Tearing support enabled.
+000001.149| ALWAYS| DX11 feature level: 11.0
+000001.346| ALWAYS| Using X3D Platform: DX11
+000001.358| ALWAYS| X3D: Focus Gained
+000001.364| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+000001.364| ALWAYS| r3dRenderLayer::InitResources exit successfully
+000001.532| ALWAYS| AudioManager: Wwise Version v2019.1.10 initialized.
+000001.560| ALWAYS|  FLOW| Push: Bootstrap complete
+000001.562| ALWAYS|  FLOW| Push: Patching  Current: Bootstrap
+000001.564| ALWAYS|  FLOW| Push: Patching complete
+000001.565| ALWAYS|  FLOW| Pop: Patching
+000001.569| ALWAYS|  FLOW| Pop: Patching complete  Current: Bootstrap
+000001.570| ALWAYS|  FLOW| Push: LoLCommon  Current: Bootstrap
+000001.693| ALWAYS|  FLOW| Push: LoLCommon complete
+000001.694| ALWAYS|  FLOW| Push: GameSession  Current: LoLCommon
+000001.695| ALWAYS| GameStartData::GameID=1339272613
+000001.698| ALWAYS| Client Clock Synchronization Started
+000001.699| ALWAYS|  CONN| Connecting to address (138.0.12.195) port (5358)
+000001.699| ALWAYS| LCURemotingClient: Initializing on port 50282
+000001.700| ALWAYS|  CONN| Waiting for response from game server...
+000001.700| ALWAYS|  FLOW| Push: GameSession complete
+000001.704| ALWAYS| LCURemotingClient: Connected to app process.
+000001.870| ALWAYS|  CONN| Hard Connect at LocalSimTime(0.000)
+000001.881| ALWAYS|   CLK| Replica[0] Scale negative delay correction: 0.011440
+000001.881| ALWAYS|   CLK| Replica[0]: Scale(1.00) LocalTime(0.000) SegmentStartTime(0.000) LocalOffset(2.008) Snap
+000001.882| ALWAYS|   CLK| Replica[0] Pause negative delay correction: 0.012199
+000001.882| ALWAYS|   CLK| Replica[0]: Command(Pause) LocalTime(0.000) SegmentStartTime(0.000) LocalOffset(2.007) Snap
+000001.882| ALWAYS|   CLK| Replica[1] Scale negative delay correction: 0.012375
+000001.882| ALWAYS|   CLK| Replica[1]: Scale(1.00) LocalTime(0.000) SegmentStartTime(1.529) LocalOffset(2.007) Snap
+000001.882| ALWAYS|   CLK| Replica[1] Pause negative delay correction: 0.012424
+000001.882| ALWAYS|   CLK| Replica[1]: Command(Unpause) LocalTime(1.529) SegmentStartTime(1.529) LocalOffset(2.007) Snap
+000001.907| ALWAYS| LCUChatClientAsync: Chat session is "loaded".
+000001.975| ALWAYS|  CONN| Game Info Received ServerSimTime(0.000) PreviousDisconnectCount(0)
+000001.975| ALWAYS|  ROST| CONNECTION READY | TeamOrder 0) 'Daniłø' - Champion(Olaf) SkinID(35) TeamBuilderRole(TOP) PUUID(14909c88-403e-524c-aaa9-a759ab50fa41) ConnectionState(Disconnected)
+000001.975

@@ -1,0 +1,9 @@
+"ts":9281876210,"mi":20,"na":"OnServiceProxyAsyncEvent"},
+{"t":"ns1","ts":9281877363,"mi":49,"na":"Update /lol-lobby-team-builder/v1/matchmaking"},
+{"t":"ns1","ts":9281877638,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/implementation-active"},
+{"t":"ns1","ts":9281878079,"mi":49,"na":"Create /lol-lobby-team-builder/champ-select/v1/session"},
+{"t":"ns1","ts":9281878940,"mi":51,"na":"Create /lol-champ-select/v1/session"},
+{"t":"ns1","ts":9281878986,"mi":49,"na":"Create /lol-lobby-team-builder/champ-select/v1/team-boost"},
+{"t":"ns1","ts":9281880045,"mi":51,"na":"Update /lol-champ-select/v1/sfx-notifications"},
+{"t":"ns1","ts":9281880245,"mi":51,"na":"Update /lol-champ-select/v1/summoners/0"},
+{"t":"

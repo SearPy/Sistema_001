@@ -1,0 +1,5 @@
+3.264:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: honorEnabled, detail=true", source: https://127.0.0.1:50020/fe/common-libs/rcp-fe-common-libs.js (1)
+[0908/223653.264:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: isShowing", source: https://127.0.0.1:50020/fe/common-libs/rcp-fe-common-libs.js (1)
+[0908/223653.565:INFO:CONSOLE(1)] "         rcp-fe-ember-libs| ember-data-binding instantiated with no socket, will not receive updates, detail="ember-data-binding:unknown"", source: https://127.0.0.1:50020/fe/common-libs/rcp-fe-common-libs.js (1)
+[0908/224051.363:INFO:CONSOLE(1)] "        rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}", source: https://127.0.0.1:50020/fe/common-libs/rcp-fe-common-libs.js (1)
+[

@@ -1,0 +1,12 @@
+8 total, 20957032 bytes.
+000473.810|   OKAY| CacheStats (expired): total: 6 files, 4511211 bytes, 16 uses / served: 2 unique, 10 total, 24714212 bytes.
+000478.970| ALWAYS| Window 1 is now visible.
+000478.972|   OKAY| Window 1 is activated.
+000488.820|   OKAY| CacheStats (expired): total: 21 files, 4749027 bytes, 58 uses / served: 14 unique, 37 total, 24349004 bytes.
+000490.064| ALWAYS| Window 1 is now visible.
+000490.066|   OKAY| Window 1 is activated.
+000490.066|   OKAY| AllowSetForegroundWindow BrowserProcess worked 
+000490.429|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: honorEnabled
+000490.444|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: isShowing
+000490.445|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase
+000490.445|   OKAY|  rcp-fe-lol

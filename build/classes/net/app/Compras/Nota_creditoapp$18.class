@@ -1,0 +1,6 @@
+000000.000| ALWAYS| Logging started at 2023-09-08T23:29:50.923
+000000.004| ALWAYS|   CFG| CrashHandler(Sentry)
+000000.053| ALWAYS|   CFG| Command Line:  "138.0.12.36 5197 NMMn+a8tnQJcKNhO+q+l2A== 18371309" "-Product=LoL" "-PlayerID=18371309" "-GameID=1336510336" "-PlayerNameMode=SUMMONER" "-GameBaseDir=D:\Riot Games\League of Legends" "-Region=LA2" "-PlatformID=LA2" "-Locale=es_MX" "-SkipBuild" "-EnableCrashpad=true" "-EnableLNP" "-UseDX11=1:1" "-UseMetal=0:1" "-UseNewX3D" "-UseNewX3DFramebuffers" "-RiotClientPort=50020" "-RiotClientAuthToken=wquFkAqCRuC00wA7FoYFzg" 
+000000.119| ALWAYS| Live Profiling enabled. Will overwrite old RPD.
+000000.121| ALWAYS|   CFG| Build Version: Version 13.17.529.0525 (Aug 30 2023/15:56:52) [PUBLIC] <Releases/13.17> ChangeList: 5290525
+000000.144| ALWAYS| LCURemotingClient: Initializing on por

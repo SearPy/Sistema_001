@@ -1,0 +1,50 @@
+2023-09-15T19-39-32: LogOut_File: : logfile started
+2023-09-15T19-39-32: Net Status: low-level initialize success.
+2023-09-15T19-39-32: Note: this version (1/29/2017) has new data fields added
+2023-09-15T19-39-32: time = time since start of game in ms.
+2023-09-15T19-39-32: address = address of IP address
+2023-09-15T19-39-32: incoming = total size of messages set to me in bytes. Spikes can indicate lag.
+2023-09-15T19-39-32: outgoing = total size of messages set from me in bytes. Spikes can indicate lag.
+2023-09-15T19-39-32: app_ctos = client to server bytes delta excluding overheads (app data only)
+2023-09-15T19-39-32: app_stoc = server to client bytes delta excluding overheads (app data only)
+2023-09-15T19-39-32: loss = number of packets lost. Can indicate lags.  Some node on the network is dropping packets or taking to long and we have to resend them.
+2023-09-15T19-39-32: sent = number of packets sent. Spikes can indicate lag.
+2023-09-15T19-39-32: ping = how long it takes for a packet to get back and forth. Spikes can indicate lag.
+2023-09-15T19-39-32: variance = how much the ping is changing from avg ping. Spikes can indicate lag.
+2023-09-15T19-39-32: reliable delayed = This occurs when we drop reliable packets from sending this frame because we are sending to much data. Unreliable are more likely to be dropped than reliable.
+2023-09-15T19-39-32: unreliable delayed = This occurs when we drop unreliable packets from sending this frame because we are sending to much data.
+2023-09-15T19-39-32: app update delayed = This occurs when the app is taking to long to run code caused by network packets (ie CPU) and packets are delayed until the next frame
+2023-09-15T19-39-32: Time spent in critical section (frame) = This is the time the network thread is blocking the main thread from doing anything.
+2023-09-15T19-39-32: Latency in Window = The average Latency in ms. of Reliable packets during this time slice
+2023-09-15T19-39-32: Packet Loss percentage in Window = The packet loss percentage of Reliable packets during this time slice
+2023-09-15T19-39-32: Jitter in Window = The average Jitter in ms. of Reliable packets during this time slice
+2023-09-15T19-39-32: Overall Latency Min = The lowest Latency seen in ms. of Reliable packets up to this point in time
+2023-09-15T19-39-32: Overall Latency Max = The largest Latency seen in ms. of Reliable packets up to this point in time
+2023-09-15T19-39-32: Latency Min in Window = The lowest Latency seen in ms. of Reliable packets during this time slice
+2023-09-15T19-39-32: Latency Max in Window = The largest Latency seen in ms. of Reliable packets during this time slice
+2023-09-15T19-39-32: Latency packet samples = number of packets used in determining average latency from start of game
+2023-09-15T19-39-32: Jitter packet samples = number of packets used in determining average jitter from start of game
+2023-09-15T19-39-32: reconnect = flag to indicate one or more reconnects occurred
+2023-09-15T19-39-32: [time], [address], [incoming], [outgoing], [app_ctos], [app_stoc], [loss], [sent], [ping], [variance], [reliable delayed], [unreliable delayed], [app update delayed], [Time spent in critical section (frame)], [Latency in Window], [Packet Loss percentage in Window], [Jitter in Window], [Overall Latency Min], [Overall Latency Max], [Latency Min in Window], [Latency Maxin Window], [Latency packet Samples], [Jitter Packet Samples],[reconnect]
+10720,X.X.X.X,7447,2743,2743,7447,0,12,22,0,0,0,0,0,22,0.000000,0,22,22,22,22,7,7,1
+20740,X.X.X.X,10090,5151,2408,2643,1,49,68,0,0,0,0,0,68,0.025641,3,68,68,68,68,46,46,0
+30743,X.X.X.X,12322,7274,2123,2232,1,83,78,0,0,0,0,0,78,0.000000,3,78,78,78,78,80,80,0
+40758,X.X.X.X,14617,9459,2185,2295,1,118,82,0,0,0,0,0,82,0.000000,4,82,82,82,82,115,115,0
+50771,X.X.X.X,16849,11614,2155,2232,1,153,83,0,0,0,0,0,83,0.000000,3,83,83,83,83,149,149,0
+60801,X.X.X.X,19144,13767,2153,2295,1,187,83,0,0,0,0,0,83,0.000000,3,83,83,83,83,184,184,0
+70802,X.X.X.X,52117,22415,8648,32973,1,246,81,0,0,0,0,0,81,0.000000,1,81,81,81,81,243,243,0
+80803,X.X.X.X,58572,34072,11657,6455,1,341,81,0game.frametime_average,game.frametime_variance,game.time,network.acks_received,network.acks_received_future,network.acks_received_past,network.acks_sent,network.adapter,network.bytes_received,network.bytes_sent,network.connects,network.connects_received,network.connects_rejected,network.connects_sent,network.disconnects,network.invalid_packets,network.invalid_packets_bytes,network.message_sequencing_count,network.message_sequencing_max_queued,network.message_sequencing_max_width,network.messages_limited,network.messages_received,network.messages_redundant,network.messages_resent,network.messages_sent,network.never_connected,network.packets_acked,network.packets_from_old_connection,network.packets_limited,network.packets_lost,network.packets_outofseq,network.packets_received,network.packets_received_while_disconnected,network.packets_sent,network.packets_sent_while_disconnected,network.peer_address,network.peer_port,network.processing_time,network.reconnects,network.reconnects_rejected,network.release_version,network.rtt_average,network.rtt_jitter,network.status,player.id,replication.banks_sent,replication.bytes_sent,replication.fields_changed,replication.fields_sent,replication.objects_changed,stats.duration,stats.version,
+0.010630,0.000000,0.000000,15,0,0,87,Wireless,17126,4721,1,3,0,3,0,0,0,184,38,41,0,398,0,0,16,0,15,0,0,0,0,102,0,106,0,138.0.12.45,5241,0.006564,0,0,13.17,0.000000,0.000000,Connected,18371309,0,0,0,0,0,10.042798,7,
+0.294341,0.000000,0.000000,11,0,0,37,Wireless,1196,1501,0,0,0,0,0,0,0,0,70,71,0,10,0,0,12,0,11,0,0,0,0,48,0,48,0,138.0.12.45,5241,0.001747,0,0,13.17,0.072210,0.001281,Connected,18371309,0,0,0,0,0,44.098265,7,
+0.031365,0.000001,0.000000,21,0,0,138,Wireless,6298,5278,0,0,0,0,0,0,0,0,1,2,0,210,0,2,35,0,36,0,0,6,0,159,0,173,0,138.0.12.45,5241,0.006483,0,0,13.17,0.075179,0.003030,Connected,18371309,0,0,0,0,0,10.005426,7,
+0.031127,0.000000,0.000000,34,0,0,202,Wireless,9318,7195,0,0,0,0,0,0,0,0,1,2,0,302,0,0,35,0,34,0,0,0,0,236,0,237,0,138.0.12.45,5241,0.006880,0,0,13.17,0.076301,0.003085,Connected,18371309,0,0,0,0,0,10.022805,7,
+0.031599,0.000001,0.000000,27,0,0,183,Wireless,8002,6701,0,0,0,0,0,0,0,0,1,2,0,251,0,4,37,0,38,0,0,7,0,210,0,220,0,138.0.12.45,5241,0.009209,0,0,13.17,0.076394,0.003412,Connected,18371309,0,0,0,0,0,10.016903,7,
+0.031419,0.000001,0.000000,34,0,0,236,Wireless,9959,8183,0,0,0,0,0,0,0,0,1,2,0,303,0,0,34,0,34,0,0,0,0,270,0,270,0,138.0.12.45,5241,0.009959,0,0,13.17,0.076950,0.002355,Connected,18371309,0,0,0,0,0,10.022770,7,
+0.032009,0.000001,0.000000,34,0,0,228,Wireless,9783,7943,0,0,0,0,0,0,0,0,1,2,0,301,0,0,34,0,34,0,0,0,0,262,0,262,0,138.0.12.45,5241,0.012981,0,0,13.17,0.077860,0.003783,Connected,18371309,0,0,0,0,0,10.018768,7,
+0.031607,0.000001,0.000000,33,0,0,219,Wireless,9512,7673,0,0,0,0,0,0,0,0,1,2,0,300,0,0,34,0,33,0,0,0,0,252,0,253,0,138.0.12.45,5241,0.011185,0,0,13.17,0.076920,0.002156,Connected,18371309,0,0,0,0,0,10.019549,7,
+0.031902,0.000001,0.000000,34,0,0,181,Wireless,8920,6501,0,0,0,0,0,0,0,0,1,2,0,304,0,0,33,0,34,0,0,0,0,215,0,214,0,138.0.12.45,5241,0.011229,0,0,13.17,0.076680,0.002037,Connected,18371309,0,0,0,0,0,10.017169,7,
+0.031156,0.000001,0.000000,34,0,0,172,Wireless,8387,6263,0,0,0,0,0,0,0,0,1,2,0,302,0,0,34,0,34,0,0,0,0,206,0,206,0,138.0.12.45,5241,0.007607,0,0,13.17,0.075880,0.001152,Connected,18371309,0,0,0,0,0,10.000999,7,
+0.031845,0.000001,0.000000,34,0,0,167,Wireless,8297,6113,0,0,0,0,0,0,0,0,1,2,0,300,0,0,34,0,34,0,0,0,0,201,0,201,0,138.0.12.45,5241,0.010684,0,0,13.17,0.076510,0.001582,Connected,18371309,0,0,0,0,0,10.031243,7,
+0.031020,0.000000,0.000000,34,0,0,183,Wireless,8789,6593,0,0,0,0,0,0,0,0,1,2,0,299,0,0,34,0,34,0,0,0,0,217,0,217,0,138.0.12.45,5241,0.006496,0,0,13.17,0.076969,0.002462,Connected,18371309,0,0,0,0,0,10.019307,7,
+0.031659,0.000001,0.000000,34,0,0,229,Wireless,9773,7973,0,0,0,0,0,0,0,0,1,2,0,301,0,0,34,0,34,0,0,0,0,263,0,263,0,138.0.12.45,5241,0.011691,0,0,13.17,0.076189,0.001110,Connected,18371309,0,0,0,0,0,10.004347,7,
+0.031805,0.000001,0.000000,34,0,0,205,Wireless,9258,7253,0,0,0,0,0,0,0,0,1,2,0,297,0,0,34,0,34,0,0

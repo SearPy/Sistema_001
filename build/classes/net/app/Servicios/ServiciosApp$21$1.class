@@ -1,0 +1,6 @@
+MiB (+11) Peak: 55MiB (+11)
+000022.060|   OKAY| rcp-fe-lol-shared-components| Get machine spec, detail=5
+000023.891|  ERROR|  rcp-fe-lol-navigation| Navigation cannot remove null/undefined item
+000025.057|   OKAY| Working Set Size: 82MiB (+27) Peak: 82MiB (+27)   Pagefile Usage: 47MiB (+29) Peak: 47MiB (+28)   Private Usage: 47MiB (+29)
+000025.531|   WARN|  rcp-fe-ember-libs| ember-data-binding instantiated with no socket, will not receive updates, detail="rcp-fe-lol-tft:mixins:data-binding"
+000025.936|   OKAY| Preparing browse browserId = 1, mainFrameId = 17179869185, frameId = 17179869211, mainUri = "https://riot:zKRSycKy0nyMA1LVsTGOlA@127.0.0.1:50994/index.html", uri = "", transitionType = "TT_AUTO_SUBFRAME", request = "GET https://static.rgpub.io/pcs/leagueclient/home-overview/#protocol=https:&port=50994", isRedirec

@@ -1,0 +1,7 @@
+44796293,"ri":9527,"ji":298463,"co":0,"me":6,"ur":"/telemetry/v1/events/lcu__preferences__event","hc":0,"bl":0},
+{"t":"br1","ts":9244807362,"ri":9528,"ji":298474,"co":0,"me":2,"ur":"/lol-summoner/v2/summoners","hc":0,"bl":0},
+{"t":"br1","ts":9244815091,"ri":9529,"ji":298500,"co":0,"me":1,"ur":"/lol-gameflow/v1/early-exit-notifications/eog/4","hc":0,"bl":0},
+{"t":"br1","ts":9244815152,"ri":9530,"ji":298502,"co":0,"me":6,"ur":"/lol-pre-end-of-game/v1/complete/honor-vote","hc":0,"bl":0},
+{"t":"br1","ts":9244815436,"ri":9531,"ji":298506,"co":0,"me":6,"ur":"/lol-pre-end-of-game/v1/complete/challenge-level-up-celebration","hc":0,"bl":0},
+{"t":"br1","ts":9244817575,"ri":9532,"ji":298513,"co":0,"me":6,"ur":"/product-localization/v2/translate","hc":0,"bl":0},
+{"t":"br1","ts":9244827687,"ri":9533,"ji":298514

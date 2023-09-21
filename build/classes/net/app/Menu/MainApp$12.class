@@ -1,0 +1,8 @@
+"bl":0},
+{"t":"br1","ts":2492795455,"ri":4988,"ji":88957,"co":0,"me":1,"ur":"/riotclient/affinity","hc":0,"bl":0},
+{"t":"br1","ts":2492806765,"ri":4989,"ji":88974,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
+{"t":"br1","ts":2492806898,"ri":4990,"ji":88975,"co":0,"me":6,"ur":"/lol-gameflow/v1/gameflow-metadata/player-status","hc":0,"bl":0},
+{"t":"br1","ts":2492807530,"ri":4991,"ji":88981,"co":0,"me":2,"ur":"/lol-summoner/v2/summoners","hc":0,"bl":0},
+{"t":"br1","ts":2492807927,"ri":4992,"ji":88982,"co":0,"me":6,"ur":"/telemetry/v3/events-once/lcu-player-experience-non-timing/muc-flag-ready","hc":0,"bl":0},
+{"t":"br1","ts":2492809438,"ri":4993,"ji":88985,"co":0,"me":6,"ur":"/lol-gameflow/v1/session/game-configuration","hc":0,"bl":0},
+{"t

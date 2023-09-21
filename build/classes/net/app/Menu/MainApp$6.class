@@ -1,0 +1,8 @@
+l":1},
+{"t":"rb1","ts":10749093627,"ri":10925,"sc":1,"rc":200,"hc":0,"bl":1},
+{"t":"rb1","ts":10749096496,"ri":10924,"sc":1,"rc":200,"hc":0,"bl":1},
+{"t":"xr1","ts":10749059256,"ri":274877907710,"mi":64,"me":6,"ur":"/product-localization/v2/translate"},
+{"t":"rx1","ts":10749072707,"ri":274877907710,"sc":1,"fl":0,"dds":"{\"results\":[{\"found\":true,\"key\":\"chat_presence_product_league_of_legends\",\"product_id\":\"league_of_legends\",\"value\":\"League of Legends\"}]}"},
+{"t":"ns1","ts":10750655357,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
+{"t":"dw1","ts":10750655462,"sdi":0,"ddi":2},
+{"t":"br1","ts":10750654141,"ri":10926,"ji":348846,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock",

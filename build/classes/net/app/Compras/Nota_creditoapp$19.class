@@ -1,0 +1,6 @@
+w minimized.
+005378.913|  ERROR|  rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}
+005379.121|   WARN|                     iframe| Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22 [url=https://riot:zKRSycKy0nyMA1LVsTGOlA@127.0.0.1:50994/index.html]
+005379.123|  ERROR|  rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}
+005379.123|  ERROR|  rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}
+005379.186|  ERROR|                 javascript| Uncaught (in promise) Error: jsonRequest of /lol-chat/v1/conversations/e020c5e8-772c-4ac7-9cc9-b5c7e55454c6%40champ-select.la2.pvp.net failed with HTTP Error 40

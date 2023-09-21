@@ -1,0 +1,25 @@
+3|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="honor-vote"
+004982.623|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="challenge-level-up-celebration"
+004982.623|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: hideHonor: Attempt to hideHonor
+004982.728|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: api: hideHonor
+004982.758|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="challenge-level-up-celebration"
+004982.758|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="missions-celebration"
+004982.843|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="missions-celebration"
+004982.843|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="ranked-celebration"
+004982.843|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="ranked-celebration"
+004982.843|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName
+004982.907|   OKAY|  rcp-fe-lol-postgame| EoG Eternals updates length: 0
+004986.321|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: honorEnabled, detail=true
+004986.321|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: isShowing
+004986.583|   WARN|  rcp-fe-ember-libs| ember-data-binding instantiated with no socket, will not receive updates, detail="ember-data-binding:unknown"
+004992.795|   OKAY| Pagefile Usage: 72MiB (+10) Peak: 117MiB (+0)   Private Usage: 72MiB (+10)
+004992.795|   OKAY| Page Fault Count: 212K (+104)
+005113.218|   OKAY| CacheStats (expired): total: 36 files, 5632445 bytes, 42 uses / served: 4 unique, 6 total, 1262343 bytes.
+005118.003|   OKAY| Pagefile Usage: 61MiB (-11) Peak: 117MiB (+0)   Private Usage: 61MiB (-11)
+005128.247|   OKAY| CacheStats (expired): total: 1 files, 1463227 bytes, 3 uses / served: 1 unique, 2 total, 2926454 bytes.
+005174.332| ALWAYS| Window 1 is now visible.
+005174.334|   OKAY| Window 1 is activated.
+005183.114|   OKAY| Working Set Size: 85MiB (+11) Peak: 131MiB (+0)   Pagefile Usage: 74MiB (+13) Peak: 117MiB (+0)   Private Usage: 74MiB (+13)
+005188.122|   OKAY| Working Set Size: 105MiB (+20) Peak: 131MiB (+0)   Pagefile Usage: 94MiB (+20) Peak: 117MiB (+0)   Private Usage: 94MiB (+20)
+005203.226| ALWAYS| Window 1 is now visible.
+005203.229|   OKAY| Window 1 is activat

@@ -1,0 +1,5 @@
+ts":9256776841,"ri":274877907607,"mi":64,"me":2,"ur":"/chat/v5/messages?cid=94840e0a-0b5e-49bc-80df-a27ff4da80cc%40sec.la2.pvp.net&mid="},
+{"t":"xr1","ts":9256807922,"ri":274877907608,"mi":64,"me":2,"ur":"/chat/v5/messages?cid=94840e0a-0b5e-49bc-80df-a27ff4da80cc%40sec.la2.pvp.net&mid="},
+{"t":"rx1","ts":9256746008,"ri":274877907605,"sc":1,"fl":0,"dds":""},
+{"t":"rx1","ts":9256776772,"ri":274877907606,"sc":1,"fl":0,"dds":"{\"conversations\":[{\"cid\":\"94840e0a-0b5e-49bc-80df-a27ff4da80cc@sec.la2.pvp.net\",\"direct_messages\":true,\"global_readership\":false,\"message_history\":false,\"mid\":\"\",\"muted\":false,\"mutedRestriction\":false,\"type\":\"groupchat\",\"uiState\":{\"changedSinceHidden\":false,\"hidden\":false},\"unread_count\":0}]}"},
+{"t":"rx1","ts":9256807652,"ri":274877907607,"sc":1,"fl":1,"dds":""

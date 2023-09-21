@@ -1,0 +1,141 @@
+me, detail="missions-celebration"
+009236.134|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="missions-celebration"
+009236.134|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="ranked-celebration"
+009236.134|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="ranked-celebration"
+009236.134|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName
+009236.212|   OKAY|  rcp-fe-lol-postgame| EoG Eternals updates length: 0
+009246.003|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: honorEnabled, detail=true
+009246.003|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: isShowing
+009246.379|   WARN|  rcp-fe-ember-libs| ember-data-binding instantiated with no socket, will not receive updates, detail="ember-data-binding:unknown"
+009246.700|  ERROR|                 javascript| Error: jsonRequest of /lol-chat/v1/conversations//messages failed with HTTP Error 400 at XMLHttpRequest.h.onreadystatechange (https://127.0.0.1:50542/fe/common-libs/rcp-fe-common-libs.js:1:93962)
+009248.265|  ERROR| TypeError: (this.get(...) || {}).filter is not a function at i.<anonymous> (https://127.0.0.1:50542/fe/lol-parties/rcp-fe-lol-parties.js:1:888386) at c.p.get (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:133996) at Object.i [as get] (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:173162) at e.compute (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:117628) at e.value (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:116856) at t.iterate (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:113886) at t.isEmpty (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:332545) at t.value (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:396457) at t.initialize (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:339242) at t.peek (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:338901) at e.evaluate (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:406748) at t.execute (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:467830) at t.resume (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:467444) at e.handleException (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:476187) at t.handleException (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:479136) at t.throw (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:474612) at e.evaluate (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:407044) at t.execute (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:474388) at t.rerender (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:473297) at t.a.render (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:82801) at l (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:82180) at e.t._renderRoots (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:85775) at e.t._renderRootsTransaction (https://127.0.0.1:5
+009270.969| ALWAYS| Window 1 is now visible.
+009270.970|   OKAY| Window 1 is activated.
+009274.777|   OKAY| Working Set Size: 77MiB (+10) Peak: 138MiB (+0)   Pagefile Usage: 83MiB (+11) Peak: 136MiB (+0)   Private Usage: 83MiB (+11)
+009279.783|   OKAY| Page Fault Count: 308K (+100)
+009294.812|   OKAY| Working Set Size: 87MiB (+10) Peak: 138MiB (+0)   Pagefile Usage: 93MiB (+10) Peak: 136MiB (+0)   Private Usage: 93MiB (+10)
+009336.925| ALWAYS| Window 1 is now visible.
+009336.927|   OKAY| Window 1 is activated.
+009347.471| ALWAYS| Window 1 is now visible.
+009347.473|   OKAY| Window 1 is activated.
+009347.473|   OKAY| AllowSetForegroundWindow BrowserProcess worked 
+009347.532| ALWAYS| Window 1 is now minimized.
+009348.018|  ERROR|  rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}
+009348.214|   WARN|                     iframe| Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22 [url=https://riot:HD4SvHPzx89h2Gy9t8hy9A@127.0.0.1:50542/index.html]
+009348.277|  ERROR|  rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}
+009348.296|  ERROR|                 javascript| Error: jsonRequest of /lol-chat/v1/conversations//messages failed with HTTP Error 400 at XMLHttpRequest.h.onreadystatechange (https://127.0.0.1:50542/fe/common-libs/rcp-fe-common-libs.js:1:93962)
+009348.929|  ERROR|                 javascript| Uncaught (in promise) Error: jsonRequest of /lol-chat/v1/conversations/9944aef7-ad18-4642-bf80-597fd7cda796%40sec.la2.pvp.net failed with HTTP Error 404
+009349.068|  ERROR|                 javascript| Uncaught (in promise) Error: jsonRequest of /lol-chat/v1/conversations/0ce5473c-43b6-4565-9b80-a672ed90e705%40champ-select.la2.pvp.net failed with HTTP Error 404
+009349.921|   OKAY| Working Set Size: 120MiB (+33) Peak: 138MiB (+0)   Pagefile Usage: 126MiB (+33) Peak: 136MiB (+0)   Private Usage: 126MiB (+33)
+009354.922|   OKAY| Working Set Size: 84MiB (-36) Peak: 138MiB (+0)   Pagefile Usage: 90MiB (-36) Peak: 136MiB (+0)   Private Usage: 90MiB (-36)
+009361.578|   OKAY| CacheStats (expired): total: 24 files, 4026928 bytes, 24 uses / served: 0 unique, 0 total, 0 bytes.
+009376.587|   OKAY| CacheStats (expired): total: 67 files, 4941113 bytes, 75 uses / served: 7 unique, 8 total, 3197975 bytes.
+009391.604|   OKAY| CacheStats (expired): total: 4 files, 5182609 bytes, 8 uses / served: 4 unique, 4 total, 5182609 bytes.
+009394.978|   OKAY| Working Set Size: 72MiB (-12) Peak: 138MiB (+0)   Pagefile Usage: 76MiB (-14) Peak: 136MiB (+0)   Private Usage: 76MiB (-14)
+009406.608|   OKAY| CacheStats (expired): total: 47 files, 4932028 bytes, 70 uses / served: 8 unique, 23 total, 5350190 bytes.
+009421.609|   OKAY| CacheStats (expired): total: 10 files, 1013128 bytes, 10 uses / served: 0 unique, 0 total, 0 bytes.
+009451.646|   OKAY| CacheStats (expired): total: 1 files, 3653710 bytes, 3 uses / served: 1 unique, 2 total, 7307420 bytes.
+009481.670|   OKAY| CacheStats (expired): total: 4 files, 935996 bytes, 12 uses / served: 3 unique, 8 total, 2737582 bytes.
+010737.963|  ERROR|  rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}
+010737.963|  ERROR|  rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}
+010738.737|  ERROR|                 javascript| TypeError: Cannot read property 'playerName' of undefined at https://127.0.0.1:50542/fe/lol-postgame/rcp-fe-lol-postgame.js:1:114823 at Array.forEach (<anonymous>) at https://127.0.0.1:50542/fe/lol-postgame/rcp-fe-lol-postgame.js:1:114728 at Array.forEach (<anonymous>) at i.<anonymous> (https://127.0.0.1:50542/fe/lol-postgame/rcp-fe-lol-postgame.js:1:114567) at c.p.get (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:133996) at i (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:173162) at o (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:173360) at Object.i [as get] (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:173151) at i.get (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:253343) at i.processChampionMasteryUpdates (https://127.0.0.1:50542/fe/lol-postgame/rcp-fe-lol-postgame.js:1:115230) at invokeWithOnError (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:6231) at a.flush (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:6670) at u.flush (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:7642) at l.end (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:7986) at l.run (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:9058) at l.join (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:9182) at Function.l.join (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:175411) at i.<anonymous> (https://127.0.0.1:50542/fe/ember-libs/rcp-fe-ember-libs.js:1:925136) at Object.fire (https://127.0.0.1:50542/fe/common-libs/rcp-fe-common-libs.js:1:167224) at https://127.0.0.1:50542/fe/common-libs/rcp-fe-common-libs.js:1:167626 at Array.forEach (<anonymous>) at t.exports._triggerResourceObservers (https://127.0.0.1:50542/fe/common-libs/rcp-fe-common-libs.js:1:167588) at t.exports._cacheWrite (https://127.0.0.1:50542/fe/common-libs/rcp-fe-common-libs.js:1:166363) at t.exports._sync (htt
+010738.815|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase
+010738.815|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="honor-vote"
+010738.815|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: honorEnabled, detail=true
+010738.815|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: isShowing
+010738.815|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: Attempt to showHonor
+010738.848|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: api: showHonor
+010738.992|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: startCountdown
+010739.916| ALWAYS| Window 1 is now visible.
+010739.920|   OKAY| Window 1 is activated.
+010742.397|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: beginTransition: selectionChosen, detail=true
+010750.338|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="honor-vote"
+010750.338|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="challenge-level-up-celebration"
+010750.338|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: hideHonor: Attempt to hideHonor
+010750.556|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: api: hideHonor
+010754.429|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="challenge-level-up-celebration"
+010754.443|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="missions-celebration"
+010754.447|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="missions-celebration"
+010754.448|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="ranked-celebration"
+010754.449|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="ranked-celebration"
+010754.449|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName
+010754.553|   OKAY|  rcp-fe-lol-postgame| EoG Eternals updates length: 0
+010762.671|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: honorEnabled, detail=true
+010762.672|   OKAY|  rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: isShowing
+010763.035|   WARN|  rcp-fe-ember-libs| ember-data-binding instantiated with no socket, will not receive updates, detail="ember-data-binding:unknown"
+010768.682|   OKAY| Terminating via POST /process-control/v1/process/quit.
+010768.730| ALWAYS| Window 1 is now hidden.
+010768.730|   OKAY| Close browsers requested
+010768.733|   OKAY| Main windows received quit command.
+010768.983|   OKAY| Terminating window manager.
+010768.985|   OKAY| Shutting down RiotRemoting.
+010768.985|   OKAY| ClientWebSocketTransport: Statistics at socket close:
+010768.985|   OKAY| Reads - Count : 71547   Total Bytes: 68277133   Average Bytes: 954
+010768.985|   OKAY| Writes - Count : 49   Total Bytes: 3321   Average Bytes: 67
+010768.986|   OKAY| Retries: 0
+010768.986|   OKAY| Releasing browser process.
+010768.986|   OKAY| CacheStats (purging): total: 2461 files, 233931877 bytes, 3635 uses / served: 254 unique, 1174 total, 148320327 bytes.
+010769.104|   OKAY| Cleaning up Ux Resources.
+010769.792|   OKAY| Shutting down CEF.
+010771.024|   OKAY| Exiting ux.
+010771.029|   OKAY| Working Set Size: 58MiB Peak: 138MiB   Pagefile Usage: 25MiB Peak: 136MiB   Private Usage: 25MiB
+010771.029|   OKAY| Paged Pool Usage: 0MiB Peak: 0MiB   Non-Paged Pool Usage: 0MiB Peak: 2MiB
+010771.029|   OKAY| Committed Total: 317MiB   Committed Image: 245MiB   Committed Mapped: 52MiB   Committed Private: 18MiB   Reserved Total: 4288MiB   Reserved Image: 0MiB   Reserved Mapped: 22MiB   Reserved Private: 4266MiB   Free Total: 134213122MiB   Limit: 134217727MiB   Largest Free: 126365323MiB   Region Count: 2056
+010771.029|   OKAY| Page Fault Count: 341K
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    xíX]oÇÚ©râ¦I“4½u]Ğv¼$%Ñ²´.0´ì‘lU²l0`w‡ä$Ë™ÅÌ2ÿ© )ä!? /EûƒŠÙ%Å%-9¬+¿I(röÎ¹÷¹_ÃV¢[´¶^[cÂX©UHåZùâb-û©,/ßzAD¿l|õ‚v¥v÷xOØF*é™NFZµe'¤f—«°Ô6ºGV÷M$¨|W÷UÌ@Ë!]\$âiJÜcû…®¶nz¥sxb+RYÇU$-	kgÍ^Y>Öì;Üñ=§i_ñV"ÈiJ4)5rÀ +œ“ªod©ËÍ°ºoÁNuOp“Viê1ª[:âIÕ“B+Õ-Á;}AºM[¢#Tl«™œ—h&R(·“+ØáW†¼—\iÓmH§BAëHi¾éXĞ
+µñ8å®Kå7j
+Ni3!+­=NJSÚĞ/NÙnH$ÄMÔ•MÂ¦"’mñXW&á²²r,ï?.÷ı‘'É˜QÌ«Ş‡ïS3>ª©E¢ƒ(cú¨-	
+ğv[*é†ÓxN$¢'œ™YGcâZLo?3¢ƒ~^¤¸ı0NWåa^¶uaH¦¯²ğ('Y”=ÓígIee:àgïÎ—4Ès˜VV*•åJıV½V¯­Î'Ó÷¤±ûà¥tŞ)ÈÀ¸"ñ<Md$í$ıT„£Ñ	‚ÃçG…u¥%üB’ÇŸª1µw}#°S	¦Æ>»²d† ½+Çû¾…tô¹0¶!æê¡#Í¬	ÉDiĞããÎëĞ¬ŸG–­ù±GAŒëÁ‰Ãë¸9À[_xO}œ7'›NgÑ	£Ïfğ›€O4¢ùM £1ZìNÔd$NX	ˆt¾L)gĞõc+Èü‘>*šy±H©¾ºä\Šòœz\ñ0YÕÊÚÙ¡ï%yï’6¤;áÓI¿|úR¿|úZÚòú”wë)}‹zê—-TÕã§ƒÜb¸ßÖ!=Üó®üDªXXZ®Ñº'nĞóµzaDš­¹³ïáj´ıÅ·yÉ^§sˆ½MËk«ëuÚşÜÏ=ÑÓf8aâğ‡]¦ªf6Ší§˜¸à6úU"â
+=‘	Z:†_‡ˆÚ¨êhôF´uÑëDîhaMPF…øZ=¾JÔ7O†Á6w˜WzpÍ†hè˜_ºÎ¥6¬Va¯ø<ïøI²é^ÁÕ¹tzA¹Ë¹
+?xf}&ów4Àˆ~sL¥†à‰ÇyÅ¸«à%Ñ³oø¤ˆº‰Tş±ˆòÃî=5€×ÁIcëIã«½´ÓåVĞç8Ô4h·¾Kn£à'<÷<2<‚P6Hx1Âe!GKç.L„ò ³ü&7É«÷19…ÔÆ€^(nEm³û£Œ’C¼Ç<‘q.’3ı”ñEã¦İ{z˜ú»ƒE$õPZbÊÈJ¹õi-U…ö­÷>mŞO`V®"è)–ÖOõñµ‚‡g,ıeÄÃ =`æÑ{¦yÏÈ |¢ÏÑè¯}QLÙú+ô…÷„ËwİWNäM˜	Œ¨T
+Eê&@Æ„ø¢Y¸yÍÄİ]1KğXà†!@ï(\­dD6Â½bâÕü ›ÏSi<1i¿…Š1JgŒ|*‹i›rÅ+”Á×Î†‰“„ÎÇ“ÃÚ“]>³òór
+V²¬›õ‡bôÀ¼Ù^©ßlİäÁ­uŞ
+0HÇÁÆF}5Ø¨­µ¢õåÚê­Õ	¯kÇw”™ÃúŸy}è9y†şÇ~ü‰1VgZ`çØïÙ[ìÃEö>ûèûøû}‰w˜ù¯ÔJ¬¼¥„«ò4ÅØO:RÛêYFëô3?ÿ ™ncË_üeë³»~uÎ=×—Ø¹&î½%öîªãƒ~¯%Ì#ŸÒ%ö^vç~ÌôŸG‹ç¼Y%¶t_)aš‰¯øxm>}Wê°r©§1+ ££oD\bŸ\İúšx•¸ªğ}²ºíŸgò¶·ï¬¸ûèR%¶¸—}r©YbÁNÅë€“›*J´¯dh½]_`Ÿ,±?0ZbçÙ…%ö¶÷Gv¤ÏÅù•:;ÊúFÌSÔ›ûó\8%ö?¹¦î¥ZùQ^_õ¾/òÈïreµ†@Øœ÷T_AÕµÇŒoo!ôJ—.y¯ñîşŞfúğî3|ö+‹×?ı+]ÿ;;ó]&ó¼‡cÿdKxım.Å.²wñ	òZ	—Ø/GXÖÂõïYéÓØÙ	Ôb¶ı_PüïÜÂ!Ü{ı
+0gÙ¯~†ı
+LŸ}ÀŞÉÔ!tñÿôç”SN8eà”SşOşK’¡                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          xí\YsÛ8çü
+k7’åÛUr¦YÎ8åkm'û°µ5EQ°Ì„"T$èc~ıtã @”%[¼6óS$Øl4¾¾pô0¦Co}gocç·î÷“Ø»%iÑdßï´Ö|$!EÉxßÿvuøq×÷şøôáC÷¦³á–ïM‚ûïúÍ=ßcS²ïÓtÜJ’ ÉZ:Êc’µ®áuş_”\ÓÖ×ƒ(ˆéiÁoÿÓÏë§tJR‘ê^L€îˆ\yÌú1ÍÈ´ğ¬>%Ì÷nƒ8‡†ë~ÛMa%Ñ$Ÿ\FõŞà6hw¬uMH‚R Œ"FS«#ØÎ»xšé¼9ïg» ¤øùïÎÖÚ¿¼í­µÿŒµegj¥£ V,)áãE÷Xš“‚¢#eââˆ=\ÁH¨÷.¢Ğ?)µqv¶4jªÃƒ$ŸØ}ı÷¢Ñ¾pÖÿv28½úëäì w\ğ÷HGódDB
+CIFŠİEº›’,ú;ÆE_í—¯ƒ8“Âê*V$Àº—	»!,
++À³Ÿ("ˆ<ç4ÂÅ°	½NÑñ:c’ tIŸ$Œ¤ŠÆL¾mRª½üË_é‹ú-±€ÚuIUÎş
+rF/HFó4„ßê³qŒ[GÀÍù‘:´Vtä1ªğ‰>Li:E­ÒşlØĞòYô•°ÿ}ú8Ù’^ÌCõ$!šDaÖ§£¥²uv“4m©tãàæ í¹
+Ò1‹',nı0j<ÎHeaùE`Œà%{ĞJUO~>”Üi„JšÓP›5Mõéø((ƒ¤£ëHë“&n[:‡n[	´½Ï1—­4Ç…	w½Q4Ù÷×´‰ÿ’Ò|*…ßYÛğ½1ŞèÅÑ8/Â°­0–FÃœ‘Ì|•{ˆB_¸åüq$$îÀ¥÷§)¹Ş÷÷:ëÜÑîûë;Û;6Yéè€ÿ6çIòß¶:0«[Utkkk{Iİê¶õÈu/óa![eû4aAèöÂ8È`0÷­ìì`ë+—½/-¦	!.!‰+,áOş¤ğ`|SôiLÁ¤:]l%à-ÿ*ÑT¼!m®¯k„@¬†—)Ï‹Â¤ã¡2ÛüMåñd”(±}ÜÜd¥´øküÆŸA2ŠAhŸîûšgä ÆcôÔÊ`aòø‰·k`³Š‘Ù±4*¾7Rğàí¤ğíöü{¾w#¾4…BpZê“ĞÃ.şÎ!Èço9œ©œuÛ¼#ÂpAJë!qW‡à?¶ŞŠ¹‚ĞÂšqÒf4û!¨Zªa©ÂùiÇ²Ä‚Q˜Ş ZHwhŸtíNí9†âTŸÿà¿´9áïWñ†·«}¸-U0.ôçßœO}°­C{ø·ğ™dR$¾q#d
+Èn2tupijKéJ¡=x·Ê9#÷eÎy<u	Æã,N_¡º cĞ‹”z#âõoè5È–¿ìÒQş]0dğ&˜2SY­'€P_Xºg"N1ÿ<2¿+üÀÃ4šòNA{‚ÿºöŞ=du[àTà/ü¹‹Fì\â&\ßh|
+®U””Úú“æWºÆ}ÓîÁm	vİº»°ûX74U£¥äBx7­Ìí¥İÿ&÷1Ò•lƒ–®/¹+Á§+áoÏ©CšÊ‘˜ò¶âIë³làTlWê¹._©ÓoAĞÃôÜÊÚKÔ”™•lCP Ş,æ nÔÿ]İÂc7Qø3÷bL/¨v0ÊmAHãfAZI^2‚à¼¼ÀĞ7–Jzhmf2´Ta¨ö´¡Úİ1UçÉ–ŠO‹	ÔÉ|Eyåç™è’ÅÒ6ëñ…€9Æà÷jâ	Ñc²©å4êâó¡ê×KÆü{FÜqÓ‹™wJî¼:ÁÉ<€ .êN¢Ææºº3W rt`{I´^õRCÿç:8úéˆ<xj¢¡ÓFğ—*öøX‰Åàiñ”=Ê\?3bõZ%‘Ò¥ WˆF$†üLäìE#K·µvW"ş	+*ù¿V‘™¸V¹öÚü'Òa+»BUÏIŠ3À3Ìo9W†)šÚÉ/4ñHÏ
+l>nşueÜoWÔÕL@™+-«ä/PWGî¼ñ•U&åçògı£ÓêXÎTüZ»‹VÀĞŸ7îĞ:è¿Êé4&Ø¯Ş£¥yøµ¤A¶öÕuEL¶ÊÈ^Ç”LAûµZÿİwŒë'Zÿƒ£‹A¿tÖø€ÚéTîÕf'5» rF•{…W¥(®¬f¥$q¯N%N«Ïd«{»ÉMãˆ‰8úÁ ßÀëWpG°÷q]UÓ¹ò€Ó³“Ïƒ&¨[U›å6×„š“[¼¥Ôî¯>]vù„N†)yÇÊÒ¤§›hñËéÀ†™é¾Öt R–÷İ<Ñ\‡g§gU{ÕhÊãš²%9Œp©ä^…¦¸ü #1`^œ#ĞıÔ zçkM: øşÕ Û®Yç‚b£ª6û‹ï>*/!TÎÔ(åPÔ\{³ûÈq\IìOÊšİGs‡ªÛ¿Œë=ÌKÚxVçÑ%{a]ÛÁ7°¸S;ı-Ã]œû³z¥íG0;nesæ^m{`ÔÊ{ª»ÌÆĞÜ:t`Ÿš(l?©ğäÓ5dà˜DùüDıùEÿv“){¸œ!ñàxà¾ÿ‰£8ÑGÅ­25K€š €OmÑÀCqINn)P)Şƒ#6ù|Sã<HGœK°ÙÚ\)[hm]\Áx¬PX$@L.¾àÀÎ³ø*c¢³´…A’ØÁkgmµBÌ@3«x{6WRM1ªã#1û„”VR´lÆi)ıÀy»ë>L¥Şr[½ò)lÛ}µVoQk2OGj4£ì0”Å_·éc¼©LÓüC¬ˆ[dãWvâ§†¸2a/B»0D/A]jèKÖVéÙÔú©ÆÂòåˆêùÑRCÙy{¦A°V!w®c‰Šk®ã‰ŸsÆ°$ØĞ)Â	[‰T.÷ö'9@”ÖşÔùÖ†¾¾/:%èŞ^‰ÃóÖöP~8²5~ÎÜÊ4Îµ5”·´w†òÑçOÔ§*a¨{[(ÆñOÙP\Ÿ²œüR¦¦Mæ‚ß—o½‹ƒŞ…u–fí»… ”X¥m¸ GWo€büWˆ?ƒ5\ÇG'G§oƒ«CaP7(\…ıŞipüP¨0°:ŠŒ±à‚¼ì½PşÁ·ÔeÑË0¥qŒEdTâüCß*ÏÌÕÇì¥"UJfŞX>MÓPEt•)»„U¹Ú
+Ÿ0N©ìr ½&e³ Ÿ¼ıÕªcïaiµªôVšk.K™öÇ¼²¬.W-~X>Ë§Sš²ÖW=ö—â–,¶Sbíó<W¢ˆ¡<·›­_P	TeÙPÄ«éZwªC©µ¸ì  ¶Á¡Rº³TD´€E}ıÚ \ÀS+'¨'oå…Pˆi’ô¡ÈšÊ§)½“?6+#%^½ÆW8CÈå¾ÏM‚Ç"†?à¾Ñ(üµÈÎ†?HÈl´+n!ˆç —KQî¨^.Q}`g¹t‹‘í¶ùğšFDš™±j?áS{
+R`Câo&F$ˆTãåGñj´õ2ØÇÏ¤óïÚ¥º¸#â€…•ÿˆêJPÔ —ˆ_¸cü,ª¯JpWå(¥y… /™Jı]ø²èOıóUbS’Ö´@»¬»?¯ô¦é”x’Õr›ñ2ñ§®ÖhĞı’Ô08UÅ4÷Æ”¡¯ü“5ÄøãÖWnµU+áĞgÕı-Àå›/>jD}P^­Šùõâ˜ŞaÁMáÉ¹6Un;lT}ÿ‹'¥»JYNÓ•­@øW™ó©U/”b%8(ÔRŠÍ”ß®ÈZ=PáæK…2úE)Ê'”„* c©’İ…¹Ö¥°ê
+©Ùâ–˜œpt.†şÂZ9r˜gVËq-‰6I7?ÅOFÉ-¢X¬N÷{r}ºÂDUœ<<c×{Ş+mºíC@è§¿5ÿ	4h$ĞH ‘@#F	ü	üxô3õ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              lol-audio:
+    data:
+        masterVolume: 5
+    schemaVersion: 5
+lol-clash:
+    data:
+        simpleStateFlagIds:
+        - "registration_open_tournament_97301"
+        - "lock_in_open_tournament_97262_phase_92042"
+        - "lock_in_open_tournament_97321_phase_92101"
+        - "registration_open_tournament_97281"
+    schemaVersion: 1
+lol-home:
+    data:
+        useTFTOverride: false
+    schemaVersion: 0
+lol-parties:
+    data:
+        permanentHideAutofillModal: true
+    schemaVersion: 1
+lol-premade-voice:
+    data:
+        currentCaptureDeviceHandle: "Default System Device"
+        inputVolume: 50
+        vadSensitivity: 65
+    schemaVersion: 1
+lol-replays:
+    data:
+        dontShowEogUsageTip: true
+    schemaVersion: 1
+lol-user-experience:
+    data:
+        hasBeenPromptedForPotatoMode: true
+        lastKnownMachineSpec: 5
+    schemaVersion: 3
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

@@ -1,0 +1,8 @@
+":358265,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
+{"t":"rb1","ts":11050991345,"ri":11001,"sc":1,"rc":204,"hc":0,"bl":0},
+{"t":"dw1","ts":11051391413,"sdi":0,"ddi":25},
+{"t":"br1","ts":11051391333,"ri":11002,"ji":358278,"co":0,"me":2,"ur":"/data-store/v1/system-settings/riotclient/patchline","hc":0,"bl":0},
+{"t":"br1","ts":11051391465,"ri":11003,"ji":358279,"co":0,"me":2,"ur":"/riot-status/v1/products/league_of_legends/patchlines/live/deployments/la2","hc":0,"bl":0},
+{"t":"rb1","ts":11051391408,"ri":11002,"sc":1,"rc":200,"hc":0,"bl":1},
+{"t":"xr1","ts":11051391459,"ri":571230650461,"mi":133,"me":2,"ur":"/riot-status/v1/products/league_of_legends/patchlines/live/deployments/la2"},
+{"t":"rb1","ts":11051575431,"

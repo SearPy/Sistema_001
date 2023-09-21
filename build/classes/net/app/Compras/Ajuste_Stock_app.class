@@ -1,0 +1,876 @@
+
+                            "name": "MiddleMouseScrollSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "MinimapMoveSelf",
+                            "value": "0"
+                        },
+                        {
+                            "name": "MinimapScale",
+                            "value": "2.3100"
+                        },
+                        {
+                            "name": "MirroredScoreboard",
+                            "value": "0"
+                        },
+                        {
+                            "name": "NameTagDisplay",
+                            "value": "1"
+                        },
+                        {
+                            "name": "NumericCooldownFormat",
+                            "value": "2"
+                        },
+                        {
+                            "name": "ObjectTooltips",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ObjectiveVoteScale",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "PracticeToolScale",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "ReplayMiddleMouseScrollSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "ReplayScrollSmoothingEnabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ScrollSmoothingEnabled",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShopScale",
+                            "value": "0.4444"
+                        },
+                        {
+                            "name": "ShowAllChannelChat",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowAllChannelChatSpectator",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowAlliedChat",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowAttackRadius",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowChampionIndicator",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowFPSAndLatency",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowHealthBarShake",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowNeutralCamps",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowOffScreenPointsOfInterest",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowPlayerPerks",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowPlayerStats",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowSpellCosts",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowSpellRecommendation",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowSpellRecommendations",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowStatsPanel_StatStones",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowSummonerNames",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowSummonerNamesInScoreboard",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowTeamFramesOnLeft",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ShowTimestamps",
+                            "value": "1"
+                        },
+                        {
+                            "name": "SmartCastOnKeyRelease",
+                            "value": "0"
+                        },
+                        {
+                            "name": "SmartCastWithIndicator_CastWhenNewSpellSelected",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "ItemShop",
+                    "settings": [
+                        {
+                            "name": "BootsPanelPinned",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ConsumablesPanelPinned",
+                            "value": "1"
+                        },
+                        {
+                            "name": "CurrentTab",
+                            "value": "1"
+                        },
+                        {
+                            "name": "InventoryPanelPinned",
+                            "value": "0"
+                        },
+                        {
+                            "name": "InvertDisplayOrder",
+                            "value": "0"
+                        },
+                        {
+                            "name": "NativeOffsetX",
+                            "value": "0.1375"
+                        },
+                        {
+                            "name": "NativeOffsetY",
+                            "value": "-0.1204"
+                        }
+                    ]
+                },
+                {
+                    "name": "LossOfControl",
+                    "settings": [
+                        {
+                            "name": "LossOfControlEnabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowSlows",
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Performance",
+                    "settings": [
+                        {
+                            "name": "EnableHUDAnimations",
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "TFTChat",
+                    "settings": [
+                        {
+                            "name": "ChatX",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ChatY",
+                            "value": "276"
+                        },
+                        {
+                            "name": "NativeOffsetX",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "NativeOffsetY",
+                            "value": "0.0000"
+                        }
+                    ]
+                },
+                {
+                    "name": "TFTHUD",
+                    "settings": [
+                        {
+                            "name": "EnableChat",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Voice",
+                    "settings": [
+                        {
+                            "name": "ShowVoiceChatHalos",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowVoicePanelWithScoreboard",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Volume",
+                    "settings": [
+                        {
+                            "name": "AmbienceMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "AmbienceVolume",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "AnnouncerMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "AnnouncerVolume",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "MasterMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "MasterVolume",
+                            "value": "0.1200"
+                        },
+                        {
+                            "name": "MusicMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "MusicVolume",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "PingsMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "PingsVolume",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "SfxMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "SfxVolume",
+                            "value": "1.0000"
+                        },
+                        {
+                            "name": "VoiceMute",
+                            "value": "0"
+                        },
+                        {
+                            "name": "VoiceVolume",
+                            "value": "1.0000"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Input.ini",
+            "sections": [
+                {
+                    "name": "GameEvents",
+                    "settings": [
+                        {
+                            "name": "evntPlayerPing",
+                            "value": "[Alt][Button 1]"
+                        },
+                        {
+                            "name": "evntPlayerPingCursor",
+                            "value": "[g]"
+                        },
+                        {
+                            "name": "evntPlayerPingCursorDanger",
+                            "value": "[v]"
+                        },
+                        {
+                            "name": "evntPlayerPingDanger",
+                            "value": "[Ctrl][Button 1]"
+                        },
+                        {
+                            "name": "evtCameraLockToggle",
+                            "value": "[y]"
+                        },
+                        {
+                            "name": "evtCameraSnap",
+                            "value": "[Space]"
+                        },
+                        {
+                            "name": "evtCastAvatarSpell1",
+                            "value": "[d]"
+                        },
+                        {
+                            "name": "evtCastAvatarSpell2",
+                            "value": "[f]"
+                        },
+                        {
+                            "name": "evtCastSpell1",
+                            "value": "[q]"
+                        },
+                        {
+                            "name": "evtCastSpell2",
+                            "value": "[w]"
+                        },
+                        {
+                            "name": "evtCastSpell3",
+                            "value": "[e]"
+                        },
+                        {
+                            "name": "evtCastSpell4",
+                            "value": "[r]"
+                        },
+                        {
+                            "name": "evtChampMasteryDisplay",
+                            "value": "[Alt][t],"
+                        },
+                        {
+                            "name": "evtChampionOnly",
+                            "value": "[s]"
+                        },
+                        {
+                            "name": "evtChatHistory",
+                            "value": "[z]"
+                        },
+                        {
+                            "name": "evtDragScrollLock",
+                            "value": "[m]"
+                        },
+                        {
+                            "name": "evtDrawHud",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtEmoteDance",
+                            "value": "[Ctrl][3]"
+                        },
+                        {
+                            "name": "evtEmoteJoke",
+                            "value": "[Ctrl][1]"
+                        },
+                        {
+                            "name": "evtEmoteLaugh",
+                            "value": "[Ctrl][4]"
+                        },
+                        {
+                            "name": "evtEmoteTaunt",
+                            "value": "[Ctrl][2]"
+                        },
+                        {
+                            "name": "evtEmoteToggle",
+                            "value": "[Ctrl][5]"
+                        },
+                        {
+                            "name": "evtLevelSpell1",
+                            "value": "[Alt][q]"
+                        },
+                        {
+                            "name": "evtLevelSpell2",
+                            "value": "[Alt][w]"
+                        },
+                        {
+                            "name": "evtLevelSpell3",
+                            "value": "[Alt][e]"
+                        },
+                        {
+                            "name": "evtLevelSpell4",
+                            "value": "[Alt][r]"
+                        },
+                        {
+                            "name": "evtNormalCastAvatarSpell1",
+                            "value": ""
+                        },
+                        {
+                            "name": "evtNormalCastAvatarSpell2",
+                            "value": ""
+                        },
+                        {
+                            "name": "evtNormalCastItem1",
+                            "value": ""
+                        },
+                        {
+                            "name": "evtNormalCastItem2",
+                            "value": ""
+                        },
+                        {
+                            "name": "evtNormalCastItem3",
+                            "value": ""
+                        },
+                        {
+                            "name": "evtNormalCastItem4",
+                            "value": ""
+                        
+
+[General]
+EnableGlobalSpellCastNotifications=0
+ThemeMusic=0
+SnapCameraOnRespawn=0
+ShowTurretRangeIndicators=1
+ShowCursorLocator=0
+RelativeTeamColors=1
+RecommendJunglePaths=1
+PreferOpenGLLegacyMode=0
+PreferDX9LegacyMode=0
+PredictMovement=0
+OSXMouseAcceleration=1
+GameMouseSpeed=10
+EnableTargetedAttackMove=1
+EnableAudio=1
+CursorScale=0.7800
+CursorOverride=0
+AutoAcquireTarget=1
+CfgVersion=13.18.530.4653
+SystemMouseSpeed=10
+WindowMode=0
+Height=1080
+Width=1920
+WaitForVerticalSync=0
+ShowGodray=1
+MinimizeCameraMotion=0
+BindSysKeys=0
+HideEyeCandy=0
+EnableLightFx=0
+EnableCustomAnnouncer=1
+ClampCastTargetLocationWithinMaxRange=0
+AlwaysShowExtendedTooltip=0
+
+[MapSkinOptions]
+MapSkinOptionDisableWorlds=0
+MapSkinOptionDisableURF=0
+MapSkinOptionDisableStarGuardian=0
+MapSkinOptionDisableSnowdown=0
+MapSkinOptionDisableProject=0
+MapSkinOptionDisablePopstar=0
+MapSkinOptionDisablePoolParty=0
+MapSkinOptionDisableOdyssey=0
+MapSkinOptionDisableMSI=0
+MapSkinOptionDisableLunarRevel=0
+MapSkinOptionDisableArcade=0
+
+[Performance]
+EnableHUDAnimations=0
+ShadowQuality=2
+FrameCapType=2
+EnvironmentQuality=2
+EffectsQuality=2
+CharacterQuality=2
+EnableGrassSwaying=1
+EnableFXAA=1
+
+[Ftux]
+SenOffscreenPing=1
+
+[Replay]
+EnableDirectedCamera=1
+
+[Mobile]
+LastTickerTime=
+AppRegion=
+SelectedQueue=1090
+iOSMetalUserId=-1
+iOSMetalPercentEnabled=0
+Camera Height=0
+OfferedTutorial=0
+
+[Highlights]
+VideoQuality=0
+VideoFrameRate=60
+ScaleVideo=720
+AudioQuality=1
+
+[Voice]
+ShowVoicePanelWithScoreboard=1
+ShowVoiceChatHalos=1
+InputDevice=Default System Device
+InputVolume=0.5000
+ActivationSensitivity=0.6500
+InputMode=0
+
+[ItemShop]
+CurrentTab=0
+NativeOffsetY=-0.1204
+NativeOffsetX=0.1375
+
+[Volume]
+VoiceVolume=1.0000
+VoiceMute=0
+SfxVolume=1.0000
+SfxMute=0
+PingsVolume=1.0000
+PingsMute=0
+MusicVolume=1.0000
+MusicMute=0
+MasterMute=0
+AnnouncerVolume=1.0000
+AnnouncerMute=0
+AmbienceVolume=1.0000
+AmbienceMute=0
+MasterVolume=0.1200
+
+[HUD]
+ShowPlayerStats=1
+ShowPlayerPerks=0
+SmartCastWithIndicator_CastWhenNewSpellSelected=1
+SmartCastOnKeyRelease=0
+ShowTimestamps=1
+ShowTeamFramesOnLeft=0
+ShowSummonerNamesInScoreboard=1
+ShowSummonerNames=1
+ShowSpellRecommendations=1
+ShowSpellCosts=1
+ShowOffScreenPointsOfInterest=1
+ShowNeutralCamps=1
+ShowAttackRadius=1
+ShowAlliedChat=1
+ShowAllChannelChat=0
+ScrollSmoothingEnabled=0
+ObjectiveVoteScale=1.0000
+NumericCooldownFormat=2
+MirroredScoreboard=0
+MinimapScale=2.3100
+MinimapMoveSelf=0
+MiddleClickDragScrollEnabled=0
+MapScrollSpeed=0.5000
+KeyboardScrollSpeed=0.0000
+GlobalScale=0.7900
+FlipMiniMap=0
+FlashScreenWhenStunned=1
+FlashScreenWhenDamaged=1
+EternalsMilestoneDisplayMode=0
+EnableLineMissileVis=1
+EmoteSize=0
+EmotePopupUIDisplayMode=0
+DrawHealthBars=1
+DisableHudSpellClick=0
+ChatScale=77
+ChatChannelVisibility=1
+CameraLockMode=0
+AutoDisplayTarget=1
+ShowFPSAndLatency=1
+
+[FloatingText]
+Special_Enabled=1
+Score_Enabled=1
+QuestReceived_Enabled=1
+ManaDamage_Enabled=1
+Level_Enabled=1
+Invulnerable_Enabled=1
+Heal_Enabled=1
+Gold_Enabled=1
+Experience_Enabled=1
+EnemyDamage_Enabled=1
+Dodge_Enabled=1
+Damage_Enabled=1
+
+[LossOfControl]
+ShowSlows=0
+LossOfControlEnabled=1
+
+[Chat]
+NativeOffsetY=0.4935
+NativeOffsetX=0.0104                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+
+[General]
+EnableGlobalSpellCastNotifications=0
+ThemeMusic=0
+SnapCameraOnRespawn=0
+ShowTurretRangeIndicators=1
+ShowCursorLocator=0
+RelativeTeamColors=1
+RecommendJunglePaths=1
+PreferOpenGLLegacyMode=0
+PreferDX9LegacyMode=0
+PredictMovement=0
+OSXMouseAcceleration=1
+GameMouseSpeed=10
+EnableTargetedAttackMove=1
+EnableAudio=1
+CursorScale=0.7800
+CursorOverride=0
+AutoAcquireTarget=1
+CfgVersion=13.18.530.4653
+SystemMouseSpeed=10
+WindowMode=0
+Height=1080
+Width=1920
+WaitForVerticalSync=0
+ShowGodray=1
+MinimizeCameraMotion=0
+BindSysKeys=0
+HideEyeCandy=0
+EnableLightFx=0
+EnableCustomAnnouncer=1
+ClampCastTargetLocationWithinMaxRange=0
+AlwaysShowExtendedTooltip=0
+
+[MapSkinOptions]
+MapSkinOptionDisableWorlds=0
+MapSkinOptionDisableURF=0
+MapSkinOptionDisableStarGuardian=0
+MapSkinOptionDisableSnowdown=0
+MapSkinOptionDisableProject=0
+MapSkinOptionDisablePopstar=0
+MapSkinOptionDisablePoolParty=0
+MapSkinOptionDisableOdyssey=0
+MapSkinOptionDisableMSI=0
+MapSkinOptionDisableLunarRevel=0
+MapSkinOptionDisableArcade=0
+
+[Performance]
+EnableHUDAnimations=0
+ShadowQuality=2
+FrameCapType=2
+EnvironmentQuality=2
+EffectsQuality=2
+CharacterQuality=2
+EnableGrassSwaying=1
+EnableFXAA=1
+
+[Ftux]
+SenOffscreenPing=1
+
+[Replay]
+EnableDirectedCamera=1
+
+[Mobile]
+LastTickerTime=
+AppRegion=
+SelectedQueue=1090
+iOSMetalUserId=-1
+iOSMetalPercentEnabled=0
+Camera Height=0
+OfferedTutorial=0
+
+[Highlights]
+VideoQuality=0
+VideoFrameRate=60
+ScaleVideo=720
+AudioQuality=1
+
+[Voice]
+ShowVoicePanelWithScoreboard=1
+ShowVoiceChatHalos=1
+InputDevice=Default System Device
+InputVolume=0.5000
+ActivationSensitivity=0.6500
+InputMode=0
+
+[ItemShop]
+CurrentTab=1
+NativeOffsetY=-0.1204
+NativeOffsetX=0.1375
+
+[Volume]
+VoiceVolume=1.0000
+VoiceMute=0
+SfxVolume=1.0000
+SfxMute=0
+PingsVolume=1.0000
+PingsMute=0
+MusicVolume=1.0000
+MusicMute=0
+MasterMute=0
+AnnouncerVolume=1.0000
+AnnouncerMute=0
+AmbienceVolume=1.0000
+AmbienceMute=0
+MasterVolume=0.1200
+
+[HUD]
+ShowPlayerStats=1
+ShowPlayerPerks=0
+SmartCastWithIndicator_CastWhenNewSpellSelected=1
+SmartCastOnKeyRelease=0
+ShowTimestamps=1
+ShowTeamFramesOnLeft=0
+ShowSummonerNamesInScoreboard=1
+ShowSummonerNames=1
+ShowSpellRecommendations=1
+ShowSpellCosts=1
+ShowOffScreenPointsOfInterest=1
+ShowNeutralCamps=1
+ShowAttackRadius=1
+ShowAlliedChat=1
+ShowAllChannelChat=0
+ScrollSmoothingEnabled=0
+ObjectiveVoteScale=1.0000
+NumericCooldownFormat=2
+MirroredScoreboard=0
+MinimapScale=2.3100
+MinimapMoveSelf=0
+MiddleClickDragScrollEnabled=0
+MapScrollSpeed=0.5000
+KeyboardScrollSpeed=0.0000
+GlobalScale=0.7900
+FlipMiniMap=0
+FlashScreenWhenStunned=1
+FlashScreenWhenDamaged=1
+EternalsMilestoneDisplayMode=0
+EnableLineMissileVis=1
+EmoteSize=0
+EmotePopupUIDisplayMode=0
+DrawHealthBars=1
+DisableHudSpellClick=0
+ChatScale=77
+ChatChannelVisibility=1
+CameraLockMode=0
+AutoDisplayTarget=1
+ShowFPSAndLatency=1
+
+[FloatingText]
+Special_Enabled=1
+Score_Enabled=1
+QuestReceived_Enabled=1
+ManaDamage_Enabled=1
+Level_Enabled=1
+Invulnerable_Enabled=1
+Heal_Enabled=1
+Gold_Enabled=1
+Experience_Enabled=1
+EnemyDamage_Enabled=1
+Dodge_Enabled=1
+Damage_Enabled=1
+
+[LossOfControl]
+ShowSlows=0
+LossOfControlEnabled=1
+
+[Chat]
+NativeOffsetY=0.4935
+NativeOffsetX=0.0104                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      install:
+    crash_reporting:
+        enabled: true
+        type: "crashpad"
+    game-settings:
+        accountId: 2117075075967552
+        modified: false
+        timestamp: 0
+    gameflow-patcher-lock: 1695263407193
+    gameflow-process-info:
+        pid: 8972
+        rawArgs:
+        - "138.0.12.101 5195 sGBYZnXEIktUiqVOD1TVaQ== 18371309"
+        - "-Product=LoL"
+        - "-PlayerID=18371309"
+        - "-GameID=1340202429"
+        - "-PlayerNameMode=DARKMODE"
+        standalone: false
+    gameflow-spectate-reconnect-info: null
+    globals:
+        locale: "es_MX"
+        region: "LA2"
+    lcu-settings:
+        accountId: 2117075075967552
+        modified: false
+        timestamp: 0
+    patcher:
+        client_migrated: true
+        client_patcher_available: true
+        game_migrated: true
+        game_patcher_available: true
+        locales:
+        - "es_MX"
+        toggles:
+            new_client_patcher: 0
+            new_game_patcher: 0
+    perks-settings:
+        accountId: 2117075075967552
+        modified: false
+        timestamp: 0
+    riotclient-upgrade:
+        seq-success-count: 3
+        success-count: 3
+    rso-auth:
+        install-identifier: "3b5d263e1f37914bb0d7787da729ce1d"
+    tft-team-plans-settings:
+        accountId: 2117075075967552
+        modified: false
+        timestamp: 0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 000000.000| ALWAYS| Logging started at 2023-09-20T20:56:59.356
+000000.004| ALWAYS|   CFG| CrashHandler(Sentry)
+000000.082| ALWAYS|   CFG| Command Line:  "138.0.12.13 5171 Xi/VEmXv+PjfhAXIWhnTCA== 18371309" "-Product=TFT" "-PlayerID=18371309" "-GameID=1340163967" "-PlayerNameMode=DARKMODE" "-GameBaseDir=D:\Riot Games\League of Legends" "-Region=LA2" "-PlatformID=LA2" "-Locale=es_MX" "-SkipBuild" "-EnableCrashpad=true" "-EnableLNP" "-UseDX11=1:1" "-UseMetal=0:1" "-UseNewX3D" "-UseNewX3DFramebuffers" "-RiotClientPort=50542" "-RiotClientAuthToken=HD4SvHPzx89h2Gy9t8hy9A" 
+000000.160| ALWAYS| Live Profiling enabled. Will overwrite old RPD.
+000000.162| ALWAYS|   CFG| Build Version: Version 13.18.530.4653 (Sep 07 2023/19:26:39) [PUBLIC] <Releases/13.18> ChangeList: 5304653
+000000.182| ALWAYS| LCURemotingClient: Initializing on port 50542
+000000.200| ALWAYS| LCURemotingClient: Connected to app process.
+000000.204| ALWAYS|  FLOW| Initializing Renderer
+000000.204| ALWAYS| r3dRenderLayer::Init enter
+000000.204| ALWAYS| r3dRenderLayer::Init() exit successfully
+000000.850| ALWAYS| rr3dRenderLayer::InitDevice(XRes = 1920, YRes = 1080, BPP = 32) enter
+000000.850| ALWAYS| rr3dRenderLayer::InitDevice: Creating X3D device
+000000.854| ALWAYS| DXGI version: 1.6
+000000.854| ALWAYS| Detected Adapter 'NVIDIA GeForce GTX 860M'
+000000.856| ALWAYS| DXGI: Tearing support enabled.
+000001.125| ALWAYS| DX11 feature level: 11.0
+000001.322| ALWAYS| Using X3D Platform: DX11
+000001.337| ALWAYS| X3D: Focus Gained
+000001.345| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+000001.345| ALWAYS| r3dRenderLayer::InitResources exit successfully
+000001.477| ALWAYS| AudioManager: Wwise Version v2019.1.10 initialized.
+000001.511| ALWAYS|  FLOW| Push: Bootstrap complete
+000001.513| ALWAYS|  FLOW| Push: TFTPatching  Current: Bootstrap
+000001.515| ALWAYS|  FLOW| Push: TFTPatching complete
+000001.518| ALWAYS|  FLOW| Pop: TFTPatching
+000001.522| ALWAYS|  FLOW| Pop: TFTPatching complete  Current: Bootstrap
+000001.523| ALWAYS|  FLOW| Push: TFTCommon  Current: Bootstrap
+000001.666| ALWAYS|  FLOW| Push: TFTCommon complete
+000001.668| ALWAYS|  FLOW| Push: GameSession  Current: TFTCommon
+000001.669| ALWAYS| GameStartData::GameID=1340163967
+000001.673| ALWAYS| Client Clock Synchronization Started
+000001.674| ALWAYS| LCURemotingClient: Initializing on port 50542
+000001.675| ALWAYS|  CONN| Connecting to address (138.0.12.13) port (5171)
+000001.676| ALWAYS|  CONN| Waiting for response from game server...
+000001.676| ALWAYS|  FLOW| Push: GameSession complete
+000001.680| ALWAYS| LCURemotingClient: Connected to app process.
+000001.839| ALWAYS|  CONN| Hard Connect at LocalSimTime(0.000)
+000001.884| ALWAYS| LCUChatClientAsync: Chat session is "loaded".
+000001.891| ALWAYS|   CLK| Replica[0] Scale negative delay correction: 0.013804
+000001.891| ALWAYS|   CLK| Replica[0]: Scale(1.00) LocalTime(0.000) SegmentStartTime(0.000) LocalOffset(3.693) Snap
+000001.892| ALWAYS|   CLK| Replica[0] Pause negative delay correction: 0.014685
+000001.892| ALWAYS|   CLK| Replica[0]: Command(Pause) LocalTime(0.000) SegmentStartTime(0.000) LocalOffset(3.692) Snap
+000001.892| ALWAYS|   CLK| Replica[1] Scale negative delay correction: 0.014905
+000001.892| ALWAYS|   CLK| Replica[1]: Scale(1.00) LocalTime(0.000) SegmentStartTime(3.503) LocalOffset(3.692) Snap
+000001.892| ALWAYS|   CLK| Replica[1] Pause negative delay correction: 0.014950
+000001.892| ALWAYS|   CLK| Replica[1]: Command(Unpause) LocalTime(3.503) SegmentStartTime(3.503) LocalOffset(3.692) Snap
+000002.011| ALWAYS|  CONN| Game Info Received ServerSimTime(0.000) PreviousDisconnectCount(0)
+000002.012| ALWAYS|  ROST| CONNECTION READY | TeamOrder 0) 'Apokaa' - Champion(TFTChampion) SkinID(0) TeamBuilderRole(NONE) PUUID(3799d810-78e4-50aa-a346-86a76225590f) ConnectionState(Connected)
+000002.012| ALWAYS|  ROST| CONNECTION READY | TeamOrder 1) 'dariusoro4' - Champion(TFTChampion) SkinID(0) TeamBuilderRole(NONE) PUUID(b9de57d0-6f97-5e53-b30a-0e65c7fcafbc) ConnectionState(Disconnected)
+000002.012| ALWAYS|  ROST| Pop: LoLCommon complete  Current: Bootstrap
+002135.669| ALWAYS|  FLOW| Pop: Bootstrap
+002135.670| ALWAYS| {"exit_code":"EXITCODE_NONE","messageType":"riot__game_client__connection_info","message_body":"Game exited"}
+002135.671| ALWAYS| AudioManagerWwise::Finit
+002135.688| ALWAYS|  FLOW| Destroying the renderer
+002135.688| ALWAYS| r3dRenderLayer::Close() enter
+002136.551| ALWAYS| r3dRenderLayer::Close() exit
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

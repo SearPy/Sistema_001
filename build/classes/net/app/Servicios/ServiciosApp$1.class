@@ -1,0 +1,11 @@
+2023-09-15T22-11-28: LogOut_File: : logfile started
+2023-09-15T22-11-28: Net Status: low-level initialize success.
+2023-09-15T22-11-28: Note: this version (1/29/2017) has new data fields added
+2023-09-15T22-11-28: time = time since start of game in ms.
+2023-09-15T22-11-28: address = address of IP address
+2023-09-15T22-11-28: incoming = total size of messages set to me in bytes. Spikes can indicate lag.
+2023-09-15T22-11-28: outgoing = total size of messages set from me in bytes. Spikes can indicate lag.
+2023-09-15T22-11-28: app_ctos = client to server bytes delta excluding overheads (app data only)
+2023-09-15T22-11-28: app_stoc = server to client bytes delta excluding overheads (app data only)
+2023-09-15T22-11-28: loss = number of packets lost. Can indicate lags.  Some node on the network is dropping packets or taking to long and we have to resend them.
+2023-09-15T22-11-28: sent = number of packets s

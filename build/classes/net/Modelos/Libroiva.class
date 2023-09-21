@@ -1,0 +1,13 @@
+5af6-414f-aad8-39586bc76f19%40champ-select.la2.pvp.net failed with HTTP Error 404", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205345.477:INFO:CONSOLE(1)] "       rcp-fe-lol-postgame| EoG Eternals updates length: 0", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205345.489:INFO:CONSOLE(1)] "           rcp-fe-lol-l10n| duration-format: could not convert 'NaN' to a number, defaulting to 0", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205350.770:INFO:CONSOLE(1)] "        rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205350.770:INFO:CONSOLE(1)] "        rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205354.005:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205354.005:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="honor-vote"", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205354.005:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: honorEnabled, detail=true", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205354.005:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: isShowing", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205354.005:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: Attempt to showHonor", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205354.053:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: api: showHonor", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205354.267:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: startCountdown", source: https://127.0.0.1:61049/fe/common-libs/rcp-fe-common-libs.js (1)
+[0905/205355.065:INFO:CONSOLE(1)] "        rcp-fe-common-libs| Error thrown by observer., detail={"path

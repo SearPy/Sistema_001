@@ -1,0 +1,14 @@
+LWAYS|  FLOW| Pop: GameSession
+001283.741| ALWAYS|  FLOW| ALE-8SDFH23F
+001283.746| ALWAYS|  FLOW| Pop: GameSession complete  Current: LoLCommon
+001283.747| ALWAYS|  FLOW| Push: PostGameUI  Current: LoLCommon
+001283.748| ALWAYS|  FLOW| Push: PostGameUI complete
+001283.749| ALWAYS|  FLOW| Pop: PostGameUI
+001283.750| ALWAYS|  FLOW| Pop: PostGameUI complete  Current: LoLCommon
+001283.751| ALWAYS|  FLOW| Pop: LoLCommon
+001283.781| ALWAYS|  FLOW| Pop: LoLCommon complete  Current: Bootstrap
+001283.782| ALWAYS|  FLOW| Pop: Bootstrap
+001283.783| ALWAYS| {"exit_code":"EXITCODE_NONE","messageType":"riot__game_client__connection_info","message_body":"Game exited"}
+001283.785| ALWAYS| AudioManagerWwise::Finit
+001283.809| ALWAYS|  FLOW| Destroying the renderer
+001283.809| ALWAYS| r3dRenderLayer::Clo

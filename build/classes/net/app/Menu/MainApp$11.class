@@ -1,0 +1,29 @@
+
+        perksPrimaryPathSeen: true
+        perksStatModsSeen: true
+    schemaVersion: 1
+missions-settings:
+    data:
+        selected_series: "TFTBattlepass_Weeklies_Series"
+    schemaVersion: 0
+parties-settings:
+    data:
+        Parties:
+            defaultPartyType: "closed"
+    schemaVersion: 0
+partiesPositionPreferences:
+    data:
+        firstPreference: "MIDDLE"
+        secondPreference: "TOP"
+    schemaVersion: 0
+personalized-offers:
+    data:
+        lastViewedTimestamp: "2022-08-26T18:12:42.026Z"
+    schemaVersion: 1
+ranked-eos-notification-12-RANKED_SOLO_5x5-FIRST_WARNING:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-12-RANKED_SOLO_5x5-SEASON_ENDED:
+    data:
+        notifica

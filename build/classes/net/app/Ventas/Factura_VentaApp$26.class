@@ -1,0 +1,10 @@
+| Replica[1]: Scale(1.00) LocalTime(22.384) SegmentStartTime(22.307) LocalOffset(2.629) Snap
+000023.090| ALWAYS|   CLK| Replica[1]: Command(Unpause) LocalTime(22.384) SegmentStartTime(22.307) LocalOffset(2.629) Snap
+000023.090| ALWAYS|  FLOW| Switching Game State from GAMESTATE_PREGAME to GAMESTATE_SPAWN for reason Received StartSpawn packet.
+000027.496| ALWAYS|  FLOW| Spawning completed
+000027.497| ALWAYS|  FLOW| SEJ-BC89AC41
+000027.528| ALWAYS|  FLOW| SEJ-6671BCAD
+000095.926| ALWAYS|   CLK| Replica[0]: Command(Unpause) LocalTime(0.077) SegmentStartTime(0.000) LocalOffset(2.629) Interpolate
+000095.926| ALWAYS|  FLOW| Switching Game State from GAMESTATE_SPAWN to GAMESTATE_GAMELOOP for reason Received Game Start Packet.
+000095.929| ALWAYS|  FLOW| Pop: LoadingScreen
+000096.044| ALWAYS|  FLOW| Pop: LoadingScreen complete  

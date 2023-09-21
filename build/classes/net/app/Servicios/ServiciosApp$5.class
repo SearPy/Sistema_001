@@ -1,0 +1,9 @@
+-5517-5cd3-9966-09f016375ed8","hc":0,"bl":0},
+{"t":"br1","ts":10277469500,"ri":10501,"ji":333379,"co":1801655888,"me":2,"ur":"/lol-chat/v1/friends","hc":16,"bl":0},
+{"t":"rb1","ts":10277462416,"ri":10499,"sc":1,"rc":200,"hc":6,"bl":1},
+{"t":"rb1","ts":10277464588,"ri":10500,"sc":1,"rc":200,"hc":0,"bl":1},
+{"t":"rb1","ts":10277474945,"ri":10501,"sc":1,"rc":200,"hc":0,"bl":1},
+{"t":"xr1","ts":10277449857,"ri":274877907672,"mi":64,"me":6,"ur":"/product-localization/v2/translate"},
+{"t":"rx1","ts":10277462444,"ri":274877907672,"sc":1,"fl":0,"dds":"{\"results\":[{\"found\":true,\"key\":\"chat_presence_product_league_of_legends\",\"product_id\":\"league_of_legends\",\"value\":\"League of Legends\"}]}"},
+{"t":"ns1","ts":10297782481,"mi":64,"na":"Update /chat/v4/presences"},
+{"t":"mn1","ts":10297782588,"ty":"Update"

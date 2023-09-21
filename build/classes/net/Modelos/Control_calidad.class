@@ -1,0 +1,17 @@
+000000.000| ALWAYS| Logging started at 2023-09-05T20:06:28.970
+000000.052| ALWAYS| Application Version:13.17.528.2266 - CL:5282266 - Build Date: Aug 25 2023 - Build Time:17:08:46
+000000.052| ALWAYS| Log file D:/Riot Games/League of Legends/Logs/LeagueClient Logs/UX Helper/2023-09-05T20-06-28_5136_LeagueClientUxHelper-gpu-process.log
+000000.052| ALWAYS| Running LeagueClientUxHelper version 13.17.528.2266
+000000.052|   OKAY| Using initial working directory: "D:\Riot Games\League of Legends"
+000000.052|   OKAY| Current process: "D:\Riot Games\league of legends\LeagueClientUxRender.exe"
+000000.052|   OKAY| Command line arguments: --type=gpu-process --field-trial-handle=1620,10949667059938129164,1391888707996973174,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,HardwareMediaKeyHandling,SameSiteByDefaultCookies --no-sandbox --log-file=D:\Riot Games\League of Legends\debug.log --user-agent-product=LeagueOfLegendsClient/13.17.528.2266 (CEF 91) --lang=en-US --gpu-preferences=SAAAAAAAAADgACgwAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAAIAAAAAAAAAAgAAAAAAAAA --log-file=D:\Riot Games\League of Legends\debug.log --mojo-platform-channel-handle=1688 /prefetch:2 --app-name=LeagueClient --ux-name=LeagueClientUx --ux-helper-name=LeagueClientUxHelper --log-dir=LeagueClient Logs --app-port=61049 --output-base-dir=D:\Riot Games\League of Legends --crash-reporting=crashpad --crash-environment=LA2 --crash-pipe=\\.\pipe\crashpad_9508_YLDSXOGOFKVIWUJS --app-log-file-path=D:/Riot Games/League of Legends/Logs/LeagueClient Logs/2023-09-05T20-06-18_9508_LeagueClient.log --primary-ux-log-file-path=D:/Riot Games/League of Legends/Logs/LeagueClient Logs/2023-09-05T20-06-22_4736_LeagueClientUx.log
+000000.052|   OKAY| Memory Monitor enabled:
+000000.052|   OKAY| - update interval 5s
+000000.052|   OKAY| - memory delta threshold 10MiB
+000000.052|   OKAY| - page fault delta threshold 100K
+000000.052|   OKAY| - region count delta threshold 10
+000000.056|   OKAY| Working Set Size: 13MiB Peak: 13MiB   Pagefile Usage: 6MiB Peak: 6MiB   Private Usage: 6MiB
+000000.056|   OKAY| Paged Pool Usage: 0MiB Peak: 0MiB   Non-Paged Pool Usage: 0MiB Peak: 0MiB
+000000.056|   OKAY| Committed Total: 231MiB   Committed Image: 224MiB   Committed Mapped: 6MiB   Committed Private: 0MiB   Reserved Total: 4164MiB   Reserved Image: 0MiB   Reserved Mapped: 22MiB   Reserved Private: 4141MiB   Free Total: 134213331MiB   Limit: 134217727MiB   Largest Free: 132105553MiB   Region Count: 770
+000000.056|   OKAY| Page Fault Count: 3K
+000005.057|   OKAY| Working Set Size: 44MiB (+31) Peak: 44MiB (+31)   Pagefile Usage: 62Mi

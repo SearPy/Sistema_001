@@ -1,0 +1,8 @@
+_V5\",\"status\":\"active\",\"volume\":50}]"},
+{"t":"ns1","ts":4967719441,"mi":128,"na":"Update /voice-chat/v3/sessions/league_of_legends/bf402601-cc4c-4447-8db4-57ed67ccd20d/participants/d0d5e392-2ba2-8644-b5e5-a70a5c0ffa18"},
+{"t":"ns1","ts":4967719592,"mi":128,"na":"Update /voice-chat/v3/sessions/league_of_legends/bf402601-cc4c-4447-8db4-57ed67ccd20d"},
+{"t":"ns1","ts":4967719782,"mi":128,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
+{"t":"ns1","ts":4967719985,"mi":128,"na":"Update /lol-premade-voice/v1/participants"},
+{"t":"ns1","ts":4967720303,"mi":128,"na":"Update /lol-premade-voice/v1/participant-records"},
+{"t":"mn1","ts":4967719530,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/bf402601-cc4c-4447-8db4-57ed67ccd20d/participants/d0d5e392-2ba2-8644-b5e5-a70a5c0ffa18","fl":0,"dds":"{\"energy\":38,\"id\":\"d0d5e392-2ba2-8644-b5e5-a70a5c0ffa18\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"668a051c-81f7-5e63-bbf2-99ff3aca796e\",\"speakingTimestamp\":2269110929,\"uri\":\"sip:.668a051c-81f7-5e63-bbf2-99ff3aca796e.@lolgcxp.vivox.com\",\"volume\":75}"},
+{"t"

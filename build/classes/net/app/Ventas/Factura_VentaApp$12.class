@@ -1,0 +1,6 @@
+��全力修復。\"}], \"publish_locations\": [\"game\", \"riotstatus\"], \"publish\": true, \"updated_at\": \"2023-09-01T00:15:00+00:00\", \"author\": \"Riot Games\", \"id\": 12241}], \"updated_at\": null, \"platforms\": [\"windows\", \"macos\"], \"id\": 7105, \"incident_severity\": \"warning\", \"maintenance_status\": null, \"archive_at\": null}]}"},
+{"t":"ns1","ts":10334702246,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
+{"t":"dw1","ts":10334702369,"sdi":0,"ddi":23},
+{"t":"br1","ts":10334700937,"ri":10520,"ji":335180,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
+{"t":"rb1","ts":10334702362,"ri":10520,"sc":1,"rc":204,"hc":0,"bl":0},
+{"t":"ns1","ts":10335024398,"mi":5,"na":"Update /data-store/v1/install-settings/gam

@@ -1,0 +1,10 @@
+{"t":"ns1","ts":8612904470,"mi":108,"na":"Create /lol-game-client-chat/v2/buddies/be70277a-88ca-5fa3-9ed3-69ef577ed204@la2.pvp.net"},
+{"t":"ns1","ts":8612904738,"mi":64,"na":"Update /lol-chat/v1/friend-counts"},
+{"t":"ns1","ts":8612904894,"mi":112,"na":"Update /lol-hovercard/v1/friend-info/be70277a-88ca-5fa3-9ed3-69ef577ed204"},
+{"t":"ns1","ts":8612905529,"mi":112,"na":"Update /lol-hovercard/v1/friend-info-by-summoner/2872272"},
+{"t":"ns1","ts":8612928396,"mi":137,"na":"Update /lol-suggested-players/v1/suggested-players"},
+{"t":"mn1","ts":8612887553,"ty":"Update","ur":"/chat/v4/presences","fl":1,"dds":""},
+{"t":"dw1","ts":8612887512,"sdi":0,"ddi":33},
+{"t":"dw1","ts":8612904143,"sdi":30,"ddi":33},
+{"t":"dw1","ts":8612904362,"sdi":22,"ddi":33},
+{"t":"dw1","ts":8612904649,"sdi":3,"ddi
