@@ -1,38 +1,87 @@
-526,0,388,80,0,0,0,0,0,80,0.000000,3,80,80,80,80,385,385,0
-90042,X.X.X.X,161102,70496,7360,16344,0,491,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,486,486,0
-100047,X.X.X.X,192740,83041,12545,31638,0,665,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,661,661,0
-110051,X.X.X.X,244424,101309,18268,51684,0,926,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,920,920,0
-120053,X.X.X.X,279957,116932,15623,35533,0,1150,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,1144,1144,0
-130053,X.X.X.X,305592,126532,9600,25635,0,1281,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,1277,1277,0
-140058,X.X.X.X,330010,138620,12088,24418,0,1461,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,1456,1456,0
-150059,X.X.X.X,355426,148553,9933,25416,0,1606,80,0,0,0,0,0,80,0.000000,3,80,80,80,80,1599,1599,0
-160063,X.X.X.X,419559,163976,15423,64133,0,1800,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,1795,1795,0
-170069,X.X.X.X,503222,183339,19363,83663,0,2060,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,2056,2056,0
-180071,X.X.X.X,602846,205693,22354,99624,0,2354,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,2348,2348,0
-190074,X.X.X.X,711479,229271,23578,108633,0,2660,78,0,0,0,0,0,78,0.000000,0,78,78,78,78,2654,2654,0
-200075,X.X.X.X,841543,253211,23940,130064,0,2959,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,2953,2953,0
-210077,X.X.X.X,928941,276794,23583,87398,0,3290,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,3284,3284,0
-220083,X.X.X.X,1051140,300516,23722,122199,0,3603,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,3599,3599,0
-230091,X.X.X.X,1177727,324596,24080,126587,0,3911,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,3906,3906,0
-240094,X.X.X.X,1265794,345930,21334,88067,0,4205,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,4199,4199,0
-250100,X.X.X.X,1372952,368482,22552,107158,0,4508,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,4503,4503,0
-260103,X.X.X.X,1477462,390772,22290,104510,0,4792,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,4787,4787,0
-270107,X.X.X.X,1558166,411542,20770,80704,0,5064,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,5059,5059,0
-280112,X.X.X.X,1653711,432928,21386,95545,0,5345,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,5340,5340,0
-290119,X.X.X.X,1727944,453407,20479,74233,0,5621,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,5618,5618,0
-300125,X.X.X.X,1810897,473904,20497,82953,0,5898,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,5893,5893,0
-310127,X.X.X.X,1911849,496536,22632,100952,0,6198,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,6193,6193,0
-320127,X.X.X.X,2031111,520509,23973,119262,0,6505,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,6501,6501,0
-330131,X.X.X.X,2136114,540470,19961,105003,0,6749,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,6744,6744,0
-340133,X.X.X.X,2222004,558717,18247,85890,0,6982,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,6978,6978,0
-350134,X.X.X.X,2302141,578302,19585,80137,0,7244,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,7239,7239,0
-360137,X.X.X.X,2382658,595220,16918,80517,0,7467,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,7461,7461,0
-370138,X.X.X.X,2489860,615398,20178,107202,0,7701,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,7697,7697,0
-380142,X.X.X.X,2608607,639433,24035,118747,0,8013,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,8008,8008,0
-390148,X.X.X.X,2721308,662018,22585,112701,0,8302,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,8298,8298,0
-400153,X.X.X.X,2815277,683666,21648,93969,0,8583,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,8579,8579,0
-410157,X.X.X.X,2912708,704352,20686,97431,0,8837,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,8832,8832,0
-420158,X.X.X.X,2998182,722601,18249,85474,0,9074,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,9068,9068,0
-430161,X.X.X.X,3108996,745192,22591,110814,0,9360,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,9355,9355,0
-440166,X.X.X.X,3215151,768828,23636,106155,0,9661,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,9657,9657,0
-450167,X.X.X.X,3290901,788869,20041,75750,0,9932,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,9927,9
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report name" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="1a2c0bf5-db4a-47be-bb97-ab638b53e10c">
+	<property name="ireport.zoom" value="1.3310000000000004"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<field name="id_clie" class="java.lang.Integer"/>
+	<field name="ruc" class="java.lang.String"/>
+	<field name="razon_social" class="java.lang.String"/>
+	<field name="direccion" class="java.lang.String"/>
+	<field name="telefono" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="22" splitType="Stretch">
+			<staticText>
+				<reportElement x="156" y="2" width="215" height="20" uuid="37d33dc8-dbab-420d-b9b9-235f795bf686"/>
+				<text><![CDATA[LISTA DE CLIENTES]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="16" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="25" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="37" height="20" uuid="65451024-df66-43be-b189-ef719edbd17a"/>
+				<text><![CDATA[ID]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="37" y="0" width="90" height="20" uuid="b0a8eeae-3889-4598-bca2-acfb06d03a22"/>
+				<text><![CDATA[RUC]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="127" y="0" width="151" height="20" uuid="7b23c7a1-40e5-44c3-b550-6d8df1bfd71f"/>
+				<text><![CDATA[RAZON SOCIAL]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="278" y="0" width="177" height="20" uuid="5f22f33d-19bb-4374-abe6-3b0d47ff47c9"/>
+				<text><![CDATA[DIRECCION]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="455" y="0" width="100" height="20" uuid="6b9407be-1fff-4391-84dd-8ecf8d71e532"/>
+				<text><![CDATA[TELEFONO]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="26" splitType="Stretch">
+			<textField>
+				<reportElement x="3" y="3" width="34" height="20" uuid="2548b49b-d4da-4a56-8618-7b1d0b9449a3"/>
+				<textFieldExpression><![CDATA[$F{id_clie}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="37" y="3" width="90" height="20" uuid="eb9284d0-01f4-4bbe-a6fd-1953590d32d3"/>
+				<textFieldExpression><![CDATA[$F{ruc}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="127" y="3" width="151" height="20" uuid="747e3aef-09b3-4836-bb29-d863e8c07a07"/>
+				<textFieldExpression><![CDATA[$F{razon_social}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="278" y="3" width="177" height="20" uuid="44472d6d-7115-42bd-a14d-937be3ffd287"/>
+				<textFieldExpression><![CDATA[$F{direccion}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="455" y="3" width="100" height="20" uuid="634bd081-ae56-48b6-b393-4d98d668f1ca"/>
+				<textFieldExpression><![CDATA[$F{telefono}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch">
+			<textField>
+				<reportElement x="517" y="34" width="38" height="20" uuid="d6179ab6-388e-4a09-90d1-5b3fae8305e4"/>
+				<textFieldExpression><![CDATA[$V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

@@ -1,75 +1,154 @@
-B (+29)
-000460.129|   OKAY| Pagefile Usage: 567MiB (-37) Peak: 621MiB (+0)   Private Usage: 567MiB (-37)
-000465.129|   OKAY| Pagefile Usage: 526MiB (-41) Peak: 621MiB (+0)   Private Usage: 526MiB (-41)
-000465.129|   OKAY| Page Fault Count: 937K (+106)
-000470.143|   OKAY| Pagefile Usage: 592MiB (+66) Peak: 621MiB (+0)   Private Usage: 592MiB (+66)
-000480.150|   OKAY| Pagefile Usage: 578MiB (-14) Peak: 621MiB (+0)   Private Usage: 578MiB (-14)
-000480.150|   OKAY| Page Fault Count: 1050K (+113)
-000490.151|   OKAY| Pagefile Usage: 613MiB (+35) Peak: 621MiB (+0)   Private Usage: 613MiB (+35)
-000490.151|   OKAY| Page Fault Count: 1159K (+109)
-000500.153|   OKAY| Working Set Size: 272MiB (+12) Peak: 277MiB (+0)   Pagefile Usage: 645MiB (+32) Peak: 647MiB (+26)   Private Usage: 645MiB (+32)
-000505.153|   OKAY| Page Fault Count: 1302K (+143)
-000510.153|   OKAY| Pagefile Usage: 664MiB (+19) Peak: 666MiB (+19)   Private Usage: 664MiB (+19)
-000515.153|   OKAY| Working Set Size: 282MiB (+10) Peak: 283MiB (+6)   Pagefile Usage: 728MiB (+64) Peak: 729MiB (+63)   Private Usage: 728MiB (+64)
-000520.154|   OKAY| Pagefile Usage: 622MiB (-106) Peak: 729MiB (+0)   Private Usage: 622MiB (-106)
-000520.154|   OKAY| Page Fault Count: 1416K (+114)
-000525.156|   OKAY| Pagefile Usage: 606MiB (-16) Peak: 729MiB (+0)   Private Usage: 606MiB (-16)
-000530.156|   OKAY| Pagefile Usage: 617MiB (+11) Peak: 729MiB (+0)   Private Usage: 617MiB (+11)
-000535.157|   OKAY| Page Fault Count: 1517K (+101)
-000545.158|   OKAY| Pagefile Usage: 594MiB (-23) Peak: 729MiB (+0)   Private Usage: 594MiB (-23)
-000550.159|   OKAY| Page Fault Count: 1654K (+137)
-000555.159|   OKAY| Pagefile Usage: 655MiB (+61) Peak: 729MiB (+0)   Private Usage: 655MiB (+61)
-000560.160|   OKAY| Working Set Size: 312MiB (+30) Peak: 316MiB (+33)   Pagefile Usage: 794MiB (+139) Peak: 799MiB (+70)   Private Usage: 794MiB (+139)
-000560.160|   OKAY| Page Fault Count: 1836K (+182)
-000565.160|   OKAY| Page Fault Count: 1955K (+119)
-000570.161|   OKAY| Pagefile Usage: 752MiB (-42) Peak: 799MiB (+0)   Private Usage: 752MiB (-42)
-000575.161|   OKAY| Pagefile Usage: 703MiB (-49) Peak: 799MiB (+0)   Private Usage: 703MiB (-49)
-000575.161|   OKAY| Page Fault Count: 2064K (+109)
-000580.162|   OKAY| Working Set Size: 298MiB (-14) Peak: 316MiB (+0)   Pagefile Usage: 633MiB (-70) Peak: 799MiB (+0)   Private Usage: 633MiB (-70)
-000590.162|   OKAY| Page Fault Count: 2193K (+129)
-000595.163|   OKAY| Pagefile Usage: 695MiB (+62) Peak: 799MiB (+0)   Private Usage: 695MiB (+62)
-000605.164|   OKAY| Pagefile Usage: 659MiB (-36) Peak: 799MiB (+0)   Private Usage: 659MiB (-36)
-000610.164|   OKAY| Page Fault Count: 2301K (+108)
-000615.164|   OKAY| Pagefile Usage: 675MiB (+16) Peak: 799MiB (+0)   Private Usage: 675MiB (+16)
-000620.165|   OKAY| Pagefile Usage: 701MiB (+26) Peak: 799MiB (+0)   Private Usage: 701MiB (+26)
-000625.166|   OKAY| Working Set Size: 320MiB (+22) Peak: 321MiB (+5)   Pagefile Usage: 799MiB (+98) Peak: 802MiB (+3)   Private Usage: 799MiB (+98)
-000625.166|   OKAY| Page Fault Count: 2406K (+105)
-000635.166|   OKAY| Working Set Size: 309MiB (-11) Peak: 321MiB (+0)   Pagefile Usage: 726MiB (-73) Peak: 802MiB (+0)   Private Usage: 726MiB (-73)
-000640.166|   OKAY| Working Set Size: 324MiB (+15) Peak: 327MiB (+6)   Pagefile Usage: 825MiB (+99) Peak: 832MiB (+30)   Private Usage: 825MiB (+99)
-000645.167|   OKAY| Page Fault Count: 2517K (+111)
-000650.167|   OKAY| Working Set Size: 310MiB (-14) Peak: 327MiB (+0)   Pagefile Usage: 688MiB (-137) Peak: 832MiB (+0)   Private Usage: 688MiB (-137)
-000660.169|   OKAY| Pagefile Usage: 729MiB (+41) Peak: 832MiB (+0)   Private Usage: 729MiB (+41)
-000665.169|   OKAY| Working Set Size: 288MiB (-22) Peak: 327MiB (+0)
-000670.169|   OKAY| Pagefile Usage: 610MiB (-119) Peak: 832MiB (+0)   Private Usage: 610MiB (-119)
-002925.408|   OKAY| Pagefile Usage: 633MiB (+23) Peak: 832MiB (+0)   Private Usage: 633MiB (+23)
-002930.409|   OKAY| Working Set Size: 319MiB (+31) Peak: 327MiB (+0)   Pagefile Usage: 787MiB (+154) Peak: 832MiB (+0)   Private Usage: 787MiB (+154)
-002940.411|   OKAY| Pagefile Usage: 756MiB (-31) Peak: 832MiB (+0)   Private Usage: 756MiB (-31)
-002945.411|   OKAY| Working Set Size: 330MiB (+11) Peak: 338MiB (+11)   Pagefile Usage: 801MiB (+45) Peak: 832MiB (+0)   Private Usage: 801MiB (+45)
-002945.411|   OKAY| Page Fault Count: 2658K (+141)
-002950.411|   OKAY| Working Set Size: 305MiB (-25) Peak: 338MiB (+0)   Pagefile Usage: 765MiB (-36) Peak: 832MiB (+0)   Private Usage: 765MiB (-36)
-002955.411|   OKAY| Pagefile Usage: 753MiB (-12) Peak: 832MiB (+0)   Private Usage: 753MiB (-12)
-002960.412|   OKAY| Working Set Size: 332MiB (+27) Peak: 363MiB (+25)   Pagefile Usage: 844MiB (+91) Peak: 873MiB (+41)   Private Usage: 844MiB (+91)
-002965.412|   OKAY| Working Set Size: 319MiB (-13) Peak: 363MiB (+0)   Pagefile Usage: 734MiB (-110) Peak: 873MiB (+0)   Private Usage: 734MiB (-110)
-002975.414|   OKAY| Page Fault Count: 2765K (+107)
-002980.416|   OKAY| Pagefile Usage: 768MiB (+34) Peak: 873MiB (+0)   Private Usage: 768MiB (+34)
-002985.416|   OKAY| Pagefile Usage: 791MiB (+23) Peak: 873MiB (+0)   Private Usage: 791MiB (+23)
-002990.416|   OKAY| Pagefile Usage: 756MiB (-35) Peak: 873MiB (+0)   Private Usage: 756MiB (-35)
-002995.417|   OKAY| Pagefile Usage: 807MiB (+51) Peak: 873MiB (+0)   Private Usage: 807MiB (+51)
-003000.417|   OKAY| Pagefile Usage: 825MiB (+18) Peak: 873MiB (+0)   Private Usage: 825MiB (+18)
-003005.417|   OKAY| Pagefile Usage: 750MiB (-75) Peak: 873MiB (+0)   Private Usage: 750MiB (-75)
-003005.417|   OKAY| Page Fault Count: 2865K (+100)
-003015.419|   OKAY| Pagefile Usage: 725MiB (-25) Peak: 873MiB (+0)   Private Usage: 725MiB (-25)
-003035.420|   OKAY| Pagefile Usage: 748MiB (+23) Peak: 873MiB (+0)   Private Usage: 748MiB (+23)
-003040.421|   OKAY| Page Fault Count: 2970K (+105)
-003045.421|   OKAY| Pagefile Usage: 725MiB (-23) Peak: 873MiB (+0)   Private Usage: 725MiB (-23)
-003060.422|   OKAY| Working Set Size: 309MiB (-10) Peak: 363MiB (+0)
-003075.424|   OKAY| Page Fault Count: 3072K (+102)
-003125.429|   OKAY| Page Fault Count: 3175K (+103)
-003160.433|   OKAY| Page Fault Count: 3279K (+104)
-003185.437|   OKAY| Pagefile Usage: 738MiB (+13) Peak: 873MiB (+0)   Private Usage: 738MiB (+13)
-003190.438|   OKAY| Pagefile Usage: 750MiB (+12) Peak: 873MiB (+0)   Private Usage: 750MiB (+12)
-003195.439|   OKAY| Pagefile Usage: 736MiB (-14) Peak: 873MiB (+0)   Private Usage: 736MiB (-14)
-003195.439|   OKAY| Page Fault Count: 3383K (+104)
-003200.440|   OKAY| Pagefile Usage: 725MiB (-11) Peak: 873MiB (+0)   Private Usage: 725MiB (-11)
-003205.440|   OKAY| Pagefile Usage: 748MiB (+23) Peak: 873MiB (+0)   Private Usage: 748MiB (+23)
-003220.441|   OKAY| Pagef
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report name" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="40ef8aed-e921-4d54-8fb8-71c2452217f9">
+	<property name="ireport.zoom" value="1.3310000000000004"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="nro" class="java.lang.String"/>
+	<parameter name="timbrado" class="java.lang.String"/>
+	<parameter name="fecha" class="java.lang.String"/>
+	<parameter name="usser" class="java.lang.String"/>
+	<parameter name="cliente" class="java.lang.String"/>
+	<parameter name="ruc" class="java.lang.String"/>
+	<parameter name="total" class="java.lang.String"/>
+	<parameter name="total5" class="java.lang.String"/>
+	<parameter name="total10" class="java.lang.String"/>
+	<field name="cantidad" class="java.lang.String"/>
+	<field name="codigo" class="java.lang.String"/>
+	<field name="descripcion" class="java.lang.String"/>
+	<field name="precio" class="java.lang.String"/>
+	<field name="total" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="51" splitType="Stretch">
+			<staticText>
+				<reportElement x="167" y="14" width="233" height="15" uuid="d9376e36-4ac2-4d28-83b4-3f05101ca5bd"/>
+				<text><![CDATA[PRESUPUESTO DE SERVICIO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="222" y="29" width="100" height="20" uuid="b5a8a33c-34a9-417b-9e0a-96cfecf611a1"/>
+				<text><![CDATA[uso interno]]></text>
+			</staticText>
+			<line>
+				<reportElement x="0" y="48" width="555" height="1" uuid="a3a49126-5eee-4148-a9e4-5eca357a5a93"/>
+			</line>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="89" splitType="Stretch">
+			<textField>
+				<reportElement x="27" y="0" width="43" height="20" uuid="521645b5-2375-4681-924d-fb9c1a507c51"/>
+				<textFieldExpression><![CDATA[$P{nro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="67" y="20" width="100" height="20" uuid="6bf3dfd3-6920-462b-b9b3-ddc92449a056"/>
+				<textFieldExpression><![CDATA[$P{fecha}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="67" y="40" width="100" height="20" uuid="22c9882a-2e93-4b80-94f9-788c61addb4e"/>
+				<textFieldExpression><![CDATA[$P{usser}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="100" y="64" width="140" height="20" uuid="fa8c4d4a-442b-417c-ac29-6fcef6300ac7"/>
+				<textFieldExpression><![CDATA[$P{cliente}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="278" y="64" width="100" height="20" uuid="dde3ad0a-812c-4805-b0eb-b7f74bf3c02d"/>
+				<textFieldExpression><![CDATA[$P{ruc}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="0" y="0" width="27" height="20" uuid="856f54b2-b9ec-47e4-9234-6032fb919771"/>
+				<text><![CDATA[NRO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="20" width="67" height="20" uuid="53bb1464-3756-4eb2-b91a-4fbe9289a748"/>
+				<text><![CDATA[FECHA]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="40" width="67" height="20" uuid="236e4411-edb1-4aa0-8873-207056aa9d7c"/>
+				<text><![CDATA[USUARIO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="64" width="100" height="20" uuid="d17c4256-57f1-4a4a-8ec2-077e06cd2788"/>
+				<text><![CDATA[CLIENTE]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="240" y="64" width="38" height="20" uuid="ecfe939d-7fd4-419a-acda-383a2906d1a9"/>
+				<text><![CDATA[RUC]]></text>
+			</staticText>
+			<line>
+				<reportElement x="0" y="88" width="555" height="1" uuid="156031e5-78f1-4d17-8d68-dc383af505c5"/>
+			</line>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="33" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="13" width="54" height="20" uuid="98bda684-aea7-41eb-ab32-8de2e2ae0e9f"/>
+				<text><![CDATA[CANTIDAD]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="100" y="13" width="43" height="20" uuid="72b48c58-a497-4520-9392-25ecd4ce1bea"/>
+				<text><![CDATA[CODIGO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="167" y="13" width="133" height="20" uuid="bc513576-cdba-468e-a701-f9d0a63b670b"/>
+				<text><![CDATA[DESCRIPCION]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="300" y="13" width="100" height="20" uuid="427a77f8-f5c6-4ab1-9708-d1cecffdf858"/>
+				<text><![CDATA[PRECIO UNITARIO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="400" y="13" width="55" height="20" uuid="f357baa4-a862-45ec-8e1d-db6686ef4e8d"/>
+				<text><![CDATA[TOTAL]]></text>
+			</staticText>
+			<line>
+				<reportElement x="0" y="32" width="555" height="1" uuid="86b652a4-eafa-4a75-8f5c-23643c9fd5a3"/>
+			</line>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="37" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="54" height="20" uuid="abe5743f-e6c4-48f4-93b9-51e3f26097d3"/>
+				<textFieldExpression><![CDATA[$F{cantidad}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="100" y="0" width="43" height="20" uuid="fe724b9a-51e7-464b-a4d9-5f6f60b08eb1"/>
+				<textFieldExpression><![CDATA[$F{codigo}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="167" y="0" width="133" height="37" uuid="3b1974fc-d8ec-4be7-957c-5f555db53d7c"/>
+				<textFieldExpression><![CDATA[$F{descripcion}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="300" y="0" width="100" height="20" uuid="b5097a10-b196-4383-a4e7-59c6b9c01890"/>
+				<textFieldExpression><![CDATA[$F{precio}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="400" y="0" width="55" height="20" uuid="375e07eb-1acb-400f-bfe0-ecc33e0c360d"/>
+				<textFieldExpression><![CDATA[$F{total}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="32" splitType="Stretch">
+			<textField>
+				<reportElement x="400" y="0" width="55" height="20" uuid="ca321709-96da-4bc3-8fdf-e19f06d764e9"/>
+				<textFieldExpression><![CDATA[$P{total}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="351" y="0" width="49" height="20" uuid="c0b1a272-6d55-48e5-afa5-560dfac10c52"/>
+				<text><![CDATA[TOTAL]]></text>
+			</staticText>
+		</band>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

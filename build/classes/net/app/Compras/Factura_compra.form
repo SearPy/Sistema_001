@@ -1,433 +1,1646 @@
-0a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776680068,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50}"},
-{"t":"mn1","ts":1569914842,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":12,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776680068,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":64,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776674434,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1569914972,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":12,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776680068,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":64,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776674434,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"ns1","ts":1570739787,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/4f30cf70-4afa-434e-9b31-ef57354a24bf"},
-{"t":"ns1","ts":1570739977,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c"},
-{"t":"ns1","ts":1570740111,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
-{"t":"ns1","ts":1570740295,"mi":129,"na":"Update /lol-premade-voice/v1/participants"},
-{"t":"ns1","ts":1570740481,"mi":129,"na":"Update /lol-premade-voice/v1/participant-records"},
-{"t":"mn1","ts":1570739880,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/4f30cf70-4afa-434e-9b31-ef57354a24bf","fl":0,"dds":"{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776674434,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}"},
-{"t":"mn1","ts":1570740057,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":12,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776680068,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776674434,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1570740199,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":12,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776680068,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776674434,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"ns1","ts":1571052588,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974"},
-{"t":"ns1","ts":1571052949,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c"},
-{"t":"ns1","ts":1571053188,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
-{"t":"ns1","ts":1571053426,"mi":129,"na":"Update /lol-premade-voice/v1/participants"},
-{"t":"ns1","ts":1571053600,"mi":129,"na":"Update /lol-premade-voice/v1/participant-records"},
-{"t":"mn1","ts":1571052689,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974","fl":0,"dds":"{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776680068,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50}"},
-{"t":"mn1","ts":1571053097,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776680068,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776674434,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1571053320,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776680068,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776674434,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"ns1","ts":1572609855,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/4f30cf70-4afa-434e-9b31-ef57354a24bf"},
-{"t":"ns1","ts":1572610048,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c"},
-{"t":"ns1","ts":1572610224,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
-{"t":"ns1","ts":1572610418,"mi":129,"na":"Update /lol-premade-voice/v1/participants"},
-{"t":"ns1","ts":1572610814,"mi":129,"na":"Update /lol-premade-voice/v1/participant-records"},
-{"t":"mn1","ts":1572609940,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/4f30cf70-4afa-434e-9b31-ef57354a24bf","fl":0,"dds":"{\"energy\":45,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}"},
-{"t":"mn1","ts":1572610132,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776680068,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":45,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1572610311,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776680068,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":45,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"br1","ts":1572826155,"ri":5000,"ji":63327,"co":0,"me":7,"ur":"/lol-player-preferences/v1/preference","hc":0,"bl":0},
-{"t":"er1","ts":1572827003,"ri":162,"mi":29,"me":7,"ur":"https://playerpreferences.riotgames.com/playerPref/v3/savePreference/2117075075967552/LA2","hc":3,"bl":5009,"to":5000,"ia":0,"fl":0,"dds":"{\r\n\t\"data\": \"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\",\r\n\t\"type\": \"LCUPreferences\",\r\n\t\"version\": \"1.0\"\r\n}"},
-{"t":"ns1","ts":1573109137,"mi":5,"na":"Update /data-store/v1/install-settings/lcu-settings"},
-{"t":"ns1","ts":1573202709,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":1573107348,"sdi":0,"ddi":26},
-{"t":"dw1","ts":1573109252,"sdi":0,"ddi":26},
-{"t":"dw1","ts":1573203037,"sdi":0,"ddi":30},
-{"t":"br1","ts":1573107195,"ri":5001,"ji":63337,"co":0,"me":6,"ur":"/telemetry/v1/events/player_preferences__game_settings","hc":0,"bl":0},
-{"t":"br1","ts":1573107515,"ri":5002,"ji":63338,"co":0,"me":6,"ur":"/data-store/v1/install-settings/lcu-settings","hc":0,"bl":0},
-{"t":"br1","ts":1573201088,"ri":5003,"ji":63343,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":1573107344,"ri":5001,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":1573107444,"ri":5000,"sc":1,"rc":201,"hc":0,"bl":1},
-{"t":"rb1","ts":1573109245,"ri":5002,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":1573203028,"ri":5003,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"re1","ts":1573107012,"ri":162,"cr":0,"rc":200,"hc":16,"bl":4992,"fl":0,"dds":"{\"type\":\"LCUPreferences\",\"data\":\"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\",\"modified\":0}"},
-{"t":"ns1","ts":1573452776,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974"},
-{"t":"ns1","ts":1573453152,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c"},
-{"t":"ns1","ts":1573453364,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
-{"t":"ns1","ts":1573453888,"mi":129,"na":"Update /lol-premade-voice/v1/participants"},
-{"t":"ns1","ts":1573454042,"mi":129,"na":"Update /lol-premade-voice/v1/participant-records"},
-{"t":"mn1","ts":1573452916,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974","fl":0,"dds":"{\"energy\":54,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776683607,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50}"},
-{"t":"mn1","ts":1573453248,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":54,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776683607,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":45,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1573453460,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":54,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776683607,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":45,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"ns1","ts":1574467623,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974"},
-{"t":"ns1","ts":1574467765,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c"},
-{"t":"ns1","ts":1574467900,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
-{"t":"ns1","ts":1574468065,"mi":129,"na":"Update /lol-premade-voice/v1/participants"},
-{"t":"ns1","ts":1574468389,"mi":129,"na":"Update /lol-premade-voice/v1/participant-records"},
-{"t":"mn1","ts":1574467711,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974","fl":0,"dds":"{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776683607,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50}"},
-{"t":"mn1","ts":1574467857,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776683607,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":45,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1574467984,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776683607,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":45,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"ns1","ts":1574545524,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974"},
-{"t":"ns1","ts":1574545706,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c"},
-{"t":"ns1","ts":1574545836,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
-{"t":"ns1","ts":1574546009,"mi":129,"na":"Update /lol-premade-voice/v1/participants"},
-{"t":"ns1","ts":1574546175,"mi":129,"na":"Update /lol-premade-voice/v1/participant-records"},
-{"t":"mn1","ts":1574545605,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974","fl":0,"dds":"{\"energy\":52,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776684675,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50}"},
-{"t":"mn1","ts":1574545807,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":52,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776684675,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":45,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1574545915,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":52,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776684675,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":45,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"ns1","ts":1575536537,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974"},
-{"t":"ns1","ts":1575563567,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c"},
-{"t":"ns1","ts":1575563844,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
-{"t":"ns1","ts":1575564096,"mi":129,"na":"Update /lol-premade-voice/v1/participants"},
-{"t":"ns1","ts":1575564304,"mi":129,"na":"Update /lol-premade-voice/v1/participant-records"},
-{"t":"mn1","ts":1575536634,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974","fl":0,"dds":"{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776684675,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50}"},
-{"t":"mn1","ts":1575563726,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776684675,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":45,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1575563982,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776684675,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":45,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"ns1","ts":1576446442,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974"},
-{"t":"ns1","ts":1576446630,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c"},
-{"t":"ns1","ts":1576446759,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
-{"t":"ns1","ts":1576446973,"mi":129,"na":"Update /lol-premade-voice/v1/participants"},
-{"t":"ns1","ts":1576447316,"mi":129,"na":"Update /lol-premade-voice/v1/participant-records"},
-{"t":"mn1","ts":1576446732,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974","fl":0,"dds":"{\"energy\":58,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776686601,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50}"},
-{"t":"mn1","ts":1576446795,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":58,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776686601,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":45,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1576446866,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":58,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776686601,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":45,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"dw1","ts":1576446831,"sdi":0,"ddi":9},
-{"t":"ns1","ts":1576538178,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/4f30cf70-4afa-434e-9b31-ef57354a24bf"},
-{"t":"ns1","ts":1576538651,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c"},
-{"t":"ns1","ts":1576538860,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
-{"t":"ns1","ts":1576539116,"mi":129,"na":"Update /lol-premade-voice/v1/participants"},
-{"t":"ns1","ts":1576539451,"mi":129,"na":"Update /lol-premade-voice/v1/participant-records"},
-{"t":"mn1","ts":1576538790,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/4f30cf70-4afa-434e-9b31-ef57354a24bf","fl":0,"dds":"{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}"},
-{"t":"mn1","ts":1576538871,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":58,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776686601,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1576538984,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":58,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776686601,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"dw1","ts":1576538911,"sdi":0,"ddi":20},
-{"t":"ns1","ts":1577393838,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974"},
-{"t":"ns1","ts":1577394222,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c"},
-{"t":"ns1","ts":1577394403,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
-{"t":"ns1","ts":1577394568,"mi":129,"na":"Update /lol-premade-voice/v1/participants"},
-{"t":"ns1","ts":1577394821,"mi":129,"na":"Update /lol-premade-voice/v1/participant-records"},
-{"t":"mn1","ts":1577393920,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974","fl":0,"dds":"{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776686601,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50}"},
-{"t":"mn1","ts":1577394304,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776686601,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1577394478,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776686601,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"ns1","ts":1577830532,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974"},
-{"t":"ns1","ts":1577830692,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c"},
-{"t":"ns1","ts":1577830821,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
-{"t":"ns1","ts":1577831034,"mi":129,"na":"Update /lol-premade-voice/v1/participants"},
-{"t":"ns1","ts":1577831203,"mi":129,"na":"Update /lol-premade-voice/v1/participant-records"},
-{"t":"mn1","ts":1577830614,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974","fl":0,"dds":"{\"energy\":25,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776687984,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50}"},
-{"t":"mn1","ts":1577830779,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":25,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776687984,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1577830918,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":25,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776687984,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"ns1","ts":1578487583,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974"},
-{"t":"ns1","ts":1578487911,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c"},
-{"t":"ns1","ts":1578488084,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
-{"t":"ns1","ts":1578488304,"mi":129,"na":"Update /lol-premade-voice/v1/participants"},
-{"t":"ns1","ts":1578488469,"mi":129,"na":"Update /lol-premade-voice/v1/participant-records"},
-{"t":"mn1","ts":1578487690,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/0729a0ce-b459-f346-9f81-8103c040a974","fl":0,"dds":"{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776687984,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50}"},
-{"t":"mn1","ts":1578488006,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776687984,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1578488197,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776687984,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":0,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776682751,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"ns1","ts":1579318261,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/4f30cf70-4afa-434e-9b31-ef57354a24bf"},
-{"t":"ns1","ts":1579318697,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c"},
-{"t":"ns1","ts":1579318905,"mi":129,"na":"Update /voice-chat/v3/sessions/league_of_legends"},
-{"t":"ns1","ts":1579319092,"mi":129,"na":"Update /lol-premade-voice/v1/participants"},
-{"t":"ns1","ts":1579319356,"mi":129,"na":"Update /lol-premade-voice/v1/participant-records"},
-{"t":"mn1","ts":1579318381,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c/participants/4f30cf70-4afa-434e-9b31-ef57354a24bf","fl":0,"dds":"{\"energy\":39,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776689472,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}"},
-{"t":"mn1","ts":1579318793,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends/c329bab6-51f8-408c-b8a6-5cfc196c205c","fl":0,"dds":"{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776687984,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":39,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776689472,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}"},
-{"t":"mn1","ts":1579318994,"ty":"Update","ur":"/voice-chat/v3/sessions/league_of_legends","fl":0,"dds":"[{\"id\":\"c329bab6-51f8-408c-b8a6-5cfc196c205c\",\"isFocused\":false,\"isMuted\":false,\"isRestricted\":false,\"isTransmitEnabled\":true,\"participants\":[{\"energy\":0,\"id\":\"0729a0ce-b459-f346-9f81-8103c040a974\",\"isMuted\":false,\"isSpeaking\":false,\"name\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"speakingTimestamp\":2776687984,\"uri\":\"sip:.f431a3c9-12db-5983-9663-5e2a051f3e87.@lolgcxp.vivox.com\",\"volume\":50},{\"energy\":39,\"id\":\"4f30cf70-4afa-434e-9b31-ef57354a24bf\",\"isMuted\":false,\"isSpeaking\":true,\"name\":\"86237556-2b5c-5dba-aa26-62772f28dc01\",\"speakingTimestamp\":2776689472,\"uri\":\"sip:.86237556-2b5c-5dba-aa26-62772f28dc01.@lolgcxp.vivox.com\",\"volume\":75}],\"product\":\"HFW0saYz_-vU4cbW4X2OCw\",\"provider\":\"vivox_V5\",\"status\":\"active\",\"volume\":50}]"},
-{"t":"dw1","ts":1579968412,"sdi":0,"ddi":29},
-{"t":"br1","ts":1579968347,"ri":5004,"ji":63581,"co":0,"me":2,"ur":"/data-store/v1/system-settings/riotclient/patchline","hc":0,"bl":0},
-{"t":"br1","ts":1579968461,"ri":5005,"ji":63582,"co":0,"me":2,"ur":"/riot-status/v1/products/league_of_legends/patchlines/live/deployments/la2","hc":0,"bl":0},
-{"t":"rb1","ts":1579968408,"ri":5004,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"xr1","ts":1579968457,"ri":575525617678,"mi":134,"me":2,"ur":"/riot-status/v1/products/league_of_legends/patchlines/live/deployments/la2"},
-{"t":"rb1","ts":1580092712,"ri":5005,"sc":1,"rc":200,"hc":6,"bl":1},
-{"t":"rx1","ts":1580092774,"ri":575525617678,"sc":1,"fl":0,"dds":"{\"id\": \"LA2\", \"name\": \"Latin America South\", \"locales\": [\"es_AR\", \"es_MX\"], \"maintenances\": [], \"incidents\": [{\"archive_at\": null, \"id\": 6977, \"updates\": [{\"translations\": [{\"locale\": \"en_US\", \"content\": \"We're aware of issues impacting players on Android and are investigating.\"}, {\"locale\": \"cs_CZ\", \"content\": \"Víme o potížích, které se dotýkají hráčů se systémem Android. Na řešení pracujeme.\"}, {\"locale\": \"de_DE\", \"content\": \"Uns ist bekannt, dass es Probleme für Android-Nutzer gibt, und gehen diesen gerade nach.\"}, {\"locale\": \"el_GR\", \"content\": \"Γνωρίζουμε ότι υπάρχουν κάποια προβλήματα που επηρεάζουν παίκτες που παίζουν σε συσκευές Android και διερευνούμε το ζήτημα.\"}, {\"locale\": \"en_AU\", \"content\": \"We're aware of issues impacting players on Android and are investigating.\"}, {\"locale\": \"en_GB\", \"content\": \"We're aware of issues impacting players on Android and are investigating.\"}, {\"locale\": \"es_AR\", \"content\": \"Estamos al tanto de algunos problemas que afectan a los jugadores en Android y lo estamos investigando.\"}, {\"locale\": \"es_ES\", \"content\": \"Sabemos que existen problemas en Android y estamos investigándolos.\"}, {\"locale\": \"es_MX\", \"content\": \"Estamos al tanto de algunos problemas que afectan a los jugadores en Android y lo estamos investigando.\"}, {\"locale\": \"fr_FR\", \"content\": \"Nous savons que des problèmes affectent le jeu sur Android et nous essayons de les résoudre.\"}, {\"locale\": \"hu_HU\", \"content\": \"Tudunk a(z) Android-felhasználókat érintő problémákról. Dolgozunk a megoldáson.\"}, {\"locale\": \"it_IT\", \"content\": \"Siamo a conoscenza dei problemi riscontrati dai giocatori su Android e stiamo indagando.\"}, {\"locale\": \"ja_JP\", \"content\": \"Android上でのプレイに問題が生じる場合があり、現在調査を行っています。\"}, {\"locale\": \"ko_KR\", \"content\": \"Android 기기로 플레이 시 문제가 발생해 확인 중입니다.\"}, {\"locale\": \"pl_PL\", \"content\": \"Wiemy o dotykających graczy problemach z systemem Android i sprawdzamy je.\"}, {\"locale\": \"pt_BR\", \"content\": \"Estamos cientes dos problemas que estão afetando usuários de Android e já estamos investigando.\"}, {\"locale\": \"ro_RO\", \"content\": \"Știm că există probleme care afectează jucătorii pe Android și căutăm o soluție.\"}, {\"locale\": \"ru_RU\", \"content\": \"Мы знаем о проблемах, с которыми столкнулись пользователи Android, и уже ищем решение.\"}, {\"locale\": \"tr_TR\", \"content\": \"Android kullanan oyuncuları etkileyen sorunlardan haberdarız ve şu anda konuyu araştırıyoruz.\"}], \"publish_locations\": [\"riotstatus\"], \"id\": 11907, \"created_at\": \"2023-08-10T19:08:29.843568+00:00\", \"updated_at\": \"2023-08-10T19:08:00+00:00\", \"publish\": true, \"author\": \"Riot Games\"}], \"created_at\": \"2023-08-10T19:08:29.831714+00:00\", \"maintenance_status\": null, \"updated_at\": \"2023-08-21T09:33:03.459885+00:00\", \"platforms\": [\"android\"], \"titles\": [{\"locale\": \"en_US\", \"content\": \"Android Issues\"}, {\"locale\": \"cs_CZ\", \"content\": \"Potíže se systémem Android\"}, {\"locale\": \"de_DE\", \"content\": \"Probleme mit Android\"}, {\"locale\": \"el_GR\", \"content\": \"Προβλήματα σε συσκευές Android\"}, {\"locale\": \"en_AU\", \"content\": \"Android Issues\"}, {\"locale\": \"en_GB\", \"content\": \"Android Issues\"}, {\"locale\": \"es_AR\", \"content\": \"Problemas con Android\"}, {\"locale\": \"es_ES\", \"content\": \"Problemas con Android\"}, {\"locale\": \"es_MX\", \"content\": \"Problemas con Android\"}, {\"locale\": \"fr_FR\", \"content\": \"Problèmes sur Android\"}, {\"locale\": \"hu_HU\", \"content\": \"Android problémák\"}, {\"locale\": \"it_IT\", \"content\": \"Problemi su Android\"}, {\"locale\": \"ja_JP\", \"content\": \"Android上での不具合\"}, {\"locale\": \"ko_KR\", \"content\": \"Android 문제\"}, {\"locale\": \"pl_PL\", \"content\": \"Problemy z systemem Android\"}, {\"locale\": \"pt_BR\", \"content\": \"Problemas com Android\"}, {\"locale\": \"ro_RO\", \"content\": \"Probleme cu Android\"}, {\"locale\": \"ru_RU\", \"content\": \"Проблемы с Android\"}, {\"locale\": \"tr_TR\", \"content\": \"Android Sorunları\"}], \"incident_severity\": \"critical\"}, {\"titles\": [{\"content\": \"iOS Issues\", \"locale\": \"en_US\"}, {\"content\": \"Potíže se systémem iOS\", \"locale\": \"cs_CZ\"}, {\"content\": \"Probleme mit iOS\", \"locale\": \"de_DE\"}, {\"content\": \"Προβλήματα σε συσκευές iOS\", \"locale\": \"el_GR\"}, {\"content\": \"iOS Issues\", \"locale\": \"en_AU\"}, {\"content\": \"iOS Issues\", \"locale\": \"en_GB\"}, {\"content\": \"Problemas con iOS\", \"locale\": \"es_AR\"}, {\"content\": \"Problemas con iOS\", \"locale\": \"es_ES\"}, {\"content\": \"Problemas con iOS\", \"locale\": \"es_MX\"}, {\"content\": \"Problèmes sur iOS\", \"locale\": \"fr_FR\"}, {\"content\": \"iOS problémák\", \"locale\": \"hu_HU\"}, {\"content\": \"Problemi su iOS\", \"locale\": \"it_IT\"}, {\"content\": \"iOS上での不具合\", \"locale\": \"ja_JP\"}, {\"content\": \"iOS 문제\", \"locale\": \"ko_KR\"}, {\"content\": \"Problemy z systemem iOS\", \"locale\": \"pl_PL\"}, {\"content\": \"Problemas com iOS\", \"locale\": \"pt_BR\"}, {\"content\": \"Probleme cu iOS\", \"locale\": \"ro_RO\"}, {\"content\": \"Проблемы с iOS\", \"locale\": \"ru_RU\"}, {\"content\": \"iOS Sorunları\", \"locale\": \"tr_TR\"}], \"updated_at\": \"2023-08-21T09:33:22.660541+00:00\", \"archive_at\": null, \"maintenance_status\": null, \"platforms\": [\"ios\"], \"incident_severity\": \"critical\", \"created_at\": \"2023-08-10T19:09:29.193124+00:00\", \"updates\": [{\"updated_at\": \"2023-08-10T19:09:00+00:00\", \"author\": \"Riot Games\", \"publish_locations\": [\"riotstatus\"], \"translations\": [{\"content\": \"We're aware of issues impacting players on iOS and are investigating.\", \"locale\": \"en_US\"}, {\"content\": \"Víme o potížích, které se dotýkají hráčů se systémem iOS. Na řešení pracujeme.\", \"locale\": \"cs_CZ\"}, {\"content\": \"Uns ist bekannt, dass es Probleme für iOS-Nutzer gibt, und gehen diesen gerade nach.\", \"locale\": \"de_DE\"}, {\"content\": \"Γνωρίζουμε ότι υπάρχουν κάποια προβλήματα που επηρεάζουν παίκτες που παίζουν σε συσκευές iOS και διερευνούμε το ζήτημα.\", \"locale\": \"el_GR\"}, {\"content\": \"We're aware of issues impacting players on iOS and are investigating.\", \"locale\": \"en_AU\"}, {\"content\": \"We're aware of issues impacting players on iOS and are investigating.\", \"locale\": \"en_GB\"}, {\"content\": \"Estamos al tanto de algunos problemas que afectan a los jugadores en iOS y lo estamos investigando.\", \"locale\": \"es_AR\"}, {\"content\": \"Sabemos que existen problemas en iOS y estamos investigándolos.\", \"locale\": \"es_ES\"}, {\"content\": \"Estamos al tanto de algunos problemas que afectan a los jugadores en iOS y lo estamos investigando.\", \"locale\": \"es_MX\"}, {\"content\": \"Nous savons que des problèmes affectent le jeu sur iOS et nous essayons de les résoudre.\", \"locale\": \"fr_FR\"}, {\"content\": \"Tudunk a(z) iOS-felhasználókat érintő problémákról. Dolgozunk a megoldáson.\", \"locale\": \"hu_HU\"}, {\"content\": \"Siamo a conoscenza dei problemi riscontrati dai giocatori su iOS e stiamo indagando.\", \"locale\": \"it_IT\"}, {\"content\": \"iOS上でのプレイに問題が生じる場合があり、現在調査を行っています。\", \"locale\": \"ja_JP\"}, {\"content\": \"iOS 기기로 플레이 시 문제가 발생해 확인 중입니다.\", \"locale\": \"ko_KR\"}, {\"content\": \"Wiemy o dotykających graczy problemach z systemem iOS i sprawdzamy je.\", \"locale\": \"pl_PL\"}, {\"content\": \"Estamos cientes dos problemas que estão afetando usuários de iOS e já estamos investigando.\", \"locale\": \"pt_BR\"}, {\"content\": \"Știm că există probleme care afectează jucătorii pe iOS și căutăm o soluție.\", \"locale\": \"ro_RO\"}, {\"content\": \"Мы знаем о проблемах, с которыми столкнулись пользователи iOS, и уже ищем решение.\", \"locale\": \"ru_RU\"}, {\"content\": \"iOS kullanan oyuncuları etkileyen sorunlardan haberdarız ve şu anda konuyu araştırıyoruz.\", \"locale\": \"tr_TR\"}], \"publish\": true, \"created_at\": \"2023-08-10T19:09:29.203269+00:00\", \"id\": 11908}], \"id\": 6978}, {\"maintenance_status\": null, \"incident_severity\": \"warning\", \"platforms\": [\"windows\", \"macos\"], \"id\": 7105, \"titles\": [{\"locale\": \"en_US\", \"content\": \"Account Transfers Disabled\"}, {\"locale\": \"cs_CZ\", \"content\": \"Deaktivace převodů účtu\"}, {\"locale\": \"de_DE\", \"conte45380,"ri":6286,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4974245475,"ri":6287,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4974245568,"ri":6288,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4974245661,"ri":6289,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"re1","ts":4974245270,"ri":218,"cr":0,"rc":200,"hc":15,"bl":366,"fl":0,"dds":"[{\"id\":12562192,\"puuid\":\"32d8be44-fa6b-53be-8878-760e1fe5be23\",\"accountId\":204642554,\"name\":\"Woo Young Woo\",\"internalName\":\"wooyoungwoo\",\"profileIconId\":1387,\"level\":250,\"expPoints\":2288,\"levelAndXpVersion\":3461,\"revisionId\":0,\"revisionDate\":1695179835463,\"lastGameDate\":1695179835463,\"nameChangeFlag\":false,\"unnamed\":false,\"privacy\":\"PUBLIC\",\"expToNextLevel\":2592}]"},
-{"t":"xr1","ts":4974245762,"ri":158913789976,"mi":37,"me":6,"ur":"/player-account/lookup/v1/namesets-for-puuids"},
-{"t":"ns1","ts":4974540890,"mi":112,"na":"Update /lol-hovercard/v1/friend-info/9e4fb7af-4cc3-592a-9d1b-5943b544bc85"},
-{"t":"ns1","ts":4974541700,"mi":112,"na":"Update /lol-hovercard/v1/friend-info-by-summoner/22670505"},
-{"t":"ns1","ts":4974542507,"mi":112,"na":"Update /lol-hovercard/v1/friend-info/f431a3c9-12db-5983-9663-5e2a051f3e87"},
-{"t":"ns1","ts":4974542872,"mi":112,"na":"Update /lol-hovercard/v1/friend-info-by-summoner/18371309"},
-{"t":"dw1","ts":4974542111,"sdi":15,"ddi":33},
-{"t":"dw1","ts":4974542211,"sdi":15,"ddi":9},
-{"t":"dw1","ts":4974542271,"sdi":9,"ddi":33},
-{"t":"dw1","ts":4974543120,"sdi":15,"ddi":33},
-{"t":"dw1","ts":4974546677,"sdi":33,"ddi":9},
-{"t":"dw1","ts":4974547760,"sdi":9,"ddi":33},
-{"t":"dw1","ts":4974552173,"sdi":33,"ddi":9},
-{"t":"dw1","ts":4974553257,"sdi":9,"ddi":33},
-{"t":"dw1","ts":4974559036,"sdi":33,"ddi":9},
-{"t":"dw1","ts":4974560040,"sdi":9,"ddi":33},
-{"t":"dw1","ts":4974564502,"sdi":33,"ddi":9},
-{"t":"dw1","ts":4974565688,"sdi":9,"ddi":33},
-{"t":"dw1","ts":4974569919,"sdi":33,"ddi":9},
-{"t":"dw1","ts":4974571039,"sdi":9,"ddi":33},
-{"t":"dw1","ts":4974575135,"sdi":33,"ddi":9},
-{"t":"dw1","ts":4974576316,"sdi":9,"ddi":33},
-{"t":"br1","ts":4974542262,"ri":6291,"ji":170083,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
-{"t":"br1","ts":4974542342,"ri":6292,"ji":170084,"co":0,"me":2,"ur":"/lol-summoner/v2/summoners/puuid/f431a3c9-12db-5983-9663-5e2a051f3e87","hc":0,"bl":0},
-{"t":"br1","ts":4974547631,"ri":6293,"ji":170085,"co":0,"me":2,"ur":"/lol-summoner/v1/summoners/22670505","hc":0,"bl":0},
-{"t":"br1","ts":4974547755,"ri":6294,"ji":170086,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
-{"t":"br1","ts":4974553128,"ri":6295,"ji":170087,"co":0,"me":2,"ur":"/lol-summoner/v1/summoners/19143971","hc":0,"bl":0},
-{"t":"br1","ts":4974553253,"ri":6296,"ji":170088,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
-{"t":"br1","ts":4974559911,"ri":6297,"ji":170089,"co":0,"me":2,"ur":"/lol-summoner/v1/summoners/2737874294703936","hc":0,"bl":0},
-{"t":"br1","ts":4974560035,"ri":6298,"ji":170090,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
-{"t":"br1","ts":4974565545,"ri":6299,"ji":170091,"co":0,"me":2,"ur":"/lol-summoner/v1/summoners/2769736284227552","hc":0,"bl":0},
-{"t":"br1","ts":4974565680,"ri":6300,"ji":170092,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
-{"t":"br1","ts":4974570905,"ri":6301,"ji":170093,"co":0,"me":2,"ur":"/lol-summoner/v1/summoners/2848100512891968","hc":0,"bl":0},
-{"t":"br1","ts":4974571034,"ri":6302,"ji":170094,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
-{"t":"br1","ts":4974576112,"ri":6303,"ji":170095,"co":0,"me":2,"ur":"/lol-summoner/v1/summoners/2889143307773568","hc":0,"bl":0},
-{"t":"rb1","ts":4974540516,"ri":6290,"sc":1,"rc":200,"hc":6,"bl":1},
-{"t":"rb1","ts":4974540686,"ri":6268,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974542207,"ri":6270,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974542421,"ri":6292,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974546668,"ri":6291,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974547737,"ri":6293,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974552164,"ri":6294,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974553234,"ri":6295,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974559027,"ri":6296,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974560018,"ri":6297,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974564492,"ri":6298,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974565661,"ri":6299,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974569910,"ri":6300,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974571015,"ri":6301,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974575129,"ri":6302,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4974576216,"ri":6303,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rx1","ts":4974540535,"ri":158913789976,"sc":1,"fl":0,"dds":"{\"namesets\":[{\"error\":\"\",\"gnt\":{\"gameName\":\"Woo Young Woo\",\"tagLine\":\"LAS\"},\"playstationNameset\":{\"name\":\"\"},\"providerId\":\"\",\"puuid\":\"32d8be44-fa6b-53be-8878-760e1fe5be23\",\"switchNameset\":{\"name\":\"\"},\"xboxNameset\":{\"name\":\"\"}}]}"},
-{"t":"ns1","ts":4980104552,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-process-info"},
-{"t":"ns1","ts":4980139387,"mi":36,"na":"Update /lol-game-settings/v1/game-settings"},
-{"t":"ns1","ts":4980140051,"mi":40,"na":"Update /lol-settings/v1/account/game-settings"},
-{"t":"ns1","ts":4980140398,"mi":36,"na":"Update /lol-game-settings/v1/input-settings"},
-{"t":"ns1","ts":4980142078,"mi":40,"na":"Update /lol-settings/v2/account/GamePreferences/game-settings"},
-{"t":"ns1","ts":4980142922,"mi":36,"na":"Update /lol-game-settings/v1/ready"},
-{"t":"ns1","ts":4980145924,"mi":5,"na":"Update /data-store/v1/install-settings/game-settings"},
-{"t":"ns1","ts":4980146736,"mi":40,"na":"Update /lol-settings/v1/account/input-settings"},
-{"t":"ns1","ts":4980153112,"mi":40,"na":"Update /lol-settings/v2/account/GamePreferences/input-settings"},
-{"t":"dw1","ts":4980104667,"sdi":0,"ddi":27},
-{"t":"dw1","ts":4980134513,"sdi":0,"ddi":27},
-{"t":"dw1","ts":4980134809,"sdi":0,"ddi":27},
-{"t":"dw1","ts":4980134841,"sdi":27,"ddi":32},
-{"t":"dw1","ts":4980139891,"sdi":32,"ddi":33},
-{"t":"dw1","ts":4980140346,"sdi":33,"ddi":32},
-{"t":"dw1","ts":4980140816,"sdi":10,"ddi":5},
-{"t":"dw1","ts":4980140993,"sdi":3,"ddi":5},
-{"t":"dw1","ts":4980141075,"sdi":5,"ddi":33},
-{"t":"dw1","ts":4980141170,"sdi":21,"ddi":5},
-{"t":"dw1","ts":4980141327,"sdi":33,"ddi":5},
-{"t":"dw1","ts":4980141548,"sdi":1,"ddi":5},
-{"t":"dw1","ts":4980141675,"sdi":25,"ddi":5},
-{"t":"dw1","ts":4980141741,"sdi":32,"ddi":5},
-{"t":"dw1","ts":4980141824,"sdi":15,"ddi":5},
-{"t":"dw1","ts":4980142799,"sdi":24,"ddi":32},
-{"t":"dw1","ts":4980142902,"sdi":9,"ddi":5},
-{"t":"dw1","ts":4980143072,"sdi":24,"ddi":5},
-{"t":"dw1","ts":4980143203,"sdi":17,"ddi":5},
-{"t":"dw1","ts":4980143321,"sdi":28,"ddi":5},
-{"t":"dw1","ts":4980143509,"sdi":20,"ddi":5},
-{"t":"dw1","ts":4980143670,"sdi":20,"ddi":5},
-{"t":"dw1","ts":4980144074,"sdi":6,"ddi":5},
-{"t":"dw1","ts":4980144339,"sdi":6,"ddi":5},
-{"t":"dw1","ts":4980144755,"sdi":4,"ddi":5},
-{"t":"dw1","ts":4980145234,"sdi":5,"ddi":32},
-{"t":"dw1","ts":4980146301,"sdi":0,"ddi":32},
-{"t":"dw1","ts":4980148799,"sdi":30,"ddi":5},
-{"t":"dw1","ts":4980149479,"sdi":18,"ddi":5},
-{"t":"dw1","ts":4980149588,"sdi":5,"ddi":33},
-{"t":"dw1","ts":4980149818,"sdi":31,"ddi":5},
-{"t":"dw1","ts":4980150611,"sdi":33,"ddi":5},
-{"t":"dw1","ts":4980151127,"sdi":23,"ddi":5},
-{"t":"dw1","ts":4980151424,"sdi":22,"ddi":5},
-{"t":"dw1","ts":4980152007,"sdi":13,"ddi":5},
-{"t":"dw1","ts":4980155365,"sdi":7,"ddi":5},
-{"t":"dw1","ts":4980155862,"sdi":12,"ddi":5},
-{"t":"dw1","ts":4980156442,"sdi":16,"ddi":5},
-{"t":"dw1","ts":4980156964,"sdi":14,"ddi":5},
-{"t":"dw1","ts":4980157522,"sdi":11,"ddi":5},
-{"t":"dw1","ts":4980158109,"sdi":26,"ddi":5},
-{"t":"dw1","ts":4980158634,"sdi":29,"ddi":5},
-{"t":"dw1","ts":4980159196,"sdi":10,"ddi":5},
-{"t":"dw1","ts":4980159735,"sdi":3,"ddi":5},
-{"t":"dw1","ts":4980161426,"sdi":5,"ddi":32},
-{"t":"br1","ts":4980102958,"ri":6304,"ji":170264,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-process-info","hc":0,"bl":0},
-{"t":"br1","ts":4980134378,"ri":6305,"ji":170266,"co":0,"me":6,"ur":"/telemetry/v1/events/rcp-be-lol-gameflow.cpu-use-in-game","hc":0,"bl":0},
-{"t":"br1","ts":4980134540,"ri":6306,"ji":170267,"co":0,"me":6,"ur":"/riotclient/ux-show","hc":0,"bl":0},
-{"t":"br1","ts":4980134830,"ri":6307,"ji":170268,"co":0,"me":6,"ur":"/lol-game-settings/v1/reload-post-game","hc":0,"bl":0},
-{"t":"br1","ts":4980143127,"ri":6308,"ji":170284,"co":0,"me":6,"ur":"/data-store/v1/install-settings/game-settings","hc":0,"bl":0},
-{"t":"br1","ts":4980148505,"ri":6309,"ji":170293,"co":0,"me":7,"ur":"/lol-player-preferences/v1/preference","hc":0,"bl":0},
-{"t":"br1","ts":4980152220,"ri":6310,"ji":170300,"co":2106271575,"me":7,"ur":"/riotclient/ux-state/ack","hc":0,"bl":0},
-{"t":"rb1","ts":4980104661,"ri":6304,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4980134508,"ri":6305,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4980134806,"ri":6306,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4980146294,"ri":6308,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4980152262,"ri":6310,"sc":1,"rc":201,"hc":0,"bl":0},
-{"t":"er1","ts":4980150061,"ri":219,"mi":29,"me":7,"ur":"https://playerpreferences.riotgames.com/playerPref/v3/savePreference/2117075075967552/LA2","hc":3,"bl":4674,"to":5000,"ia":0,"fl":0,"dds":"{\r\n\t\"data\": \"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\",\r\n\t\"type\": \"GamePreferences\",\r\n\t\"version\": \"1.0\"\r\n}"},
-{"t":"ts1","ts":4980554391,"en":"eog-post-game"},
-{"t":"ns1","ts":4980523405,"mi":5,"na":"Update /data-store/v1/install-settings/game-settings"},
-{"t":"ns1","ts":4980524474,"mi":43,"na":"Update /lol-gameflow/v1/session"},
-{"t":"ns1","ts":4980537633,"mi":82,"na":"Update /lol-clash/v1/time"},
-{"t":"ns1","ts":4980538001,"mi":82,"na":"Update /lol-clash/v1/playmode-restricted"},
-{"t":"ns1","ts":4980538103,"mi":82,"na":"Update /lol-clash/v2/playmode-restricted"},
-{"t":"dw1","ts":4980521902,"sdi":0,"ddi":32},
-{"t":"dw1","ts":4980523524,"sdi":0,"ddi":32},
-{"t":"dw1","ts":4980523667,"sdi":32,"ddi":27},
-{"t":"dw1","ts":4980528059,"sdi":6,"ddi":27},
-{"t":"dw1","ts":4980528547,"sdi":4,"ddi":27},
-{"t":"dw1","ts":4980529266,"sdi":30,"ddi":27},
-{"t":"dw1","ts":4980530667,"sdi":18,"ddi":27},
-{"t":"dw1","ts":4980531135,"sdi":31,"ddi":27},
-{"t":"dw1","ts":4980532280,"sdi":23,"ddi":27},
-{"t":"dw1","ts":4980532532,"sdi":27,"ddi":33},
-{"t":"dw1","ts":4980532795,"sdi":22,"ddi":27},
-{"t":"dw1","ts":4980533561,"sdi":33,"ddi":27},
-{"t":"dw1","ts":4980534003,"sdi":13,"ddi":27},
-{"t":"dw1","ts":4980534570,"sdi":7,"ddi":27},
-{"t":"dw1","ts":4980535003,"sdi":12,"ddi":27},
-{"t":"dw1","ts":4980535591,"sdi":16,"ddi":27},
-{"t":"dw1","ts":4980535992,"sdi":14,"ddi":27},
-{"t":"dw1","ts":4980536563,"sdi":11,"ddi":27},
-{"t":"dw1","ts":4980537436,"sdi":26,"ddi":27},
-{"t":"dw1","ts":4980538332,"sdi":21,"ddi":10},
-{"t":"dw1","ts":4980538750,"sdi":3,"ddi":27},
-{"t":"dw1","ts":4980538857,"sdi":10,"ddi":27},
-{"t":"dw1","ts":4980539525,"sdi":5,"ddi":27},
-{"t":"dw1","ts":4980540366,"sdi":1,"ddi":27},
-{"t":"dw1","ts":4980540741,"sdi":25,"ddi":27},
-{"t":"dw1","ts":4980541683,"sdi":15,"ddi":27},
-{"t":"dw1","ts":4980542127,"sdi":2,"ddi":27},
-{"t":"dw1","ts":4980542824,"sdi":9,"ddi":27},
-{"t":"dw1","ts":4980543289,"sdi":24,"ddi":27},
-{"t":"dw1","ts":4980544006,"sdi":17,"ddi":27},
-{"t":"dw1","ts":4980570356,"sdi":0,"ddi":23},
-{"t":"dw1","ts":4980570572,"sdi":0,"ddi":23},
-{"t":"br1","ts":4980521736,"ri":6311,"ji":170318,"co":0,"me":6,"ur":"/telemetry/v1/events/player_preferences__game_settings","hc":0,"bl":0},
-{"t":"br1","ts":4980522133,"ri":6312,"ji":170319,"co":0,"me":6,"ur":"/data-store/v1/install-settings/game-settings","hc":0,"bl":0},
-{"t":"br1","ts":4980544129,"ri":6313,"ji":170347,"co":0,"me":6,"ur":"/patcher/v1/products/league_of_legends/detect-corruption-request","hc":0,"bl":0},
-{"t":"br1","ts":4980544282,"ri":6314,"ji":170348,"co":0,"me":6,"ur":"/lol-patch/v1/products/league_of_legends/detect-corruption-request","hc":0,"bl":0},
-{"t":"br1","ts":4980570350,"ri":6315,"ji":170351,"co":1474108366,"me":6,"ur":"/tracing/v1/trace/step-event","hc":19,"bl":151},
-{"t":"br1","ts":4980570569,"ri":6316,"ji":170352,"co":1474108366,"me":6,"ur":"/tracing/v1/trace/time-series-event/eog-post-game","hc":19,"bl":16},
-{"t":"rb1","ts":4980521898,"ri":6311,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4980522071,"ri":6309,"sc":1,"rc":201,"hc":0,"bl":1},
-{"t":"rb1","ts":4980523520,"ri":6312,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4980523661,"ri":6307,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4980544585,"ri":6314,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4980544705,"ri":6313,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4980599533,"ri":6315,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4980599617,"ri":6316,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"re1","ts":4980521605,"ri":219,"cr":0,"rc":200,"hc":16,"bl":4657,"fl":0,"dds":"{\"type\":\"GamePreferences\",\"data\":\"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\",\"modified\":0}"},
-{"t":"sp1","ts":4980599526,"en":"UI_GameInProgress: STATE isGameInProgress=false,isWaitingForStats=true,isReconnect=false,isRepairing=false,isPreEndOfGame=false,phase=WaitingForStats","mi":3},
-{"t":"ns1","ts":4983520075,"mi":22,"na":"Create /riot-messaging-service/v1/message/missions/v1/player"},
-{"t":"ns1","ts":4983520343,"mi":22,"na":"Create /riot-messaging-service/v1/message/missions/v1/player"},
-{"t":"ns1","ts":4983520597,"mi":22,"na":"Create /riot-messaging-service/v1/message/missions/v1/player"},
-{"t":"ns1","ts":4983520816,"mi":22,"na":"Create /riot-messaging-service/v1/message/summoner/v1/xp"},
-{"t":"ns1","ts":4983522793,"mi":22,"na":"Create /riot-messaging-service/v1/message/missions/v1/player"},
-{"t":"ns1","ts":4983525026,"mi":22,"na":"Create /riot-messaging-service/v1/message/summoner/v1/xp"},
-{"t":"ns1","ts":4983525975,"mi":37,"na":"Update /lol-summoner/v1/summoners/18371309"},
-{"t":"ns1","ts":4983526701,"mi":37,"na":"Update /lol-summoner/v1/current-summoner"},
-{"t":"ns1","ts":4983528000,"mi":82,"na":"Update /lol-clash/v1/time"},
-{"t":"ns1","ts":4983528110,"mi":82,"na":"Update /lol-clash/v1/visible"},
-{"t":"ns1","ts":4983529408,"mi":82,"na":"Update /lol-clash/v1/enabled"},
-{"t":"ns1","ts":4983529513,"mi":82,"na":"Update /lol-clash/v1/ready"},
-{"t":"ns1","ts":4983541042,"mi":46,"na":"Update /lol-champions/v1/inventories/18371309/champions-minimal"},
-{"t":"ns1","ts":4983549718,"mi":22,"na":"Create /riot-messaging-service/v1/message/championmastery/v1/notifications/champion-mastery-change"},
-{"t":"ns1","ts":4983549969,"mi":22,"na":"Create /riot-messaging-service/v1/message/lol-gsm-server/v1/gsm/game-update"},
-{"t":"ns1","ts":4983550009,"mi":22,"na":"Create /riot-messaging-service/v1/message/championmastery/v1/notifications/champion-mastery-change"},
-{"t":"ns1","ts":4983551241,"mi":54,"na":"Create /lol-end-of-game/v1/champion-mastery-updates"},
-{"t":"ns1","ts":4983552886,"mi":22,"na":"Create /riot-messaging-service/v1/message/lol-gsm-server/v1/gsm/game-update"},
-{"t":"mn1","ts":4983520224,"ty":"Create","ur":"/riot-messaging-service/v1/message/missions/v1/player","fl":0,"dds":"{\"ackRequired\":false,\"id\":\"\",\"payload\":\"{\\\"requestId\\\":\\\"ODc0OTc3NDcy-1339906705\\\"}\",\"resource\":\"missions/v1/player\",\"service\":\"missions\",\"timestamp\":1695180020326,\"version\":\"1.0.0\"}"},
-{"t":"mn1","ts":4983522713,"ty":"Create","ur":"/riot-messaging-service/v1/message/missions/v1/player","fl":0,"dds":"{\"ackRequired\":false,\"id\":\"\",\"payload\":\"{\\\"requestId\\\":\\\"ODc0OTc3NDcy-1339906705\\\"}\",\"resource\":\"missions/v1/player\",\"service\":\"missions\",\"timestamp\":1695180020342,\"version\":\"1.0.0\"}"},
-{"t":"mn1","ts":4983524967,"ty":"Create","ur":"/riot-messaging-service/v1/message/summoner/v1/xp","fl":0,"dds":"{\"ackRequired\":false,\"id\":\"\",\"payload\":\"{\\\"xp\\\":{\\\"BASE\\\":210},\\\"level\\\":{\\\"initialLevel\\\":504,\\\"finalLevel\\\":504,\\\"progress\\\":{\\\"finalLevelBoundary\\\":2688,\\\"initialLevelBoundary\\\":2688,\\\"initialXp\\\":629,\\\"finalXp\\\":839}}}\",\"resource\":\"summoner/v1/xp\",\"service\":\"summoner\",\"timestamp\":1695180020385,\"version\":\"2023.09.20.03.20.20\"}"},
-{"t":"mn1","ts":4983549886,"ty":"Create","ur":"/riot-messaging-service/v1/message/championmastery/v1/notifications/champion-mastery-change","fl":0,"dds":"{\"ackRequired\":false,\"id\":\"\",\"payload\":\"{\\\"shardId\\\":\\\"LA2\\\",\\\"gameId\\\":1339906705,\\\"playerId\\\":18371309,\\\"puuid\\\":\\\"f431a3c9-12db-5983-9663-5e2a051f3e87\\\",\\\"championId\\\":268,\\\"championLevel\\\":7,\\\"championPointsBeforeGame\\\":212430,\\\"championPointsGained\\\":197,\\\"championPointsGainedIndividualContribution\\\":38,\\\"bonusChampionPointsGained\\\":0,\\\"playerGrade\\\":\\\"B-\\\",\\\"championPointsSinceLastLevelBeforeGame\\\":190830,\\\"championPointsUntilNextLevelBeforeGame\\\":0,\\\"championPointsUntilNextLevelAfterGame\\\":0,\\\"championLevelUp\\\":false,\\\"score\\\":488,\\\"levelUpList\\\":[],\\\"memberGrades\\\":[],\\\"win\\\":false,\\\"mapId\\\":11,\\\"tokensEarned\\\":0,\\\"tokenEarnedAfterGame\\\":false}\",\"resource\":\"championmastery/v1/notifications/champion-mastery-change\",\"service\":\"championmastery\",\"timestamp\":1695180020453,\"version\":\"1.0.0\"}"},
-{"t":"mn1","ts":4983552828,"ty":"Create","ur":"/riot-messaging-service/v1/message/lol-gsm-server/v1/gsm/game-update","fl":0,"dds":"{\"ackRequired\":true,\"id\":\"e166a63e611829c663d04cd6fbcfc58a\",\"payload\":\"{\\\"id\\\":1339906705,\\\"gameState\\\":\\\"TERMINATED\\\",\\\"gameType\\\":\\\"\\\",\\\"errorMessage\\\":\\\"\\\"}\",\"resource\":\"lol-gsm-server/v1/gsm/game-update\",\"service\":\"gsm\",\"timestamp\":1695180020639,\"version\":\"2023.09.20.03.20.20\"}"},
-{"t":"dw1","ts":4983520696,"sdi":0,"ddi":20},
-{"t":"dw1","ts":4983520828,"sdi":8,"ddi":20},
-{"t":"dw1","ts":4983520900,"sdi":0,"ddi":20},
-{"t":"dw1","ts":4983520903,"sdi":6,"ddi":20},
-{"t":"dw1","ts":4983520903,"sdi":8,"ddi":20},
-{"t":"dw1","ts":4983520987,"sdi":30,"ddi":20},
-{"t":"dw1","ts":4983521064,"sdi":30,"ddi":20},
-{"t":"dw1","ts":4983521155,"sdi":31,"ddi":20},
-{"t":"dw1","ts":4983521189,"sdi":23,"ddi":20},
-{"t":"dw1","ts":4983521198,"sdi":20,"ddi":6},
-{"t":"dw1","ts":4983521243,"sdi":31,"ddi":20},
-{"t":"dw1","ts":4983521330,"sdi":31,"ddi":20},
-{"t":"dw1","ts":4983521348,"sdi":13,"ddi":20},
-{"t":"dw1","ts":4983521418,"sdi":31,"ddi":20},
-{"t":"dw1","ts":4983521473,"sdi":12,"ddi":20},
-{"t":"dw1","ts":4983521490,"sdi":31,"ddi":20},
-{"t":"dw1","ts":4983521512,"sdi":14,"ddi":20},
-{"t":"dw1","ts":4983521545,"sdi":12,"ddi":20},
-{"t":"dw1","ts":4983521598,"sdi":12,"ddi":20},
-{"t":"dw1","ts":4983521643,"sdi":12,"ddi":20},
-{"t":"dw1","ts":4983521758,"sdi":21,"ddi":20},
-{"t":"dw1","ts":4983521800,"sdi":10,"ddi":20},
-{"t":"dw1","ts":4983521814,"sdi":21,"ddi":20},
-{"t":"dw1","ts":4983521870,"sdi":10,"ddi":20},
-{"t":"dw1","ts":4983521935,"sdi":10,"ddi":20},
-{"t":"dw1","ts":4983522026,"sdi":15,"ddi":20},
-{"t":"dw1","ts":4983522069,"sdi":2,"ddi":20},
-{"t":"dw1","ts":4983522103,"sdi":9,"ddi":20},
-{"t":"dw1","ts":4983522122,"sdi":2,"ddi":20},
-{"t":"dw1","ts":4983522164,"sdi":2,"ddi":20},
-{"t":"dw1","ts":4983522209,"sdi":2,"ddi":20},
-{"t":"dw1","ts":4983522253,"sdi":27,"ddi":20},
-{"t":"dw1","ts":4983522320,"sdi":1,"ddi":2},
-{"t":"dw1","ts":4983522353,"sdi":1,"ddi":20},
-{"t":"dw1","ts":4983522370,"sdi":19,"ddi":20},
-{"t":"dw1","ts":4983522402,"sdi":1,"ddi":20},
-{"t":"dw1","ts":4983522444,"sdi":19,"ddi":20},
-{"t":"dw1","ts":4983522485,"sdi":8,"ddi":20},
-{"t":"dw1","ts":4983522537,"sdi":18,"ddi":20},
-{"t":"dw1","ts":4983522538,"sdi":19,"ddi":20},
-{"t":"dw1","ts":4983523176,"sdi":22,"ddi":20},
-{"t":"dw1","ts":4983523214,"sdi":7,"ddi":20},
-{"t":"dw1","ts":4983523278,"sdi":13,"ddi":20},
-{"t":"dw1","ts":4983523319,"sdi":13,"ddi":20},
-{"t":"dw1","ts":4983523368,"sdi":22,"ddi":20},
-{"t":"dw1","ts":4983523373,"sdi":16,"ddi":20},
-{"t":"dw1","ts":4983523429,"sdi":31,"ddi":20},
-{"t":"dw1","ts":4983523440,"sdi":20,"ddi":6},
-{"t":"dw1","ts":4983523495,"sdi":14,"ddi":20},
-{"t":"dw1","ts":4983523542,"sdi":29,"ddi":20},
-{"t":"dw1","ts":4983523577,"sdi":14,"ddi":20},
-{"t":"dw1","ts":4983523590,"sdi":26,"ddi":20},
-{"t":"dw1","ts":4983523621,"sdi":12,"ddi":20},
-{"t":"dw1","ts":4983523645,"sdi":14,"ddi":20},
-{"t":"dw1","ts":4983523651,"sdi":26,"ddi":20},
-{"t":"dw1","ts":4983523759,"sdi":21,"ddi":20},
-{"t":"dw1","ts":4983523821,"sdi":21,"ddi":20},
-{"t":"dw1","ts":4983523883,"sdi":10,"ddi":20},
-{"t":"dw1","ts":4983523886,"sdi":21,"ddi":20},
-{"t":"dw1","ts":4983523942,"sdi":10,"ddi":20},
-{"t":"dw1","ts":4983524008,"sdi":9,"ddi":20},
-{"t":"dw1","ts":4983524087,"sdi":9,"ddi":20},
-{"t":"dw1","ts":4983524109,"sdi":17,"ddi":20},
-{"t":"dw1","ts":4983524112,"sdi":28,"ddi":20},
-{"t":"dw1","ts":4983524132,"sdi":9,"ddi":20},
-{"t":"dw1","ts":4983524149,"sdi":27,"ddi":20},
-{"t":"dw1","ts":4983524179,"sdi":28,"ddi":20},
-{"t":"dw1","ts":4983524302,"sdi":8,"ddi":20},
-{"t":"dw1","ts":4983524366,"sdi":18,"ddi":20},
-{"t":"dw1","ts":4983524412,"sdi":8,"ddi":20},
-{"t":"dw1","ts":4983524506,"sdi":18,"ddi":20},
-{"t":"dw1","ts":4983524523,"sdi":23,"ddi":20},
-{"t":"dw1","ts":4983524574,"sdi":7,"ddi":20},
-{"t":"dw1","ts":4983524664,"sdi":11,"ddi":20},
-{"t":"dw1","ts":4983524699,"sdi":13,"ddi":20},
-{"t":"dw1","ts":4983524757,"sdi":22,"ddi":20},
-{"t":"dw1","ts":4983524817,"sdi":16,"ddi":20},
-{"t":"dw1","ts":4983525301,"sdi":31,"ddi":20},
-{"t":"dw1","ts":4983525394,"sdi":29,"ddi":20},
-{"t":"dw1","ts":4983525433,"sdi":3,"ddi":20},
-{"t":"dw1","ts":4983525458,"sdi":5,"ddi":20},
-{"t":"dw1","ts":4983525570,"sdi":3,"ddi":20},
-{"t":"dw1","ts":4983525717,"sdi":20,"ddi":6},
-{"t":"dw1","ts":4983525784,"sdi":25,"ddi":20},
-{"t":"dw1","ts":4983525859,"sdi":25,"ddi":20},
-{"t":"dw1","ts":4983525930,"sdi":25,"ddi":20},
-{"t":"dw1","ts":4983525985,"sdi":14,"ddi":20},
-{"t":"dw1","ts":4983526048,"sdi":10,"ddi":20},
-{"t":"dw1","ts":4983526066,"sdi":15,"ddi":20},
-{"t":"dw1","ts":4983526087,"sdi":25,"ddi":20},
-{"t":"dw1","ts":4983526122,"sdi":21,"ddi":20},
-{"t":"dw1","ts":4983526135,"sdi":10,"ddi":20},
-{"t":"dw1","ts":4983526200,"sdi":17,"ddi":20},
-{"t":"dw1","ts":4983526269,"sdi":17,"ddi":20},
-{"t":"dw1","ts":4983526357,"sdi":9,"ddi":20},
-{"t":"dw1","ts":4983526369,"sdi":17,"ddi":20},
-{"t":"dw1","ts":4983526418,"sdi":28,"ddi":20},
-{"t":"dw1","ts":4983526506,"sdi":30,"ddi":20},
-{"t":"dw1","ts":4983526537,"sdi":19,"ddi":20},
-{"t":"dw1","ts":4983526695,"sdi":8,"ddi":20},
-{"t":"dw1","ts":4983526747,"sdi":23,"ddi":20},
-{"t":"dw1","ts":4983526753,"sdi":18,"ddi":20},
-{"t":"dw1","ts":4983526830,"sdi":23,"ddi":20
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JDialog" name="Buscar_Pedido">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="326" max="-2" attributes="0"/>
+                  <Component id="jLabel27" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel10" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane5" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jLabel28" min="-2" pref="320" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="167" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel28" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel10" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane5" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel27" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel27">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel28">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Orden de Compra"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablaped">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="2" rowCount="4">
+                    <Column editable="true" title="NRO" type="java.lang.Object"/>
+                    <Column editable="true" title="FECHA" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel10">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="fechaped" min="-2" pref="102" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="buscarped" min="-2" pref="120" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Component id="agregarped" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarped" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="buscarped" alignment="1" max="32767" attributes="0"/>
+                          <Component id="cancelarped" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarped" alignment="1" max="32767" attributes="0"/>
+                          <Component id="fechaped" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="agregarped">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpedMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="agregarpedActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarped">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelarpedActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JFormattedTextField" name="fechaped">
+              <Properties>
+                <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+                  <Format format="##/##/####" subtype="-1" type="5"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="buscarped">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Buscar Fecha"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buscarpedActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="Buscar_Presupuesto">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                  <Component id="jLabel30" min="-2" pref="156" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel29" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel11" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane3" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel30" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel11" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane3" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel29" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel29">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel30">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Factura"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablapres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="3" rowCount="4">
+                    <Column editable="true" title="NRO" type="java.lang.Object"/>
+                    <Column editable="true" title="FECHA" type="java.lang.Object"/>
+                    <Column editable="true" title="PROVEEDOR" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel11">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="fechapres" min="-2" pref="102" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="buscarpres" min="-2" pref="120" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Component id="agregarpres" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarpres" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="buscarpres" alignment="1" max="32767" attributes="0"/>
+                          <Component id="cancelarpres" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarpres" alignment="1" max="32767" attributes="0"/>
+                          <Component id="fechapres" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="agregarpres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpresMouseClicked"/>
+                <EventHandler event="mouseEntered" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpresMouseEntered"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="agregarpresActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarpres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarpresMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelarpresActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JFormattedTextField" name="fechapres">
+              <Properties>
+                <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+                  <Format format="##/##/####" subtype="-1" type="5"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="buscarpres">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Buscar Fecha"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buscarpresActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="libroivam">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[850, 600]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jScrollPane2" pref="844" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="combolib" min="-2" pref="102" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jButton1" min="-2" pref="103" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="combolib" max="32767" attributes="0"/>
+                      <Component id="jButton2" alignment="0" pref="43" max="32767" attributes="0"/>
+                      <Component id="jButton1" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="54" max="32767" attributes="0"/>
+                  <Component id="jScrollPane2" min="-2" pref="416" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="62" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablib">
+              <Properties>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="7" rowCount="4">
+                    <Column editable="true" title="FECHA" type="java.lang.Object"/>
+                    <Column editable="true" title="IVA 10%" type="java.lang.Object"/>
+                    <Column editable="true" title="IVA 5%" type="java.lang.Object"/>
+                    <Column editable="true" title="TIPO" type="java.lang.Object"/>
+                    <Column editable="true" title="FACTURA" type="java.lang.Object"/>
+                    <Column editable="true" title="NOTA DE CREDITO" type="java.lang.Object"/>
+                    <Column editable="true" title="TIMBRADO" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JComboBox" name="combolib">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="3">
+                <StringItem index="0" value="TODO"/>
+                <StringItem index="1" value="Credito"/>
+                <StringItem index="2" value="Debito"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Filtrar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Salir"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="modalityType" type="java.awt.Dialog$ModalityType" editor="org.netbeans.modules.form.editors.EnumEditor">
+      <Value id="DOCUMENT_MODAL"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="botiva" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="273" pref="273" max="-2" attributes="0"/>
+                          <Component id="jLabel2" min="-2" pref="565" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="jPanel5" alignment="0" max="32767" attributes="0"/>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="botimprimir" min="-2" pref="88" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="jLabel17" min="-2" pref="61" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="txttotal5" min="-2" pref="133" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="jLabel16" min="-2" pref="61" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="txttotal10" min="-2" pref="133" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                          <Component id="jLabel15" min="-2" pref="61" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="txttotal" min="-2" pref="166" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="jScrollPane1" alignment="0" max="32767" attributes="0"/>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="jPanel3" alignment="0" max="32767" attributes="0"/>
+                              <Component id="jPanel2" alignment="0" pref="759" max="32767" attributes="0"/>
+                              <Component id="jPanel6" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jPanel8" min="-2" pref="304" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="144" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="57" pref="57" max="-2" attributes="0"/>
+                      <Component id="jPanel1" min="-2" pref="50" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jLabel2" min="-2" pref="68" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="jPanel6" min="-2" pref="70" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jPanel2" min="-2" pref="60" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jPanel3" min="-2" pref="70" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jPanel8" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel5" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="122" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="jLabel15" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                      <Component id="txttotal" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                      <Component id="jLabel16" max="32767" attributes="0"/>
+                      <Component id="txttotal10" min="-2" pref="39" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="botimprimir" min="-2" pref="33" max="-2" attributes="0"/>
+                  <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                      <Component id="jLabel17" alignment="1" max="32767" attributes="0"/>
+                      <Component id="txttotal5" alignment="1" min="-2" pref="39" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="botiva" min="-2" pref="35" max="-2" attributes="0"/>
+              <EmptySpace pref="46" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Registro de Factura de Compras"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Usuario"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="730" y="10" width="68" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro de Factura"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="10" width="135" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtnro">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="150" y="10" width="112" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="botbuscar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Factura"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botbuscarActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="280" y="10" width="157" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtusuario">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="800" y="10" width="153" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel11">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Fecha"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="550" y="10" width="58" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JFormattedTextField" name="txtfecha">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+              <Format format="##/##/####" subtype="-1" type="5"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="610" y="10" width="99" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder title="Producto">
+              <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+              <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel9">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="30" width="40" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtnroproducto">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="70" y="30" width="50" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel10">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Descripcion"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="130" y="30" width="90" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtdescripcion">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="200" y="30" width="370" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel5">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+                  <Component id="botnuevo" min="-2" pref="86" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Component id="botguardar" min="-2" pref="79" max="-2" attributes="0"/>
+                  <EmptySpace min="5" pref="5" max="-2" attributes="0"/>
+                  <Component id="botanular" min="-2" pref="87" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="110" max="-2" attributes="0"/>
+                  <Component id="txtestado" min="-2" pref="226" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="157" max="-2" attributes="0"/>
+                  <Component id="botquitar" min="-2" pref="87" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="botcancelar" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="botsalir" min="-2" pref="69" max="-2" attributes="0"/>
+                  <EmptySpace pref="60" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+                          <Component id="botnuevo" min="-2" pref="33" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+                          <Component id="botguardar" min="-2" pref="33" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="txtestado" max="32767" attributes="0"/>
+                              <Component id="botanular" min="-2" pref="33" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="botquitar" max="32767" attributes="0"/>
+                              <Component id="botcancelar" max="32767" attributes="0"/>
+                              <Component id="botsalir" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JButton" name="botnuevo">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nuevo"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botnuevoActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botguardar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Guardar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botguardarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botsalir">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Salir"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botsalirActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botcancelar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Cancelar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botcancelarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botquitar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Quitar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botquitarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botanular">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Anular"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botanularActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="txtestado">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="14" style="1"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder title="Proveedor">
+              <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+              <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="20" width="50" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="RUC"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="130" y="20" width="50" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtruc">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtrucActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="170" y="20" width="180" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel8">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Razon Social"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="360" y="20" width="80" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtrazonsocial">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="430" y="20" width="310" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtnroproveedor">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="70" y="20" width="50" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="1090" y="-120" width="52" height="900"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="tabla">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="5" rowCount="4">
+                <Column editable="true" title="CANTIDAD" type="java.lang.Object"/>
+                <Column editable="true" title="CODIGO" type="java.lang.Object"/>
+                <Column editable="true" title="DESCRIPCION" type="java.lang.Object"/>
+                <Column editable="true" title="PRECIO" type="java.lang.Object"/>
+                <Column editable="true" title="TOTAL" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+              <TableColumnModel selectionModel="0">
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+              </TableColumnModel>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="tablaMouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel15">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="TOTAL"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txttotal">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txttotalActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botimprimir">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Imprimir"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botimprimirActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel16">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="IVA 10%"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txttotal10">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel17">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="IVA 5%"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txttotal5">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel6">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder title="Orden de Compra">
+              <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+              <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel18">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="30" width="40" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtpedido">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="70" y="30" width="110" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="botbuscarpedido">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Orden de Compra"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botbuscarpedidoActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="200" y="30" width="180" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JPanel" name="jPanel7">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder title="Producto">
+                  <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                  <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+                </TitledBorder>
+              </Border>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="-1" height="-1"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel19">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Nro"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="30" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField16">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="70" y="30" width="50" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel20">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Descripcion"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="130" y="30" width="90" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField17">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="210" y="30" width="370" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton15">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Buscar Producto"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="600" y="30" width="130" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel21">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Precio"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="740" y="30" width="80" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField18">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="790" y="30" width="120" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton16">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar Producto"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="930" y="30" width="130" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JFormattedTextField" name="txtfechapedido">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+              <Format format="##/##/####" subtype="-1" type="5"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="410" y="30" width="99" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtusuariopedido">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="530" y="30" width="153" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel8">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel22">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Timbrado"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="90" width="80" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JPanel" name="jPanel9">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder title="Producto">
+                  <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                  <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+                </TitledBorder>
+              </Border>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="-1" height="-1"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel23">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Nro"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="30" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField20">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="70" y="30" width="50" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel24">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Descripcion"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="130" y="30" width="90" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField21">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="210" y="30" width="370" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton18">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Buscar Producto"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="600" y="30" width="130" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel25">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Precio"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="740" y="30" width="80" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField22">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="790" y="30" width="120" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton19">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar Producto"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="930" y="30" width="130" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JComboBox" name="combotipo">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="2">
+                <StringItem index="0" value="Contado"/>
+                <StringItem index="1" value="Credito"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="combotipoActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="140" y="30" width="140" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel26">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Condicion de pago"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="30" width="120" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txttimbrado">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="140" y="90" width="153" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Fecha de Factura"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="140" width="90" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JFormattedTextField" name="txtfechafac">
+          <Properties>
+            <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+              <Format format="##/##/####" subtype="-1" type="5"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="140" y="140" width="99" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="botiva">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="LibroIva"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botivaActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

@@ -1,89 +1,145 @@
-GamesApi | client-config: Received notification for changes to all public and all player namespaces. Dispatching 2 async update requests.
-000000.077|   OKAY| RiotGamesApi | client-config: Request is about to take flight
-000000.077|   OKAY| RiotGamesApi | private-settings: Plugin is in local-user mode. Settings will be automatically loaded for the current platform user.
-000000.079|   OKAY| RiotGamesApi | private-settings: Loaded 1 namespaces from file
-000000.080|   OKAY| RiotGamesApi | rg::config: Changes from source 'PrivateSettings': private has changed type from Nil to Map
-000000.082|   OKAY| RiotGamesApi | telemetry: Sending telemetry to schema riotclient__ClientAction__v18 with: {"actionType":"productSessionStart","product":{"installId":"league_of_legends.live","patchline":"live","productId":"league_of_legends","version":"0"},"productSessionStartData":{"sessionHash":1668479195}}
-000000.082|   OKAY| RiotGamesApi | product-session: Created product session for league_of_legends on patchline live with version 0
-000000.082|   OKAY| RiotGamesApi | product-session: Created Product Session for host_app
-000000.084|   OKAY| RiotGamesApi | rso-auth: Note: config for (use_new_login_api, 0) or (stay-signed-in, 1) is set, but overridden due to `authorization-key`
-000000.084|   OKAY| RiotGamesApi | rso-auth: No static RSO config.
-000000.084|   OKAY| RiotGamesApi | rso-auth: in plugin library function RenderConfig: Configuration not ready: URL missing
-000000.085|   OKAY| RiotGamesApi | rso-auth: Authenticating with configured credentials progress: Ready
-000000.086|   OKAY| RiotGamesApi | rso-auth: in plugin endpoint function HandleAccessTokenGet during operation GetAccessToken: No RSO Access Token exists
-000000.086|   OKAY| RiotGamesApi | rso-auth: in plugin endpoint function HandleIdTokenGet during operation GetAuthorization: No RSO Authorization currently exists
-000000.086|   OKAY| RiotGamesApi | rso-auth: in plugin endpoint function HandleIdTokenGet during operation GetAuthorization: No RSO Authorization currently exists
-000000.088|   OKAY| RiotGamesApi | riot-login: Updated platform ID to 'localuser'
-000000.089|   OKAY| RiotGamesApi | client-config: Received request from 'league_of_legends' for legacy config status
-000000.091|   OKAY| RiotGamesApi | riot-messaging-service: Regional URL not found
-000000.091|   OKAY| RiotGamesApi | rso-auth: in plugin endpoint function HandleAccessTokenGet during operation GetAccessToken: No RSO Access Token exists
-000000.091|   OKAY| RiotGamesApi | riot-messaging-service: Proxy connection status Preparing 
-000000.091|   OKAY| RiotGamesApi | riot-messaging-service: Connecting to external process https://127.0.0.1:65407
-000000.093|   OKAY| RiotGamesApi | client-config: Updated product sessions (1 total)
-000000.094|   OKAY| RiotGamesApi | plugin-manager: All plugins initialized.
-000000.094|   OKAY| RiotGamesApi | App: Foundation is now running.
-000000.121|   OKAY| RiotGamesApi | riot-messaging-service: Proxy connection status Connected 
-000000.143| ALWAYS|              critical-flow| CF.STARTUP_FOUNDATION.APP.DIRECTLAUNCH_READY 2/2 payload=none
-000000.202|   OKAY| RiotGamesApi | telemetry: Dropping disabled AP event schemaless__ExternalWebRequest__v1
-000000.202|   OKAY| RiotGamesApi | riot-messaging-service: State is now Connected.
-000000.204|   OKAY| RiotGamesApi | telemetry: Dropping disabled AP event schemaless__ExternalWebRequest__v1
-000000.204|   OKAY| RiotGamesApi | riot-messaging-service: Proxy is subscribed
-000000.338| ALWAYS| ConfigAppModule::QueryConfig public: succeeded
-000000.423|   OKAY| RiotGamesApi | telemetry: Dropping disabled AP event schemaless__ExternalWebRequest__v1
-000000.433|   OKAY| RiotGamesApi | client-config: Updated public config for league_of_legends with 359 entries
-000000.454|   OKAY| RiotGamesApi | rg::config: Changes from source 'ClientConfigPublic': 
-  riot_login was added
-  player-reporting was added
-  lol was added
-  loyalty was added
-  sanitizer was added
-  mailbox was added
-  anticheat was added
-  rso_auth.use_new_login_api was added
-  rso_auth.kount_merchant_id was added
-  rso_auth.enable_remember_me was added
-  rso_auth.implicit-grant-mode-telemetry was added
-  rso_auth.url was added
-  riot was added
-  client_config was added
-  accounts_security was added
-  client was added
-  riotgamesapi.telemetry was added
-  system_warning was added
-  publishing_content was added
-  background_patching was added
-  player-affinity.playerAffinityServiceURL was added
-  scd was added
-  patcher was added
-  payments was added
-  riotstatus was added
-  entitlements was added
-  lifecycle was added
-  player-preferences was added
-  age_restriction was added
-  rewards was added
-  background was added
-  self_update was added
-  disambiguation was added
-  rso-authenticator was added
-  anti-addiction was added
-  voice_chat was added
-  gamesession was added
-  user_input_control was added
-  rms was added
-  rso-mobile-ui was added
-  kr-account was added
-  mobile_push was added
-  player-account was added (config_key: b3243cf8-0601-7245-a532-ceef38debfa6)
-000000.454|   OKAY| RiotGamesApi | player-affinity: Using Player Affinity Service at https://riot-geo.pas.si.riotgames.com
-000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: allow_bad_cert = {"enabled":false}
-000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: handshake_timeout_ms = 5000
-000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: heartbeat_interval_seconds = 55
-000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: host = wss://unconfigured.edge.rms.si.riotgames.com
-000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: max_reconnect_delay_ms = 300000
-000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: min_reconnect_delay_ms = 100
-000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: port = 443
-000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: protocol_preference = ipv4
-000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: socket_timeout_ms = 30000
-000000.454|   OKAY| RiotGamesApi | riot-messaging-service: Config value received: use_direct_connection = true
-000000.454|   OKAY| RiotGame
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report name" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="40ef8aed-e921-4d54-8fb8-71c2452217f9">
+	<property name="ireport.zoom" value="1.3310000000000004"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="nro" class="java.lang.String"/>
+	<parameter name="timbrado" class="java.lang.String"/>
+	<parameter name="fecha" class="java.lang.String"/>
+	<parameter name="usser" class="java.lang.String"/>
+	<parameter name="cliente" class="java.lang.String"/>
+	<parameter name="ruc" class="java.lang.String"/>
+	<parameter name="total" class="java.lang.String"/>
+	<parameter name="total5" class="java.lang.String"/>
+	<parameter name="total10" class="java.lang.String"/>
+	<field name="cantidad" class="java.lang.String"/>
+	<field name="codigo" class="java.lang.String"/>
+	<field name="descripcion" class="java.lang.String"/>
+	<field name="precio" class="java.lang.String"/>
+	<field name="total" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="51" splitType="Stretch">
+			<staticText>
+				<reportElement x="167" y="14" width="233" height="15" uuid="d9376e36-4ac2-4d28-83b4-3f05101ca5bd"/>
+				<text><![CDATA[REGISTRO DE SERVICIOS]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="222" y="29" width="100" height="20" uuid="b5a8a33c-34a9-417b-9e0a-96cfecf611a1"/>
+				<text><![CDATA[uso interno]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="89" splitType="Stretch">
+			<textField>
+				<reportElement x="27" y="0" width="43" height="20" uuid="521645b5-2375-4681-924d-fb9c1a507c51"/>
+				<textFieldExpression><![CDATA[$P{nro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="67" y="20" width="100" height="20" uuid="6bf3dfd3-6920-462b-b9b3-ddc92449a056"/>
+				<textFieldExpression><![CDATA[$P{fecha}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="67" y="40" width="100" height="20" uuid="22c9882a-2e93-4b80-94f9-788c61addb4e"/>
+				<textFieldExpression><![CDATA[$P{usser}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="100" y="64" width="140" height="20" uuid="fa8c4d4a-442b-417c-ac29-6fcef6300ac7"/>
+				<textFieldExpression><![CDATA[$P{cliente}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="278" y="64" width="100" height="20" uuid="dde3ad0a-812c-4805-b0eb-b7f74bf3c02d"/>
+				<textFieldExpression><![CDATA[$P{ruc}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="0" y="0" width="27" height="20" uuid="856f54b2-b9ec-47e4-9234-6032fb919771"/>
+				<text><![CDATA[NRO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="20" width="67" height="20" uuid="53bb1464-3756-4eb2-b91a-4fbe9289a748"/>
+				<text><![CDATA[FECHA]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="40" width="67" height="20" uuid="236e4411-edb1-4aa0-8873-207056aa9d7c"/>
+				<text><![CDATA[USUARIO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="64" width="100" height="20" uuid="d17c4256-57f1-4a4a-8ec2-077e06cd2788"/>
+				<text><![CDATA[CLIENTE]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="240" y="64" width="38" height="20" uuid="ecfe939d-7fd4-419a-acda-383a2906d1a9"/>
+				<text><![CDATA[RUC]]></text>
+			</staticText>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="33" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="13" width="54" height="20" uuid="98bda684-aea7-41eb-ab32-8de2e2ae0e9f"/>
+				<text><![CDATA[CANTIDAD]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="100" y="13" width="43" height="20" uuid="72b48c58-a497-4520-9392-25ecd4ce1bea"/>
+				<text><![CDATA[CODIGO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="167" y="13" width="133" height="20" uuid="bc513576-cdba-468e-a701-f9d0a63b670b"/>
+				<text><![CDATA[DESCRIPCION]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="300" y="13" width="100" height="20" uuid="427a77f8-f5c6-4ab1-9708-d1cecffdf858"/>
+				<text><![CDATA[PRECIO UNITARIO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="400" y="13" width="55" height="20" uuid="f357baa4-a862-45ec-8e1d-db6686ef4e8d"/>
+				<text><![CDATA[TOTAL]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="20" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="54" height="20" uuid="abe5743f-e6c4-48f4-93b9-51e3f26097d3"/>
+				<textFieldExpression><![CDATA[$F{cantidad}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="100" y="0" width="43" height="20" uuid="fe724b9a-51e7-464b-a4d9-5f6f60b08eb1"/>
+				<textFieldExpression><![CDATA[$F{codigo}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="167" y="0" width="133" height="20" uuid="3b1974fc-d8ec-4be7-957c-5f555db53d7c"/>
+				<textFieldExpression><![CDATA[$F{descripcion}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="300" y="0" width="100" height="20" uuid="b5097a10-b196-4383-a4e7-59c6b9c01890"/>
+				<textFieldExpression><![CDATA[$F{precio}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="400" y="0" width="55" height="20" uuid="375e07eb-1acb-400f-bfe0-ecc33e0c360d"/>
+				<textFieldExpression><![CDATA[$F{total}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="32" splitType="Stretch">
+			<textField>
+				<reportElement x="400" y="0" width="55" height="20" uuid="ca321709-96da-4bc3-8fdf-e19f06d764e9"/>
+				<textFieldExpression><![CDATA[$P{total}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="351" y="0" width="49" height="20" uuid="c0b1a272-6d55-48e5-afa5-560dfac10c52"/>
+				<text><![CDATA[TOTAL]]></text>
+			</staticText>
+		</band>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

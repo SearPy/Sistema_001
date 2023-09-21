@@ -1,1271 +1,1106 @@
-,
-                        {
-                            "name": "evtNormalCastItem5",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtNormalCastItem6",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtNormalCastSpell1",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtNormalCastSpell2",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtNormalCastSpell3",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtNormalCastSpell4",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtNormalCastVisionItem",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtOnUIMouse4Pan",
-                            "value": "[Button 3]"
-                        },
-                        {
-                            "name": "evtOpenShop",
-                            "value": "[p]"
-                        },
-                        {
-                            "name": "evtPetMoveClick",
-                            "value": "[Alt] [Button 2],[Ctrl] [Button 2]"
-                        },
-                        {
-                            "name": "evtPlayerAttackMove",
-                            "value": "[<Unbound>],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPlayerAttackMoveClick",
-                            "value": "[a]"
-                        },
-                        {
-                            "name": "evtPlayerAttackOnlyClick",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPlayerCursorPingAreaIsWarded",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerHoldPosition",
-                            "value": "[j]"
-                        },
-                        {
-                            "name": "evtPlayerMoveClick",
-                            "value": "[Button 2]"
-                        },
-                        {
-                            "name": "evtPlayerPingAllIn",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerPingAreaIsWarded",
-                            "value": "[h]"
-                        },
-                        {
-                            "name": "evtPlayerPingBait",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerPingComeHere",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPlayerPingHold",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerPingMIA",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPlayerPingOMW",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPlayerPingPush",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerPingRadialDanger",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPlayerPingVisionCleared",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerPingVisionNeeded",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerStopPosition",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPushToTalk",
-                            "value": "null"
-                        },
-                        {
-                            "name": "evtRadialEmoteInstantOpen",
-                            "value": "[t]"
-                        },
-                        {
-                            "name": "evtRadialEmoteOpen",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot0",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot5",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot6",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot7",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot8",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtScrollDown",
-                            "value": "[Down Arrow]"
-                        },
-                        {
-                            "name": "evtScrollLeft",
-                            "value": "[Left Arrow]"
-                        },
-                        {
-                            "name": "evtScrollRight",
-                            "value": "[Right Arrow]"
-                        },
-                        {
-                            "name": "evtScrollUp",
-                            "value": "[Up Arrow]"
-                        },
-                        {
-                            "name": "evtSelectAlly1",
-                            "value": "[Alt][1],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelectAlly2",
-                            "value": "[Alt][2],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelectAlly3",
-                            "value": "[Alt][3],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelectAlly4",
-                            "value": "[Alt][4],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelectSelf",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastAvatarSpell1",
-                            "value": "[Alt][d],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastAvatarSpell2",
-                            "value": "[Alt][f],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastItem1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastItem2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastItem3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastItem4",
-                            "value": "[Alt][5]"
-                        },
-                        {
-                            "name": "evtSelfCastItem5",
-                            "value": "[Alt][6]"
-                        },
-                        {
-                            "name": "evtSelfCastItem6",
-                            "value": "[Alt][7]"
-                        },
-                        {
-                            "name": "evtSelfCastSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastSpell3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastSpell4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastVisionItem",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtShowCharacterMenu",
-                            "value": "[c]"
-                        },
-                        {
-                            "name": "evtShowHealthBars",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtShowHideTeamfightUI",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtShowScoreBoard",
-                            "value": "[o]"
-                        },
-                        {
-                            "name": "evtShowSummonerNames",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtShowVoicePanel",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastAvatarSpell1",
-                            "value": "[Shift][d]"
-                        },
-                        {
-                            "name": "evtSmartCastAvatarSpell2",
-                            "value": "[Shift][f]"
-                        },
-                        {
-                            "name": "evtSmartCastItem1",
-                            "value": "[Shift][1]"
-                        },
-                        {
-                            "name": "evtSmartCastItem2",
-                            "value": "[Shift][2]"
-                        },
-                        {
-                            "name": "evtSmartCastItem3",
-                            "value": "[Shift][3]"
-                        },
-                        {
-                            "name": "evtSmartCastItem4",
-                            "value": "[Shift][5]"
-                        },
-                        {
-                            "name": "evtSmartCastItem5",
-                            "value": "[Shift][6]"
-                        },
-                        {
-                            "name": "evtSmartCastItem6",
-                            "value": "[Shift][7]"
-                        },
-                        {
-                            "name": "evtSmartCastSpell1",
-                            "value": "[Shift][q]"
-                        },
-                        {
-                            "name": "evtSmartCastSpell2",
-                            "value": "[Shift][w]"
-                        },
-                        {
-                            "name": "evtSmartCastSpell3",
-                            "value": "[Shift][e]"
-                        },
-                        {
-                            "name": "evtSmartCastSpell4",
-                            "value": "[Shift][r]"
-                        },
-                        {
-                            "name": "evtSmartCastVisionItem",
-                            "value": "[Shift][4]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorAvatarSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorAvatarSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorItem1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorItem2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorItem3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorItem4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorItem5",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorItem6",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorSpell3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorSpell4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorVisionItem",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastAvatarSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastAvatarSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastItem1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastItem2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastItem3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastItem4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastItem5",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastItem6",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastSpell3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastSpell4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastVisionItem",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorAvatarSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorAvatarSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorItem1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorItem2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorItem3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorItem4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorItem5",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorItem6",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorSpell3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorSpell4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorVisionItem",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSysMenu",
-                            "value": "[Esc]"
-                        },
-                        {
-                            "name": "evtTFTToggleCombatRecapOpponent",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtToggleMinionHealthBars",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtUseItem1",
-                            "value": "[1]"
-                        },
-                        {
-                            "name": "evtUseItem2",
-                            "value": "[2]"
-                        },
-                        {
-                            "name": "evtUseItem3",
-                            "value": "[3]"
-                        },
-                        {
-                            "name": "evtUseItem4",
-                            "value": "[5]"
-                        },
-                        {
-                            "name": "evtUseItem5",
-                            "value": "[6]"
-                        },
-                        {
-                            "name": "evtUseItem6",
-                            "value": "[7]"
-                        },
-                        {
-                            "name": "evtUseItem7",
-                            "value": "[b]"
-                        },
-                        {
-                            "name": "evtUseVisionItem",
-                            "value": "[4]"
-                        }
-                    ]
-                },
-                {
-                    "name": "HUDEvents",
-                    "settings": [
-                        {
-                            "name": "evtHoldShowScoreBoard",
-                            "value": "[Tab]"
-                        },
-                        {
-                            "name": "evtToggleDeathRecapShowcase",
-                            "value": "[n]"
-                        },
-                        {
-                            "name": "evtToggleFPSAndLatency",
-                            "value": "[Ctrl] [f]"
-                        },
-                        {
-                            "name": "evtToggleMouseClip",
-                            "value": "[F9]"
-                        },
-                        {
-                            "name": "evtTogglePlayerStats",
-                            "value": "[Ctrl][c]"
-                        }
-                    ]
-                },
-                {
-                    "name": "Quickbinds",
-                    "settings": [
-                        {
-                            "name": "evtCastAvatarSpell1smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtCastAvatarSpell2smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtCastSpell1smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtCastSpell2smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtCastSpell3smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtCastSpell4smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseItem1smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseItem2smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseItem3smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseItem4smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseItem5smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseItem6smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseVisionItemsmart",
-                            "value": "1"
-                        }
-                    ]
-                },
-                {
-                    "name": "ShopEvents",
-                    "settings": [
-                        {
-                            "name": "evtShopFocusSearch",
-                            "value": "[Ctrl] [l],[Ctrl] [Return]"
-                        },
-                        {
-                            "name": "evtShopSwitchTabs",
-                            "value": "[Ctrl] [TAB]"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         0,0,0,0,78,0.000000,1,78,78,78,78,67472,67472,0
-2821608,X.X.X.X,24334511,5467950,18884,100535,56,67694,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,67690,67690,0
-2831612,X.X.X.X,24405889,5485821,17871,71378,56,67932,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,67928,67928,0
-2841615,X.X.X.X,24493002,5504988,19167,87113,56,68180,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,68175,68175,0
-2851617,X.X.X.X,24628247,5526089,21101,135245,56,68396,78,0,0,0,0,0,78,0.000000,0,78,78,78,78,68391,68391,0
-2861622,X.X.X.X,24712678,5545315,19226,84431,56,68639,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,68633,68633,0
-2871630,X.X.X.X,24798387,5567221,21906,85709,56,68922,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,68918,68918,0
-2881633,X.X.X.X,24915196,5590599,23378,116809,56,69220,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,69215,69215,0
-2891636,X.X.X.X,24991545,5605605,15006,76349,56,69402,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,69399,69399,0
-2895122,X.X.X.X,24991695,5606267,662,150,56,69418,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,69404,69404,0
-2023-09-08T21-54-29: Memory Allocations 
-2023-09-08T21-54-29: LogOut_File: : logfile stopped
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 },
-                        {
-                            "name": "evtNormalCastItem5",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtNormalCastItem6",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtNormalCastSpell1",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtNormalCastSpell2",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtNormalCastSpell3",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtNormalCastSpell4",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtNormalCastVisionItem",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtOnUIMouse4Pan",
-                            "value": "[Button 3]"
-                        },
-                        {
-                            "name": "evtOpenShop",
-                            "value": "[p]"
-                        },
-                        {
-                            "name": "evtPetMoveClick",
-                            "value": "[Alt] [Button 2],[Ctrl] [Button 2]"
-                        },
-                        {
-                            "name": "evtPlayerAttackMove",
-                            "value": "[<Unbound>],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPlayerAttackMoveClick",
-                            "value": "[a]"
-                        },
-                        {
-                            "name": "evtPlayerAttackOnlyClick",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPlayerCursorPingAreaIsWarded",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerHoldPosition",
-                            "value": "[j]"
-                        },
-                        {
-                            "name": "evtPlayerMoveClick",
-                            "value": "[Button 2]"
-                        },
-                        {
-                            "name": "evtPlayerPingAllIn",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerPingAreaIsWarded",
-                            "value": "[h]"
-                        },
-                        {
-                            "name": "evtPlayerPingBait",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerPingComeHere",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPlayerPingHold",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerPingMIA",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPlayerPingOMW",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPlayerPingPush",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerPingRadialDanger",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPlayerPingVisionCleared",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerPingVisionNeeded",
-                            "value": ""
-                        },
-                        {
-                            "name": "evtPlayerStopPosition",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtPushToTalk",
-                            "value": "null"
-                        },
-                        {
-                            "name": "evtRadialEmoteInstantOpen",
-                            "value": "[t]"
-                        },
-                        {
-                            "name": "evtRadialEmoteOpen",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot0",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot5",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot6",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot7",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtRadialEmotePlaySlot8",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtScrollDown",
-                            "value": "[Down Arrow]"
-                        },
-                        {
-                            "name": "evtScrollLeft",
-                            "value": "[Left Arrow]"
-                        },
-                        {
-                            "name": "evtScrollRight",
-                            "value": "[Right Arrow]"
-                        },
-                        {
-                            "name": "evtScrollUp",
-                            "value": "[Up Arrow]"
-                        },
-                        {
-                            "name": "evtSelectAlly1",
-                            "value": "[Alt][1],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelectAlly2",
-                            "value": "[Alt][2],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelectAlly3",
-                            "value": "[Alt][3],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelectAlly4",
-                            "value": "[Alt][4],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelectSelf",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastAvatarSpell1",
-                            "value": "[Alt][d],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastAvatarSpell2",
-                            "value": "[Alt][f],[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastItem1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastItem2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastItem3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastItem4",
-                            "value": "[Alt][5]"
-                        },
-                        {
-                            "name": "evtSelfCastItem5",
-                            "value": "[Alt][6]"
-                        },
-                        {
-                            "name": "evtSelfCastItem6",
-                            "value": "[Alt][7]"
-                        },
-                        {
-                            "name": "evtSelfCastSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastSpell3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastSpell4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSelfCastVisionItem",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtShowCharacterMenu",
-                            "value": "[c]"
-                        },
-                        {
-                            "name": "evtShowHealthBars",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtShowHideTeamfightUI",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtShowScoreBoard",
-                            "value": "[o]"
-                        },
-                        {
-                            "name": "evtShowSummonerNames",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtShowVoicePanel",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastAvatarSpell1",
-                            "value": "[Shift][d]"
-                        },
-                        {
-                            "name": "evtSmartCastAvatarSpell2",
-                            "value": "[Shift][f]"
-                        },
-                        {
-                            "name": "evtSmartCastItem1",
-                            "value": "[Shift][1]"
-                        },
-                        {
-                            "name": "evtSmartCastItem2",
-                            "value": "[Shift][2]"
-                        },
-                        {
-                            "name": "evtSmartCastItem3",
-                            "value": "[Shift][3]"
-                        },
-                        {
-                            "name": "evtSmartCastItem4",
-                            "value": "[Shift][5]"
-                        },
-                        {
-                            "name": "evtSmartCastItem5",
-                            "value": "[Shift][6]"
-                        },
-                        {
-                            "name": "evtSmartCastItem6",
-                            "value": "[Shift][7]"
-                        },
-                        {
-                            "name": "evtSmartCastSpell1",
-                            "value": "[Shift][q]"
-                        },
-                        {
-                            "name": "evtSmartCastSpell2",
-                            "value": "[Shift][w]"
-                        },
-                        {
-                            "name": "evtSmartCastSpell3",
-                            "value": "[Shift][e]"
-                        },
-                        {
-                            "name": "evtSmartCastSpell4",
-                            "value": "[Shift][r]"
-                        },
-                        {
-                            "name": "evtSmartCastVisionItem",
-                            "value": "[Shift][4]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorAvatarSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorAvatarSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorItem1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorItem2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorItem3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorItem4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorItem5",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorItem6",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorSpell3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorSpell4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartCastWithIndicatorVisionItem",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastAvatarSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastAvatarSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastItem1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastItem2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastItem3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastItem4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastItem5",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastItem6",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastSpell3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastSpell4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastVisionItem",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorAvatarSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorAvatarSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorItem1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorItem2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorItem3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorItem4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorItem5",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorItem6",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorSpell1",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorSpell2",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorSpell3",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorSpell4",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSmartPlusSelfCastWithIndicatorVisionItem",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtSysMenu",
-                            "value": "[Esc]"
-                        },
-                        {
-                            "name": "evtTFTToggleCombatRecapOpponent",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtToggleMinionHealthBars",
-                            "value": "[<Unbound>]"
-                        },
-                        {
-                            "name": "evtUseItem1",
-                            "value": "[1]"
-                        },
-                        {
-                            "name": "evtUseItem2",
-                            "value": "[2]"
-                        },
-                        {
-                            "name": "evtUseItem3",
-                            "value": "[3]"
-                        },
-                        {
-                            "name": "evtUseItem4",
-                            "value": "[5]"
-                        },
-                        {
-                            "name": "evtUseItem5",
-                            "value": "[6]"
-                        },
-                        {
-                            "name": "evtUseItem6",
-                            "value": "[7]"
-                        },
-                        {
-                            "name": "evtUseItem7",
-                            "value": "[b]"
-                        },
-                        {
-                            "name": "evtUseVisionItem",
-                            "value": "[4]"
-                        }
-                    ]
-                },
-                {
-                    "name": "HUDEvents",
-                    "settings": [
-                        {
-                            "name": "evtHoldShowScoreBoard",
-                            "value": "[Tab]"
-                        },
-                        {
-                            "name": "evtToggleDeathRecapShowcase",
-                            "value": "[n]"
-                        },
-                        {
-                            "name": "evtToggleFPSAndLatency",
-                            "value": "[Ctrl] [f]"
-                        },
-                        {
-                            "name": "evtToggleMouseClip",
-                            "value": "[F9]"
-                        },
-                        {
-                            "name": "evtTogglePlayerStats",
-                            "value": "[Ctrl][c]"
-                        }
-                    ]
-                },
-                {
-                    "name": "Quickbinds",
-                    "settings": [
-                        {
-                            "name": "evtCastAvatarSpell1smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtCastAvatarSpell2smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtCastSpell1smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtCastSpell2smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtCastSpell3smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtCastSpell4smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseItem1smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseItem2smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseItem3smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseItem4smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseItem5smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseItem6smart",
-                            "value": "1"
-                        },
-                        {
-                            "name": "evtUseVisionItemsmart",
-                            "value": "1"
-                        }
-                    ]
-                },
-                {
-                    "name": "ShopEvents",
-                    "settings": [
-                        {
-                            "name": "evtShopFocusSearch",
-                            "value": "[Ctrl] [l],[Ctrl] [Return]"
-                        },
-                        {
-                            "name": "evtShopSwitchTabs",
-                            "value": "[Ctrl] [TAB]"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
-}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        42,Wireless,20719,8238,0,0,0,0,0,0,0,0,1,2,0,501,0,0,128,0,108,0,0,0,0,250,0,251,0,138.0.12.237,5125,0.008912,0,0,13.18,0.070925,0.002185,Connected,18371309,0,0,0,0,0,10.003101,7,
-0.005880,0.000000,80.500977,127,0,0,133,Wireless,17949,8942,0,0,0,0,0,0,0,0,1,2,0,426,0,0,146,0,127,0,0,0,0,260,0,260,0,138.0.12.237,5125,0.008646,0,0,13.18,0.070399,0.001494,Connected,18371309,0,0,0,0,0,10.002228,7,
-0.005870,0.000000,90.503273,178,0,0,191,Wireless,27723,12436,0,0,0,0,0,0,0,2,2,3,0,542,0,0,214,0,178,0,0,0,0,369,0,368,0,138.0.12.237,5125,0.012171,0,0,13.18,0.071101,0.002477,Connected,18371309,0,0,0,0,0,10.002382,7,
-0.007032,0.000000,100.509598,278,0,0,277,Wireless,55821,19412,0,0,0,0,0,0,0,1,1,2,0,1385,0,0,356,0,278,0,0,0,0,555,0,557,0,138.0.12.237,5125,0.019387,0,0,13.18,0.070165,0.001226,Connected,18371309,0,0,0,0,0,10.006497,7,
-0.007674,0.000009,110.515945,290,0,0,302,Wireless,78815,20585,0,0,0,0,0,0,0,0,1,2,0,2369,0,0,381,0,290,0,0,0,0,592,0,594,0,138.0.12.237,5125,0.021516,0,0,13.18,0.070369,0.001613,Connected,18371309,0,0,0,0,0,10.006531,7,
-0.007874,0.000010,120.515877,291,0,0,327,Wireless,77425,21008,0,0,0,0,0,0,0,2,1,2,0,2185,0,0,372,0,291,0,0,0,0,618,0,614,0,138.0.12.237,5125,0.023975,0,0,13.18,0.070548,0.001812,Connected,18371309,0,0,0,0,0,10.000268,7,
-0.007681,0.000001,130.516220,308,0,0,328,Wireless,90402,22109,0,0,0,0,0,0,0,0,1,2,0,2593,0,0,395,0,308,0,0,0,0,636,0,638,0,138.0.12.237,5125,0.023450,0,0,13.18,0.070224,0.001429,Connected,18371309,0,0,0,0,0,10.000642,7,
-0.008122,0.000004,140.522141,286,0,0,317,Wireless,81238,20584,0,0,0,0,0,0,0,1,1,2,0,2353,0,0,377,0,286,0,0,0,0,603,0,603,0,138.0.12.237,5125,0.022177,0,0,13.18,0.070250,0.001432,Connected,18371309,0,0,0,0,0,10.005975,7,
-0.007728,0.000003,150.522202,304,0,0,338,Wireless,99267,22081
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JDialog" name="Buscar_Presupuesto">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="325" max="-2" attributes="0"/>
+                  <Component id="jLabel21" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel9" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane3" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jLabel25" min="-2" pref="247" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="228" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel25" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel9" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane3" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel21" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel21">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel25">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Orden Servicio"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablapres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="3" rowCount="4">
+                    <Column editable="true" title="NRO" type="java.lang.Object"/>
+                    <Column editable="true" title="FECHA" type="java.lang.Object"/>
+                    <Column editable="true" title="PROVEEDOR" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel9">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="fechapres" min="-2" pref="102" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="buscarpres" min="-2" pref="120" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Component id="agregarpres" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarpres" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="buscarpres" alignment="1" max="32767" attributes="0"/>
+                          <Component id="cancelarpres" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarpres" alignment="1" max="32767" attributes="0"/>
+                          <Component id="fechapres" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="agregarpres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpresMouseClicked"/>
+                <EventHandler event="mouseEntered" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpresMouseEntered"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="agregarpresActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarpres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarpresMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelarpresActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JFormattedTextField" name="fechapres">
+              <Properties>
+                <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+                  <Format format="##/##/####" subtype="-1" type="5"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="buscarpres">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Buscar Fecha"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buscarpresActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="Buscar_Pedido">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="326" max="-2" attributes="0"/>
+                  <Component id="jLabel26" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel10" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane5" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jLabel27" min="-2" pref="320" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="167" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel27" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel10" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane5" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel26" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel26">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel27">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Servicio"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablaped">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="3" rowCount="4">
+                    <Column editable="true" title="NRO" type="java.lang.Object"/>
+                    <Column editable="true" title="FECHA" type="java.lang.Object"/>
+                    <Column editable="true" title="PROVEEDOR" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel10">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="fechaped" min="-2" pref="102" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="buscarped" min="-2" pref="120" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Component id="agregarped" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarped" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="buscarped" alignment="1" max="32767" attributes="0"/>
+                          <Component id="cancelarped" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarped" alignment="1" max="32767" attributes="0"/>
+                          <Component id="fechaped" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="agregarped">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpedMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="agregarpedActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarped">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelarpedActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JFormattedTextField" name="fechaped">
+              <Properties>
+                <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+                  <Format format="##/##/####" subtype="-1" type="5"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="buscarped">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Buscar Fecha"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buscarpedActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="modalityType" type="java.awt.Dialog$ModalityType" editor="org.netbeans.modules.form.editors.EnumEditor">
+      <Value id="DOCUMENT_MODAL"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="jScrollPane1" max="32767" attributes="0"/>
+                      <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="273" pref="273" max="-2" attributes="0"/>
+                          <Component id="jLabel2" min="-2" pref="565" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="jPanel3" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jPanel5" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="botimprimir" min="-2" pref="88" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="81" max="-2" attributes="0"/>
+                      <Component id="jLabel15" min="-2" pref="61" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="txttotal" min="-2" pref="133" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="55" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="57" pref="57" max="-2" attributes="0"/>
+                      <Component id="jPanel1" min="-2" pref="50" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jLabel2" min="-2" pref="68" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel3" min="-2" pref="70" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel2" min="-2" pref="60" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel5" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="129" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="botimprimir" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                  <Component id="jLabel15" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                  <Component id="txttotal" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="25" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Registro de Servicios"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JFormattedTextField" name="txtfecha">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+              <Format format="##/##/####" subtype="-1" type="5"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="610" y="10" width="99" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Fecha"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="550" y="10" width="58" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Usuario"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="730" y="10" width="68" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro de Servicio"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="10" width="70" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtnro">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="150" y="10" width="112" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="botbuscar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Servicio"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botbuscarActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="280" y="10" width="157" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtusuario">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="800" y="10" width="153" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder title="Orden de Servicio">
+              <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+              <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel9">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="30" width="40" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtpedido">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="70" y="30" width="110" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="botbuscarpedido">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar "/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botbuscarpedidoActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="200" y="30" width="130" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JPanel" name="jPanel6">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder title="Producto">
+                  <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                  <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+                </TitledBorder>
+              </Border>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="-1" height="-1"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel16">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Nro"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="30" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField13">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="70" y="30" width="50" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel17">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Descripcion"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="130" y="30" width="90" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField14">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="210" y="30" width="370" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton14">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Buscar Producto"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="600" y="30" width="130" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel18">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Precio"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="740" y="30" width="80" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField15">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="790" y="30" width="120" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton15">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar Producto"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="930" y="30" width="130" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JTextField" name="txtusuariopedido">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="540" y="30" width="153" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JFormattedTextField" name="txtfechapedido">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+              <Format format="##/##/####" subtype="-1" type="5"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="400" y="30" width="99" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder title="Cliente">
+              <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+              <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="20" width="50" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="RUC"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="150" y="20" width="50" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtruc">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtrucActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="200" y="20" width="180" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel8">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Razon Social"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="410" y="20" width="80" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtrazonsocial">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="500" y="20" width="310" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtnroproveedor">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="80" y="20" width="50" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="1090" y="-120" width="52" height="900"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="botimprimir">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Imprimir"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botimprimirActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel5">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+                  <Component id="botnuevo" min="-2" pref="86" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Component id="botguardar" min="-2" pref="79" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="botanular" min="-2" pref="87" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="579" max="-2" attributes="0"/>
+                  <Component id="botcancelar" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="botsalir" min="-2" pref="69" max="-2" attributes="0"/>
+                  <EmptySpace pref="65" max="32767" attributes="0"/>
+              </Group>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="414" max="-2" attributes="0"/>
+                      <Component id="txtestado" min="-2" pref="240" max="-2" attributes="0"/>
+                      <EmptySpace pref="414" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="botnuevo" alignment="0" min="-2" pref="33" max="-2" attributes="0"/>
+                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                  <Component id="botguardar" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                                  <Component id="botanular" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="botcancelar" alignment="0" max="32767" attributes="0"/>
+                              <Component id="botsalir" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="txtestado" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JButton" name="botnuevo">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nuevo"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botnuevoActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botguardar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Guardar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botguardarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botsalir">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Salir"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botsalirActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botcancelar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Cancelar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botcancelarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botanular">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Anular"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botanularActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="txtestado">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="14" style="1"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JTextField" name="txttotal">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txttotalActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel15">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="TOTAL"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="tabla">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="5" rowCount="4">
+                <Column editable="true" title="CANTIDAD" type="java.lang.Object"/>
+                <Column editable="true" title="CODIGO" type="java.lang.Object"/>
+                <Column editable="true" title="DESCRIPCION" type="java.lang.Object"/>
+                <Column editable="true" title="PRECIO" type="java.lang.Object"/>
+                <Column editable="true" title="TOTAL" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="tablaMouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

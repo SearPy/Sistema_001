@@ -1,49 +1,90 @@
-000000.000| ALWAYS| Logging started at 2023-09-17T21:39:15.060
-000000.004| ALWAYS|   CFG| CrashHandler(Sentry)
-000000.053| ALWAYS|   CFG| Command Line:  "138.0.12.195 5358 ieW4npj7MR/qyg3LBZOqsg== 18371309" "-Product=LoL" "-PlayerID=18371309" "-GameID=1339272613" "-PlayerNameMode=SUMMONER" "-GameBaseDir=D:\Riot Games\League of Legends" "-Region=LA2" "-PlatformID=LA2" "-Locale=es_MX" "-SkipBuild" "-EnableCrashpad=true" "-EnableLNP" "-UseDX11=1:1" "-UseMetal=0:1" "-UseNewX3D" "-UseNewX3DFramebuffers" "-RiotClientPort=50282" "-RiotClientAuthToken=Yp5P_BUKp4u0coeTzJ6PYQ" 
-000000.121| ALWAYS| Live Profiling enabled. Will overwrite old RPD.
-000000.122| ALWAYS|   CFG| Build Version: Version 13.18.530.4653 (Sep 07 2023/19:26:39) [PUBLIC] <Releases/13.18> ChangeList: 5304653
-000000.142| ALWAYS| LCURemotingClient: Initializing on port 50282
-000000.160| ALWAYS| LCURemotingClient: Connected to app process.
-000000.165| ALWAYS|  FLOW| Initializing Renderer
-000000.165| ALWAYS| r3dRenderLayer::Init enter
-000000.165| ALWAYS| r3dRenderLayer::Init() exit successfully
-000000.841| ALWAYS| rr3dRenderLayer::InitDevice(XRes = 1920, YRes = 1080, BPP = 32) enter
-000000.841| ALWAYS| rr3dRenderLayer::InitDevice: Creating X3D device
-000000.847| ALWAYS| DXGI version: 1.6
-000000.847| ALWAYS| Detected Adapter 'NVIDIA GeForce GTX 860M'
-000000.849| ALWAYS| DXGI: Tearing support enabled.
-000001.149| ALWAYS| DX11 feature level: 11.0
-000001.346| ALWAYS| Using X3D Platform: DX11
-000001.358| ALWAYS| X3D: Focus Gained
-000001.364| ALWAYS| r3dRenderLayer::RecreateOwnedResources
-000001.364| ALWAYS| r3dRenderLayer::InitResources exit successfully
-000001.532| ALWAYS| AudioManager: Wwise Version v2019.1.10 initialized.
-000001.560| ALWAYS|  FLOW| Push: Bootstrap complete
-000001.562| ALWAYS|  FLOW| Push: Patching  Current: Bootstrap
-000001.564| ALWAYS|  FLOW| Push: Patching complete
-000001.565| ALWAYS|  FLOW| Pop: Patching
-000001.569| ALWAYS|  FLOW| Pop: Patching complete  Current: Bootstrap
-000001.570| ALWAYS|  FLOW| Push: LoLCommon  Current: Bootstrap
-000001.693| ALWAYS|  FLOW| Push: LoLCommon complete
-000001.694| ALWAYS|  FLOW| Push: GameSession  Current: LoLCommon
-000001.695| ALWAYS| GameStartData::GameID=1339272613
-000001.698| ALWAYS| Client Clock Synchronization Started
-000001.699| ALWAYS|  CONN| Connecting to address (138.0.12.195) port (5358)
-000001.699| ALWAYS| LCURemotingClient: Initializing on port 50282
-000001.700| ALWAYS|  CONN| Waiting for response from game server...
-000001.700| ALWAYS|  FLOW| Push: GameSession complete
-000001.704| ALWAYS| LCURemotingClient: Connected to app process.
-000001.870| ALWAYS|  CONN| Hard Connect at LocalSimTime(0.000)
-000001.881| ALWAYS|   CLK| Replica[0] Scale negative delay correction: 0.011440
-000001.881| ALWAYS|   CLK| Replica[0]: Scale(1.00) LocalTime(0.000) SegmentStartTime(0.000) LocalOffset(2.008) Snap
-000001.882| ALWAYS|   CLK| Replica[0] Pause negative delay correction: 0.012199
-000001.882| ALWAYS|   CLK| Replica[0]: Command(Pause) LocalTime(0.000) SegmentStartTime(0.000) LocalOffset(2.007) Snap
-000001.882| ALWAYS|   CLK| Replica[1] Scale negative delay correction: 0.012375
-000001.882| ALWAYS|   CLK| Replica[1]: Scale(1.00) LocalTime(0.000) SegmentStartTime(1.529) LocalOffset(2.007) Snap
-000001.882| ALWAYS|   CLK| Replica[1] Pause negative delay correction: 0.012424
-000001.882| ALWAYS|   CLK| Replica[1]: Command(Unpause) LocalTime(1.529) SegmentStartTime(1.529) LocalOffset(2.007) Snap
-000001.907| ALWAYS| LCUChatClientAsync: Chat session is "loaded".
-000001.975| ALWAYS|  CONN| Game Info Received ServerSimTime(0.000) PreviousDisconnectCount(0)
-000001.975| ALWAYS|  ROST| CONNECTION READY | TeamOrder 0) 'Daniłø' - Champion(Olaf) SkinID(35) TeamBuilderRole(TOP) PUUID(14909c88-403e-524c-aaa9-a759ab50fa41) ConnectionState(Disconnected)
-000001.975
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report name" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="1a2c0bf5-db4a-47be-bb97-ab638b53e10c">
+	<property name="ireport.zoom" value="1.3310000000000004"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<field name="id_prov" class="java.lang.Integer"/>
+	<field name="ruc" class="java.lang.String"/>
+	<field name="razon_social" class="java.lang.String"/>
+	<field name="direccion" class="java.lang.String"/>
+	<field name="telefono" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="18" splitType="Stretch">
+			<staticText>
+				<reportElement x="165" y="0" width="165" height="18" uuid="2151aa57-82d3-4899-88f2-4fa6a220719b"/>
+				<text><![CDATA[LISTA DE PROVEEDORES]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="20" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="24" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="37" height="20" uuid="65451024-df66-43be-b189-ef719edbd17a"/>
+				<text><![CDATA[ID]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="37" y="0" width="90" height="20" uuid="b0a8eeae-3889-4598-bca2-acfb06d03a22"/>
+				<text><![CDATA[RUC]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="127" y="0" width="151" height="20" uuid="7b23c7a1-40e5-44c3-b550-6d8df1bfd71f"/>
+				<text><![CDATA[RAZON SOCIAL]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="278" y="0" width="177" height="20" uuid="5f22f33d-19bb-4374-abe6-3b0d47ff47c9"/>
+				<text><![CDATA[DIRECCION]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="455" y="0" width="100" height="20" uuid="6b9407be-1fff-4391-84dd-8ecf8d71e532"/>
+				<text><![CDATA[TELEFONO]]></text>
+			</staticText>
+			<line>
+				<reportElement x="1" y="19" width="554" height="1" uuid="0ed6b68d-a4fe-4c6c-aa44-9c831ebb5b35"/>
+			</line>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="25" splitType="Stretch">
+			<textField>
+				<reportElement x="3" y="3" width="34" height="20" uuid="2548b49b-d4da-4a56-8618-7b1d0b9449a3"/>
+				<textFieldExpression><![CDATA[$F{id_prov}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="37" y="3" width="90" height="20" uuid="eb9284d0-01f4-4bbe-a6fd-1953590d32d3"/>
+				<textFieldExpression><![CDATA[$F{ruc}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="127" y="3" width="151" height="20" uuid="747e3aef-09b3-4836-bb29-d863e8c07a07"/>
+				<textFieldExpression><![CDATA[$F{razon_social}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="278" y="3" width="177" height="20" uuid="44472d6d-7115-42bd-a14d-937be3ffd287"/>
+				<textFieldExpression><![CDATA[$F{direccion}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="455" y="3" width="100" height="20" uuid="634bd081-ae56-48b6-b393-4d98d668f1ca"/>
+				<textFieldExpression><![CDATA[$F{telefono}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch">
+			<textField>
+				<reportElement x="505" y="34" width="50" height="20" uuid="4e342a7f-c985-422f-8cfe-42a538f2af76"/>
+				<textFieldExpression><![CDATA[$V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

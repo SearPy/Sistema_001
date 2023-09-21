@@ -1,351 +1,1500 @@
-me\":\"ITEM1\"},{\"value\":10327,\"statTypeName\":\"GOLD_EARNED\"},{\"value\":176224,\"statTypeName\":\"TOTAL_DAMAGE_DEALT\"},{\"value\":9,\"statTypeName\":\"WARD_KILLED\"},{\"value\":1,\"statTypeName\":\"LARGEST_MULTI_KILL\"},{\"value\":3,\"statTypeName\":\"LARGEST_CRITICAL_STRIKE\"},{\"value\":7627,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":0,\"statTypeName\":\"PERK3_VAR2\"},{\"value\":328,\"statTypeName\":\"PERK1_VAR1\"},{\"value\":0,\"statTypeName\":\"PERK2_VAR3\"},{\"value\":0,\"statTypeName\":\"SIGHT_WARDS_BOUGHT_IN_GAME\"},{\"value\":8,\"statTypeName\":\"VISION_WARDS_BOUGHT_IN_GAME\"},{\"value\":8008,\"statTypeName\":\"PERK0\"},{\"value\":8299,\"statTypeName\":\"PERK3\"},{\"value\":42076,\"statTypeName\":\"TOTAL_DAMAGE_SELF_MITIGATED\"},{\"value\":245,\"statTypeName\":\"TOTAL_TIME_SPENT_DEAD\"},{\"value\":8232,\"statTypeName\":\"PERK5\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_4\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR3\"},{\"value\":3076,\"statTypeName\":\"ITEM4\"},{\"value\":11740,\"statTypeName\":\"PERK4_VAR1\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_SURRENDER\"},{\"value\":9104,\"statTypeName\":\"PERK2\"},{\"value\":2,\"statTypeName\":\"CHAMPIONS_KILLED\"},{\"value\":6665,\"statTypeName\":\"ITEM0\"},{\"value\":28,\"statTypeName\":\"SPELL2_CAST\"},{\"value\":126,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_YOUR_JUNGLE\"},{\"value\":0,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_TURRETS\"},{\"value\":54022,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_PLAYER\"},{\"value\":9111,\"statTypeName\":\"PERK1\"},{\"value\":8160,\"statTypeName\":\"MAGIC_DAMAGE_TAKEN\"},{\"value\":19,\"statTypeName\":\"PERK0_VAR1\"},{\"value\":23736,\"statTypeName\":\"PHYSICAL_DAMAGE_TAKEN\"},{\"value\":127,\"statTypeName\":\"SPELL1_CAST\"},{\"value\":0,\"statTypeName\":\"TOTAL_DAMAGE_SHIELDED_ON_TEAMMATES\"},{\"value\":3780,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":507,\"statTypeName\":\"TOTAL_TIME_CROWD_CONTROL_DEALT\"},{\"value\":40,\"statTypeName\":\"PERK5_VAR2\"},{\"value\":0,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_BUILDINGS\"},{\"value\":14,\"statTypeName\":\"LEVEL\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_1\"},{\"value\":1,\"statTypeName\":\"PERK0_VAR2\"},{\"value\":8234,\"statTypeName\":\"PERK4\"},{\"value\":151,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED\"},{\"value\":0,\"statTypeName\":\"PERK1_VAR3\"},{\"value\":0,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_ENEMY_JUNGLE\"},{\"value\":50,\"statTypeName\":\"PERK2_VAR2\"},{\"value\":3335,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR3\"},{\"value\":0,\"statTypeName\":\"TURRETS_KILLED\"},{\"value\":1309,\"statTypeName\":\"TRUE_DAMAGE_TAKEN\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM_PLACEMENT\"},{\"value\":8,\"statTypeName\":\"ASSISTS\"},{\"value\":10,\"statTypeName\":\"WARD_PLACED\"},{\"value\":8200,\"statTypeName\":\"PERK_SUB_STYLE\"},{\"value\":0,\"statTypeName\":\"TOTAL_HEAL_ON_TEAMMATES\"},{\"value\":15504,\"statTypeName\":\"TOTAL_HEAL\"},{\"value\":0,\"statTypeName\":\"LARGEST_KILLING_SPREE\"},{\"value\":8000,\"statTypeName\":\"PERK_PRIMARY_STYLE\"},{\"value\":0,\"statTypeName\":\"ITEM2\"},{\"value\":0,\"statTypeName\":\"PERK0_VAR3\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_EARLY_SURRENDER\"},{\"value\":43364,\"statTypeName\":\"TRUE_DAMAGE_DEALT_PLAYER\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_2\"},{\"value\":3047,\"statTypeName\":\"ITEM3\"},{\"value\":0,\"statTypeName\":\"TEAM_EARLY_SURRENDERED\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR2\"}]},{\"level\":504,\"userId\":18371309,\"puuid\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"teamId\":200,\"gameId\":1339906705,\"leaver\":false,\"summonerName\":\"Sear Cosmico\",\"skinName\":\"Azir\",\"profileIconId\":4834,\"wins\":2042,\"leaves\":115,\"losses\":2095,\"eloChange\":0,\"elo\":0,\"botPlayer\":false,\"spell1Id\":4,\"spell2Id\":12,\"championId\":268,\"skinIndex\":3,\"selectedPosition\":\"MIDDLE\",\"detectedTeamPosition\":\"MIDDLE\",\"statistics\":[{\"value\":0,\"statTypeName\":\"PERK3_VAR3\"},{\"value\":24,\"statTypeName\":\"PERK2_VAR1\"},{\"value\":0,\"statTypeName\":\"WAS_AFK\"},{\"value\":0,\"statTypeName\":\"TEAM_OBJECTIVE\"},{\"value\":0,\"statTypeName\":\"BARRACKS_KILLED\"},{\"value\":66,\"statTypeName\":\"SPELL1_CAST\"},{\"value\":0,\"statTypeName\":\"PERK2_VAR2\"},{\"value\":163023,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_PLAYER\"},{\"value\":8009,\"statTypeName\":\"PERK1\"},{\"value\":11468,\"statTypeName\":\"GOLD_EARNED\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR2\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_3\"},{\"value\":15074,\"statTypeName\":\"PHYSICAL_DAMAGE_TAKEN\"},{\"value\":2995,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_BUILDINGS\"},{\"value\":1,\"statTypeName\":\"LOSE\"},{\"value\":250,\"statTypeName\":\"PERK4_VAR1\"},{\"value\":4,\"statTypeName\":\"NUM_DEATHS\"},{\"value\":2995,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_TURRETS\"},{\"value\":3360,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_OBJECTIVES\"},{\"value\":21965,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":0,\"statTypeName\":\"LARGEST_CRITICAL_STRIKE\"},{\"value\":3157,\"statTypeName\":\"ITEM2\"},{\"value\":2,\"statTypeName\":\"LARGEST_MULTI_KILL\"},{\"value\":0,\"statTypeName\":\"PERK3_VAR2\"},{\"value\":21104,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":178,\"statTypeName\":\"MINIONS_KILLED\"},{\"value\":1060,\"statTypeName\":\"PERK5_VAR1\"},{\"value\":0,\"statTypeName\":\"ITEM5\"},{\"value\":0,\"statTypeName\":\"PERK2_VAR3\"},{\"value\":0,\"statTypeName\":\"SIGHT_WARDS_BOUGHT_IN_GAME\"},{\"value\":3,\"statTypeName\":\"WARD_KILLED\"},{\"value\":8237,\"statTypeName\":\"PERK5\"},{\"value\":8008,\"statTypeName\":\"PERK0\"},{\"value\":0,\"statTypeName\":\"ITEM4\"},{\"value\":238,\"statTypeName\":\"TRUE_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":6653,\"statTypeName\":\"ITEM0\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_4\"},{\"value\":6727,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_PLAYER\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR3\"},{\"value\":0,\"statTypeName\":\"VISION_WARDS_BOUGHT_IN_GAME\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_SURRENDER\"},{\"value\":9104,\"statTypeName\":\"PERK2\"},{\"value\":1,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED\"},{\"value\":3,\"statTypeName\":\"CHAMPIONS_KILLED\"},{\"value\":20,\"statTypeName\":\"VISION_SCORE\"},{\"value\":22057,\"statTypeName\":\"TOTAL_DAMAGE_TAKEN\"},{\"value\":19,\"statTypeName\":\"PERK0_VAR1\"},{\"value\":0,\"statTypeName\":\"TOTAL_DAMAGE_SHIELDED_ON_TEAMMATES\"},{\"value\":16,\"statTypeName\":\"LEVEL\"},{\"value\":1674,\"statTypeName\":\"TRUE_DAMAGE_TAKEN\"},{\"value\":0,\"statTypeName\":\"PERK0_VAR2\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM\"},{\"value\":365,\"statTypeName\":\"PERK3_VAR1\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_1\"},{\"value\":18688,\"statTypeName\":\"TOTAL_DAMAGE_SELF_MITIGATED\"},{\"value\":0,\"statTypeName\":\"PERK1_VAR3\"},{\"value\":0,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_ENEMY_JUNGLE\"},{\"value\":169989,\"statTypeName\":\"TOTAL_DAMAGE_DEALT\"},{\"value\":168,\"statTypeName\":\"SPELL2_CAST\"},{\"value\":143,\"statTypeName\":\"TOTAL_TIME_SPENT_DEAD\"},{\"value\":8014,\"statTypeName\":\"PERK3\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR3\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM_PLACEMENT\"},{\"value\":1,\"statTypeName\":\"TURRETS_KILLED\"},{\"value\":3020,\"statTypeName\":\"ITEM3\"},{\"value\":8,\"statTypeName\":\"ASSISTS\"},{\"value\":10,\"statTypeName\":\"WARD_PLACED\"},{\"value\":622,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":238,\"statTypeName\":\"TRUE_DAMAGE_DEALT_PLAYER\"},{\"value\":8200,\"statTypeName\":\"PERK_SUB_STYLE\"},{\"value\":3,\"statTypeName\":\"LARGEST_KILLING_SPREE\"},{\"value\":0,\"statTypeName\":\"TOTAL_HEAL_ON_TEAMMATES\"},{\"value\":8226,\"statTypeName\":\"PERK4\"},{\"value\":8000,\"statTypeName\":\"PERK_PRIMARY_STYLE\"},{\"value\":5308,\"statTypeName\":\"MAGIC_DAMAGE_TAKEN\"},{\"value\":0,\"statTypeName\":\"PERK0_VAR3\"},{\"value\":1056,\"statTypeName\":\"ITEM1\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_EARLY_SURRENDER\"},{\"value\":2712,\"statTypeName\":\"TOTAL_HEAL\"},{\"value\":0,\"statTypeName\":\"PERK1_VAR2\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_2\"},{\"value\":3614,\"statTypeName\":\"PERK1_VAR1\"},{\"value\":632,\"statTypeName\":\"PERK4_VAR2\"},{\"value\":14,\"statTypeName\":\"TIME_CCING_OTHERS\"},{\"value\":3340,\"statTypeName\":\"ITEM6\"},{\"value\":262,\"statTypeName\":\"TOTAL_TIME_CROWD_CONTROL_DEALT\"},{\"value\":0,\"statTypeName\":\"TEAM_EARLY_SURRENDERED\"},{\"value\":1,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_YOUR_JUNGLE\"}]},{\"level\":57,\"userId\":5161990,\"puuid\":\"5ed99275-0dfe-527b-8834-9b449417a7a2\",\"teamId\":200,\"gameId\":1339906705,\"leaver\":false,\"summonerName\":\"Kathishum\",\"skinName\":\"Jinx\",\"profileIconId\":5766,\"wins\":98,\"leaves\":1,\"losses\":91,\"eloChange\":0,\"elo\":0,\"botPlayer\":false,\"spell1Id\":4,\"spell2Id\":7,\"championId\":222,\"skinIndex\":0,\"selectedPosition\":\"BOTTOM\",\"detectedTeamPosition\":\"BOTTOM\",\"statistics\":[{\"value\":0,\"statTypeName\":\"PERK3_VAR3\"},{\"value\":79,\"statTypeName\":\"PERK0_VAR1\"},{\"value\":6224,\"statTypeName\":\"TRUE_DAMAGE_DEALT_PLAYER\"},{\"value\":3031,\"statTypeName\":\"ITEM5\"},{\"value\":20,\"statTypeName\":\"PERK2_VAR1\"},{\"value\":8,\"statTypeName\":\"NUM_DEATHS\"},{\"value\":0,\"statTypeName\":\"WAS_AFK\"},{\"value\":0,\"statTypeName\":\"TEAM_OBJECTIVE\"},{\"value\":0,\"statTypeName\":\"BARRACKS_KILLED\"},{\"value\":170037,\"statTypeName\":\"TOTAL_DAMAGE_DEALT\"},{\"value\":4306,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_PLAYER\"},{\"value\":8009,\"statTypeName\":\"PERK1\"},{\"value\":3363,\"statTypeName\":\"ITEM6\"},{\"value\":28,\"statTypeName\":\"PERK5_VAR1\"},{\"value\":159507,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_PLAYER\"},{\"value\":27738,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":36,\"statTypeName\":\"TIME_CCING_OTHERS\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR2\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_3\"},{\"value\":1,\"statTypeName\":\"LOSE\"},{\"value\":76,\"statTypeName\":\"SPELL1_CAST\"},{\"value\":4738,\"statTypeName\":\"MAGIC_DAMAGE_TAKEN\"},{\"value\":25267,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":3094,\"statTypeName\":\"ITEM4\"},{\"value\":770,\"statTypeName\":\"LARGEST_CRITICAL_STRIKE\"},{\"value\":2,\"statTypeName\":\"LARGEST_MULTI_KILL\"},{\"value\":8,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED\"},{\"value\":0,\"statTypeName\":\"PERK3_VAR2\"},{\"value\":52,\"statTypeName\":\"SPELL2_CAST\"},{\"value\":2,\"statTypeName\":\"WARD_KILLED\"},{\"value\":180,\"statTypeName\":\"MINIONS_KILLED\"},{\"value\":25628,\"statTypeName\":\"TOTAL_DAMAGE_TAKEN\"},{\"value\":3006,\"statTypeName\":\"ITEM3\"},{\"value\":0,\"statTypeName\":\"PERK2_VAR3\"},{\"value\":0,\"statTypeName\":\"SIGHT_WARDS_BOUGHT_IN_GAME\"},{\"value\":8236,\"statTypeName\":\"PERK5\"},{\"value\":843,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_BUILDINGS\"},{\"value\":8008,\"statTypeName\":\"PERK0\"},{\"value\":2,\"statTypeName\":\"VISION_WARDS_BOUGHT_IN_GAME\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_4\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR3\"},{\"value\":843,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_TURRETS\"},{\"value\":3139,\"statTypeName\":\"ITEM2\"},{\"value\":12,\"statTypeName\":\"CHAMPIONS_KILLED\"},{\"value\":23,\"statTypeName\":\"VISION_SCORE\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_SURRENDER\"},{\"value\":9103,\"statTypeName\":\"PERK2\"},{\"value\":6672,\"statTypeName\":\"ITEM1\"},{\"value\":0,\"statTypeName\":\"TOTAL_DAMAGE_SHIELDED_ON_TEAMMATES\"},{\"value\":284,\"statTypeName\":\"TOTAL_TIME_SPENT_DEAD\"},{\"value\":16,\"statTypeName\":\"LEVEL\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_1\"},{\"value\":1055,\"statTypeName\":\"ITEM0\"},{\"value\":8233,\"statTypeName\":\"PERK4\"},{\"value\":19757,\"statTypeName\":\"PHYSICAL_DAMAGE_TAKEN\"},{\"value\":4,\"statTypeName\":\"PERK0_VAR2\"},{\"value\":17536,\"statTypeName\":\"TOTAL_DAMAGE_SELF_MITIGATED\"},{\"value\":0,\"statTypeName\":\"PERK1_VAR3\"},{\"value\":50,\"statTypeName\":\"PERK2_VAR2\"},{\"value\":30,\"statTypeName\":\"PERK4_VAR2\"},{\"value\":1667,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":2,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_ENEMY_JUNGLE\"},{\"value\":335,\"statTypeName\":\"TOTAL_HEAL_ON_TEAMMATES\"},{\"value\":8014,\"statTypeName\":\"PERK3\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR3\"},{\"value\":0,\"statTypeName\":\"TURRETS_KILLED\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM_PLACEMENT\"},{\"value\":7,\"statTypeName\":\"ASSISTS\"},{\"value\":8200,\"statTypeName\":\"PERK_SUB_STYLE\"},{\"value\":12,\"statTypeName\":\"WARD_PLACED\"},{\"value\":5773,\"statTypeName\":\"TOTAL_HEAL\"},{\"value\":804,\"statTypeName\":\"TRUE_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":1132,\"statTypeName\":\"TRUE_DAMAGE_TAKEN\"},{\"value\":14627,\"statTypeName\":\"GOLD_EARNED\"},{\"value\":8000,\"statTypeName\":\"PERK_PRIMARY_STYLE\"},{\"value\":2821,\"statTypeName\":\"PERK1_VAR1\"},{\"value\":20,\"statTypeName\":\"PERK4_VAR1\"},{\"value\":0,\"statTypeName\":\"PERK0_VAR3\"},{\"value\":845,\"statTypeName\":\"PERK3_VAR1\"},{\"value\":21811,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_OBJECTIVES\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_EARLY_SURRENDER\"},{\"value\":9,\"statTypeName\":\"LARGEST_KILLING_SPREE\"},{\"value\":0,\"statTypeName\":\"PERK1_VAR2\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_2\"},{\"value\":135,\"statTypeName\":\"TOTAL_TIME_CROWD_CONTROL_DEALT\"},{\"value\":4,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_YOUR_JUNGLE\"},{\"value\":0,\"statTypeName\":\"TEAM_EARLY_SURRENDERED\"}]},{\"level\":339,\"userId\":2654157790267232,\"puuid\":\"da0db959-d03d-5feb-aae5-9075b9960198\",\"teamId\":200,\"gameId\":1339906705,\"leaver\":false,\"summonerName\":\"Nicholas Nelson\",\"skinName\":\"Xerath\",\"profileIconId\":4068,\"wins\":905,\"leaves\":15,\"losses\":878,\"eloChange\":0,\"elo\":0,\"botPlayer\":false,\"spell1Id\":14,\"spell2Id\":4,\"championId\":101,\"skinIndex\":12,\"selectedPosition\":\"UTILITY\",\"detectedTeamPosition\":\"UTILITY\",\"statistics\":[{\"value\":0,\"statTypeName\":\"PERK3_VAR3\"},{\"value\":3089,\"statTypeName\":\"ITEM3\"},{\"value\":8347,\"statTypeName\":\"PERK3\"},{\"value\":1463,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_BUILDINGS\"},{\"value\":1001,\"statTypeName\":\"TOTAL_HEAL\"},{\"value\":20404,\"statTypeName\":\"TOTAL_DAMAGE_TAKEN\"},{\"value\":232,\"statTypeName\":\"TOTAL_TIME_SPENT_DEAD\"},{\"value\":1109,\"statTypeName\":\"TRUE_DAMAGE_TAKEN\"},{\"value\":0,\"statTypeName\":\"WAS_AFK\"},{\"value\":7,\"statTypeName\":\"NUM_DEATHS\"},{\"value\":0,\"statTypeName\":\"TEAM_OBJECTIVE\"},{\"value\":0,\"statTypeName\":\"BARRACKS_KILLED\"},{\"value\":0,\"statTypeName\":\"PERK2_VAR2\"},{\"value\":3364,\"statTypeName\":\"ITEM6\"},{\"value\":33,\"statTypeName\":\"TIME_CCING_OTHERS\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR2\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_3\"},{\"value\":3732,\"statTypeName\":\"MAGIC_DAMAGE_TAKEN\"},{\"value\":3020,\"statTypeName\":\"ITEM5\"},{\"value\":1,\"statTypeName\":\"LOSE\"},{\"value\":1463,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_TURRETS\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR1\"},{\"value\":113725,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_PLAYER\"},{\"value\":4447,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_PLAYER\"},{\"value\":8345,\"statTypeName\":\"PERK2\"},{\"value\":62,\"statTypeName\":\"SPELL2_CAST\"},{\"value\":0,\"statTypeName\":\"LARGEST_CRITICAL_STRIKE\"},{\"value\":3853,\"statTypeName\":\"ITEM0\"},{\"value\":2,\"statTypeName\":\"LARGEST_MULTI_KILL\"},{\"value\":89,\"statTypeName\":\"SPELL1_CAST\"},{\"value\":0,\"statTypeName\":\"PERK3_VAR2\"},{\"value\":48,\"statTypeName\":\"PERK5_VAR1\"},{\"value\":5,\"statTypeName\":\"WARD_KILLED\"},{\"value\":553,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":0,\"statTypeName\":\"PERK2_VAR3\"},{\"value\":0,\"statTypeName\":\"SIGHT_WARDS_BOUGHT_IN_GAME\"},{\"value\":8236,\"statTypeName\":\"PERK5\"},{\"value\":2,\"statTypeName\":\"VISION_WARDS_BOUGHT_IN_GAME\"},{\"value\":0,\"statTypeName\":\"ITEM4\"},{\"value\":12140,\"statTypeName\":\"GOLD_EARNED\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_4\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR3\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_SURRENDER\"},{\"value\":8300,\"statTypeName\":\"PERK_PRIMARY_STYLE\"},{\"value\":7,\"statTypeName\":\"CHAMPIONS_KILLED\"},{\"value\":4,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED\"},{\"value\":0,\"statTypeName\":\"PERK3_VAR1\"},{\"value\":8369,\"statTypeName\":\"PERK0\"},{\"value\":15,\"statTypeName\":\"LEVEL\"},{\"value\":0,\"statTypeName\":\"TOTAL_DAMAGE_SHIELDED_ON_TEAMMATES\"},{\"value\":7022,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_OBJECTIVES\"},{\"value\":122483,\"statTypeName\":\"TOTAL_DAMAGE_DEALT\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_1\"},{\"value\":5,\"statTypeName\":\"PERK1_VAR3\"},{\"value\":6653,\"statTypeName\":\"ITEM1\"},{\"value\":0,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_ENEMY_JUNGLE\"},{\"value\":233,\"statTypeName\":\"TOTAL_TIME_CROWD_CONTROL_DEALT\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR3\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM_PLACEMENT\"},{\"value\":1,\"statTypeName\":\"TURRETS_KILLED\"},{\"value\":6,\"statTypeName\":\"ASSISTS\"},{\"value\":29356,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":4628,\"statTypeName\":\"ITEM2\"},{\"value\":8200,\"statTypeName\":\"PERK_SUB_STYLE\"},{\"value\":32524,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":11,\"statTypeName\":\"PERK1_VAR1\"},{\"value\":3,\"statTypeName\":\"PERK2_VAR1\"},{\"value\":906,\"statTypeName\":\"PERK0_VAR2\"},{\"value\":0,\"statTypeName\":\"TOTAL_HEAL_ON_TEAMMATES\"},{\"value\":72,\"statTypeName\":\"VISION_SCORE\"},{\"value\":2,\"statTypeName\":\"LARGEST_KILLING_SPREE\"},{\"value\":0,\"statTypeName\":\"PERK0_VAR3\"},{\"value\":15563,\"statTypeName\":\"PHYSICAL_DAMAGE_TAKEN\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_EARLY_SURRENDER\"},{\"value\":29,\"statTypeName\":\"WARD_PLACED\"},{\"value\":1,\"statTypeName\":\"PERK1_VAR2\"},{\"value\":102,\"statTypeName\":\"MINIONS_KILLED\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_2\"},{\"value\":8304,\"statTypeName\":\"PERK1\"},{\"value\":1207,\"statTypeName\":\"PERK0_VAR1\"},{\"value\":11810,\"statTypeName\":\"TOTAL_DAMAGE_SELF_MITIGATED\"},{\"value\":4,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_YOUR_JUNGLE\"},{\"value\":4310,\"statTypeName\":\"TRUE_DAMAGE_DEALT_PLAYER\"},{\"value\":8210,\"statTypeName\":\"PERK4\"},{\"value\":2614,\"statTypeName\":\"TRUE_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":0,\"statTypeName\":\"TEAM_EARLY_SURRENDERED\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR2\"}]}],\"otherTeamPlayerParticipantStats\":[{\"level\":124,\"userId\":24621525,\"puuid\":\"3749a39a-a679-5bf8-8105-baab3d35b095\",\"teamId\":100,\"gameId\":1339906705,\"leaver\":false,\"summonerName\":\"brendathalia05\",\"skinName\":\"Mordekaiser\",\"profileIconId\":6267,\"wins\":550,\"leaves\":7,\"losses\":589,\"eloChange\":0,\"elo\":0,\"botPlayer\":false,\"spell1Id\":12,\"spell2Id\":4,\"championId\":82,\"skinIndex\":0,\"selectedPosition\":\"TOP\",\"detectedTeamPosition\":\"TOP\",\"statistics\":[{\"value\":0,\"statTypeName\":\"PERK3_VAR3\"},{\"value\":0,\"statTypeName\":\"TRUE_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":0,\"statTypeName\":\"WAS_AFK\"},{\"value\":1260,\"statTypeName\":\"PERK1_VAR1\"},{\"value\":0,\"statTypeName\":\"TEAM_OBJECTIVE\"},{\"value\":10686,\"statTypeName\":\"GOLD_EARNED\"},{\"value\":11371,\"statTypeName\":\"TOTAL_HEAL\"},{\"value\":0,\"statTypeName\":\"BARRACKS_KILLED\"},{\"value\":30,\"statTypeName\":\"PERK2_VAR1\"},{\"value\":34747,\"statTypeName\":\"TOTAL_DAMAGE_SELF_MITIGATED\"},{\"value\":499,\"statTypeName\":\"PERK4_VAR1\"},{\"value\":72,\"statTypeName\":\"SPELL1_CAST\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_3\"},{\"value\":1175,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":6665,\"statTypeName\":\"ITEM3\"},{\"value\":3116,\"statTypeName\":\"ITEM2\"},{\"value\":1,\"statTypeName\":\"NUM_DEATHS\"},{\"value\":1011,\"statTypeName\":\"ITEM5\"},{\"value\":180,\"statTypeName\":\"PERK1_VAR2\"},{\"value\":1,\"statTypeName\":\"LARGEST_MULTI_KILL\"},{\"value\":0,\"statTypeName\":\"LARGEST_CRITICAL_STRIKE\"},{\"value\":8709,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_OBJECTIVES\"},{\"value\":371,\"statTypeName\":\"PERK0_VAR1\"},{\"value\":8500,\"statTypeName\":\"TRUE_DAMAGE_DEALT_PLAYER\"},{\"value\":0,\"statTypeName\":\"PERK3_VAR2\"},{\"value\":1,\"statTypeName\":\"WARD_KILLED\"},{\"value\":13077,\"statTypeName\":\"PHYSICAL_DAMAGE_TAKEN\"},{\"value\":410,\"statTypeName\":\"PERK3_VAR1\"},{\"value\":30,\"statTypeName\":\"PERK2_VAR2\"},{\"value\":1,\"statTypeName\":\"WIN\"},{\"value\":0,\"statTypeName\":\"PERK2_VAR3\"},{\"value\":0,\"statTypeName\":\"SIGHT_WARDS_BOUGHT_IN_GAME\"},{\"value\":777,\"statTypeName\":\"PERK5_VAR2\"},{\"value\":1026,\"statTypeName\":\"ITEM4\"},{\"value\":8299,\"statTypeName\":\"PERK3\"},{\"value\":13146,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":63446,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_PLAYER\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_4\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR3\"},{\"value\":1,\"statTypeName\":\"VISION_WARDS_BOUGHT_IN_GAME\"},{\"value\":23,\"statTypeName\":\"VISION_SCORE\"},{\"value\":9105,\"statTypeName\":\"PERK2\"},{\"value\":3047,\"statTypeName\":\"ITEM1\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_SURRENDER\"},{\"value\":8400,\"statTypeName\":\"PERK_SUB_STYLE\"},{\"value\":8010,\"statTypeName\":\"PERK0\"},{\"value\":0,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED\"},{\"value\":4,\"statTypeName\":\"CHAMPIONS_KILLED\"},{\"value\":28,\"statTypeName\":\"SPELL2_CAST\"},{\"value\":9111,\"statTypeName\":\"PERK1\"},{\"value\":41,\"statTypeName\":\"TOTAL_TIME_SPENT_DEAD\"},{\"value\":0,\"statTypeName\":\"TOTAL_DAMAGE_SHIELDED_ON_TEAMMATES\"},{\"value\":16,\"statTypeName\":\"LEVEL\"},{\"value\":1038,\"statTypeName\":\"TRUE_DAMAGE_TAKEN\"},{\"value\":0,\"statTypeName\":\"PERK0_VAR2\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM\"},{\"value\":1054,\"statTypeName\":\"ITEM0\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_1\"},{\"value\":1245,\"statTypeName\":\"PERK5_VAR1\"},{\"value\":0,\"statTypeName\":\"PERK1_VAR3\"},{\"value\":0,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_ENEMY_JUNGLE\"},{\"value\":6,\"statTypeName\":\"TURRETS_KILLED\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR3\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM_PLACEMENT\"},{\"value\":8473,\"statTypeName\":\"PERK4\"},{\"value\":5,\"statTypeName\":\"ASSISTS\"},{\"value\":13,\"statTypeName\":\"WARD_PLACED\"},{\"value\":97176,\"statTypeName\":\"TOTAL_DAMAGE_DEALT\"},{\"value\":8453,\"statTypeName\":\"PERK5\"},{\"value\":4,\"statTypeName\":\"LARGEST_KILLING_SPREE\"},{\"value\":0,\"statTypeName\":\"TOTAL_HEAL_ON_TEAMMATES\"},{\"value\":153,\"statTypeName\":\"TOTAL_TIME_CROWD_CONTROL_DEALT\"},{\"value\":8000,\"statTypeName\":\"PERK_PRIMARY_STYLE\"},{\"value\":24410,\"statTypeName\":\"TOTAL_DAMAGE_TAKEN\"},{\"value\":0,\"statTypeName\":\"PERK0_VAR3\"},{\"value\":25230,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_PLAYER\"},{\"value\":108,\"statTypeName\":\"MINIONS_KILLED\"},{\"value\":4111,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_TURRETS\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_EARLY_SURRENDER\"},{\"value\":10294,\"statTypeName\":\"MAGIC_DAMAGE_TAKEN\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_2\"},{\"value\":3340,\"statTypeName\":\"ITEM6\"},{\"value\":4111,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_BUILDINGS\"},{\"value\":0,\"statTypeName\":\"TEAM_EARLY_SURRENDERED\"},{\"value\":14322,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":0,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_YOUR_JUNGLE\"},{\"value\":11,\"statTypeName\":\"TIME_CCING_OTHERS\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR2\"}]},{\"level\":312,\"userId\":18062854,\"puuid\":\"2917f691-0093-5152-baf7-97ccaf418834\",\"teamId\":100,\"gameId\":1339906705,\"leaver\":false,\"summonerName\":\"TuSugarCarryBB\",\"skinName\":\"Nocturne\",\"profileIconId\":4073,\"wins\":993,\"leaves\":32,\"losses\":914,\"eloChange\":0,\"elo\":0,\"botPlayer\":false,\"spell1Id\":4,\"spell2Id\":11,\"championId\":56,\"skinIndex\":5,\"selectedPosition\":\"JUNGLE\",\"detectedTeamPosition\":\"JUNGLE\",\"statistics\":[{\"value\":0,\"statTypeName\":\"PERK3_VAR3\"},{\"value\":33,\"statTypeName\":\"VISION_SCORE\"},{\"value\":0,\"statTypeName\":\"WAS_AFK\"},{\"value\":7,\"statTypeName\":\"NUM_DEATHS\"},{\"value\":0,\"statTypeName\":\"TEAM_OBJECTIVE\"},{\"value\":3067,\"statTypeName\":\"ITEM4\"},{\"value\":1,\"statTypeName\":\"BARRACKS_KILLED\"},{\"value\":14909,\"statTypeName\":\"GOLD_EARNED\"},{\"value\":21224,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":46123,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_OBJECTIVES\"},{\"value\":3158,\"statTypeName\":\"ITEM1\"},{\"value\":5,\"statTypeName\":\"PERK5_VAR1\"},{\"value\":156,\"statTypeName\":\"TIME_CCING_OTHERS\"},{\"value\":276816,\"statTypeName\":\"TOTAL_DAMAGE_DEALT\"},{\"value\":3363,\"statTypeName\":\"ITEM6\"},{\"value\":26342,\"statTypeName\":\"PHYSICAL_DAMAGE_TAKEN\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR2\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_3\"},{\"value\":14,\"statTypeName\":\"PERK2_VAR1\"},{\"value\":1,\"statTypeName\":\"LARGEST_MULTI_KILL\"},{\"value\":0,\"statTypeName\":\"LARGEST_CRITICAL_STRIKE\"},{\"value\":0,\"statTypeName\":\"PERK3_VAR2\"},{\"value\":57,\"statTypeName\":\"MINIONS_KILLED\"},{\"value\":5673,\"statTypeName\":\"TRUE_DAMAGE_TAKEN\"},{\"value\":19920,\"statTypeName\":\"TOTAL_HEAL\"},{\"value\":6333,\"statTypeName\":\"ITEM3\"},{\"value\":1,\"statTypeName\":\"WIN\"},{\"value\":0,\"statTypeName\":\"PERK2_VAR3\"},{\"value\":0,\"statTypeName\":\"SIGHT_WARDS_BOUGHT_IN_GAME\"},{\"value\":3,\"statTypeName\":\"WARD_KILLED\"},{\"value\":1124,\"statTypeName\":\"PERK1_VAR1\"},{\"value\":8008,\"statTypeName\":\"PERK0\"},{\"value\":8106,\"statTypeName\":\"PERK5\"},{\"value\":8138,\"statTypeName\":\"PERK4\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_4\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR3\"},{\"value\":1631,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":0,\"statTypeName\":\"VISION_WARDS_BOUGHT_IN_GAME\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_SURRENDER\"},{\"value\":7,\"statTypeName\":\"CHAMPIONS_KILLED\"},{\"value\":238,\"statTypeName\":\"TOTAL_TIME_SPENT_DEAD\"},{\"value\":9104,\"statTypeName\":\"PERK2\"},{\"value\":19124,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":119,\"statTypeName\":\"SPELL1_CAST\"},{\"value\":1402,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_BUILDINGS\"},{\"value\":9111,\"statTypeName\":\"PERK1\"},{\"value\":1402,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_TURRETS\"},{\"value\":8100,\"statTypeName\":\"PERK_SUB_STYLE\"},{\"value\":178,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED\"},{\"value\":0,\"statTypeName\":\"TOTAL_DAMAGE_SHIELDED_ON_TEAMMATES\"},{\"value\":16,\"statTypeName\":\"LEVEL\"},{\"value\":21,\"statTypeName\":\"SPELL2_CAST\"},{\"value\":17,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_ENEMY_JUNGLE\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_1\"},{\"value\":3192,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_PLAYER\"},{\"value\":109,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_YOUR_JUNGLE\"},{\"value\":40,\"statTypeName\":\"PERK2_VAR2\"},{\"value\":0,\"statTypeName\":\"PERK1_VAR3\"},{\"value\":5,\"statTypeName\":\"PERK0_VAR2\"},{\"value\":467,\"statTypeName\":\"TRUE_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":6631,\"statTypeName\":\"ITEM2\"},{\"value\":8014,\"statTypeName\":\"PERK3\"},{\"value\":6696,\"statTypeName\":\"ITEM0\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR3\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM_PLACEMENT\"},{\"value\":1,\"statTypeName\":\"TURRETS_KILLED\"},{\"value\":10051,\"statTypeName\":\"MAGIC_DAMAGE_TAKEN\"},{\"value\":6,\"statTypeName\":\"ASSISTS\"},{\"value\":13,\"statTypeName\":\"WARD_PLACED\"},{\"value\":42066,\"statTypeName\":\"TOTAL_DAMAGE_TAKEN\"},{\"value\":33166,\"statTypeName\":\"TOTAL_DAMAGE_SELF_MITIGATED\"},{\"value\":41,\"statTypeName\":\"PERK0_VAR1\"},{\"value\":3,\"statTypeName\":\"LARGEST_KILLING_SPREE\"},{\"value\":0,\"statTypeName\":\"TOTAL_HEAL_ON_TEAMMATES\"},{\"value\":222953,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_PLAYER\"},{\"value\":50669,\"statTypeName\":\"TRUE_DAMAGE_DEALT_PLAYER\"},{\"value\":3133,\"statTypeName\":\"ITEM5\"},{\"value\":8000,\"statTypeName\":\"PERK_PRIMARY_STYLE\"},{\"value\":0,\"statTypeName\":\"PERK0_VAR3\"},{\"value\":260,\"statTypeName\":\"PERK1_VAR2\"},{\"value\":18,\"statTypeName\":\"PERK4_VAR1\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_EARLY_SURRENDER\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_2\"},{\"value\":463,\"statTypeName\":\"PERK3_VAR1\"},{\"value\":645,\"statTypeName\":\"TOTAL_TIME_CROWD_CONTROL_DEALT\"},{\"value\":0,\"statTypeName\":\"TEAM_EARLY_SURRENDERED\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR2\"}]},{\"level\":310,\"userId\":25603671,\"puuid\":\"ce65a230-3089-503c-85d3-5932077a9029\",\"teamId\":100,\"gameId\":1339906705,\"leaver\":false,\"summonerName\":\"ReycapOne\",\"skinName\":\"Yone\",\"profileIconId\":5875,\"wins\":588,\"leaves\":29,\"losses\":586,\"eloChange\":0,\"elo\":0,\"botPlayer\":false,\"spell1Id\":4,\"spell2Id\":14,\"championId\":777,\"skinIndex\":23,\"selectedPosition\":\"MIDDLE\",\"detectedTeamPosition\":\"MIDDLE\",\"statistics\":[{\"value\":0,\"statTypeName\":\"PERK3_VAR3\"},{\"value\":8444,\"statTypeName\":\"PERK4\"},{\"value\":176129,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_PLAYER\"},{\"value\":33,\"statTypeName\":\"VISION_SCORE\"},{\"value\":21,\"statTypeName\":\"PERK2_VAR1\"},{\"value\":0,\"statTypeName\":\"WAS_AFK\"},{\"value\":0,\"statTypeName\":\"TEAM_OBJECTIVE\"},{\"value\":319,\"statTypeName\":\"SPELL1_CAST\"},{\"value\":25,\"statTypeName\":\"TIME_CCING_OTHERS\"},{\"value\":1054,\"statTypeName\":\"ITEM3\"},{\"value\":4779,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_BUILDINGS\"},{\"value\":3006,\"statTypeName\":\"ITEM1\"},{\"value\":16791,\"statTypeName\":\"MAGIC_DAMAGE_TAKEN\"},{\"value\":2,\"statTypeName\":\"BARRACKS_KILLED\"},{\"value\":14922,\"statTypeName\":\"GOLD_EARNED\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR2\"},{\"value\":4779,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_TURRETS\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_3\"},{\"value\":662,\"statTypeName\":\"LARGEST_CRITICAL_STRIKE\"},{\"value\":1370,\"statTypeName\":\"TRUE_DAMAGE_TAKEN\"},{\"value\":4,\"statTypeName\":\"NUM_DEATHS\"},{\"value\":3609,\"statTypeName\":\"TRUE_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":2,\"statTypeName\":\"LARGEST_MULTI_KILL\"},{\"value\":0,\"statTypeName\":\"PERK3_VAR2\"},{\"value\":18,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED\"},{\"value\":51,\"statTypeName\":\"SPELL2_CAST\"},{\"value\":1,\"statTypeName\":\"WIN\"},{\"value\":0,\"statTypeName\":\"PERK2_VAR3\"},{\"value\":0,\"statTypeName\":\"SIGHT_WARDS_BOUGHT_IN_GAME\"},{\"value\":3,\"statTypeName\":\"WARD_KILLED\"},{\"value\":7072,\"statTypeName\":\"TRUE_DAMAGE_DEALT_PLAYER\"},{\"value\":1621,\"statTypeName\":\"PERK4_VAR1\"},{\"value\":8008,\"statTypeName\":\"PERK0\"},{\"value\":2,\"statTypeName\":\"VISION_WARDS_BOUGHT_IN_GAME\"},{\"value\":8299,\"statTypeName\":\"PERK3\"},{\"value\":59,\"statTypeName\":\"PERK5_VAR1\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_4\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR3\"},{\"value\":10,\"statTypeName\":\"CHAMPIONS_KILLED\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_SURRENDER\"},{\"value\":8242,\"statTypeName\":\"PERK5\"},{\"value\":9104,\"statTypeName\":\"PERK2\"},{\"value\":8400,\"statTypeName\":\"PERK_SUB_STYLE\"},{\"value\":12160,\"statTypeName\":\"PHYSICAL_DAMAGE_TAKEN\"},{\"value\":7458,\"statTypeName\":\"TOTAL_HEAL\"},{\"value\":9111,\"statTypeName\":\"PERK1\"},{\"value\":30323,\"statTypeName\":\"TOTAL_DAMAGE_TAKEN\"},{\"value\":21,\"statTypeName\":\"PERK0_VAR1\"},{\"value\":17616,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":0,\"statTypeName\":\"TOTAL_DAMAGE_SHIELDED_ON_TEAMMATES\"},{\"value\":19853,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_PLAYER\"},{\"value\":17,\"statTypeName\":\"LEVEL\"},{\"value\":1063,\"statTypeName\":\"PERK1_VAR1\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_1\"},{\"value\":223,\"statTypeName\":\"TOTAL_TIME_CROWD_CONTROL_DEALT\"},{\"value\":1,\"statTypeName\":\"PERK0_VAR2\"},{\"value\":9,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_ENEMY_JUNGLE\"},{\"value\":0,\"statTypeName\":\"PERK1_VAR3\"},{\"value\":50,\"statTypeName\":\"PERK2_VAR2\"},{\"value\":196,\"statTypeName\":\"MINIONS_KILLED\"},{\"value\":280,\"statTypeName\":\"PERK1_VAR2\"},{\"value\":22792,\"statTypeName\":\"TOTAL_DAMAGE_SELF_MITIGATED\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR3\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM_PLACEMENT\"},{\"value\":1,\"statTypeName\":\"TURRETS_KILLED\"},{\"value\":6672,\"statTypeName\":\"ITEM2\"},{\"value\":3153,\"statTypeName\":\"ITEM4\"},{\"value\":4,\"statTypeName\":\"ASSISTS\"},{\"value\":14,\"statTypeName\":\"WARD_PLACED\"},{\"value\":3031,\"statTypeName\":\"ITEM0\"},{\"value\":26375,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":0,\"statTypeName\":\"TOTAL_HEAL_ON_TEAMMATES\"},{\"value\":203055,\"statTypeName\":\"TOTAL_DAMAGE_DEALT\"},{\"value\":3133,\"statTypeName\":\"ITEM5\"},{\"value\":8000,\"statTypeName\":\"PERK_PRIMARY_STYLE\"},{\"value\":0,\"statTypeName\":\"PERK0_VAR3\"},{\"value\":8114,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_OBJECTIVES\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_EARLY_SURRENDER\"},{\"value\":5149,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_2\"},{\"value\":8,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_YOUR_JUNGLE\"},{\"value\":6,\"statTypeName\":\"LARGEST_KILLING_SPREE\"},{\"value\":3340,\"statTypeName\":\"ITEM6\"},{\"value\":197,\"statTypeName\":\"PERK3_VAR1\"},{\"value\":0,\"statTypeName\":\"TEAM_EARLY_SURRENDERED\"},{\"value\":177,\"statTypeName\":\"TOTAL_TIME_SPENT_DEAD\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR2\"}]},{\"level\":306,\"userId\":23745097,\"puuid\":\"c77557b0-91e6-50d0-8e51-7a17f0b02456\",\"teamId\":100,\"gameId\":1339906705,\"leaver\":false,\"summonerName\":\"NACH07788\",\"skinName\":\"Yasuo\",\"profileIconId\":5944,\"wins\":891,\"leaves\":45,\"losses\":887,\"eloChange\":0,\"elo\":0,\"botPlayer\":false,\"spell1Id\":4,\"spell2Id\":14,\"championId\":157,\"skinIndex\":31,\"selectedPosition\":\"BOTTOM\",\"detectedTeamPosition\":\"BOTTOM\",\"statistics\":[{\"value\":0,\"statTypeName\":\"PERK3_VAR3\"},{\"value\":65479,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_PLAYER\"},{\"value\":3665,\"statTypeName\":\"TRUE_DAMAGE_DEALT_PLAYER\"},{\"value\":32,\"statTypeName\":\"VISION_SCORE\"},{\"value\":4145,\"statTypeName\":\"PERK0_VAR2\"},{\"value\":8,\"statTypeName\":\"NUM_DEATHS\"},{\"value\":0,\"statTypeName\":\"WAS_AFK\"},{\"value\":0,\"statTypeName\":\"TEAM_OBJECTIVE\"},{\"value\":3149,\"statTypeName\":\"PERK0_VAR1\"},{\"value\":211921,\"statTypeName\":\"TOTAL_DAMAGE_DEALT\"},{\"value\":37,\"statTypeName\":\"TIME_CCING_OTHERS\"},{\"value\":3072,\"statTypeName\":\"ITEM3\"},{\"value\":2,\"statTypeName\":\"BARRACKS_KILLED\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_3\"},{\"value\":8135,\"statTypeName\":\"PERK5\"},{\"value\":1170,\"statTypeName\":\"TRUE_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":33857,\"statTypeName\":\"TOTAL_DAMAGE_SELF_MITIGATED\"},{\"value\":13,\"statTypeName\":\"PERK2_VAR1\"},{\"value\":12,\"statTypeName\":\"ASSISTS\"},{\"value\":1,\"statTypeName\":\"LARGEST_MULTI_KILL\"},{\"value\":3087,\"statTypeName\":\"ITEM0\"},{\"value\":1043,\"statTypeName\":\"ITEM4\"},{\"value\":8021,\"statTypeName\":\"PERK0\"},{\"value\":546,\"statTypeName\":\"PERK3_VAR1\"},{\"value\":0,\"statTypeName\":\"PERK3_VAR2\"},{\"value\":551,\"statTypeName\":\"TRUE_DAMAGE_TAKEN\"},{\"value\":5,\"statTypeName\":\"PERK5_VAR2\"},{\"value\":1,\"statTypeName\":\"WIN\"},{\"value\":0,\"statTypeName\":\"PERK2_VAR3\"},{\"value\":0,\"statTypeName\":\"SIGHT_WARDS_BOUGHT_IN_GAME\"},{\"value\":3,\"statTypeName\":\"WARD_KILLED\"},{\"value\":3,\"statTypeName\":\"VISION_WARDS_BOUGHT_IN_GAME\"},{\"value\":8139,\"statTypeName\":\"PERK4\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_4\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR3\"},{\"value\":15465,\"statTypeName\":\"GOLD_EARNED\"},{\"value\":142775,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_PLAYER\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_SURRENDER\"},{\"value\":2,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED\"},{\"value\":32685,\"statTypeName\":\"TOTAL_DAMAGE_TAKEN\"},{\"value\":9104,\"statTypeName\":\"PERK2\"},{\"value\":8,\"statTypeName\":\"CHAMPIONS_KILLED\"},{\"value\":1188,\"statTypeName\":\"PERK4_VAR1\"},{\"value\":9111,\"statTypeName\":\"PERK1\"},{\"value\":33968,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":6670,\"statTypeName\":\"ITEM1\"},{\"value\":112,\"statTypeName\":\"TOTAL_TIME_CROWD_CONTROL_DEALT\"},{\"value\":400,\"statTypeName\":\"PERK1_VAR2\"},{\"value\":8100,\"statTypeName\":\"PERK_SUB_STYLE\"},{\"value\":0,\"statTypeName\":\"TOTAL_DAMAGE_SHIELDED_ON_TEAMMATES\"},{\"value\":450,\"statTypeName\":\"PERK5_VAR1\"},{\"value\":16,\"statTypeName\":\"LEVEL\"},{\"value\":22,\"statTypeName\":\"SPELL2_CAST\"},{\"value\":1773,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_OBJECTIVES\"},{\"value\":262,\"statTypeName\":\"SPELL1_CAST\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_1\"},{\"value\":1773,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_BUILDINGS\"},{\"value\":1773,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_TURRETS\"},{\"value\":40,\"statTypeName\":\"PERK2_VAR2\"},{\"value\":0,\"statTypeName\":\"PERK1_VAR3\"},{\"value\":2,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_ENEMY_JUNGLE\"},{\"value\":8014,\"statTypeName\":\"PERK3\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR3\"},{\"value\":1205,\"statTypeName\":\"PERK1_VAR1\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM_PLACEMENT\"},{\"value\":1,\"statTypeName\":\"TURRETS_KILLED\"},{\"value\":6671,\"statTypeName\":\"ITEM2\"},{\"value\":14,\"statTypeName\":\"WARD_PLACED\"},{\"value\":3,\"statTypeName\":\"LARGEST_KILLING_SPREE\"},{\"value\":0,\"statTypeName\":\"TOTAL_HEAL_ON_TEAMMATES\"},{\"value\":8000,\"statTypeName\":\"PERK_PRIMARY_STYLE\"},{\"value\":3006,\"statTypeName\":\"ITEM5\"},{\"value\":322,\"statTypeName\":\"TOTAL_TIME_SPENT_DEAD\"},{\"value\":0,\"statTypeName\":\"PERK0_VAR3\"},{\"value\":27389,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_EARLY_SURRENDER\"},{\"value\":19661,\"statTypeName\":\"PHYSICAL_DAMAGE_TAKEN\"},{\"value\":12056,\"statTypeName\":\"TOTAL_HEAL\"},{\"value\":12471,\"statTypeName\":\"MAGIC_DAMAGE_TAKEN\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_2\"},{\"value\":5408,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":692,\"statTypeName\":\"LARGEST_CRITICAL_STRIKE\"},{\"value\":3340,\"statTypeName\":\"ITEM6\"},{\"value\":227,\"statTypeName\":\"MINIONS_KILLED\"},{\"value\":0,\"statTypeName\":\"TEAM_EARLY_SURRENDERED\"},{\"value\":0,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_YOUR_JUNGLE\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR2\"}]},{\"level\":192,\"userId\":24972770,\"puuid\":\"befd4d7a-d17b-541d-8e22-dd1d0953786f\",\"teamId\":100,\"gameId\":1339906705,\"leaver\":false,\"summonerName\":\"ANDRES7788\",\"skinName\":\"Nautilus\",\"profileIconId\":5944,\"wins\":683,\"leaves\":23,\"losses\":695,\"eloChange\":0,\"elo\":0,\"botPlayer\":false,\"spell1Id\":4,\"spell2Id\":14,\"championId\":111,\"skinIndex\":0,\"selectedPosition\":\"UTILITY\",\"detectedTeamPosition\":\"UTILITY\",\"statistics\":[{\"value\":8439,\"statTypeName\":\"PERK0\"},{\"value\":0,\"statTypeName\":\"PERK3_VAR3\"},{\"value\":11724,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_PLAYER\"},{\"value\":0,\"statTypeName\":\"WAS_AFK\"},{\"value\":0,\"statTypeName\":\"TEAM_OBJECTIVE\"},{\"value\":39,\"statTypeName\":\"LARGEST_CRITICAL_STRIKE\"},{\"value\":0,\"statTypeName\":\"BARRACKS_KILLED\"},{\"value\":11250,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_PLAYER\"},{\"value\":1093,\"statTypeName\":\"TOTAL_DAMAGE_SHIELDED_ON_TEAMMATES\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_3\"},{\"value\":8453,\"statTypeName\":\"PERK3\"},{\"value\":8401,\"statTypeName\":\"PERK1\"},{\"value\":5,\"statTypeName\":\"NUM_DEATHS\"},{\"value\":14,\"statTypeName\":\"ASSISTS\"},{\"value\":5572,\"statTypeName\":\"MAGIC_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":50,\"statTypeName\":\"VISION_SCORE\"},{\"value\":44,\"statTypeName\":\"TIME_CCING_OTHERS\"},{\"value\":8400,\"statTypeName\":\"PERK_PRIMARY_STYLE\"},{\"value\":26057,\"statTypeName\":\"TOTAL_DAMAGE_TAKEN\"},{\"value\":205,\"statTypeName\":\"TOTAL_TIME_CROWD_CONTROL_DEALT\"},{\"value\":1,\"statTypeName\":\"LARGEST_MULTI_KILL\"},{\"value\":3855,\"statTypeName\":\"ITEM0\"},{\"value\":1237,\"statTypeName\":\"PERK0_VAR2\"},{\"value\":65,\"statTypeName\":\"PERK2_VAR1\"},{\"value\":2,\"statTypeName\":\"WARD_KILLED\"},{\"value\":8000,\"statTypeName\":\"PERK_SUB_STYLE\"},{\"value\":0,\"statTypeName\":\"ITEM5\"},{\"value\":13584,\"statTypeName\":\"PHYSICAL_DAMAGE_TAKEN\"},{\"value\":41429,\"statTypeName\":\"TOTAL_DAMAGE_SELF_MITIGATED\"},{\"value\":1,\"statTypeName\":\"WIN\"},{\"value\":0,\"statTypeName\":\"SIGHT_WARDS_BOUGHT_IN_GAME\"},{\"value\":8383,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":4,\"statTypeName\":\"VISION_WARDS_BOUGHT_IN_GAME\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_4\"},{\"value\":38,\"statTypeName\":\"MINIONS_KILLED\"},{\"value\":3395,\"statTypeName\":\"TRUE_DAMAGE_TAKEN\"},{\"value\":0,\"statTypeName\":\"PERK5_VAR3\"},{\"value\":246,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_OBJECTIVES\"},{\"value\":9078,\"statTypeName\":\"MAGIC_DAMAGE_TAKEN\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_SURRENDER\"},{\"value\":645,\"statTypeName\":\"PERK3_VAR1\"},{\"value\":2230,\"statTypeName\":\"PHYSICAL_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":2,\"statTypeName\":\"CHAMPIONS_KILLED\"},{\"value\":0,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED\"},{\"value\":15,\"statTypeName\":\"PERK2_VAR2\"},{\"value\":10,\"statTypeName\":\"PERK4_VAR2\"},{\"value\":9111,\"statTypeName\":\"PERK5\"},{\"value\":1473,\"statTypeName\":\"PERK5_VAR1\"},{\"value\":15,\"statTypeName\":\"LEVEL\"},{\"value\":580,\"statTypeName\":\"TRUE_DAMAGE_DEALT_TO_CHAMPIONS\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM\"},{\"value\":847,\"statTypeName\":\"PERK3_VAR2\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_1\"},{\"value\":111,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_TURRETS\"},{\"value\":12,\"statTypeName\":\"PERK2_VAR3\"},{\"value\":320,\"statTypeName\":\"PERK5_VAR2\"},{\"value\":0,\"statTypeName\":\"PERK1_VAR3\"},{\"value\":5687,\"statTypeName\":\"TOTAL_HEAL\"},{\"value\":0,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_ENEMY_JUNGLE\"},{\"value\":111,\"statTypeName\":\"TOTAL_DAMAGE_DEALT_TO_BUILDINGS\"},{\"value\":8429,\"statTypeName\":\"PERK2\"},{\"value\":0,\"statTypeName\":\"PERK4_VAR3\"},{\"value\":0,\"statTypeName\":\"TURRETS_KILLED\"},{\"value\":0,\"statTypeName\":\"PLAYER_SUBTEAM_PLACEMENT\"},{\"value\":3024,\"statTypeName\":\"ITEM4\"},{\"value\":8725,\"statTypeName\":\"GOLD_EARNED\"},{\"value\":27,\"statTypeName\":\"SPELL1_CAST\"},{\"value\":3190,\"statTypeName\":\"ITEM3\"},{\"value\":28439,\"statTypeName\":\"TOTAL_DAMAGE_DEALT\"},{\"value\":0,\"statTypeName\":\"TOTAL_HEAL_ON_TEAMMATES\"},{\"value\":2,\"statTypeName\":\"LARGEST_KILLING_SPREE\"},{\"value\":555,\"statTypeName\":\"PERK0_VAR1\"},{\"value\":0,\"statTypeName\":\"PERK0_VAR3\"},{\"value\":0,\"statTypeName\":\"GAME_ENDED_IN_EARLY_SURRENDER\"},{\"value\":29,\"statTypeName\":\"WARD_PLACED\"},{\"value\":25,\"statTypeName\":\"PERK4_VAR1\"},{\"value\":0,\"statTypeName\":\"PERK1_VAR2\"},{\"value\":184,\"statTypeName\":\"TOTAL_TIME_SPENT_DEAD\"},{\"value\":0,\"statTypeName\":\"PLAYER_AUGMENT_2\"},{\"value\":3075,\"statTypeName\":\"ITEM2\"},{\"value\":17,\"statTypeName\":\"SPELL2_CAST\"},{\"value\":3340,\"statTypeName\":\"ITEM6\"},{\"value\":5464,\"statTypeName\":\"TRUE_DAMAGE_DEALT_PLAYER\"},{\"value\":3111,\"statTypeName\":\"ITEM1\"},{\"value\":9105,\"statTypeName\":\"PERK4\"},{\"value\":0,\"statTypeName\":\"TEAM_EARLY_SURRENDERED\"},{\"value\":0,\"statTypeName\":\"NEUTRAL_MINIONS_KILLED_YOUR_JUNGLE\"},{\"value\":149,\"statTypeName\":\"PERK1_VAR1\"}]}],\"gameType\":\"MATCHED_GAME\",\"ranked\":false,\"invalid\":false,\"eloChange\":0,\"elo\":0,\"queueType\":\"NORMAL\",\"causedEarlySurrender\":false,\"teamEarlySurrendered\":false,\"gameEndedInEarlySurrender\":false,\"coOpVsAiMsecsUntilReset\":0,\"skinIndex\":3,\"gameMode\":\"CLASSIC\",\"gameMutators\":[\"TeambuilderRosterPositions(1)\",\"TrophySystem(1)\",\"BannerSystem(1)\",\"EnableDeathRecapShowcase(1)\",\"BananasFoster(1)\",\"Banana\"],\"earlySurrenderAccomplice\":false}"},
-{"t":"sp1","ts":4984299083,"en":"sm_exit: (EoG_Flow::AfterEndOfGame::WaitingForStats)","mi":54},
-{"t":"sp1","ts":4984299103,"en":"sm_transition_EogStatsReady: (EoG_Flow::AfterEndOfGame)","mi":54},
-{"t":"sp1","ts":4984321490,"en":"sm_exit: (Gameflow::PostGame::WaitingForStats)","mi":43},
-{"t":"sp1","ts":4984321505,"en":"sm_enter_OnPreEndOfGame: (Gameflow::PostGame::PreEndOfGame)","mi":43},
-{"t":"ns1","ts":4984327815,"mi":68,"na":"Update /lol-lobby/v2/party/eog-status"},
-{"t":"ns1","ts":4984330229,"mi":82,"na":"Update /lol-clash/v1/time"},
-{"t":"ns1","ts":4984330454,"mi":82,"na":"Update /lol-clash/v1/playmode-restricted"},
-{"t":"ns1","ts":4984330513,"mi":82,"na":"Update /lol-clash/v2/playmode-restricted"},
-{"t":"ns1","ts":4984334370,"mi":43,"na":"Update /lol-gameflow/v1/gameflow-phase"},
-{"t":"ns1","ts":4984334500,"mi":57,"na":"Update /lol-pre-end-of-game/v1/currentSequenceEvent"},
-{"t":"ns1","ts":4984334701,"mi":77,"na":"Create /lol-honor-v2/v1/ballot"},
-{"t":"ns1","ts":4984334811,"mi":77,"na":"Update /lol-honor-v2/v1/latest-eligible-game"},
-{"t":"ns1","ts":4984409805,"mi":46,"na":"Update /lol-champions/v1/inventories/18371309/champions"},
-{"t":"dw1","ts":4984326040,"sdi":21,"ddi":8},
-{"t":"dw1","ts":4984326419,"sdi":8,"ddi":33},
-{"t":"dw1","ts":4984326492,"sdi":11,"ddi":8},
-{"t":"dw1","ts":4984327241,"sdi":33,"ddi":8},
-{"t":"dw1","ts":4984327433,"sdi":17,"ddi":8},
-{"t":"dw1","ts":4984328170,"sdi":31,"ddi":8},
-{"t":"dw1","ts":4984328395,"sdi":23,"ddi":8},
-{"t":"dw1","ts":4984328647,"sdi":24,"ddi":8},
-{"t":"dw1","ts":4984329281,"sdi":26,"ddi":8},
-{"t":"dw1","ts":4984329533,"sdi":25,"ddi":8},
-{"t":"dw1","ts":4984330161,"sdi":12,"ddi":8},
-{"t":"dw1","ts":4984330289,"sdi":8,"ddi":30},
-{"t":"dw1","ts":4984330661,"sdi":9,"ddi":22},
-{"t":"dw1","ts":4984330924,"sdi":22,"ddi":8},
-{"t":"dw1","ts":4984331248,"sdi":29,"ddi":8},
-{"t":"dw1","ts":4984331619,"sdi":6,"ddi":8},
-{"t":"dw1","ts":4984331871,"sdi":14,"ddi":8},
-{"t":"dw1","ts":4984332520,"sdi":1,"ddi":8},
-{"t":"dw1","ts":4984332744,"sdi":28,"ddi":8},
-{"t":"dw1","ts":4984333343,"sdi":5,"ddi":8},
-{"t":"dw1","ts":4984333611,"sdi":3,"ddi":8},
-{"t":"dw1","ts":4984334229,"sdi":13,"ddi":8},
-{"t":"dw1","ts":4984334455,"sdi":8,"ddi":33},
-{"t":"dw1","ts":4984334502,"sdi":33,"ddi":8},
-{"t":"dw1","ts":4984334535,"sdi":19,"ddi":8},
-{"t":"dw1","ts":4984334537,"sdi":16,"ddi":8},
-{"t":"dw1","ts":4984334590,"sdi":7,"ddi":30},
-{"t":"rb1","ts":4984334541,"ri":6326,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"sp1","ts":4984334465,"en":"currentSequenceEvent: (honor-vote)","mi":57},
-{"t":"sp1","ts":4984334554,"en":"sm_enter: (EoG_Flow::AfterEndOfGame::StatsReady)","mi":54},
-{"t":"ns1","ts":4984559390,"mi":101,"na":"Update /lol-challenges/v1/penalty"},
-{"t":"ns1","ts":4984611448,"mi":78,"na":"Update /lol-missions/v1/missions"},
-{"t":"re1","ts":4984559328,"ri":225,"cr":0,"rc":204,"hc":13,"bl":0,"fl":0,"dds":""},
-{"t":"re1","ts":4984559509,"ri":224,"cr":0,"rc":200,"hc":15,"bl":315797,"fl":1,"dds":""},
-{"t":"ns1","ts":4984695686,"mi":121,"na":"Update /lol-npe-tutorial-path/v1/tutorials"},
-{"t":"ns1","ts":4984708853,"mi":78,"na":"Update /lol-missions/v1/series"},
-{"t":"ns1","ts":4984735552,"mi":78,"na":"Update /lol-tft/v2/tft/battlepass"},
-{"t":"dw1","ts":4984706657,"sdi":5,"ddi":15},
-{"t":"dw1","ts":4984711567,"sdi":13,"ddi":15},
-{"t":"dw1","ts":4985060345,"sdi":18,"ddi":10},
-{"t":"dw1","ts":4985279639,"sdi":11,"ddi":10},
-{"t":"dw1","ts":4985468205,"sdi":25,"ddi":10},
-{"t":"br1","ts":4985526013,"ri":6327,"ji":170811,"co":0,"me":2,"ur":"/lol-champions/v1/inventories/18371309/skins-minimal","hc":0,"bl":0},
-{"t":"br1","ts":4985650300,"ri":6328,"ji":170814,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/d0ff6d16-09ce-4ebe-839f-28105d2d8896/owned","hc":0,"bl":0},
-{"t":"br1","ts":4985650413,"ri":6329,"ji":170815,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/430aae22-3527-48be-8329-30bc3291a38a/owned","hc":0,"bl":0},
-{"t":"br1","ts":4985650469,"ri":6330,"ji":170816,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/0a0683f9-f1a2-4545-af41-3de52146714c/owned","hc":0,"bl":0},
-{"t":"br1","ts":4985650554,"ri":6331,"ji":170817,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/2cc77409-2aaa-46f1-a9be-a75717b42e6e/owned","hc":0,"bl":0},
-{"t":"br1","ts":4985650611,"ri":6332,"ji":170818,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/786e01b3-226e-487f-9e22-a24c67100e8d/owned","hc":0,"bl":0},
-{"t":"br1","ts":4985650693,"ri":6333,"ji":170819,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/d4f51833-60e1-4c95-9cc8-dacb08935824/owned","hc":0,"bl":0},
-{"t":"br1","ts":4985650736,"ri":6334,"ji":170820,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/7f759e98-17b3-4cf3-8aa5-329c9ab49f1a/owned","hc":0,"bl":0},
-{"t":"br1","ts":4985650777,"ri":6335,"ji":170821,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/9eb24095-5570-4c2a-b89c-d7ad2985aa35/owned","hc":0,"bl":0},
-{"t":"br1","ts":4985650818,"ri":6336,"ji":170822,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/f33b4650-87bd-4369-912b-29809cd140e6/owned","hc":0,"bl":0},
-{"t":"br1","ts":4985650859,"ri":6337,"ji":170823,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/73b4221b-f669-4807-b4c4-31d131e0b703/owned","hc":0,"bl":0},
-{"t":"br1","ts":4985650900,"ri":6338,"ji":170824,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/6ac881c9-ce1f-4b08-89a0-4f2c29bb20d3/owned","hc":0,"bl":0},
-{"t":"br1","ts":4985650940,"ri":6339,"ji":170825,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/678de27b-a5fd-4f61-8ea7-6467dd44d9ec/owned","hc":0,"bl":0},
-{"t":"br1","ts":4985650981,"ri":6340,"ji":170826,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/738d4414-eaa5-4976-b927-ad0647b4d1ec/owned","hc":0,"bl":0},
-{"t":"br1","ts":4985651021,"ri":6341,"ji":170827,"co":0,"me":2,"ur":"/lol-statstones/v1/statstone/a9110af3-bb1d-48aa-84b6-85bcb8d259e0/owned","hc":0,"bl":0},
-{"t":"rb1","ts":4985623414,"ri":6327,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985650390,"ri":6328,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985650451,"ri":6329,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985650503,"ri":6330,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985650589,"ri":6331,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985650648,"ri":6332,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985650726,"ri":6333,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985650768,"ri":6334,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985650809,"ri":6335,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985650849,"ri":6336,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985650890,"ri":6337,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985650930,"ri":6338,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985650971,"ri":6339,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985651011,"ri":6340,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4985651051,"ri":6341,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"dw1","ts":4985756365,"sdi":14,"ddi":10},
-{"t":"dw1","ts":4985807744,"sdi":19,"ddi":6},
-{"t":"ts1","ts":4985962391,"en":"eog-post-game"},
-{"t":"dw1","ts":4986194486,"sdi":0,"ddi":23},
-{"t":"dw1","ts":4986200526,"sdi":0,"ddi":23},
-{"t":"dw1","ts":4986201526,"sdi":0,"ddi":23},
-{"t":"dw1","ts":4986205814,"sdi":0,"ddi":33},
-{"t":"dw1","ts":4986206220,"sdi":0,"ddi":33},
-{"t":"dw1","ts":4986206668,"sdi":0,"ddi":3},
-{"t":"br1","ts":4986194478,"ri":6342,"ji":170843,"co":1474108366,"me":6,"ur":"/tracing/v1/trace/step-event","hc":19,"bl":148},
-{"t":"br1","ts":4986200517,"ri":6343,"ji":170844,"co":1474108366,"me":6,"ur":"/tracing/v1/trace/time-series-event/eog-post-game","hc":19,"bl":16},
-{"t":"br1","ts":4986201519,"ri":6344,"ji":170845,"co":1474108366,"me":6,"ur":"/tracing/v1/trace/step-event","hc":19,"bl":16},
-{"t":"br1","ts":4986204876,"ri":6345,"ji":170846,"co":1474108366,"me":2,"ur":"/lol-player-report-sender/v1/reported-players/gameId/1339906705","hc":17,"bl":0},
-{"t":"br1","ts":4986205610,"ri":6346,"ji":170847,"co":1474108366,"me":2,"ur":"/lol-statstones/v1/eog-notifications/1339906705","hc":17,"bl":0},
-{"t":"br1","ts":4986205806,"ri":6347,"ji":170848,"co":1474108366,"me":1,"ur":"/lol-chat/v1/conversations/active","hc":18,"bl":0},
-{"t":"br1","ts":4986205879,"ri":6348,"ji":170849,"co":0,"me":1,"ur":"/chat/v6/conversations/active","hc":1,"bl":0},
-{"t":"br1","ts":4986206211,"ri":6349,"ji":170850,"co":1474108366,"me":6,"ur":"/lol-chat/v1/conversations","hc":20,"bl":145},
-{"t":"br1","ts":4986206222,"ri":6350,"ji":170851,"co":1474108366,"me":6,"ur":"/lol-summoner/v1/summoner-aliases-by-puuids","hc":20,"bl":196},
-{"t":"br1","ts":4986206359,"ri":6351,"ji":170852,"co":0,"me":6,"ur":"/player-account/lookup/v1/namesets-for-puuids","hc":0,"bl":0},
-{"t":"br1","ts":4986206657,"ri":6352,"ji":170853,"co":1474108366,"me":6,"ur":"/lol-summoner/v1/summoner-aliases-by-puuids","hc":20,"bl":196},
-{"t":"rb1","ts":4986204907,"ri":6342,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4986204998,"ri":6343,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4986205114,"ri":6344,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":4986205203,"ri":6345,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4986205680,"ri":6346,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"xr1","ts":4986205868,"ri":274877907251,"mi":64,"me":1,"ur":"/chat/v6/conversations/active"},
-{"t":"xr1","ts":4986206328,"ri":158913789977,"mi":37,"me":6,"ur":"/player-account/lookup/v1/namesets-for-puuids"},
-{"t":"sp1","ts":4986204904,"en":"UI_GameInProgress: STATE isGameInProgress=false,isWaitingForStats=false,isReconnect=false,isRepairing=false,isPreEndOfGame=true,phase=PreEndOfGame","mi":3},
-{"t":"sp1","ts":4986205112,"en":"UI_Honor: SHOW","mi":3},
-{"t":"br1","ts":4986239746,"ri":6353,"ji":170854,"co":0,"me":6,"ur":"/chat/v6/conversations","hc":1,"bl":0},
-{"t":"rb1","ts":4986239395,"ri":6348,"sc":1,"rc":204,"hc":6,"bl":0},
-{"t":"rb1","ts":4986239438,"ri":6347,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"xr1","ts":4986239701,"ri":274877907252,"mi":64,"me":6,"ur":"/chat/v6/conversations"},
-{"t":"rx1","ts":4986239413,"ri":274877907251,"sc":1,"fl":0,"dds":""},
-{"t":"br1","ts":4986397554,"ri":6354,"ji":170858,"co":0,"me":6,"ur":"/player-account/lookup/v1/namesets-for-puuids","hc":0,"bl":0},
-{"t":"rb1","ts":4986397339,"ri":6351,"sc":1,"rc":200,"hc":6,"bl":1},
-{"t":"rb1","ts":4986397454,"ri":6350,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"xr1","ts":4986397540,"ri":158913789978,"mi":37,"me":6,"ur":"/player-account/lookup/v1/namesets-for-puuids"},
-{"t":"rx1","ts":4986397360,"ri":158913789977,"sc":1,"fl":0,"dds":"{\"namesets\":[{\"error\":\"\",\"gnt\":{\"gameName\":\"NuevoEmperador\",\"tagLine\":\"LAS\"},\"playstationNameset\":{\"name\":\"\"},\"providerId\":\"\",\"puuid\":\"96064e13-ce2c-5a7f-8a7e-07e0190956c2\",\"switchNameset\":{\"name\":\"\"},\"xboxNameset\":{\"name\":\"\"}},{\"error\":\"\",\"gnt\":{\"gameName\":\"Camiiii ツ\",\"tagLine\":\"0107\"},\"playstationNameset\":{\"name\":\"\"},\"providerId\":\"\",\"puuid\":\"13447955-2f02-502b-852e-c075636e4a45\",\"switchNameset\":{\"name\":\"\"},\"xboxNameset\":{\"name\":\"\"}},{\"error\":\"\",\"gnt\":{\"gameName\":\"Kathishum\",\"tagLine\":\"LAS\"},\"playstationNameset\":{\"name\":\"\"},\"providerId\":\"\",\"puuid\":\"5ed99275-0dfe-527b-8834-9b449417a7a2\",\"switchNameset\":{\"name\":\"\"},\"xboxNameset\":{\"name\":\"\"}},{\"error\":\"\",\"gnt\":{\"gameName\":\"Nicholas Nelson\",\"tagLine\":\"LAS\"},\"playstationNameset\":{\"name\":\"\"},\"providerId\":\"\",\"puuid\":\"da0db959-d03d-5feb-aae5-9075b9960198\",\"switchNameset\":{\"name\":\"\"},\"xboxNameset\":{\"name\":\"\"}}]}"},
-{"t":"rb1","ts":4986583303,"ri":6354,"sc":1,"rc":200,"hc":6,"bl":1},
-{"t":"rb1","ts":4986583528,"ri":6352,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rx1","ts":4986583344,"ri":158913789978,"sc":1,"fl":0,"dds":"{\"namesets\":[{\"error\":\"\",\"gnt\":{\"gameName\":\"brendathalia05\",\"tagLine\":\"LAS\"},\"playstationNameset\":{\"name\":\"\"},\"providerId\":\"\",\"puuid\":\"3749a39a-a679-5bf8-8105-baab3d35b095\",\"switchNameset\":{\"name\":\"\"},\"xboxNameset\":{\"name\":\"\"}},{\"error\":\"\",\"gnt\":{\"gameName\":\"TuSugarCarryBB\",\"tagLine\":\"LAS\"},\"playstationNameset\":{\"name\":\"\"},\"providerId\":\"\",\"puuid\":\"2917f691-0093-5152-baf7-97ccaf418834\",\"switchNameset\":{\"name\":\"\"},\"xboxNameset\":{\"name\":\"\"}},{\"error\":\"\",\"gnt\":{\"gameName\":\"ReycapOne\",\"tagLine\":\"LAS\"},\"playstationNameset\":{\"name\":\"\"},\"providerId\":\"\",\"puuid\":\"ce65a230-3089-503c-85d3-5932077a9029\",\"switchNameset\":{\"name\":\"\"},\"xboxNameset\":{\"name\":\"\"}},{\"error\":\"\",\"gnt\":{\"gameName\":\"NACH07788\",\"tagLine\":\"LAS\"},\"playstationNameset\":{\"name\":\"\"},\"providerId\":\"\",\"puuid\":\"c77557b0-91e6-50d0-8e51-7a17f0b02456\",\"switchNameset\":{\"name\":\"\"},\"xboxNameset\":{\"name\":\"\"}},{\"error\":\"\",\"gnt\":{\"gameName\":\"ANDRES7788\",\"tagLine\":\"LAS\"},\"playstationNameset\":{\"name\":\"\"},\"providerId\":\"\",\"puuid\":\"befd4d7a-d17b-541d-8e22-dd1d0953786f\",\"switchNameset\":{\"name\":\"\"},\"xboxNameset\":{\"name\":\"\"}}]}"},
-{"t":"ns1","ts":4986723223,"mi":64,"na":"Update /chat/v6/conversations"},
-{"t":"ns1","ts":4986723363,"mi":64,"na":"Update /chat/v6/conversations/post-game"},
-{"t":"ns1","ts":4986723549,"mi":64,"na":"Update /chat/v4/presences"},
-{"t":"ns1","ts":4986723789,"mi":64,"na":"Update /chat/v4/presences"},
-{"t":"ns1","ts":4986724029,"mi":64,"na":"Update /chat/v4/presences"},
-{"t":"ns1","ts":4986724259,"mi":64,"na":"Update /chat/v4/presences"},
-{"t":"ns1","ts":4986724460,"mi":64,"na":"Update /chat/v4/presences"},
-{"t":"ns1","ts":4986724760,"mi":64,"na":"Update /chat/v5/participants"},
-{"t":"ns1","ts":4986725114,"mi":64,"na":"Update /chat/v5/participants/post-game"},
-{"t":"dw1","ts":4986723280,"sdi":0,"ddi":33},
-{"t":"dw1","ts":4986723423,"sdi":0,"ddi":33},
-{"t":"dw1","ts":4986723653,"sdi":0,"ddi":33},
-{"t":"dw1","ts":4986723885,"sdi":0,"ddi":33},
-{"t":"dw1","ts":4986724119,"sdi":0,"ddi":33},
-{"t":"dw1","ts":4986724336,"sdi":0,"ddi":33},
-{"t":"dw1","ts":4986724587,"sdi":0,"ddi":33},
-{"t":"dw1","ts":4986724923,"sdi":0,"ddi":33},
-{"t":"dw1","ts":4986725250,"sdi":0,"ddi":33},
-{"t":"ns1","ts":4986849458,"mi":64,"na":"Create /lol-chat/v1/conversations/endgame1339906705%40post-game.la2.pvp.net"},
-{"t":"mn1","ts":4986816187,"ty":"Update","ur":"/chat/v6/conversations","fl":0,"dds":"{\"conversations\":[{\"cid\":\"endgame1339906705@post-game.la2.pvp.net\",\"direct_messages\":true,\"global_readership\":false,\"message_history\":false,\"mid\":\"\",\"muted\":false,\"mutedRestriction\":false,\"type\":\"groupchat\",\"uiState\":{\"changedSinceHidden\":false,\"hidden\":false},\"unread_count\":0}]}"},
-{"t":"mn1","ts":4986816228,"ty":"Update","ur":"/chat/v6/conversations/post-game","fl":0,"dds":"{\"conversations\":[{\"cid\":\"endgame1339906705@post-game.la2.pvp.net\",\"direct_messages\":true,\"global_readership\":false,\"message_history\":false,\"mid\":\"\",\"muted\":false,\"mutedRestriction\":false,\"type\":\"groupchat\",\"uiState\":{\"changedSinceHidden\":false,\"hidden\":false},\"unread_count\":0}]}"},
-{"t":"mn1","ts":4986849801,"ty":"Update","ur":"/chat/v4/presences","fl":1,"dds":""},
-{"t":"dw1","ts":4986849750,"sdi":9,"ddi":33},
-{"t":"dw1","ts":4986849802,"sdi":9,"ddi":33},
-{"t":"br1","ts":4986754187,"ri":6355,"ji":170874,"co":0,"me":2,"ur":"/chat/v6/conversations?cid=endgame1339906705%40post-game.la2.pvp.net","hc":0,"bl":0},
-{"t":"br1","ts":4986785157,"ri":6356,"ji":170876,"co":0,"me":2,"ur":"/chat/v5/messages?cid=endgame1339906705%40post-game.la2.pvp.net&mid=","hc":0,"bl":0},
-{"t":"br1","ts":4986816275,"ri":6357,"ji":170879,"co":0,"me":2,"ur":"/chat/v5/messages?cid=endgame1339906705%40post-game.la2.pvp.net&mid=","hc":0,"bl":0},
-{"t":"br1","ts":4986849559,"ri":6358,"ji":170880,"co":0,"me":2,"ur":"/lol-inventory/v1/champSelectInventory","hc":0,"bl":0},
-{"t":"br1","ts":4986849881,"ri":6359,"ji":170884,"co":0,"me":6,"ur":"/product-localization/v2/translate","hc":0,"bl":0},
-{"t":"br1","ts":4986851045,"ri":6360,"ji":170885,"co":0,"me":2,"ur":"/lol-inventory/v1/signedInventory","hc":0,"bl":0},
-{"t":"br1","ts":4986851687,"ri":6361,"ji":170886,"co":0,"me":2,"ur":"/lol-rso-auth/v1/authorization/userinfo","hc":0,"bl":0},
-{"t":"br1","ts":4986851710,"ri":6362,"ji":170887,"co":0,"me":2,"ur":"/rso-auth/v1/userinfo/lol","hc":0,"bl":0},
-{"t":"rb1","ts":4986754130,"ri":6353,"sc":1,"rc":200,"hc":6,"bl":1},
-{"t":"rb1","ts":4986785090,"ri":6355,"sc":1,"rc":200,"hc":6,"bl":1},
-{"t":"rb1","ts":4986816034,"ri":6356,"sc":1,"rc":200,"hc":6,"bl":1},
-{"t":"rb1","ts":4986816113,"ri":6349,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4986849364,"ri":6357,"sc":1,"rc":200,"hc":6,"bl":1},
-{"t":"rb1","ts":4986849622,"ri":6358,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":4986851086,"ri":6360,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"er1","ts":4986849719,"ri":226,"mi":101,"me":6,"ur":"https://las-red.lol.sgp.pvp.net/challenges-client/v2/jwt-update/es_MX","hc":4,"bl":867,"to":5000,"ia":0,"fl":1,"dds":""},
-{"t":"xr1","ts":4986754179,"ri":274877907253,"mi":64,"me":2,"ur":"/chat/v6/conversations?cid=endgame1339906705%40post-game.la2.pvp.net"},
-{"t":"xr1","ts":4986785151,"ri":274877907254,"mi":64,"me":2,"ur":"/chat/v5/messages?cid=endgame1339906705%40post-game.la2.pvp.net&mid="},
-{"t":"xr1","ts":4986816271,"ri":274877907255,"mi":64,"me":2,"ur":"/chat/v5/messages?cid=endgame1339906705%40post-game.la2.pvp.net&mid="},
-{"t":"xr1","ts":4986849864,"ri":274877907256,"mi":64,"me":6,"ur":"/product-localization/v2/translate"},
-{"t":"xr1","ts":4986851707,"ri":68719476778,"mi":16,"me":2,"ur":"/rso-auth/v1/userinfo/lol"},
-{"t":"rx1","ts":4986754142,"ri":274877907252,"sc":1,"fl":0,"dds":""},
-{"t":"rx1","ts":4986785109,"ri":274877907253,"sc":1,"fl":0,"dds":"{\"conversations\":[{\"cid\":\"endgame1339906705@post-game.la2.pvp.net\",\"direct_messages\":true,\"global_readership\":false,\"message_history\":false,\"mid\":\"\",\"muted\":false,\"mutedRestriction\":false,\"type\":\"groupchat\",\"uiState\":{\"changedSinceHidden\":false,\"hidden\":false},\"unread_count\":0}]}"},
-{"t":"rx1","ts":4986816044,"ri":274877907254,"sc":1,"fl":1,"dds":""},
-{"t":"rx1","ts":4986849383,"ri":274877907255,"sc":1,"fl":1,"dds":""},
-{"t":"ns1","ts":4986913921,"mi":64,"na":"Update /chat/v4/presences"},
-{"t":"ns1","ts":4986914145,"mi":64,"na":"Update /chat/v5/participants"},
-{"t":"ns1","ts":4986914248,"mi":64,"na":"Update /chat/v5/participants/post-game"},
-{"t":"mn1","ts":4986864206,"ty":"Update","ur":"/chat/v4/presences","fl":1,"dds":""},
-{"t":"mn1","ts":4986880215,"ty":"Update","ur":"/chat/v4/presences","fl":1,"dds":""},
-{"t":"mn1","ts":4986895174,"ty":"Update","ur":"/chat/v4/presences","fl":1,"dds":""},
-{"t":"mn1","ts":4986911201,"ty":"Update","ur":"/chat/v4/presences","fl":1,"dds":""},
-{"t":"mn1","ts":4986914242,"ty":"Update","ur":"/chat/v5/participants","fl":0,"dds":"{\"participants\":[{\"activePlatform\":\"riot\",\"cid\":\"endgame1339906705@post-game.la2.pvp.net\",\"game_name\":\"brendathalia05\",\"game_tag\":\"LAS\",\"muted\":false,\"name\":\"brendathalia05\",\"pid\":\"3749a39a-a679-5bf8-8105-baab3d35b095@la1.pvp.net\",\"puuid\":\"3749a39a-a679-5bf8-8105-baab3d35b095\",\"region\":\"la1\"},{\"activePlatform\":\"riot\",\"cid\":\"endgame1339906705@post-game.la2.pvp.net\",\"game_name\":\"ANDRES7788\",\"game_tag\":\"LAS\",\"muted\":false,\"name\":\"ANDRES7788\",\"pid\":\"befd4d7a-d17b-541d-8e22-dd1d0953786f@la2.pvp.net\",\"puuid\":\"befd4d7a-d17b-541d-8e22-dd1d0953786f\",\"region\":\"la2\"},{\"activePlatform\":\"riot\",\"cid\":\"endgame1339906705@post-game.la2.pvp.net\",\"game_name\":\"SearPY\",\"game_tag\":\"2507\",\"muted\":false,\"name\":\"Sear Cosmico\",\"pid\":\"f431a3c9-12db-5983-9663-5e2a051f3e87@la2.pvp.net\",\"puuid\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"region\":\"la2\"},{\"activePlatform\":\"riot\",\"cid\":\"endgame1339906705@post-game.la2.pvp.net\",\"game_name\":\"NACH07788\",\"game_tag\":\"LAS\",\"muted\":false,\"name\":\"NACH07788\",\"pid\":\"c77557b0-91e6-50d0-8e51-7a17f0b02456@la2.pvp.net\",\"puuid\":\"c77557b0-91e6-50d0-8e51-7a17f0b02456\",\"region\":\"la2\"},{\"activePlatform\":\"riot\",\"cid\":\"endgame1339906705@post-game.la2.pvp.net\",\"game_name\":\"ReycapOne\",74877907749,"sc":1,"fl":0,"dds":"{\"results\":[{\"found\":true,\"key\":\"chat_presence_product_league_of_legends\",\"product_id\":\"league_of_legends\",\"value\":\"League of Legends\"}]}"},
-{"t":"rx1","ts":9249564839,"ri":274877907750,"sc":1,"fl":0,"dds":"{\"results\":[{\"found\":true,\"key\":\"chat_presence_product_league_of_legends\",\"product_id\":\"league_of_legends\",\"value\":\"League of Legends\"}]}"},
-{"t":"rx1","ts":9249595835,"ri":274877907751,"sc":0,"fl":0,"dds":"Error response for GET /chat/v6/conversations?cid=endgame1340202429%40post-game.la2.pvp.net: "},
-{"t":"rx1","ts":9249626818,"ri":274877907752,"sc":1,"fl":0,"dds":""},
-{"t":"ns1","ts":9249626945,"mi":64,"na":"Update /chat/v4/presences"},
-{"t":"ns1","ts":9249673826,"mi":64,"na":"Update /lol-chat/v1/conversations/9944aef7-ad18-4642-bf80-597fd7cda796%40sec.la2.pvp.net"},
-{"t":"ns1","ts":9249674716,"mi":64,"na":"Update /lol-chat/v1/conversations/9944aef7-ad18-4642-bf80-597fd7cda796%40sec.la2.pvp.net/participants/84cf7ba9-cd0a-598b-9eee-043d862ed962@la2.pvp.net"},
-{"t":"ns1","ts":9249675664,"mi":64,"na":"Create /lol-chat/v1/conversations/9944aef7-ad18-4642-bf80-597fd7cda796%40sec.la2.pvp.net/messages/m_520809e4e3879e5d"},
-{"t":"ns1","ts":9249676194,"mi":64,"na":"Update /lol-chat/v1/conversations/9944aef7-ad18-4642-bf80-597fd7cda796%40sec.la2.pvp.net/participants/f431a3c9-12db-5983-9663-5e2a051f3e87@la2.pvp.net"},
-{"t":"ns1","ts":9249677142,"mi":64,"na":"Create /lol-chat/v1/conversations/9944aef7-ad18-4642-bf80-597fd7cda796%40sec.la2.pvp.net/messages/m_a6b4727ea99a32a5"},
-{"t":"ns1","ts":9249677877,"mi":64,"na":"Update /lol-chat/v1/conversations/9944aef7-ad18-4642-bf80-597fd7cda796%40sec.la2.pvp.net/participants"},
-{"t":"ns1","ts":9249687123,"mi":64,"na":"Update /lol-chat/v1/conversations/8bb53180-75cd-52a6-b6cd-7b9c9f9c8076%40la2.pvp.net/participants/f431a3c9-12db-5983-9663-5e2a051f3e87@la2.pvp.net"},
-{"t":"ns1","ts":9249687980,"mi":64,"na":"Update /lol-chat/v1/conversations/9944aef7-ad18-4642-bf80-597fd7cda796%40sec.la2.pvp.net/participants/f431a3c9-12db-5983-9663-5e2a051f3e87@la2.pvp.net"},
-{"t":"ns1","ts":9249688770,"mi":64,"na":"Update /lol-chat/v1/conversations/f18e3240-528b-5eea-a67f-dd47a5dee6d5%40la2.pvp.net/participants/f431a3c9-12db-5983-9663-5e2a051f3e87@la2.pvp.net"},
-{"t":"ns1","ts":9249689550,"mi":64,"na":"Update /lol-chat/v1/conversations/86237556-2b5c-5dba-aa26-62772f28dc01%40la2.pvp.net/participants/f431a3c9-12db-5983-9663-5e2a051f3e87@la2.pvp.net"},
-{"t":"ns1","ts":9249706120,"mi":64,"na":"Update /lol-chat/v1/conversations/8bb53180-75cd-52a6-b6cd-7b9c9f9c8076%40la2.pvp.net/participants/f431a3c9-12db-5983-9663-5e2a051f3e87@la2.pvp.net"},
-{"t":"ns1","ts":9249707032,"mi":64,"na":"Update /lol-chat/v1/conversations/9944aef7-ad18-4642-bf80-597fd7cda796%40sec.la2.pvp.net/participants/f431a3c9-12db-5983-9663-5e2a051f3e87@la2.pvp.net"},
-{"t":"ns1","ts":9249707776,"mi":64,"na":"Update /lol-chat/v1/conversations/f18e3240-528b-5eea-a67f-dd47a5dee6d5%40la2.pvp.net/participants/f431a3c9-12db-5983-9663-5e2a051f3e87@la2.pvp.net"},
-{"t":"ns1","ts":9249708418,"mi":64,"na":"Update /lol-chat/v1/conversations/86237556-2b5c-5dba-aa26-62772f28dc01%40la2.pvp.net/participants/f431a3c9-12db-5983-9663-5e2a051f3e87@la2.pvp.net"},
-{"t":"ns1","ts":9249721801,"mi":22,"na":"Create /riot-messaging-service/v1/message/parties/v1/notifications"},
-{"t":"ns1","ts":9249721992,"mi":22,"na":"Create /riot-messaging-service/v1/message/parties/v1/notifications"},
-{"t":"ns1","ts":9249725245,"mi":68,"na":"Update /lol-lobby/v1/lobby/availability"},
-{"t":"ns1","ts":9249725631,"mi":68,"na":"Update /lol-lobby/v2/lobby"},
-{"t":"ns1","ts":9249726343,"mi":68,"na":"Update /lol-lobby/v2/lobby/members"},
-{"t":"ns1","ts":9249727994,"mi":43,"na":"Update /lol-gameflow/v1/session"},
-{"t":"ns1","ts":9249737402,"mi":82,"na":"Update /lol-clash/v1/time"},
-{"t":"mn1","ts":9249636971,"ty":"Update","ur":"/chat/v6/conversations","fl":0,"dds":"{\"conversations\":[{\"cid\":\"9944aef7-ad18-4642-bf80-597fd7cda796@sec.la2.pvp.net\",\"direct_messages\":true,\"global_readership\":false,\"message_history\":false,\"mid\":\"\",\"muted\":false,\"mutedRestriction\":false,\"type\":\"groupchat\",\"uiState\":{\"changedSinceHidden\":false,\"hidden\":false},\"unread_count\":0}]}"},
-{"t":"mn1","ts":9249637053,"ty":"Update","ur":"/chat/v6/conversations/sec","fl":0,"dds":"{\"conversations\":[{\"cid\":\"9944aef7-ad18-4642-bf80-597fd7cda796@sec.la2.pvp.net\",\"direct_messages\":true,\"global_readership\":false,\"message_history\":false,\"mid\":\"\",\"muted\":false,\"mutedRestriction\":false,\"type\":\"groupchat\",\"uiState\":{\"changedSinceHidden\":false,\"hidden\":false},\"unread_count\":0}]}"},
-{"t":"mn1","ts":9249674344,"ty":"Update","ur":"/chat/v5/participants","fl":0,"dds":"{\"participants\":[{\"activePlatform\":\"riot\",\"cid\":\"9944aef7-ad18-4642-bf80-597fd7cda796@sec.la2.pvp.net\",\"game_name\":\"Flogerlol\",\"game_tag\":\"LAS\",\"muted\":false,\"name\":\"Flogerlol\",\"pid\":\"84cf7ba9-cd0a-598b-9eee-043d862ed962@la2.pvp.net\",\"puuid\":\"84cf7ba9-cd0a-598b-9eee-043d862ed962\",\"region\":\"la2\"},{\"activePlatform\":\"riot\",\"cid\":\"9944aef7-ad18-4642-bf80-597fd7cda796@sec.la2.pvp.net\",\"game_name\":\"SearPY\",\"game_tag\":\"2507\",\"muted\":false,\"name\":\"Sear Cosmico\",\"pid\":\"f431a3c9-12db-5983-9663-5e2a051f3e87@la2.pvp.net\",\"puuid\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"region\":\"la2\"}]}"},
-{"t":"mn1","ts":9249674440,"ty":"Update","ur":"/chat/v5/participants/sec","fl":0,"dds":"{\"participants\":[{\"activePlatform\":\"riot\",\"cid\":\"9944aef7-ad18-4642-bf80-597fd7cda796@sec.la2.pvp.net\",\"game_name\":\"Flogerlol\",\"game_tag\":\"LAS\",\"muted\":false,\"name\":\"Flogerlol\",\"pid\":\"84cf7ba9-cd0a-598b-9eee-043d862ed962@la2.pvp.net\",\"puuid\":\"84cf7ba9-cd0a-598b-9eee-043d862ed962\",\"region\":\"la2\"},{\"activePlatform\":\"riot\",\"cid\":\"9944aef7-ad18-4642-bf80-597fd7cda796@sec.la2.pvp.net\",\"game_name\":\"SearPY\",\"game_tag\":\"2507\",\"muted\":false,\"name\":\"Sear Cosmico\",\"pid\":\"f431a3c9-12db-5983-9663-5e2a051f3e87@la2.pvp.net\",\"puuid\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"region\":\"la2\"}]}"},
-{"t":"mn1","ts":9249679243,"ty":"Update","ur":"/chat/v4/presences","fl":1,"dds":""},
-{"t":"mn1","ts":9249690379,"ty":"Update","ur":"/chat/v4/presences","fl":1,"dds":""},
-{"t":"mn1","ts":9249721913,"ty":"Create","ur":"/riot-messaging-service/v1/message/parties/v1/notifications","fl":0,"dds":"{\"ackRequired\":false,\"id\":\"\",\"payload\":\"{\\\"player\\\":{\\\"platformId\\\":\\\"LA2\\\",\\\"puuid\\\":\\\"f431a3c9-12db-5983-9663-5e2a051f3e87\\\",\\\"accountId\\\":2117075075967552,\\\"summonerId\\\":18371309,\\\"eligibilityHash\\\":3033794225340435125,\\\"parties\\\":[{\\\"puuid\\\":\\\"f431a3c9-12db-5983-9663-5e2a051f3e87\\\",\\\"platformId\\\":\\\"LA2\\\",\\\"accountId\\\":2117075075967552,\\\"summonerId\\\":18371309,\\\"ready\\\":false,\\\"canInvite\\\":true,\\\"partyId\\\":\\\"9944aef7-ad18-4642-bf80-597fd7cda796\\\",\\\"partyVersion\\\":35,\\\"role\\\":\\\"MEMBER\\\",\\\"invitedBySummonerId\\\":null,\\\"invitedByPuuid\\\":null,\\\"metadata\\\":null,\\\"team\\\":null,\\\"gameMode\\\":null,\\\"inviteTimestamp\\\":null}],\\\"currentParty\\\":{\\\"partyId\\\":\\\"9944aef7-ad18-4642-bf80-597fd7cda796\\\",\\\"platformId\\\":\\\"LA2\\\",\\\"version\\\":35,\\\"players\\\":[{\\\"puuid\\\":\\\"84cf7ba9-cd0a-598b-9eee-043d862ed962\\\",\\\"platformId\\\":\\\"LA2\\\",\\\"accountId\\\":2147064356408064,\\\"summonerId\\\":18750811,\\\"ready\\\":false,\\\"canInvite\\\":true,\\\"partyId\\\":\\\"9944aef7-ad18-4642-bf80-597fd7cda796\\\",\\\"partyVersion\\\":35,\\\"role\\\":\\\"LEADER\\\",\\\"invitedBySummonerId\\\":null,\\\"invitedByPuuid\\\":null,\\\"metadata\\\":{\\\"positionPref\\\":[\\\"TOP\\\",\\\"FILL\\\"],\\\"championSelection\\\":null,\\\"skinSelection\\\":null,\\\"properties\\\":null,\\\"preferredChampions\\\":null,\\\"playerSlots\\\":null},\\\"team\\\":null,\\\"gameMode\\\":null,\\\"inviteTimestamp\\\":null},{\\\"puuid\\\":\\\"f431a3c9-12db-5983-9663-5e2a051f3e87\\\",\\\"platformId\\\":\\\"LA2\\\",\\\"accountId\\\":2117075075967552,\\\"summonerId\\\":18371309,\\\"ready\\\":false,\\\"canInvite\\\":true,\\\"partyId\\\":\\\"9944aef7-ad18-4642-bf80-597fd7cda796\\\",\\\"partyVersion\\\":35,\\\"role\\\":\\\"MEMBER\\\",\\\"invitedBySummonerId\\\":null,\\\"invitedByPuuid\\\":null,\\\"metadata\\\":{\\\"positionPref\\\":[\\\"MIDDLE\\\",\\\"TOP\\\"],\\\"championSelection\\\":null,\\\"skinSelection\\\":null,\\\"properties\\\":null,\\\"preferredChampions\\\":null,\\\"playerSlots\\\":null},\\\"team\\\":null,\\\"gameMode\\\":null,\\\"inviteTimestamp\\\":null}],\\\"chat\\\":{\\\"jid\\\":\\\"9944aef7-ad18-4642-bf80-597fd7cda796\\\",\\\"mucJwtDto\\\":{\\\"jwt\\\":\\\"eyJraWQiOiIxIiwiYWxnIjoiUlMyNTYifQ.eyJ0Z3QiOiJsYTIiLCJzdWIiOiJmNDMxYTNjOS0xMmRiLTU5ODMtOTY2My01ZTJhMDUxZjNlODciLCJpc3MiOiJsb2wtcGFydGllcyIsImNobiI6Ijk5NDRhZWY3LWFkMTgtNDY0Mi1iZjgwLTU5N2ZkN2NkYTc5NiIsInR5cCI6ImxvbC1wcmUtZ2FtZSIsImV4cCI6MTY5NTI2NTE0MSwiaWF0IjoxNjk1MjY0NTQxLCJqdGkiOiIzMWM2ODYxOC03NzYwLTQ1MmUtYWI4MS05MzcwMTRmMjYzZDcifQ.HZp3rwCM7Anch3UvgBiRVXlJ03jvG8-3heEchMlLHOtrNuYyUidZ4JiDQKjl46BqPUdZNtpMd_XF12kb5AzjWQQypLhKVr3VX4JnKEuEwyhEztM7mapZAZLpNLaeCYdgi-s7Nzl5zUYDX8KtXnsjJo7z_8ra-xmoI-QmEiQblcVBdFdOGn_dJlr8d0ZP8PpLloXoxuhOWbINPuwoNkKU5S4BgrV_AI3qbE-Le3XIs_bfPhTRV4OiuviNDYA0C7ixLdqfbWuUf8a-cyz7quJeMgP84m273ML4WPTleYMvfXCdVK_eIsXeE3LIjNW-PPSh93Xxxex5pLZNDJBQfx6Hzw\\\",\\\"channelClaim\\\":\\\"9944aef7-ad18-4642-bf80-597fd7cda796\\\",\\\"domain\\\":\\\"lol-pre-game\\\",\\\"targetRegion\\\":\\\"la2\\\"}},\\\"partyType\\\":\\\"open\\\",\\\"gameMode\\\":{\\\"gameType\\\":\\\"MATCHMADE\\\",\\\"queueId\\\":450,\\\"maxPartySize\\\":5,\\\"maxTeamSize\\\":0,\\\"allowSpectators\\\":null,\\\"mapId\\\":null,\\\"gameTypeConfigId\\\":null,\\\"gameCustomization\\\":{},\\\"lobbyName\\\":null,\\\"lobbyPassword\\\":null,\\\"customGameMode\\\":null},\\\"activityLocked\\\":true,\\\"activityStartedUtcMillis\\\":1695264541167,\\\"activityResumeUtcMillis\\\":null,\\\"activeRestrictions\\\":null,\\\"eligibilityRestrictions\\\":[],\\\"eligibilityWarnings\\\":[],\\\"maxPartySize\\\":5,\\\"eligibilityHash\\\":5293381520158450392,\\\"botParticipants\\\":[]},\\\"registration\\\":null,\\\"version\\\":28,\\\"createdAt\\\":1695255320894,\\\"serverUtcMillis\\\":1695264541210,\\\"blockedSummoners\\\":null},\\\"queueRestriction\\\":null}\",\"resource\":\"parties/v1/notifications\",\"service\":\"Parties\",\"timestamp\":1695264541228,\"version\":\"1695264541218\"}"},
-{"t":"dw1","ts":9249627059,"sdi":0,"ddi":33},
-{"t":"dw1","ts":9249636951,"sdi":33,"ddi":5},
-{"t":"dw1","ts":9249639042,"sdi":5,"ddi":33},
-{"t":"dw1","ts":9249646544,"sdi":0,"ddi":33},
-{"t":"dw1","ts":9249646777,"sdi":0,"ddi":33},
-{"t":"dw1","ts":9249674146,"sdi":33,"ddi":1},
-{"t":"dw1","ts":9249674207,"sdi":4,"ddi":33},
-{"t":"dw1","ts":9249674251,"sdi":4,"ddi":33},
-{"t":"dw1","ts":9249675283,"sdi":33,"ddi":1},
-{"t":"dw1","ts":9249675367,"sdi":9,"ddi":33},
-{"t":"dw1","ts":9249675748,"sdi":9,"ddi":33},
-{"t":"dw1","ts":9249675889,"sdi":33,"ddi":1},
-{"t":"dw1","ts":9249675913,"sdi":17,"ddi":33},
-{"t":"dw1","ts":9249675963,"sdi":17,"ddi":33},
-{"t":"dw1","ts":9249676746,"sdi":33,"ddi":1},
-{"t":"dw1","ts":9249676841,"sdi":22,"ddi":33},
-{"t":"dw1","ts":9249677337,"sdi":33,"ddi":22},
-{"t":"dw1","ts":9249677407,"sdi":22,"ddi":33},
-{"t":"dw1","ts":9249677448,"sdi":29,"ddi":33},
-{"t":"dw1","ts":9249677467,"sdi":22,"ddi":33},
-{"t":"dw1","ts":9249678745,"sdi":33,"ddi":1},
-{"t":"dw1","ts":9249678803,"sdi":21,"ddi":33},
-{"t":"dw1","ts":9249678993,"sdi":21,"ddi":33},
-{"t":"dw1","ts":9249686825,"sdi":0,"ddi":33},
-{"t":"dw1","ts":9249687565,"sdi":33,"ddi":1},
-{"t":"dw1","ts":9249687660,"sdi":14,"ddi":33},
-{"t":"dw1","ts":9249687902,"sdi":14,"ddi":33},
-{"t":"dw1","ts":9249688387,"sdi":33,"ddi":1},
-{"t":"dw1","ts":9249688444,"sdi":10,"ddi":33},
-{"t":"dw1","ts":9249688679,"sdi":10,"ddi":33},
-{"t":"dw1","ts":9249689162,"sdi":33,"ddi":1},
-{"t":"dw1","ts":9249689216,"sdi":30,"ddi":33},
-{"t":"dw1","ts":9249689457,"sdi":30,"ddi":33},
-{"t":"dw1","ts":9249690002,"sdi":33,"ddi":1},
-{"t":"dw1","ts":9249690061,"sdi":31,"ddi":33},
-{"t":"dw1","ts":9249690244,"sdi":31,"ddi":33},
-{"t":"dw1","ts":9249706666,"sdi":33,"ddi":1},
-{"t":"dw1","ts":9249706704,"sdi":12,"ddi":33},
-{"t":"dw1","ts":9249706856,"sdi":12,"ddi":33},
-{"t":"dw1","ts":9249707442,"sdi":33,"ddi":1},
-{"t":"dw1","ts":9249707502,"sdi":20,"ddi":33},
-{"t":"dw1","ts":9249707648,"sdi":20,"ddi":33},
-{"t":"dw1","ts":9249708187,"sdi":33,"ddi":1},
-{"t":"dw1","ts":9249708243,"sdi":27,"ddi":33},
-{"t":"dw1","ts":9249708464,"sdi":27,"ddi":33},
-{"t":"dw1","ts":9249708779,"sdi":33,"ddi":1},
-{"t":"dw1","ts":9249708860,"sdi":2,"ddi":33},
-{"t":"dw1","ts":9249709067,"sdi":2,"ddi":33},
-{"t":"dw1","ts":9249716799,"sdi":33,"ddi":5},
-{"t":"dw1","ts":9249719145,"sdi":5,"ddi":33},
-{"t":"dw1","ts":9249722266,"sdi":18,"ddi":26},
-{"t":"dw1","ts":9249722303,"sdi":16,"ddi":26},
-{"t":"dw1","ts":9249722326,"sdi":18,"ddi":26},
-{"t":"dw1","ts":9249722394,"sdi":15,"ddi":26},
-{"t":"dw1","ts":9249722419,"sdi":13,"ddi":26},
-{"t":"dw1","ts":9249722470,"sdi":23,"ddi":26},
-{"t":"dw1","ts":9249722477,"sdi":26,"ddi":24},
-{"t":"dw1","ts":9249722513,"sdi":3,"ddi":26},
-{"t":"dw1","ts":9249722517,"sdi":26,"ddi":18},
-{"t":"dw1","ts":9249722616,"sdi":25,"ddi":26},
-{"t":"dw1","ts":9249722653,"sdi":1,"ddi":26},
-{"t":"dw1","ts":9249722681,"sdi":25,"ddi":26},
-{"t":"dw1","ts":9249722686,"sdi":11,"ddi":26},
-{"t":"dw1","ts":9249722759,"sdi":8,"ddi":26},
-{"t":"dw1","ts":9249722766,"sdi":28,"ddi":26},
-{"t":"dw1","ts":9249722852,"sdi":4,"ddi":26},
-{"t":"dw1","ts":9249722904,"sdi":9,"ddi":26},
-{"t":"dw1","ts":9249722947,"sdi":17,"ddi":26},
-{"t":"dw1","ts":9249722980,"sdi":29,"ddi":26},
-{"t":"dw1","ts":9249723031,"sdi":22,"ddi":26},
-{"t":"dw1","ts":9249723050,"sdi":21,"ddi":26},
-{"t":"dw1","ts":9249723125,"sdi":14,"ddi":26},
-{"t":"dw1","ts":9249723132,"sdi":10,"ddi":26},
-{"t":"dw1","ts":9249723190,"sdi":30,"ddi":26},
-{"t":"dw1","ts":9249723211,"sdi":31,"ddi":26},
-{"t":"dw1","ts":9249723252,"sdi":31,"ddi":26},
-{"t":"dw1","ts":9249723290,"sdi":31,"ddi":26},
-{"t":"dw1","ts":9249723329,"sdi":31,"ddi":26},
-{"t":"dw1","ts":9249723414,"sdi":27,"ddi":26},
-{"t":"dw1","ts":9249723427,"sdi":2,"ddi":26},
-{"t":"dw1","ts":9249723492,"sdi":6,"ddi":26},
-{"t":"dw1","ts":9249723511,"sdi":16,"ddi":26},
-{"t":"dw1","ts":9249723574,"sdi":18,"ddi":26},
-{"t":"dw1","ts":9249723602,"sdi":15,"ddi":26},
-{"t":"dw1","ts":9249723652,"sdi":13,"ddi":26},
-{"t":"dw1","ts":9249723707,"sdi":23,"ddi":26},
-{"t":"dw1","ts":9249723816,"sdi":0,"ddi":19},
-{"t":"dw1","ts":9249724223,"sdi":0,"ddi":19},
-{"t":"dw1","ts":9249724428,"sdi":0,"ddi":19},
-{"t":"dw1","ts":9249724651,"sdi":0,"ddi":19},
-{"t":"dw1","ts":9249724931,"sdi":0,"ddi":19},
-{"t":"dw1","ts":9249725215,"sdi":0,"ddi":19},
-{"t":"dw1","ts":9249726246,"sdi":3,"ddi":19},
-{"t":"dw1","ts":9249726705,"sdi":1,"ddi":19},
-{"t":"dw1","ts":9249729668,"sdi":25,"ddi":19},
-{"t":"dw1","ts":9249730083,"sdi":11,"ddi":19},
-{"t":"dw1","ts":9249730664,"sdi":8,"ddi":19},
-{"t":"dw1","ts":9249730699,"sdi":28,"ddi":19},
-{"t":"dw1","ts":9249731238,"sdi":4,"ddi":19},
-{"t":"dw1","ts":9249731842,"sdi":9,"ddi":19},
-{"t":"dw1","ts":9249731882,"sdi":19,"ddi":33},
-{"t":"dw1","ts":9249732220,"sdi":17,"ddi":19},
-{"t":"dw1","ts":9249733514,"sdi":29,"ddi":19},
-{"t":"dw1","ts":9249734609,"sdi":22,"ddi":19},
-{"t":"dw1","ts":9249735546,"sdi":22,"ddi":19},
-{"t":"dw1","ts":9249736787,"sdi":21,"ddi":19},
-{"t":"dw1","ts":9249736892,"sdi":22,"ddi":19},
-{"t":"dw1","ts":9249737078,"sdi":19,"ddi":24},
-{"t":"dw1","ts":9249737377,"sdi":14,"ddi":19},
-{"t":"br1","ts":9249637152,"ri":11274,"ji":312410,"co":0,"me":2,"ur":"/chat/v5/messages?cid=9944aef7-ad18-4642-bf80-597fd7cda796%40sec.la2.pvp.net&mid=","hc":0,"bl":0},
-{"t":"br1","ts":9249638852,"ri":11275,"ji":312411,"co":0,"me":2,"ur":"/lol-summoner/v1/summoners/24943292","hc":0,"bl":0},
-{"t":"br1","ts":9249639030,"ri":11276,"ji":312412,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
-{"t":"br1","ts":9249646525,"ri":11277,"ji":312414,"co":1806849565,"me":2,"ur":"/lol-chat/v1/conversations/endgame1340202429%40post-game.la2.pvp.net/participants","hc":16,"bl":0},
-{"t":"br1","ts":9249646768,"ri":11278,"ji":312415,"co":1806849565,"me":2,"ur":"/lol-chat/v1/conversations/endgame1340202429%40post-game.la2.pvp.net/messages","hc":16,"bl":0},
-{"t":"br1","ts":9249679384,"ri":11279,"ji":312429,"co":0,"me":6,"ur":"/product-localization/v2/translate","hc":0,"bl":0},
-{"t":"br1","ts":9249686815,"ri":11280,"ji":312430,"co":1806849565,"me":2,"ur":"/lol-chat/v1/conversations","hc":16,"bl":0},
-{"t":"br1","ts":9249690508,"ri":11281,"ji":312439,"co":0,"me":6,"ur":"/product-localization/v2/translate","hc":0,"bl":0},
-{"t":"br1","ts":9249717149,"ri":11282,"ji":312448,"co":0,"me":2,"ur":"/chat/v5/messages?cid=endgame1340202429%40post-game.la2.pvp.net","hc":0,"bl":0},
-{"t":"br1","ts":9249718864,"ri":11283,"ji":312449,"co":0,"me":2,"ur":"/lol-summoner/v1/summoners/15560816","hc":0,"bl":0},
-{"t":"br1","ts":9249719136,"ri":11284,"ji":312450,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
-{"t":"br1","ts":9249723080,"ri":11285,"ji":312475,"co":0,"me":2,"ur":"/lol-summoner/v2/summoners","hc":0,"bl":0},
-{"t":"br1","ts":9249723329,"ri":11286,"ji":312481,"co":0,"me":2,"ur":"/lol-summoner/v2/summoners","hc":0,"bl":0},
-{"t":"br1","ts":9249723537,"ri":11287,"ji":312487,"co":0,"me":2,"ur":"/lol-summoner/v2/summoners","hc":0,"bl":0},
-{"t":"br1","ts":9249723748,"ri":11288,"ji":312491,"co":0,"me":6,"ur":"/telemetry/v3/events-once/lcu-player-experience-non-timing/muc-flag-ready","hc":0,"bl":0},
-{"t":"br1","ts":9249723918,"ri":11289,"ji":312492,"co":0,"me":6,"ur":"/telemetry/v1/events/parties-premade-relationship","hc":0,"bl":0},
-{"t":"br1","ts":9249724250,"ri":11290,"ji":312493,"co":0,"me":2,"ur":"/lol-summoner/v2/summoners","hc":0,"bl":0},
-{"t":"br1","ts":9249724386,"ri":11291,"ji":312494,"co":0,"me":6,"ur":"/telemetry/v3/events-once/lcu-player-experience-non-timing/muc-flag-ready","hc":0,"bl":0},
-{"t":"br1","ts":9249724515,"ri":11292,"ji":312495,"co":0,"me":6,"ur":"/telemetry/v1/events/parties-friend-availability","hc":0,"bl":0},
-{"t":"br1","ts":9249724734,"ri":11293,"ji":312496,"co":0,"me":6,"ur":"/telemetry/v1/events/parties-invitations","hc":0,"bl":0},
-{"t":"br1","ts":9249725047,"ri":11294,"ji":312497,"co":0,"me":2,"ur":"/lol-summoner/v2/summoners","hc":0,"bl":0},
-{"t":"br1","ts":9249725179,"ri":11295,"ji":312498,"co":0,"me":6,"ur":"/telemetry/v3/events-once/lcu-player-experience-non-timing/muc-flag-ready","hc":0,"bl":0},
-{"t":"br1","ts":9249726850,"ri":11296,"ji":312502,"co":0,"me":6,"ur":"/lol-gameflow/v1/session/game-configuration","hc":0,"bl":0},
-{"t":"br1","ts":9249726989,"ri":11297,"ji":312503,"co":0,"me":2,"ur":"/lol-maps/v2/map/12/ARAM","hc":0,"bl":0},
-{"t":"rb1",
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JDialog" name="Buscar_producto">
+      <Properties>
+        <Property name="resizable" type="boolean" value="false"/>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                  <Component id="jLabel14" min="-2" pref="156" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel13" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel6" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane2" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel14" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel6" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane2" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel13" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel13">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel14">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Producto"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablaprod">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="2" rowCount="4">
+                    <Column editable="true" title="CODIGO" type="java.lang.Object"/>
+                    <Column editable="true" title="DESCRIPCION" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel6">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="filtroprod" min="-2" pref="282" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
+                      <Component id="agregarprod" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarprod" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="cancelarprod" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarprod" alignment="1" max="32767" attributes="0"/>
+                          <Component id="filtroprod" alignment="1" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JTextField" name="filtroprod">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="filtroprodKeyTyped"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="agregarprod">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarprodMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="agregarprodActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarprod">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarprodMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelarprodActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="Buscar_Presupuesto">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                  <Component id="jLabel17" min="-2" pref="156" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel16" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel7" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane3" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel17" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel7" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane3" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel16" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel16">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel17">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Presupuesto"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablapres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="3" rowCount="4">
+                    <Column editable="true" title="NRO" type="java.lang.Object"/>
+                    <Column editable="true" title="FECHA" type="java.lang.Object"/>
+                    <Column editable="true" title="PROVEEDOR" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel7">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="fechapres" min="-2" pref="102" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="buscarpres" min="-2" pref="120" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Component id="agregarpres" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarpres" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="buscarpres" alignment="1" max="32767" attributes="0"/>
+                          <Component id="cancelarpres" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarpres" alignment="1" max="32767" attributes="0"/>
+                          <Component id="fechapres" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="agregarpres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpresMouseClicked"/>
+                <EventHandler event="mouseEntered" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpresMouseEntered"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="agregarpresActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarpres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarpresMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelarpresActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JFormattedTextField" name="fechapres">
+              <Properties>
+                <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+                  <Format format="##/##/####" subtype="-1" type="5"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="buscarpres">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Buscar Fecha"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buscarpresActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="Buscar_cliente">
+      <Properties>
+        <Property name="resizable" type="boolean" value="false"/>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                  <Component id="jLabel19" min="-2" pref="156" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel18" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel8" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane4" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel19" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel8" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane4" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel18" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel18">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel19">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Cliente"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablaclie">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="3" rowCount="4">
+                    <Column editable="true" title="ID" type="java.lang.Object"/>
+                    <Column editable="true" title="RUC" type="java.lang.Object"/>
+                    <Column editable="true" title="RAZON SOCIAL" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel8">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="filcliente" min="-2" pref="282" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
+                      <Component id="agregarclie" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarclie" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="cancelarclie" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarclie" alignment="1" max="32767" attributes="0"/>
+                          <Component id="filcliente" alignment="1" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JTextField" name="filcliente">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="filclienteKeyTyped"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="agregarclie">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarclieMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="agregarclieActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarclie">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarclieMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelarclieActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="Buscar_Pedido">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                  <Component id="jLabel21" min="-2" pref="156" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel20" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel9" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane5" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel21" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel9" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane5" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel20" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel20">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel21">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Pedido"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablaped">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="2" rowCount="4">
+                    <Column editable="true" title="NRO" type="java.lang.Object"/>
+                    <Column editable="true" title="FECHA" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel9">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="fechaped" min="-2" pref="102" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="buscarped" min="-2" pref="120" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Component id="agregarped" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarped" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="buscarped" alignment="1" max="32767" attributes="0"/>
+                          <Component id="cancelarped" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarped" alignment="1" max="32767" attributes="0"/>
+                          <Component id="fechaped" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="agregarped">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpedMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="agregarpedActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarped">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelarpedActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JFormattedTextField" name="fechaped">
+              <Properties>
+                <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+                  <Format format="##/##/####" subtype="-1" type="5"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="buscarped">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Buscar Fecha"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buscarpedActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="modalityType" type="java.awt.Dialog$ModalityType" editor="org.netbeans.modules.form.editors.EnumEditor">
+      <Value id="DOCUMENT_MODAL"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="botimprimir" min="-2" pref="88" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="107" max="-2" attributes="0"/>
+                      <Component id="jLabel15" min="-2" pref="61" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="txttotal" min="-2" pref="133" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                      <Component id="jScrollPane1" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="273" pref="273" max="-2" attributes="0"/>
+                          <Component id="jLabel2" min="-2" pref="565" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="jPanel3" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jPanel5" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jPanel4" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="144" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel2" alignment="0" min="-2" pref="68" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="57" pref="57" max="-2" attributes="0"/>
+                      <Component id="jPanel1" min="-2" pref="50" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jPanel4" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jPanel2" min="-2" pref="60" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel3" min="-2" pref="70" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel5" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="148" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="botimprimir" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                  <Component id="jLabel15" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                  <Component id="txttotal" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="78" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Registro de Presupuesto de Compras"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JFormattedTextField" name="txtfecha">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+              <Format format="##/##/####" subtype="-1" type="5"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="610" y="10" width="99" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Fecha"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="550" y="10" width="58" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Usuario"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="730" y="10" width="68" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtusuario">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="800" y="10" width="153" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro de Presupuesto"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="10" width="135" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtnro">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="150" y="10" width="112" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="botbuscar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Presupuesto"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botbuscarActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="280" y="10" width="157" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder title="Producto">
+              <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+              <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel9">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="30" width="40" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtnroproducto">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="70" y="30" width="50" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel10">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Descripcion"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="130" y="30" width="90" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtdescripcion">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="210" y="30" width="370" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel11">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Precio"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="760" y="30" width="80" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtprecio">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="810" y="30" width="120" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="botagregar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Agregar Producto"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botagregarActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="940" y="30" width="130" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="botbuscarproducto">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Producto"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="botbuscarproductoMouseClicked"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botbuscarproductoActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="610" y="30" width="130" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel5">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+                  <Component id="botnuevo" min="-2" pref="86" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Component id="botguardar" min="-2" pref="79" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="botanular" min="-2" pref="87" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="510" max="-2" attributes="0"/>
+                  <Component id="botquitar" min="-2" pref="87" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="botcancelar" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="botsalir" min="-2" pref="69" max="-2" attributes="0"/>
+                  <EmptySpace pref="71" max="32767" attributes="0"/>
+              </Group>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="428" max="-2" attributes="0"/>
+                      <Component id="txtestado" min="-2" pref="240" max="-2" attributes="0"/>
+                      <EmptySpace pref="428" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="botnuevo" min="-2" pref="33" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="botguardar" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                                  <Component id="botanular" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="botquitar" max="32767" attributes="0"/>
+                              <Component id="botcancelar" max="32767" attributes="0"/>
+                              <Component id="botsalir" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="txtestado" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JButton" name="botnuevo">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nuevo"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botnuevoActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botguardar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Guardar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botguardarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botsalir">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Salir"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botsalirActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botcancelar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Cancelar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botcancelarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botquitar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Quitar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botquitarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botanular">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Anular"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botanularActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="txtestado">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="14" style="1"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder title="Proveedor">
+              <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+              <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="20" width="50" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="RUC"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="150" y="20" width="50" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtruc">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtrucActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="200" y="20" width="180" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel8">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Razon Social"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="410" y="20" width="80" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtrazonsocial">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="500" y="20" width="310" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtnroproveedor">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="80" y="20" width="50" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="1090" y="-120" width="52" height="900"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="botbuscarproveedor">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Proveedor"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botbuscarproveedorActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="840" y="20" width="190" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="tabla">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="5" rowCount="4">
+                <Column editable="true" title="CANTIDAD" type="java.lang.Object"/>
+                <Column editable="true" title="CODIGO" type="java.lang.Object"/>
+                <Column editable="true" title="DESCRIPCION" type="java.lang.Object"/>
+                <Column editable="true" title="PRECIO" type="java.lang.Object"/>
+                <Column editable="true" title="TOTAL" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+              <TableColumnModel selectionModel="0">
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+              </TableColumnModel>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="tablaMouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel15">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="TOTAL"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txttotal">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txttotalActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="botimprimir">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Imprimir"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botimprimirActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel4">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder title="Pedido">
+              <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+              <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel12" min="-2" pref="122" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="txtpedido" min="-2" pref="112" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="botbuscarpedido" min="-2" pref="157" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="68" max="-2" attributes="0"/>
+                  <Component id="txtfechapedido" min="-2" pref="99" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jLabel22" min="-2" pref="68" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="txtusuariopedido" min="-2" pref="153" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="168" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel12" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="txtpedido" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="botbuscarpedido" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="txtfechapedido" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="txtusuariopedido" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="jLabel22" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="23" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel12">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro de Pedido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtpedido">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtpedidoActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botbuscarpedido">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Pedido"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botbuscarpedidoActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JFormattedTextField" name="txtfechapedido">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+              <Format format="##/##/####" subtype="-1" type="5"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtusuariopedido">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel22">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Usuario"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

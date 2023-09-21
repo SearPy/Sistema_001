@@ -121,11 +121,8 @@ public class Rutasapp extends javax.swing.JDialog {
         botcancelar = new javax.swing.JButton();
         botanular = new javax.swing.JButton();
         txtestado = new javax.swing.JLabel();
-        botsalir1 = new javax.swing.JButton();
         jScrollPane1 = new javax.swing.JScrollPane();
         tabla = new javax.swing.JTable();
-        jLabel15 = new javax.swing.JLabel();
-        txttotal = new javax.swing.JTextField();
         botimprimir = new javax.swing.JButton();
         jPanel6 = new javax.swing.JPanel();
         jLabel18 = new javax.swing.JLabel();
@@ -483,14 +480,6 @@ public class Rutasapp extends javax.swing.JDialog {
 
         txtestado.setFont(new java.awt.Font("Times New Roman", 1, 14)); // NOI18N
 
-        botsalir1.setFont(new java.awt.Font("Times New Roman", 1, 10)); // NOI18N
-        botsalir1.setText("Quitar");
-        botsalir1.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                botsalir1ActionPerformed(evt);
-            }
-        });
-
         javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
         jPanel5.setLayout(jPanel5Layout);
         jPanel5Layout.setHorizontalGroup(
@@ -502,9 +491,7 @@ public class Rutasapp extends javax.swing.JDialog {
                 .addComponent(botguardar, javax.swing.GroupLayout.PREFERRED_SIZE, 79, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(botanular, javax.swing.GroupLayout.PREFERRED_SIZE, 87, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(514, 514, 514)
-                .addComponent(botsalir1, javax.swing.GroupLayout.PREFERRED_SIZE, 69, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGap(589, 589, 589)
                 .addComponent(botcancelar)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(botsalir, javax.swing.GroupLayout.PREFERRED_SIZE, 69, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -531,7 +518,6 @@ public class Rutasapp extends javax.swing.JDialog {
                         .addContainerGap()
                         .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(botsalir, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                            .addComponent(botsalir1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                             .addComponent(botcancelar, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
                 .addContainerGap())
             .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -543,13 +529,13 @@ public class Rutasapp extends javax.swing.JDialog {
 
         tabla.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null, null},
-                {null, null, null, null, null},
-                {null, null, null, null, null},
-                {null, null, null, null, null}
+                {null, null, null},
+                {null, null, null},
+                {null, null, null},
+                {null, null, null}
             },
             new String [] {
-                "CANTIDAD", "CODIGO", "DESCRIPCION", "PRECIO", "TOTAL"
+                "CODIGO", "DOCUMENTO", "CLIENTE"
             }
         ));
         tabla.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -558,16 +544,6 @@ public class Rutasapp extends javax.swing.JDialog {
             }
         });
         jScrollPane1.setViewportView(tabla);
-
-        jLabel15.setFont(new java.awt.Font("Times New Roman", 1, 10)); // NOI18N
-        jLabel15.setText("TOTAL");
-
-        txttotal.setFont(new java.awt.Font("Times New Roman", 1, 10)); // NOI18N
-        txttotal.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                txttotalActionPerformed(evt);
-            }
-        });
 
         botimprimir.setFont(new java.awt.Font("Times New Roman", 1, 10)); // NOI18N
         botimprimir.setText("Imprimir");
@@ -663,12 +639,9 @@ public class Rutasapp extends javax.swing.JDialog {
                         .addGap(273, 273, 273)
                         .addComponent(jLabel2, javax.swing.GroupLayout.PREFERRED_SIZE, 565, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addComponent(jPanel5, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                    .addGroup(layout.createSequentialGroup()
                         .addComponent(botimprimir, javax.swing.GroupLayout.PREFERRED_SIZE, 88, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(jLabel15, javax.swing.GroupLayout.PREFERRED_SIZE, 61, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                        .addComponent(txttotal, javax.swing.GroupLayout.PREFERRED_SIZE, 166, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addGap(176, 176, 176))
                     .addComponent(jPanel6, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
@@ -688,12 +661,8 @@ public class Rutasapp extends javax.swing.JDialog {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 274, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                        .addComponent(jLabel15, javax.swing.GroupLayout.PREFERRED_SIZE, 35, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addComponent(txttotal, javax.swing.GroupLayout.PREFERRED_SIZE, 33, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addComponent(botimprimir, javax.swing.GroupLayout.PREFERRED_SIZE, 33, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(42, Short.MAX_VALUE))
+                .addComponent(botimprimir, javax.swing.GroupLayout.PREFERRED_SIZE, 33, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(44, Short.MAX_VALUE))
         );
 
         pack();
@@ -706,10 +675,6 @@ public class Rutasapp extends javax.swing.JDialog {
             Logger.getLogger(Rutasapp.class.getName()).log(Level.SEVERE, null, ex);
         }
     }//GEN-LAST:event_botimprimirActionPerformed
-
-    private void txttotalActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txttotalActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_txttotalActionPerformed
 
     private void agregarpedMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_agregarpedMouseClicked
 
@@ -794,10 +759,6 @@ public class Rutasapp extends javax.swing.JDialog {
     private void tablaMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_tablaMouseClicked
         selecTable();        // TODO add your handling code here:
     }//GEN-LAST:event_tablaMouseClicked
-
-    private void botsalir1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botsalir1ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_botsalir1ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -986,7 +947,6 @@ public class Rutasapp extends javax.swing.JDialog {
     private javax.swing.JButton botimprimir;
     private javax.swing.JButton botnuevo;
     private javax.swing.JButton botsalir;
-    private javax.swing.JButton botsalir1;
     private javax.swing.JButton buscarped;
     private javax.swing.JButton buscarpres;
     private javax.swing.JButton cancelarped;
@@ -995,7 +955,6 @@ public class Rutasapp extends javax.swing.JDialog {
     private javax.swing.JFormattedTextField fechapres;
     private javax.swing.JButton jButton15;
     private javax.swing.JButton jButton16;
-    private javax.swing.JLabel jLabel15;
     private javax.swing.JLabel jLabel18;
     private javax.swing.JLabel jLabel19;
     private javax.swing.JLabel jLabel2;
@@ -1028,7 +987,6 @@ public class Rutasapp extends javax.swing.JDialog {
     private javax.swing.JFormattedTextField txtfecha;
     private javax.swing.JTextField txtnro;
     private javax.swing.JTextField txtpedido;
-    private javax.swing.JTextField txttotal;
     private javax.swing.JTextField txtusuario;
     // End of variables declaration//GEN-END:variables
     private Calendar f;

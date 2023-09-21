@@ -1,207 +1,1002 @@
-3-8241b1ac717c\",\"summonerName\":\"\",\"summonerId\":24033673,\"championPickIntent\":0,\"championId\":555,\"assignedPosition\":\"UTILITY\",\"spell1Id\":4,\"spell2Id\":14,\"skinId\":555025,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":3,\"puuid\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"summonerName\":\"\",\"summonerId\":18371309,\"championPickIntent\":516,\"championId\":0,\"assignedPosition\":\"MIDDLE\",\"spell1Id\":4,\"spell2Id\":12,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":4,\"puuid\":\"9a20f89b-fd8f-52de-92d1-b87becb24aae\",\"summonerName\":\"\",\"summonerId\":25599003,\"championPickIntent\":2,\"championId\":0,\"assignedPosition\":\"TOP\",\"spell1Id\":4,\"spell2Id\":14,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"}],\"enemyTeam\":[{\"teamId\":2,\"cellId\":5,\"summonerName\":\"\",\"summonerId\":0,\"championId\":238,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":6,\"summonerName\":\"\",\"summonerId\":0,\"championId\":268,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":7,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":8,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":9,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"}]},\"localPlayerCellId\":3,\"currentTotalTimeMillis\":30000,\"currentTimeRemainingMillis\":8003,\"trades\":[],\"pickOrderSwaps\":[{\"id\":0,\"cellId\":1,\"state\":\"AVAILABLE\"},{\"id\":3,\"cellId\":0,\"state\":\"AVAILABLE\"},{\"id\":20,\"cellId\":4,\"state\":\"AVAILABLE\"},{\"id\":21,\"cellId\":2,\"state\":\"AVAILABLE\"}],\"allowOptingOutOfBanning\":true,\"allowSkinSelection\":true,\"allowDuplicatePicks\":false,\"rerollState\":{\"allowRerolling\":false,\"rerollsRemaining\":0},\"lockedEventsState\":{\"allowLockedEvents\":false,\"lockedEventIndex\":-1},\"battleBoostState\":{\"allowBattleBoost\":false,\"boostableSkinCount\":0,\"battleBoostActivated\":false,\"activatorCellId\":-1,\"unlockedSkinIds\":[],\"cost\":-1},\"championBenchState\":{\"benchEnabled\":false,\"championIds\":[]},\"entitledFeatureState\":{\"additionalRerolls\":0,\"unlockedSkinsState\":{\"unlockedSkinIds\":[]}},\"inventoryDraft\":{\"lastSelectedSkinIdByChampionId\":{\"1\":1012,\"2\":2025,\"3\":3004,\"516\":516000,\"4\":4000,\"5\":5013,\"517\":517000,\"518\":518000,\"6\":6000,\"7\":7000,\"8\":8000,\"777\":777000,\"9\":9007,\"10\":10000,\"11\":11000,\"267\":267000,\"523\":523000,\"12\":12000,\"268\":268003,\"13\":13011,\"15\":15025,\"17\":17000,\"18\":18000,\"19\":19023,\"20\":20000,\"21\":21000,\"22\":22008,\"23\":23000,\"28\":28000,\"29\":29027,\"30\":30017,\"31\":0,\"33\":33000,\"36\":36009,\"38\":38005,\"39\":39020,\"41\":41000,\"42\":42000,\"43\":43007,\"555\":555000,\"44\":0,\"45\":45008,\"48\":48006,\"51\":51022,\"55\":55008,\"56\":0,\"57\":57000,\"58\":58000,\"59\":59011,\"60\":60005,\"61\":61005,\"62\":62000,\"63\":63000,\"64\":64005,\"67\":67000,\"75\":75000,\"76\":76027,\"77\":77004,\"78\":78000,\"79\":79011,\"80\":80000,\"81\":81000,\"82\":82000,\"84\":84009,\"85\":85023,\"86\":86022,\"92\":92000,\"99\":99005,\"103\":103028,\"360\":360000,\"104\":104035,\"106\":106007,\"875\":875000,\"110\":110007,\"111\":111000,\"112\":112004,\"113\":113000,\"114\":114000,\"115\":115005,\"117\":117000,\"887\":887000,\"120\":120003,\"121\":121000,\"122\":122024,\"126\":126000,\"127\":127000,\"131\":131025,\"134\":134000,\"136\":136000,\"141\":141005,\"145\":145014,\"147\":147000,\"150\":150001,\"154\":154000,\"412\":412017,\"157\":157000,\"164\":164001,\"421\":421002,\"166\":0,\"427\":427000,\"429\":429003,\"200\":200001,\"203\":203002,\"221\":221000,\"222\":222000,\"223\":0,\"234\":234000,\"235\":235001,\"236\":236000,\"238\":238031,\"497\":497000,\"498\":498000,\"246\":246001,\"254\":254000},\"skinIds\":[75011,64005,86022,64012,22032,106005,106007,106006,10008,85023,84002,20004,84009,9007,19001,115005,19005,201020,84032,30017,200001,51011,61001,29003,61005,51022,19023,19034,7004,29023,104035,412004,29027,60005,412001,39018,39020,38001,412023,145014,103028,38005,412017,412025,112001,59011,48004,112004,48005,48006,421002,154002,58001,122003,5013,79004,36002,79011,164001,36009,122024,4009,15025,78007,110007,90038,3003,99005,3004,3006,99008,120003,141002,238031,429003,77004,141005,131025,45008,13011,55001,23003,268004,55008,268003,76009,76008,2025,86001,246001,150001,1012,22008,203002,235001,43002,76027,86013,75004,11005,43007],\"spellIds\":[1,3,4,21,6,7,11,12,14],\"initialSpellIds\":[4,12],\"allChampionIds\":[1,2,3,4,516,5,517,6,518,7,8,9,777,10,266,11,267,523,12,268,13,14,526,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,555,44,45,48,50,51,53,54,55,56,57,58,59,60,61,62,63,64,67,68,69,72,74,75,76,77,78,79,80,81,82,83,84,85,86,89,90,91,92,350,96,98,99,101,102,103,104,360,105,106,107,875,876,110,111,112,113,114,115,117,119,887,120,888,121,122,126,127,895,897,131,133,134,902,136,141,142,143,145,147,150,154,412,157,161,163,164,420,421,166,427,429,432,950,711,200,201,202,203,221,222,223,233,234,235,236,238,240,497,498,245,246,254],\"disabledChampionIds\":[]},\"skipChampionSelect\":false}}"},
-{"t":"dw1","ts":5308703478,"sdi":28,"ddi":34},
-{"t":"dw1","ts":5308705760,"sdi":0,"ddi":29},
-{"t":"dw1","ts":5308707403,"sdi":29,"ddi":33},
-{"t":"dw1","ts":5308707781,"sdi":33,"ddi":29},
-{"t":"dw1","ts":5308708205,"sdi":23,"ddi":29},
-{"t":"dw1","ts":5308708403,"sdi":29,"ddi":16},
-{"t":"dw1","ts":5308708413,"sdi":29,"ddi":33},
-{"t":"dw1","ts":5308708441,"sdi":33,"ddi":29},
-{"t":"dw1","ts":5308708468,"sdi":5,"ddi":29},
-{"t":"dw1","ts":5308708519,"sdi":29,"ddi":16},
-{"t":"dw1","ts":5308708531,"sdi":29,"ddi":33},
-{"t":"dw1","ts":5308708566,"sdi":33,"ddi":29},
-{"t":"dw1","ts":5308708603,"sdi":6,"ddi":29},
-{"t":"dw1","ts":5308710203,"sdi":1,"ddi":16},
-{"t":"br1","ts":5308705682,"ri":7110,"ji":184273,"co":0,"me":6,"ur":"/telemetry/v3/events-once/lcu-player-experience-non-timing/muc-flag-ready","hc":0,"bl":0},
-{"t":"br1","ts":5308708001,"ri":7111,"ji":184277,"co":0,"me":6,"ur":"/lol-gameflow/v1/session/champ-select/phase-time-remaining","hc":0,"bl":0},
-{"t":"rb1","ts":5308705756,"ri":7110,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":5308708053,"ri":7111,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5309749726,"mi":20,"na":"OnServiceProxyAsyncEvent"},
-{"t":"ns1","ts":5309752552,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/session"},
-{"t":"ns1","ts":5309753853,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/disabled-champion-ids"},
-{"t":"ns1","ts":5309753951,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/pickable-skin-ids"},
-{"t":"ns1","ts":5309754352,"mi":51,"na":"Update /lol-champ-select/v1/session"},
-{"t":"ns1","ts":5309756877,"mi":51,"na":"Update /lol-champ-select/v1/sfx-notifications"},
-{"t":"ns1","ts":5309757252,"mi":51,"na":"Update /lol-champ-select/v1/summoners/2"},
-{"t":"ns1","ts":5309758061,"mi":51,"na":"Update /lol-champ-select/v1/disabled-champion-ids"},
-{"t":"ns1","ts":5309758493,"mi":51,"na":"Update /lol-champ-select/v1/skin-carousel-skins"},
-{"t":"mp1","ts":5309749628,"na":"teambuilder-draft.tbdGameDtoV1","fl":0,"dds":"{\"counter\":55,\"recoveryCounter\":0,\"phaseName\":\"CHAMPION_SELECT\",\"queueId\":400,\"gameId\":1339925876,\"contextId\":\"240d6bee-d723-4e91-8ca7-3966ec75f35f\",\"championSelectState\":{\"teamId\":\"e020c5e8-772c-4ac7-9cc9-b5c7e55454c6\",\"teamChatRoomId\":\"e020c5e8-772c-4ac7-9cc9-b5c7e55454c6\",\"subphase\":\"BAN_PICK\",\"actionSetList\":[[{\"actionId\":5,\"actorCellId\":5,\"type\":\"BAN\",\"championId\":90,\"completed\":true},{\"actionId\":2,\"actorCellId\":2,\"type\":\"BAN\",\"championId\":114,\"completed\":true},{\"actionId\":4,\"actorCellId\":4,\"type\":\"BAN\",\"championId\":111,\"completed\":true},{\"actionId\":3,\"actorCellId\":3,\"type\":\"BAN\",\"championId\":950,\"completed\":true},{\"actionId\":0,\"actorCellId\":0,\"type\":\"BAN\",\"championId\":33,\"completed\":true},{\"actionId\":8,\"actorCellId\":8,\"type\":\"BAN\",\"championId\":35,\"completed\":true},{\"actionId\":7,\"actorCellId\":7,\"type\":\"BAN\",\"championId\":111,\"completed\":true},{\"actionId\":6,\"actorCellId\":6,\"type\":\"BAN\",\"championId\":233,\"completed\":true},{\"actionId\":9,\"actorCellId\":9,\"type\":\"BAN\",\"championId\":101,\"completed\":true},{\"actionId\":1,\"actorCellId\":1,\"type\":\"BAN\",\"championId\":25,\"completed\":true}],[{\"actionId\":10,\"actorCellId\":0,\"type\":\"PICK\",\"championId\":234,\"completed\":true}],[{\"actionId\":12,\"actorCellId\":6,\"type\":\"PICK\",\"championId\":268,\"completed\":true},{\"actionId\":11,\"actorCellId\":5,\"type\":\"PICK\",\"championId\":238,\"completed\":true}],[{\"actionId\":13,\"actorCellId\":1,\"type\":\"PICK\",\"championId\":51,\"completed\":true},{\"actionId\":14,\"actorCellId\":2,\"type\":\"PICK\",\"championId\":555,\"completed\":true}],[{\"actionId\":16,\"actorCellId\":8,\"type\":\"PICK\",\"championId\":62,\"completed\":false},{\"actionId\":15,\"actorCellId\":7,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":17,\"actorCellId\":3,\"type\":\"PICK\",\"championId\":0,\"completed\":false},{\"actionId\":18,\"actorCellId\":4,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":19,\"actorCellId\":9,\"type\":\"PICK\",\"championId\":0,\"completed\":false}]],\"currentActionSetIndex\":4,\"ceremoniesByActionSetIndex\":{\"1\":[{\"duration\":6400,\"name\":\"TEN_BANS_REVEAL\"}]},\"cells\":{\"alliedTeam\":[{\"teamId\":1,\"cellId\":0,\"puuid\":\"878b8c96-fd38-5c8b-a91f-d3d7ebd62b4b\",\"summonerName\":\"\",\"summonerId\":3087872151766464,\"championPickIntent\":0,\"championId\":234,\"assignedPosition\":\"JUNGLE\",\"spell1Id\":4,\"spell2Id\":11,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":1,\"puuid\":\"02659fb3-9a97-56db-81f1-1cbbf645ba04\",\"summonerName\":\"\",\"summonerId\":10591459,\"championPickIntent\":0,\"championId\":51,\"assignedPosition\":\"BOTTOM\",\"spell1Id\":4,\"spell2Id\":7,\"skinId\":51019,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":2,\"puuid\":\"702743e3-4b5e-5635-83f3-8241b1ac717c\",\"summonerName\":\"\",\"summonerId\":24033673,\"championPickIntent\":0,\"championId\":555,\"assignedPosition\":\"UTILITY\",\"spell1Id\":4,\"spell2Id\":14,\"skinId\":555027,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":3,\"puuid\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"summonerName\":\"\",\"summonerId\":18371309,\"championPickIntent\":516,\"championId\":0,\"assignedPosition\":\"MIDDLE\",\"spell1Id\":4,\"spell2Id\":12,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":4,\"puuid\":\"9a20f89b-fd8f-52de-92d1-b87becb24aae\",\"summonerName\":\"\",\"summonerId\":25599003,\"championPickIntent\":2,\"championId\":0,\"assignedPosition\":\"TOP\",\"spell1Id\":4,\"spell2Id\":14,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"}],\"enemyTeam\":[{\"teamId\":2,\"cellId\":5,\"summonerName\":\"\",\"summonerId\":0,\"championId\":238,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":6,\"summonerName\":\"\",\"summonerId\":0,\"championId\":268,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":7,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":8,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":9,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"}]},\"localPlayerCellId\":3,\"currentTotalTimeMillis\":30000,\"currentTimeRemainingMillis\":6940,\"trades\":[],\"pickOrderSwaps\":[{\"id\":0,\"cellId\":1,\"state\":\"AVAILABLE\"},{\"id\":3,\"cellId\":0,\"state\":\"AVAILABLE\"},{\"id\":20,\"cellId\":4,\"state\":\"AVAILABLE\"},{\"id\":21,\"cellId\":2,\"state\":\"AVAILABLE\"}],\"allowOptingOutOfBanning\":true,\"allowSkinSelection\":true,\"allowDuplicatePicks\":false,\"rerollState\":{\"allowRerolling\":false,\"rerollsRemaining\":0},\"lockedEventsState\":{\"allowLockedEvents\":false,\"lockedEventIndex\":-1},\"battleBoostState\":{\"allowBattleBoost\":false,\"boostableSkinCount\":0,\"battleBoostActivated\":false,\"activatorCellId\":-1,\"unlockedSkinIds\":[],\"cost\":-1},\"championBenchState\":{\"benchEnabled\":false,\"championIds\":[]},\"entitledFeatureState\":{\"additionalRerolls\":0,\"unlockedSkinsState\":{\"unlockedSkinIds\":[]}},\"inventoryDraft\":{\"lastSelectedSkinIdByChampionId\":{\"1\":1012,\"2\":2025,\"3\":3004,\"516\":516000,\"4\":4000,\"5\":5013,\"517\":517000,\"518\":518000,\"6\":6000,\"7\":7000,\"8\":8000,\"777\":777000,\"9\":9007,\"10\":10000,\"11\":11000,\"267\":267000,\"523\":523000,\"12\":12000,\"268\":268003,\"13\":13011,\"15\":15025,\"17\":17000,\"18\":18000,\"19\":19023,\"20\":20000,\"21\":21000,\"22\":22008,\"23\":23000,\"28\":28000,\"29\":29027,\"30\":30017,\"31\":0,\"33\":33000,\"36\":36009,\"38\":38005,\"39\":39020,\"41\":41000,\"42\":42000,\"43\":43007,\"555\":555000,\"44\":0,\"45\":45008,\"48\":48006,\"51\":51022,\"55\":55008,\"56\":0,\"57\":57000,\"58\":58000,\"59\":59011,\"60\":60005,\"61\":61005,\"62\":62000,\"63\":63000,\"64\":64005,\"67\":67000,\"75\":75000,\"76\":76027,\"77\":77004,\"78\":78000,\"79\":79011,\"80\":80000,\"81\":81000,\"82\":82000,\"84\":84009,\"85\":85023,\"86\":86022,\"92\":92000,\"99\":99005,\"103\":103028,\"360\":360000,\"104\":104035,\"106\":106007,\"875\":875000,\"110\":110007,\"111\":111000,\"112\":112004,\"113\":113000,\"114\":114000,\"115\":115005,\"117\":117000,\"887\":887000,\"120\":120003,\"121\":121000,\"122\":122024,\"126\":126000,\"127\":127000,\"131\":131025,\"134\":134000,\"136\":136000,\"141\":141005,\"145\":145014,\"147\":147000,\"150\":150001,\"154\":154000,\"412\":412017,\"157\":157000,\"164\":164001,\"421\":421002,\"166\":0,\"427\":427000,\"429\":429003,\"200\":200001,\"203\":203002,\"221\":221000,\"222\":222000,\"223\":0,\"234\":234000,\"235\":235001,\"236\":236000,\"238\":238031,\"497\":497000,\"498\":498000,\"246\":246001,\"254\":254000},\"skinIds\":[75011,64005,86022,64012,22032,106005,106007,106006,10008,85023,84002,20004,84009,9007,19001,115005,19005,201020,84032,30017,200001,51011,61001,29003,61005,51022,19023,19034,7004,29023,104035,412004,29027,60005,412001,39018,39020,38001,412023,145014,103028,38005,412017,412025,112001,59011,48004,112004,48005,48006,421002,154002,58001,122003,5013,79004,36002,79011,164001,36009,122024,4009,15025,78007,110007,90038,3003,99005,3004,3006,99008,120003,141002,238031,429003,77004,141005,131025,45008,13011,55001,23003,268004,55008,268003,76009,76008,2025,86001,246001,150001,1012,22008,203002,235001,43002,76027,86013,75004,11005,43007],\"spellIds\":[1,3,4,21,6,7,11,12,14],\"initialSpellIds\":[4,12],\"allChampionIds\":[1,2,3,4,516,5,517,6,518,7,8,9,777,10,266,11,267,523,12,268,13,14,526,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,555,44,45,48,50,51,53,54,55,56,57,58,59,60,61,62,63,64,67,68,69,72,74,75,76,77,78,79,80,81,82,83,84,85,86,89,90,91,92,350,96,98,99,101,102,103,104,360,105,106,107,875,876,110,111,112,113,114,115,117,119,887,120,888,121,122,126,127,895,897,131,133,134,902,136,141,142,143,145,147,150,154,412,157,161,163,164,420,421,166,427,429,432,950,711,200,201,202,203,221,222,223,233,234,235,236,238,240,497,498,245,246,254],\"disabledChampionIds\":[]},\"skipChampionSelect\":false}}"},
-{"t":"dw1","ts":5309749960,"sdi":12,"ddi":34},
-{"t":"dw1","ts":5309752140,"sdi":0,"ddi":24},
-{"t":"dw1","ts":5309753335,"sdi":24,"ddi":33},
-{"t":"dw1","ts":5309753704,"sdi":33,"ddi":24},
-{"t":"dw1","ts":5309753861,"sdi":2,"ddi":24},
-{"t":"dw1","ts":5309753900,"sdi":24,"ddi":13},
-{"t":"dw1","ts":5309753908,"sdi":24,"ddi":33},
-{"t":"dw1","ts":5309753943,"sdi":20,"ddi":24},
-{"t":"dw1","ts":5309753944,"sdi":33,"ddi":24},
-{"t":"dw1","ts":5309753996,"sdi":24,"ddi":13},
-{"t":"dw1","ts":5309754006,"sdi":24,"ddi":33},
-{"t":"dw1","ts":5309754050,"sdi":33,"ddi":24},
-{"t":"dw1","ts":5309754054,"sdi":31,"ddi":24},
-{"t":"dw1","ts":5309755791,"sdi":4,"ddi":13},
-{"t":"br1","ts":5309752072,"ri":7112,"ji":184318,"co":0,"me":6,"ur":"/telemetry/v3/events-once/lcu-player-experience-non-timing/muc-flag-ready","hc":0,"bl":0},
-{"t":"br1","ts":5309753978,"ri":7113,"ji":184325,"co":0,"me":6,"ur":"/lol-gameflow/v1/session/champ-select/phase-time-remaining","hc":0,"bl":0},
-{"t":"rb1","ts":5309752137,"ri":7112,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":5309754013,"ri":7113,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5309936080,"mi":20,"na":"OnServiceProxyAsyncEvent"},
-{"t":"ns1","ts":5309939407,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/session"},
-{"t":"ns1","ts":5309941326,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/disabled-champion-ids"},
-{"t":"ns1","ts":5309941469,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/pickable-skin-ids"},
-{"t":"ns1","ts":5309941902,"mi":51,"na":"Update /lol-champ-select/v1/session"},
-{"t":"ns1","ts":5309944418,"mi":51,"na":"Update /lol-champ-select/v1/sfx-notifications"},
-{"t":"ns1","ts":5309944722,"mi":51,"na":"Update /lol-champ-select/v1/summoners/4"},
-{"t":"ns1","ts":5309945196,"mi":51,"na":"Update /lol-champ-select/v1/grid-champions/2"},
-{"t":"ns1","ts":5309945434,"mi":51,"na":"Update /lol-champ-select/v1/grid-champions/157"},
-{"t":"ns1","ts":5309946422,"mi":51,"na":"Update /lol-champ-select/v1/disabled-champion-ids"},
-{"t":"ns1","ts":5309947114,"mi":51,"na":"Update /lol-champ-select/v1/skin-carousel-skins"},
-{"t":"mp1","ts":5309935981,"na":"teambuilder-draft.tbdGameDtoV1","fl":0,"dds":"{\"counter\":56,\"recoveryCounter\":0,\"phaseName\":\"CHAMPION_SELECT\",\"queueId\":400,\"gameId\":1339925876,\"contextId\":\"240d6bee-d723-4e91-8ca7-3966ec75f35f\",\"championSelectState\":{\"teamId\":\"e020c5e8-772c-4ac7-9cc9-b5c7e55454c6\",\"teamChatRoomId\":\"e020c5e8-772c-4ac7-9cc9-b5c7e55454c6\",\"subphase\":\"BAN_PICK\",\"actionSetList\":[[{\"actionId\":5,\"actorCellId\":5,\"type\":\"BAN\",\"championId\":90,\"completed\":true},{\"actionId\":2,\"actorCellId\":2,\"type\":\"BAN\",\"championId\":114,\"completed\":true},{\"actionId\":4,\"actorCellId\":4,\"type\":\"BAN\",\"championId\":111,\"completed\":true},{\"actionId\":3,\"actorCellId\":3,\"type\":\"BAN\",\"championId\":950,\"completed\":true},{\"actionId\":0,\"actorCellId\":0,\"type\":\"BAN\",\"championId\":33,\"completed\":true},{\"actionId\":8,\"actorCellId\":8,\"type\":\"BAN\",\"championId\":35,\"completed\":true},{\"actionId\":7,\"actorCellId\":7,\"type\":\"BAN\",\"championId\":111,\"completed\":true},{\"actionId\":6,\"actorCellId\":6,\"type\":\"BAN\",\"championId\":233,\"completed\":true},{\"actionId\":9,\"actorCellId\":9,\"type\":\"BAN\",\"championId\":101,\"completed\":true},{\"actionId\":1,\"actorCellId\":1,\"type\":\"BAN\",\"championId\":25,\"completed\":true}],[{\"actionId\":10,\"actorCellId\":0,\"type\":\"PICK\",\"championId\":234,\"completed\":true}],[{\"actionId\":12,\"actorCellId\":6,\"type\":\"PICK\",\"championId\":268,\"completed\":true},{\"actionId\":11,\"actorCellId\":5,\"type\":\"PICK\",\"championId\":238,\"completed\":true}],[{\"actionId\":13,\"actorCellId\":1,\"type\":\"PICK\",\"championId\":51,\"completed\":true},{\"actionId\":14,\"actorCellId\":2,\"type\":\"PICK\",\"championId\":555,\"completed\":true}],[{\"actionId\":16,\"actorCellId\":8,\"type\":\"PICK\",\"championId\":62,\"completed\":false},{\"actionId\":15,\"actorCellId\":7,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":17,\"actorCellId\":3,\"type\":\"PICK\",\"championId\":0,\"completed\":false},{\"actionId\":18,\"actorCellId\":4,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":19,\"actorCellId\":9,\"type\":\"PICK\",\"championId\":0,\"completed\":false}]],\"currentActionSetIndex\":4,\"ceremoniesByActionSetIndex\":{\"1\":[{\"duration\":6400,\"name\":\"TEN_BANS_REVEAL\"}]},\"cells\":{\"alliedTeam\":[{\"teamId\":1,\"cellId\":0,\"puuid\":\"878b8c96-fd38-5c8b-a91f-d3d7ebd62b4b\",\"summonerName\":\"\",\"summonerId\":3087872151766464,\"championPickIntent\":0,\"championId\":234,\"assignedPosition\":\"JUNGLE\",\"spell1Id\":4,\"spell2Id\":11,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":1,\"puuid\":\"02659fb3-9a97-56db-81f1-1cbbf645ba04\",\"summonerName\":\"\",\"summonerId\":10591459,\"championPickIntent\":0,\"championId\":51,\"assignedPosition\":\"BOTTOM\",\"spell1Id\":4,\"spell2Id\":7,\"skinId\":51019,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":2,\"puuid\":\"702743e3-4b5e-5635-83f3-8241b1ac717c\",\"summonerName\":\"\",\"summonerId\":24033673,\"championPickIntent\":0,\"championId\":555,\"assignedPosition\":\"UTILITY\",\"spell1Id\":4,\"spell2Id\":14,\"skinId\":555027,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":3,\"puuid\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"summonerName\":\"\",\"summonerId\":18371309,\"championPickIntent\":516,\"championId\":0,\"assignedPosition\":\"MIDDLE\",\"spell1Id\":4,\"spell2Id\":12,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":4,\"puuid\":\"9a20f89b-fd8f-52de-92d1-b87becb24aae\",\"summonerName\":\"\",\"summonerId\":25599003,\"championPickIntent\":157,\"championId\":0,\"assignedPosition\":\"TOP\",\"spell1Id\":4,\"spell2Id\":14,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"}],\"enemyTeam\":[{\"teamId\":2,\"cellId\":5,\"summonerName\":\"\",\"summonerId\":0,\"championId\":238,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":6,\"summonerName\":\"\",\"summonerId\":0,\"championId\":268,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":7,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":8,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":9,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"}]},\"localPlayerCellId\":3,\"currentTotalTimeMillis\":30000,\"currentTimeRemainingMillis\":6874,\"trades\":[],\"pickOrderSwaps\":[{\"id\":0,\"cellId\":1,\"state\":\"AVAILABLE\"},{\"id\":3,\"cellId\":0,\"state\":\"AVAILABLE\"},{\"id\":20,\"cellId\":4,\"state\":\"AVAILABLE\"},{\"id\":21,\"cellId\":2,\"state\":\"AVAILABLE\"}],\"allowOptingOutOfBanning\":true,\"allowSkinSelection\":true,\"allowDuplicatePicks\":false,\"rerollState\":{\"allowRerolling\":false,\"rerollsRemaining\":0},\"lockedEventsState\":{\"allowLockedEvents\":false,\"lockedEventIndex\":-1},\"battleBoostState\":{\"allowBattleBoost\":false,\"boostableSkinCount\":0,\"battleBoostActivated\":false,\"activatorCellId\":-1,\"unlockedSkinIds\":[],\"cost\":-1},\"championBenchState\":{\"benchEnabled\":false,\"championIds\":[]},\"entitledFeatureState\":{\"additionalRerolls\":0,\"unlockedSkinsState\":{\"unlockedSkinIds\":[]}},\"inventoryDraft\":{\"lastSelectedSkinIdByChampionId\":{\"1\":1012,\"2\":2025,\"3\":3004,\"516\":516000,\"4\":4000,\"5\":5013,\"517\":517000,\"518\":518000,\"6\":6000,\"7\":7000,\"8\":8000,\"777\":777000,\"9\":9007,\"10\":10000,\"11\":11000,\"267\":267000,\"523\":523000,\"12\":12000,\"268\":268003,\"13\":13011,\"15\":15025,\"17\":17000,\"18\":18000,\"19\":19023,\"20\":20000,\"21\":21000,\"22\":22008,\"23\":23000,\"28\":28000,\"29\":29027,\"30\":30017,\"31\":0,\"33\":33000,\"36\":36009,\"38\":38005,\"39\":39020,\"41\":41000,\"42\":42000,\"43\":43007,\"555\":555000,\"44\":0,\"45\":45008,\"48\":48006,\"51\":51022,\"55\":55008,\"56\":0,\"57\":57000,\"58\":58000,\"59\":59011,\"60\":60005,\"61\":61005,\"62\":62000,\"63\":63000,\"64\":64005,\"67\":67000,\"75\":75000,\"76\":76027,\"77\":77004,\"78\":78000,\"79\":79011,\"80\":80000,\"81\":81000,\"82\":82000,\"84\":84009,\"85\":85023,\"86\":86022,\"92\":92000,\"99\":99005,\"103\":103028,\"360\":360000,\"104\":104035,\"106\":106007,\"875\":875000,\"110\":110007,\"111\":111000,\"112\":112004,\"113\":113000,\"114\":114000,\"115\":115005,\"117\":117000,\"887\":887000,\"120\":120003,\"121\":121000,\"122\":122024,\"126\":126000,\"127\":127000,\"131\":131025,\"134\":134000,\"136\":136000,\"141\":141005,\"145\":145014,\"147\":147000,\"150\":150001,\"154\":154000,\"412\":412017,\"157\":157000,\"164\":164001,\"421\":421002,\"166\":0,\"427\":427000,\"429\":429003,\"200\":200001,\"203\":203002,\"221\":221000,\"222\":222000,\"223\":0,\"234\":234000,\"235\":235001,\"236\":236000,\"238\":238031,\"497\":497000,\"498\":498000,\"246\":246001,\"254\":254000},\"skinIds\":[75011,64005,86022,64012,22032,106005,106007,106006,10008,85023,84002,20004,84009,9007,19001,115005,19005,201020,84032,30017,200001,51011,61001,29003,61005,51022,19023,19034,7004,29023,104035,412004,29027,60005,412001,39018,39020,38001,412023,145014,103028,38005,412017,412025,112001,59011,48004,112004,48005,48006,421002,154002,58001,122003,5013,79004,36002,79011,164001,36009,122024,4009,15025,78007,110007,90038,3003,99005,3004,3006,99008,120003,141002,238031,429003,77004,141005,131025,45008,13011,55001,23003,268004,55008,268003,76009,76008,2025,86001,246001,150001,1012,22008,203002,235001,43002,76027,86013,75004,11005,43007],\"spellIds\":[1,3,4,21,6,7,11,12,14],\"initialSpellIds\":[4,12],\"allChampionIds\":[1,2,3,4,516,5,517,6,518,7,8,9,777,10,266,11,267,523,12,268,13,14,526,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,555,44,45,48,50,51,53,54,55,56,57,58,59,60,61,62,63,64,67,68,69,72,74,75,76,77,78,79,80,81,82,83,84,85,86,89,90,91,92,350,96,98,99,101,102,103,104,360,105,106,107,875,876,110,111,112,113,114,115,117,119,887,120,888,121,122,126,127,895,897,131,133,134,902,136,141,142,143,145,147,150,154,412,157,161,163,164,420,421,166,427,429,432,950,711,200,201,202,203,221,222,223,233,234,235,236,238,240,497,498,245,246,254],\"disabledChampionIds\":[]},\"skipChampionSelect\":false}}"},
-{"t":"dw1","ts":5309936314,"sdi":18,"ddi":34},
-{"t":"dw1","ts":5309938959,"sdi":0,"ddi":28},
-{"t":"dw1","ts":5309940374,"sdi":28,"ddi":33},
-{"t":"dw1","ts":5309940919,"sdi":33,"ddi":28},
-{"t":"dw1","ts":5309941254,"sdi":23,"ddi":28},
-{"t":"dw1","ts":5309941413,"sdi":28,"ddi":17},
-{"t":"dw1","ts":5309941426,"sdi":28,"ddi":33},
-{"t":"dw1","ts":5309941454,"sdi":33,"ddi":28},
-{"t":"dw1","ts":5309941474,"sdi":5,"ddi":28},
-{"t":"dw1","ts":5309941522,"sdi":28,"ddi":17},
-{"t":"dw1","ts":5309941539,"sdi":28,"ddi":33},
-{"t":"dw1","ts":5309941576,"sdi":33,"ddi":28},
-{"t":"dw1","ts":5309941610,"sdi":6,"ddi":28},
-{"t":"dw1","ts":5309943496,"sdi":29,"ddi":17},
-{"t":"br1","ts":5309938882,"ri":7114,"ji":184340,"co":0,"me":6,"ur":"/telemetry/v3/events-once/lcu-player-experience-non-timing/muc-flag-ready","hc":0,"bl":0},
-{"t":"br1","ts":5309941313,"ri":7115,"ji":184344,"co":0,"me":6,"ur":"/lol-gameflow/v1/session/champ-select/phase-time-remaining","hc":0,"bl":0},
-{"t":"rb1","ts":5309938955,"ri":7114,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":5309941352,"ri":7115,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5310141629,"mi":64,"na":"Update /chat/v4/presences"},
-{"t":"ns1","ts":5310155064,"mi":64,"na":"Update /lol-chat/v1/friends/bebec038-1739-5171-89b7-f505cba546b3@la2.pvp.net"},
-{"t":"ns1","ts":5310156089,"mi":108,"na":"Create /lol-game-client-chat/v1/buddies/Wirococha"},
-{"t":"ns1","ts":5310156800,"mi":112,"na":"Update /lol-hovercard/v1/friend-info/bebec038-1739-5171-89b7-f505cba546b3"},
-{"t":"ns1","ts":5310156939,"mi":108,"na":"Create /lol-game-client-chat/v2/buddies/bebec038-1739-5171-89b7-f505cba546b3@la2.pvp.net"},
-{"t":"ns1","ts":5310157055,"mi":64,"na":"Update /lol-chat/v1/friend-counts"},
-{"t":"ns1","ts":5310157447,"mi":112,"na":"Update /lol-hovercard/v1/friend-info-by-summoner/20361155"},
-{"t":"mn1","ts":5310141730,"ty":"Update","ur":"/chat/v4/presences","fl":1,"dds":""},
-{"t":"dw1","ts":5310141700,"sdi":0,"ddi":33},
-{"t":"dw1","ts":5310156187,"sdi":33,"ddi":17},
-{"t":"dw1","ts":5310156188,"sdi":31,"ddi":33},
-{"t":"dw1","ts":5310156416,"sdi":31,"ddi":33},
-{"t":"dw1","ts":5310156752,"sdi":31,"ddi":33},
-{"t":"dw1","ts":5310156803,"sdi":9,"ddi":33},
-{"t":"dw1","ts":5310157122,"sdi":24,"ddi":33},
-{"t":"dw1","ts":5310157439,"sdi":7,"ddi":33},
-{"t":"dw1","ts":5310158016,"sdi":4,"ddi":33},
-{"t":"dw1","ts":5310162921,"sdi":33,"ddi":9},
-{"t":"dw1","ts":5310163919,"sdi":9,"ddi":33},
-{"t":"dw1","ts":5310171142,"sdi":33,"ddi":9},
-{"t":"dw1","ts":5310172598,"sdi":9,"ddi":33},
-{"t":"dw1","ts":5310178184,"sdi":33,"ddi":9},
-{"t":"dw1","ts":5310179303,"sdi":9,"ddi":33},
-{"t":"dw1","ts":5310183797,"sdi":33,"ddi":9},
-{"t":"dw1","ts":5310184805,"sdi":9,"ddi":33},
-{"t":"br1","ts":5310141839,"ri":7116,"ji":184359,"co":0,"me":6,"ur":"/product-localization/v2/translate","hc":0,"bl":0},
-{"t":"br1","ts":5310156431,"ri":7117,"ji":184365,"co":0,"me":2,"ur":"/lol-summoner/v2/summoners/puuid/bebec038-1739-5171-89b7-f505cba546b3","hc":0,"bl":0},
-{"t":"br1","ts":5310156797,"ri":7118,"ji":184367,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
-{"t":"br1","ts":5310163764,"ri":7119,"ji":184369,"co":0,"me":2,"ur":"/lol-summoner/v1/summoners/20361155","hc":0,"bl":0},
-{"t":"br1","ts":5310163912,"ri":7120,"ji":184370,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
-{"t":"br1","ts":5310172353,"ri":7121,"ji":184371,"co":0,"me":2,"ur":"/lol-summoner/v1/summoners/2737874294703936","hc":0,"bl":0},
-{"t":"br1","ts":5310172590,"ri":7122,"ji":184372,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
-{"t":"br1","ts":5310179151,"ri":7123,"ji":184373,"co":0,"me":2,"ur":"/lol-summoner/v1/summoners/2769736284227552","hc":0,"bl":0},
-{"t":"br1","ts":5310179296,"ri":7124,"ji":184374,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
-{"t":"br1","ts":5310184673,"ri":7125,"ji":184375,"co":0,"me":2,"ur":"/lol-summoner/v1/summoners/2848100512891968","hc":0,"bl":0},
-{"t":"br1","ts":5310184800,"ri":7126,"ji":184376,"co":0,"me":2,"ur":"/lol-chat/v1/friends","hc":0,"bl":0},
-{"t":"rb1","ts":5310154681,"ri":7116,"sc":1,"rc":200,"hc":6,"bl":1},
-{"t":"rb1","ts":5310156626,"ri":7117,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":5310162908,"ri":7118,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":5310163889,"ri":7119,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":5310171132,"ri":7120,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":5310172567,"ri":7121,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":5310178174,"ri":7122,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":5310179276,"ri":7123,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":5310183787,"ri":7124,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":5310184783,"ri":7125,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"xr1","ts":5310141817,"ri":274877907316,"mi":64,"me":6,"ur":"/product-localization/v2/translate"},
-{"t":"rx1","ts":5310154703,"ri":274877907316,"sc":1,"fl":0,"dds":"{\"results\":[{\"found\":true,\"key\":\"chat_presence_product_league_of_legends\",\"product_id\":\"league_of_legends\",\"value\":\"League of Legends\"}]}"},
-{"t":"ns1","ts":5310191656,"mi":138,"na":"Update /lol-suggested-players/v1/suggested-players"},
-{"t":"dw1","ts":5310187457,"sdi":0,"ddi":33},
-{"t":"dw1","ts":5310189728,"sdi":33,"ddi":9},
-{"t":"dw1","ts":5310192124,"sdi":9,"ddi":33},
-{"t":"br1","ts":5310187451,"ri":7127,"ji":184380,"co":1474108366,"me":2,"ur":"/lol-chat/v1/friends","hc":16,"bl":0},
-{"t":"br1","ts":5310191401,"ri":7128,"ji":184381,"co":0,"me":2,"ur":"/lol-summoner/v1/summoners/2889143307773568","hc":0,"bl":0},
-{"t":"rb1","ts":5310189714,"ri":7126,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":5310191581,"ri":7128,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":5310193938,"ri":7127,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"ns1","ts":5310943024,"mi":20,"na":"OnServiceProxyAsyncEvent"},
-{"t":"ns1","ts":5310945638,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/session"},
-{"t":"ns1","ts":5310947438,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/disabled-champion-ids"},
-{"t":"ns1","ts":5310947545,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/pickable-skin-ids"},
-{"t":"ns1","ts":5310947677,"mi":51,"na":"Update /lol-champ-select/v1/session"},
-{"t":"ns1","ts":5310949439,"mi":51,"na":"Update /lol-champ-select/v1/sfx-notifications"},
-{"t":"ns1","ts":5310949759,"mi":51,"na":"Update /lol-champ-select/v1/summoners/4"},
-{"t":"ns1","ts":5310950035,"mi":51,"na":"Update /lol-champ-select/v1/summoners/8"},
-{"t":"ns1","ts":5310950391,"mi":51,"na":"Update /lol-champ-select/v1/grid-champions/62"},
-{"t":"ns1","ts":5310950622,"mi":51,"na":"Update /lol-champ-select/v1/grid-champions/157"},
-{"t":"ns1","ts":5310950773,"mi":51,"na":"Update /lol-champ-select/v1/grid-champions/2"},
-{"t":"ns1","ts":5310951246,"mi":51,"na":"Update /lol-champ-select/v1/disabled-champion-ids"},
-{"t":"ns1","ts":5310951586,"mi":51,"na":"Update /lol-champ-select/v1/skin-carousel-skins"},
-{"t":"mp1","ts":5310942948,"na":"teambuilder-draft.tbdGameDtoV1","fl":0,"dds":"{\"counter\":58,\"recoveryCounter\":0,\"phaseName\":\"CHAMPION_SELECT\",\"queueId\":400,\"gameId\":1339925876,\"contextId\":\"240d6bee-d723-4e91-8ca7-3966ec75f35f\",\"championSelectState\":{\"teamId\":\"e020c5e8-772c-4ac7-9cc9-b5c7e55454c6\",\"teamChatRoomId\":\"e020c5e8-772c-4ac7-9cc9-b5c7e55454c6\",\"subphase\":\"BAN_PICK\",\"actionSetList\":[[{\"actionId\":5,\"actorCellId\":5,\"type\":\"BAN\",\"championId\":90,\"completed\":true},{\"actionId\":2,\"actorCellId\":2,\"type\":\"BAN\",\"championId\":114,\"completed\":true},{\"actionId\":4,\"actorCellId\":4,\"type\":\"BAN\",\"championId\":111,\"completed\":true},{\"actionId\":3,\"actorCellId\":3,\"type\":\"BAN\",\"championId\":950,\"completed\":true},{\"actionId\":0,\"actorCellId\":0,\"type\":\"BAN\",\"championId\":33,\"completed\":true},{\"actionId\":8,\"actorCellId\":8,\"type\":\"BAN\",\"championId\":35,\"completed\":true},{\"actionId\":7,\"actorCellId\":7,\"type\":\"BAN\",\"championId\":111,\"completed\":true},{\"actionId\":6,\"actorCellId\":6,\"type\":\"BAN\",\"championId\":233,\"completed\":true},{\"actionId\":9,\"actorCellId\":9,\"type\":\"BAN\",\"championId\":101,\"completed\":true},{\"actionId\":1,\"actorCellId\":1,\"type\":\"BAN\",\"championId\":25,\"completed\":true}],[{\"actionId\":10,\"actorCellId\":0,\"type\":\"PICK\",\"championId\":234,\"completed\":true}],[{\"actionId\":12,\"actorCellId\":6,\"type\":\"PICK\",\"championId\":268,\"completed\":true},{\"actionId\":11,\"actorCellId\":5,\"type\":\"PICK\",\"championId\":238,\"completed\":true}],[{\"actionId\":13,\"actorCellId\":1,\"type\":\"PICK\",\"championId\":51,\"completed\":true},{\"actionId\":14,\"actorCellId\":2,\"type\":\"PICK\",\"championId\":555,\"completed\":true}],[{\"actionId\":15,\"actorCellId\":7,\"type\":\"PICK\",\"championId\":0,\"completed\":false},{\"actionId\":16,\"actorCellId\":8,\"type\":\"PICK\",\"championId\":62,\"completed\":true}],[{\"actionId\":17,\"actorCellId\":3,\"type\":\"PICK\",\"championId\":0,\"completed\":false},{\"actionId\":18,\"actorCellId\":4,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":19,\"actorCellId\":9,\"type\":\"PICK\",\"championId\":0,\"completed\":false}]],\"currentActionSetIndex\":4,\"ceremoniesByActionSetIndex\":{\"1\":[{\"duration\":6400,\"name\":\"TEN_BANS_REVEAL\"}]},\"cells\":{\"alliedTeam\":[{\"teamId\":1,\"cellId\":0,\"puuid\":\"878b8c96-fd38-5c8b-a91f-d3d7ebd62b4b\",\"summonerName\":\"\",\"summonerId\":3087872151766464,\"championPickIntent\":0,\"championId\":234,\"assignedPosition\":\"JUNGLE\",\"spell1Id\":4,\"spell2Id\":11,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":1,\"puuid\":\"02659fb3-9a97-56db-81f1-1cbbf645ba04\",\"summonerName\":\"\",\"summonerId\":10591459,\"championPickIntent\":0,\"championId\":51,\"assignedPosition\":\"BOTTOM\",\"spell1Id\":4,\"spell2Id\":7,\"skinId\":51019,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":2,\"puuid\":\"702743e3-4b5e-5635-83f3-8241b1ac717c\",\"summonerName\":\"\",\"summonerId\":24033673,\"championPickIntent\":0,\"championId\":555,\"assignedPosition\":\"UTILITY\",\"spell1Id\":4,\"spell2Id\":14,\"skinId\":555027,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":3,\"puuid\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"summonerName\":\"\",\"summonerId\":18371309,\"championPickIntent\":516,\"championId\":0,\"assignedPosition\":\"MIDDLE\",\"spell1Id\":4,\"spell2Id\":12,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":4,\"puuid\":\"9a20f89b-fd8f-52de-92d1-b87becb24aae\",\"summonerName\":\"\",\"summonerId\":25599003,\"championPickIntent\":2,\"championId\":0,\"assignedPosition\":\"TOP\",\"spell1Id\":4,\"spell2Id\":14,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"}],\"enemyTeam\":[{\"teamId\":2,\"cellId\":5,\"summonerName\":\"\",\"summonerId\":0,\"championId\":238,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":6,\"summonerName\":\"\",\"summonerId\":0,\"championId\":268,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":7,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":8,\"summonerName\":\"\",\"summonerId\":0,\"championId\":62,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":9,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"}]},\"localPlayerCellId\":3,\"currentTotalTimeMillis\":30000,\"currentTimeRemainingMillis\":5764,\"trades\":[],\"pickOrderSwaps\":[{\"id\":0,\"cellId\":1,\"state\":\"AVAILABLE\"},{\"id\":3,\"cellId\":0,\"state\":\"AVAILABLE\"},{\"id\":20,\"cellId\":4,\"state\":\"AVAILABLE\"},{\"id\":21,\"cellId\":2,\"state\":\"AVAILABLE\"}],\"allowOptingOutOfBanning\":true,\"allowSkinSelection\":true,\"allowDuplicatePicks\":false,\"rerollState\":{\"allowRerolling\":false,\"rerollsRemaining\":0},\"lockedEventsState\":{\"allowLockedEvents\":false,\"lockedEventIndex\":-1},\"battleBoostState\":{\"allowBattleBoost\":false,\"boostableSkinCount\":0,\"battleBoostActivated\":false,\"activatorCellId\":-1,\"unlockedSkinIds\":[],\"cost\":-1},\"championBenchState\":{\"benchEnabled\":false,\"championIds\":[]},\"entitledFeatureState\":{\"additionalRerolls\":0,\"unlockedSkinsState\":{\"unlockedSkinIds\":[]}},\"inventoryDraft\":{\"lastSelectedSkinIdByChampionId\":{\"1\":1012,\"2\":2025,\"3\":3004,\"516\":516000,\"4\":4000,\"5\":5013,\"517\":517000,\"518\":518000,\"6\":6000,\"7\":7000,\"8\":8000,\"777\":777000,\"9\":9007,\"10\":10000,\"11\":11000,\"267\":267000,\"523\":523000,\"12\":12000,\"268\":268003,\"13\":13011,\"15\":15025,\"17\":17000,\"18\":18000,\"19\":19023,\"20\":20000,\"21\":21000,\"22\":22008,\"23\":23000,\"28\":28000,\"29\":29027,\"30\":30017,\"31\":0,\"33\":33000,\"36\":36009,\"38\":38005,\"39\":39020,\"41\":41000,\"42\":42000,\"43\":43007,\"555\":555000,\"44\":0,\"45\":45008,\"48\":48006,\"51\":51022,\"55\":55008,\"56\":0,\"57\":57000,\"58\":58000,\"59\":59011,\"60\":60005,\"61\":61005,\"62\":62000,\"63\":63000,\"64\":64005,\"67\":67000,\"75\":75000,\"76\":76027,\"77\":77004,\"78\":78000,\"79\":79011,\"80\":80000,\"81\":81000,\"82\":82000,\"84\":84009,\"85\":85023,\"86\":86022,\"92\":92000,\"99\":99005,\"103\":103028,\"360\":360000,\"104\":104035,\"106\":106007,\"875\":875000,\"110\":110007,\"111\":111000,\"112\":112004,\"113\":113000,\"114\":114000,\"115\":115005,\"117\":117000,\"887\":887000,\"120\":120003,\"121\":121000,\"122\":122024,\"126\":126000,\"127\":127000,\"131\":131025,\"134\":134000,\"136\":136000,\"141\":141005,\"145\":145014,\"147\":147000,\"150\":150001,\"154\":154000,\"412\":412017,\"157\":157000,\"164\":164001,\"421\":421002,\"166\":0,\"427\":427000,\"429\":429003,\"200\":200001,\"203\":203002,\"221\":221000,\"222\":222000,\"223\":0,\"234\":234000,\"235\":235001,\"236\":236000,\"238\":238031,\"497\":497000,\"498\":498000,\"246\":246001,\"254\":254000},\"skinIds\":[75011,64005,86022,64012,22032,106005,106007,106006,10008,85023,84002,20004,84009,9007,19001,115005,19005,201020,84032,30017,200001,51011,61001,29003,61005,51022,19023,19034,7004,29023,104035,412004,29027,60005,412001,39018,39020,38001,412023,145014,103028,38005,412017,412025,112001,59011,48004,112004,48005,48006,421002,154002,58001,122003,5013,79004,36002,79011,164001,36009,122024,4009,15025,78007,110007,90038,3003,99005,3004,3006,99008,120003,141002,238031,429003,77004,141005,131025,45008,13011,55001,23003,268004,55008,268003,76009,76008,2025,86001,246001,150001,1012,22008,203002,235001,43002,76027,86013,75004,11005,43007],\"spellIds\":[1,3,4,21,6,7,11,12,14],\"initialSpellIds\":[4,12],\"allChampionIds\":[1,2,3,4,516,5,517,6,518,7,8,9,777,10,266,11,267,523,12,268,13,14,526,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,555,44,45,48,50,51,53,54,55,56,57,58,59,60,61,62,63,64,67,68,69,72,74,75,76,77,78,79,80,81,82,83,84,85,86,89,90,91,92,350,96,98,99,101,102,103,104,360,105,106,107,875,876,110,111,112,113,114,115,117,119,887,120,888,121,122,126,127,895,897,131,133,134,902,136,141,142,143,145,147,150,154,412,157,161,163,164,420,421,166,427,429,432,950,711,200,201,202,203,221,222,223,233,234,235,236,238,240,497,498,245,246,254],\"disabledChampionIds\":[]},\"skipChampionSelect\":false}}"},
-{"t":"dw1","ts":5310943255,"sdi":20,"ddi":34},
-{"t":"dw1","ts":5310945139,"sdi":0,"ddi":13},
-{"t":"dw1","ts":5310946478,"sdi":13,"ddi":33},
-{"t":"dw1","ts":5310946899,"sdi":33,"ddi":13},
-{"t":"dw1","ts":5310947311,"sdi":4,"ddi":13},
-{"t":"dw1","ts":5310947491,"sdi":13,"ddi":7},
-{"t":"dw1","ts":5310947499,"sdi":13,"ddi":33},
-{"t":"dw1","ts":5310947533,"sdi":15,"ddi":13},
-{"t":"dw1","ts":5310947535,"sdi":33,"ddi":13},
-{"t":"dw1","ts":5310947586,"sdi":13,"ddi":7},
-{"t":"dw1","ts":5310947596,"sdi":13,"ddi":33},
-{"t":"dw1","ts":5310947643,"sdi":33,"ddi":13},
-{"t":"dw1","ts":5310947644,"sdi":9,"ddi":13},
-{"t":"dw1","ts":5310948976,"sdi":27,"ddi":7},
-{"t":"br1","ts":5310945068,"ri":7129,"ji":184407,"co":0,"me":6,"ur":"/telemetry/v3/events-once/lcu-player-experience-non-timing/muc-flag-ready","hc":0,"bl":0},
-{"t":"br1","ts":5310947331,"ri":7130,"ji":184411,"co":0,"me":6,"ur":"/lol-gameflow/v1/session/champ-select/phase-time-remaining","hc":0,"bl":0},
-{"t":"rb1","ts":5310945135,"ri":7129,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":5310947371,"ri":7130,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5312188326,"mi":20,"na":"OnServiceProxyAsyncEvent"},
-{"t":"ns1","ts":5312191116,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/session"},
-{"t":"ns1","ts":5312192992,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/disabled-champion-ids"},
-{"t":"ns1","ts":5312193029,"mi":51,"na":"Update /lol-champ-select/v1/session"},
-{"t":"ns1","ts":5312193137,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/pickable-skin-ids"},
-{"t":"ns1","ts":5312195250,"mi":51,"na":"Update /lol-champ-select/v1/sfx-notifications"},
-{"t":"ns1","ts":5312195562,"mi":51,"na":"Update /lol-champ-select/v1/summoners/4"},
-{"t":"ns1","ts":5312196188,"mi":51,"na":"Update /lol-champ-select/v1/grid-champions/2"},
-{"t":"ns1","ts":5312196453,"mi":51,"na":"Update /lol-champ-select/v1/grid-champions/157"},
-{"t":"ns1","ts":5312196962,"mi":51,"na":"Update /lol-champ-select/v1/disabled-champion-ids"},
-{"t":"ns1","ts":5312197312,"mi":51,"na":"Update /lol-champ-select/v1/skin-carousel-skins"},
-{"t":"mp1","ts":5312188233,"na":"teambuilder-draft.tbdGameDtoV1","fl":0,"dds":"{\"counter\":59,\"recoveryCounter\":0,\"phaseName\":\"CHAMPION_SELECT\",\"queueId\":400,\"gameId\":1339925876,\"contextId\":\"240d6bee-d723-4e91-8ca7-3966ec75f35f\",\"championSelectState\":{\"teamId\":\"e020c5e8-772c-4ac7-9cc9-b5c7e55454c6\",\"teamChatRoomId\":\"e020c5e8-772c-4ac7-9cc9-b5c7e55454c6\",\"subphase\":\"BAN_PICK\",\"actionSetList\":[[{\"actionId\":5,\"actorCellId\":5,\"type\":\"BAN\",\"championId\":90,\"completed\":true},{\"actionId\":2,\"actorCellId\":2,\"type\":\"BAN\",\"championId\":114,\"completed\":true},{\"actionId\":4,\"actorCellId\":4,\"type\":\"BAN\",\"championId\":111,\"completed\":true},{\"actionId\":3,\"actorCellId\":3,\"type\":\"BAN\",\"championId\":950,\"completed\":true},{\"actionId\":0,\"actorCellId\":0,\"type\":\"BAN\",\"championId\":33,\"completed\":true},{\"actionId\":8,\"actorCellId\":8,\"type\":\"BAN\",\"championId\":35,\"completed\":true},{\"actionId\":7,\"actorCellId\":7,\"type\":\"BAN\",\"championId\":111,\"completed\":true},{\"actionId\":6,\"actorCellId\":6,\"type\":\"BAN\",\"championId\":233,\"completed\":true},{\"actionId\":9,\"actorCellId\":9,\"type\":\"BAN\",\"championId\":101,\"completed\":true},{\"actionId\":1,\"actorCellId\":1,\"type\":\"BAN\",\"championId\":25,\"completed\":true}],[{\"actionId\":10,\"actorCellId\":0,\"type\":\"PICK\",\"championId\":234,\"completed\":true}],[{\"actionId\":12,\"actorCellId\":6,\"type\":\"PICK\",\"championId\":268,\"completed\":true},{\"actionId\":11,\"actorCellId\":5,\"type\":\"PICK\",\"championId\":238,\"completed\":true}],[{\"actionId\":13,\"actorCellId\":1,\"type\":\"PICK\",\"championId\":51,\"completed\":true},{\"actionId\":14,\"actorCellId\":2,\"type\":\"PICK\",\"championId\":555,\"completed\":true}],[{\"actionId\":15,\"actorCellId\":7,\"type\":\"PICK\",\"championId\":0,\"completed\":false},{\"actionId\":16,\"actorCellId\":8,\"type\":\"PICK\",\"championId\":62,\"completed\":true}],[{\"actionId\":17,\"actorCellId\":3,\"type\":\"PICK\",\"championId\":0,\"completed\":false},{\"actionId\":18,\"actorCellId\":4,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":19,\"actorCellId\":9,\"type\":\"PICK\",\"championId\":0,\"completed\":false}]],\"currentActionSetIndex\":4,\"ceremoniesByActionSetIndex\":{\"1\":[{\"duration\":6400,\"name\":\"TEN_BANS_REVEAL\"}]},\"cells\":{\"alliedTeam\":[{\"teamId\":1,\"cellId\":0,\"puuid\":\"878b8c96-fd38-5c8b-a91f-d3d7ebd62b4b\",\"summonerName\":\"\",\"summonerId\":3087872151766464,\"championPickIntent\":0,\"championId\":234,\"assignedPosition\":\"JUNGLE\",\"spell1Id\":4,\"spell2Id\":11,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":1,\"puuid\":\"02659fb3-9a97-56db-81f1-1cbbf645ba04\",\"summonerName\":\"\",\"summonerId\":10591459,\"championPickIntent\":0,\"championId\":51,\"assignedPosition\":\"BOTTOM\",\"spell1Id\":4,\"spell2Id\":7,\"skinId\":51019,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":2,\"puuid\":\"702743e3-4b5e-5635-83f3-8241b1ac717c\",\"summonerName\":\"\",\"summonerId\":24033673,\"championPickIntent\":0,\"championId\":555,\"assignedPosition\":\"UTILITY\",\"spell1Id\":4,\"spell2Id\":14,\"skinId\":555027,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":3,\"puuid\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"summonerName\":\"\",\"summonerId\":18371309,\"championPickIntent\":516,\"championId\":0,\"assignedPosition\":\"MIDDLE\",\"spell1Id\":4,\"spell2Id\":12,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":4,\"puuid\":\"9a20f89b-fd8f-52de-92d1-b87becb24aae\",\"summonerName\":\"\",\"summonerId\":25599003,\"championPickIntent\":157,\"championId\":0,\"assignedPosition\":\"TOP\",\"spell1Id\":4,\"spell2Id\":14,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"}],\"enemyTeam\":[{\"teamId\":2,\"cellId\":5,\"summonerName\":\"\",\"summonerId\":0,\"championId\":238,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":6,\"summonerName\":\"\",\"summonerId\":0,\"championId\":268,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":7,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":8,\"summonerName\":\"\",\"summonerId\":0,\"championId\":62,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":9,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"}]},\"localPlayerCellId\":3,\"currentTotalTimeMillis\":30000,\"currentTimeRemainingMillis\":4513,\"trades\":[],\"pickOrderSwaps\":[{\"id\":0,\"cellId\":1,\"state\":\"AVAILABLE\"},{\"id\":3,\"cellId\":0,\"state\":\"AVAILABLE\"},{\"id\":20,\"cellId\":4,\"state\":\"AVAILABLE\"},{\"id\":21,\"cellId\":2,\"state\":\"AVAILABLE\"}],\"allowOptingOutOfBanning\":true,\"allowSkinSelection\":true,\"allowDuplicatePicks\":false,\"rerollState\":{\"allowRerolling\":false,\"rerollsRemaining\":0},\"lockedEventsState\":{\"allowLockedEvents\":false,\"lockedEventIndex\":-1},\"battleBoostState\":{\"allowBattleBoost\":false,\"boostableSkinCount\":0,\"battleBoostActivated\":false,\"activatorCellId\":-1,\"unlockedSkinIds\":[],\"cost\":-1},\"championBenchState\":{\"benchEnabled\":false,\"championIds\":[]},\"entitledFeatureState\":{\"additionalRerolls\":0,\"unlockedSkinsState\":{\"unlockedSkinIds\":[]}},\"inventoryDraft\":{\"lastSelectedSkinIdByChampionId\":{\"1\":1012,\"2\":2025,\"3\":3004,\"516\":516000,\"4\":4000,\"5\":5013,\"517\":517000,\"518\":518000,\"6\":6000,\"7\":7000,\"8\":8000,\"777\":777000,\"9\":9007,\"10\":10000,\"11\":11000,\"267\":267000,\"523\":523000,\"12\":12000,\"268\":268003,\"13\":13011,\"15\":15025,\"17\":17000,\"18\":18000,\"19\":19023,\"20\":20000,\"21\":21000,\"22\":22008,\"23\":23000,\"28\":28000,\"29\":29027,\"30\":30017,\"31\":0,\"33\":33000,\"36\":36009,\"38\":38005,\"39\":39020,\"41\":41000,\"42\":42000,\"43\":43007,\"555\":555000,\"44\":0,\"45\":45008,\"48\":48006,\"51\":51022,\"55\":55008,\"56\":0,\"57\":57000,\"58\":58000,\"59\":59011,\"60\":60005,\"61\":61005,\"62\":62000,\"63\":63000,\"64\":64005,\"67\":67000,\"75\":75000,\"76\":76027,\"77\":77004,\"78\":78000,\"79\":79011,\"80\":80000,\"81\":81000,\"82\":82000,\"84\":84009,\"85\":85023,\"86\":86022,\"92\":92000,\"99\":99005,\"103\":103028,\"360\":360000,\"104\":104035,\"106\":106007,\"875\":875000,\"110\":110007,\"111\":111000,\"112\":112004,\"113\":113000,\"114\":114000,\"115\":115005,\"117\":117000,\"887\":887000,\"120\":120003,\"121\":121000,\"122\":122024,\"126\":126000,\"127\":127000,\"131\":131025,\"134\":134000,\"136\":136000,\"141\":141005,\"145\":145014,\"147\":147000,\"150\":150001,\"154\":154000,\"412\":412017,\"157\":157000,\"164\":164001,\"421\":421002,\"166\":0,\"427\":427000,\"429\":429003,\"200\":200001,\"203\":203002,\"221\":221000,\"222\":222000,\"223\":0,\"234\":234000,\"235\":235001,\"236\":236000,\"238\":238031,\"497\":497000,\"498\":498000,\"246\":246001,\"254\":254000},\"skinIds\":[75011,64005,86022,64012,22032,106005,106007,106006,10008,85023,84002,20004,84009,9007,19001,115005,19005,201020,84032,30017,200001,51011,61001,29003,61005,51022,19023,19034,7004,29023,104035,412004,29027,60005,412001,39018,39020,38001,412023,145014,103028,38005,412017,412025,112001,59011,48004,112004,48005,48006,421002,154002,58001,122003,5013,79004,36002,79011,164001,36009,122024,4009,15025,78007,110007,90038,3003,99005,3004,3006,99008,120003,141002,238031,429003,77004,141005,131025,45008,13011,55001,23003,268004,55008,268003,76009,76008,2025,86001,246001,150001,1012,22008,203002,235001,43002,76027,86013,75004,11005,43007],\"spellIds\":[1,3,4,21,6,7,11,12,14],\"initialSpellIds\":[4,12],\"allChampionIds\":[1,2,3,4,516,5,517,6,518,7,8,9,777,10,266,11,267,523,12,268,13,14,526,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,555,44,45,48,50,51,53,54,55,56,57,58,59,60,61,62,63,64,67,68,69,72,74,75,76,77,78,79,80,81,82,83,84,85,86,89,90,91,92,350,96,98,99,101,102,103,104,360,105,106,107,875,876,110,111,112,113,114,115,117,119,887,120,888,121,122,126,127,895,897,131,133,134,902,136,141,142,143,145,147,150,154,412,157,161,163,164,420,421,166,427,429,432,950,711,200,201,202,203,221,222,223,233,234,235,236,238,240,497,498,245,246,254],\"disabledChampionIds\":[]},\"skipChampionSelect\":false}}"},
-{"t":"dw1","ts":5312188552,"sdi":29,"ddi":34},
-{"t":"dw1","ts":5312190675,"sdi":0,"ddi":17},
-{"t":"dw1","ts":5312192004,"sdi":17,"ddi":33},
-{"t":"dw1","ts":5312192594,"sdi":33,"ddi":17},
-{"t":"dw1","ts":5312192939,"sdi":16,"ddi":17},
-{"t":"dw1","ts":5312193076,"sdi":17,"ddi":25},
-{"t":"dw1","ts":5312193091,"sdi":17,"ddi":33},
-{"t":"dw1","ts":5312193121,"sdi":33,"ddi":17},
-{"t":"dw1","ts":5312193139,"sdi":19,"ddi":17},
-{"t":"dw1","ts":5312193191,"sdi":17,"ddi":25},
-{"t":"dw1","ts":5312193209,"sdi":17,"ddi":33},
-{"t":"dw1","ts":5312193248,"sdi":33,"ddi":17},
-{"t":"dw1","ts":5312193288,"sdi":14,"ddi":17},
-{"t":"dw1","ts":5312194783,"sdi":12,"ddi":25},
-{"t":"br1","ts":5312190606,"ri":7131,"ji":184460,"co":0,"me":6,"ur":"/telemetry/v3/events-once/lcu-player-experience-non-timing/muc-flag-ready","hc":0,"bl":0},
-{"t":"br1","ts":5312192652,"ri":7132,"ji":184464,"co":0,"me":6,"ur":"/lol-gameflow/v1/session/champ-select/phase-time-remaining","hc":0,"bl":0},
-{"t":"rb1","ts":5312190671,"ri":7131,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"rb1","ts":5312192691,"ri":7132,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5315755016,"mi":20,"na":"OnServiceProxyAsyncEvent"},
-{"t":"ns1","ts":5315758595,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/session"},
-{"t":"ns1","ts":5315760950,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/disabled-champion-ids"},
-{"t":"ns1","ts":5315761098,"mi":49,"na":"Update /lol-lobby-team-builder/champ-select/v1/pickable-skin-ids"},
-{"t":"ns1","ts":5315761292,"mi":51,"na":"Update /lol-champ-select/v1/session"},
-{"t":"ns1","ts":5315763237,"mi":51,"na":"Update /lol-champ-select/v1/sfx-notifications"},
-{"t":"ns1","ts":5315763795,"mi":51,"na":"Update /lol-champ-select/v1/summoners/7"},
-{"t":"ns1","ts":5315764388,"mi":51,"na":"Update /lol-champ-select/v1/grid-champions/63"},
-{"t":"ns1","ts":5315765084,"mi":51,"na":"Update /lol-champ-select/v1/disabled-champion-ids"},
-{"t":"ns1","ts":5315765551,"mi":51,"na":"Update /lol-champ-select/v1/skin-carousel-skins"},
-{"t":"mp1","ts":5315754873,"na":"teambuilder-draft.tbdGameDtoV1","fl":0,"dds":"{\"counter\":60,\"recoveryCounter\":0,\"phaseName\":\"CHAMPION_SELECT\",\"queueId\":400,\"gameId\":1339925876,\"contextId\":\"240d6bee-d723-4e91-8ca7-3966ec75f35f\",\"championSelectState\":{\"teamId\":\"e020c5e8-772c-4ac7-9cc9-b5c7e55454c6\",\"teamChatRoomId\":\"e020c5e8-772c-4ac7-9cc9-b5c7e55454c6\",\"subphase\":\"BAN_PICK\",\"actionSetList\":[[{\"actionId\":5,\"actorCellId\":5,\"type\":\"BAN\",\"championId\":90,\"completed\":true},{\"actionId\":2,\"actorCellId\":2,\"type\":\"BAN\",\"championId\":114,\"completed\":true},{\"actionId\":4,\"actorCellId\":4,\"type\":\"BAN\",\"championId\":111,\"completed\":true},{\"actionId\":3,\"actorCellId\":3,\"type\":\"BAN\",\"championId\":950,\"completed\":true},{\"actionId\":0,\"actorCellId\":0,\"type\":\"BAN\",\"championId\":33,\"completed\":true},{\"actionId\":8,\"actorCellId\":8,\"type\":\"BAN\",\"championId\":35,\"completed\":true},{\"actionId\":7,\"actorCellId\":7,\"type\":\"BAN\",\"championId\":111,\"completed\":true},{\"actionId\":6,\"actorCellId\":6,\"type\":\"BAN\",\"championId\":233,\"completed\":true},{\"actionId\":9,\"actorCellId\":9,\"type\":\"BAN\",\"championId\":101,\"completed\":true},{\"actionId\":1,\"actorCellId\":1,\"type\":\"BAN\",\"championId\":25,\"completed\":true}],[{\"actionId\":10,\"actorCellId\":0,\"type\":\"PICK\",\"championId\":234,\"completed\":true}],[{\"actionId\":12,\"actorCellId\":6,\"type\":\"PICK\",\"championId\":268,\"completed\":true},{\"actionId\":11,\"actorCellId\":5,\"type\":\"PICK\",\"championId\":238,\"completed\":true}],[{\"actionId\":13,\"actorCellId\":1,\"type\":\"PICK\",\"championId\":51,\"completed\":true},{\"actionId\":14,\"actorCellId\":2,\"type\":\"PICK\",\"championId\":555,\"completed\":true}],[{\"actionId\":15,\"actorCellId\":7,\"type\":\"PICK\",\"championId\":63,\"completed\":false},{\"actionId\":16,\"actorCellId\":8,\"type\":\"PICK\",\"championId\":62,\"completed\":true}],[{\"actionId\":17,\"actorCellId\":3,\"type\":\"PICK\",\"championId\":0,\"completed\":false},{\"actionId\":18,\"actorCellId\":4,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":19,\"actorCellId\":9,\"type\":\"PICK\",\"championId\":0,\"completed\":false}]],\"currentActionSetIndex\":4,\"ceremoniesByActionSetIndex\":{\"1\":[{\"duration\":6400,\"name\":\"TEN_BANS_REVEAL\"}]},\"cells\":{\"alliedTeam\":[{\"teamId\":1,\"cellId\":0,\"puuid\":\"878b8c96-fd38-5c8b-a91f-d3d7ebd62b4b\",\"summonerName\":\"\",\"summonerId\":3087872151766464,\"championPickIntent\":0,\"championId\":234,\"assignedPosition\":\"JUNGLE\",\"spell1Id\":4,\"spell2Id\":11,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":1,\"puuid\":\"02659fb3-9a97-56db-81f1-1cbbf645ba04\",\"summonerName\":\"\",\"summonerId\":10591459,\"championPickIntent\":0,\"championId\":51,\"assignedPosition\":\"BOTTOM\",\"spell1Id\":4,\"spell2Id\":7,\"skinId\":51019,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":2,\"puuid\":\"702743e3-4b5e-5635-83f3-8241b1ac717c\",\"summonerName\":\"\",\"summonerId\":24033673,\"championPickIntent\":0,\"championId\":555,\"assignedPosition\":\"UTILITY\",\"spell1Id\":4,\"spell2Id\":14,\"skinId\":555027,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":3,\"puuid\":\"f431a3c9-12db-5983-9663-5e2a051f3e87\",\"summonerName\":\"\",\"summonerId\":18371309,\"championPickIntent\":516,\"championId\":0,\"assignedPosition\":\"MIDDLE\",\"spell1Id\":4,\"spell2Id\":12,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"},{\"teamId\":1,\"cellId\":4,\"puuid\":\"9a20f89b-fd8f-52de-92d1-b87becb24aae\",\"summonerName\":\"\",\"summonerId\":25599003,\"championPickIntent\":157,\"championId\":0,\"assignedPosition\":\"TOP\",\"spell1Id\":4,\"spell2Id\":14,\"skinId\":0,\"entitledFeatureType\":\"NONE\",\"nameVisibilityType\":\"VISIBLE\"}],\"enemyTeam\":[{\"teamId\":2,\"cellId\":5,\"summonerName\":\"\",\"summonerId\":0,\"championId\":238,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":6,\"summonerName\":\"\",\"summonerId\":0,\"championId\":268,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":7,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":8,\"summonerName\":\"\",\"summonerId\":0,\"championId\":62,\"nameVisibilityType\":\"HIDDEN\"},{\"teamId\":2,\"cellId\":9,\"summonerName\":\"\",\"summonerId\":0,\"championId\":0,\"nameVisibilityType\":\"HIDDEN\"}]},\"localPlayerCellId\":3,\"currentTotalTimeMillis\":30000,\"currentTimeRemainingMillis\":902,\"trades\":[],\"pickOrderSwaps\":[{\"id\":0,\"cellId\":1,\"state\":\"AVAILABLE\"},{\"id\":3,\"cellId\":0,\"state\":\"AVAILABLE\"},{\"id\":20,\"cellId\":4,\"state\":\"AVAILABLE\"},{\"id\":21,\"cellId\":2,\"state\":\"AVAILABLE\"}],\"allowOptingOutOfBanning\":true,\"allowSkinSelection\":true,\"allowDuplicatePicks\":false,\"rerollState\":{\"allowRerolling\":false,\"rerollsRemai
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JDialog" name="Buscar_Presupuesto">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                  <Component id="jLabel30" min="-2" pref="156" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel29" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel11" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane3" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel30" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel11" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane3" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel29" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel29">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel30">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Factura"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablapres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="2" rowCount="4">
+                    <Column editable="true" title="NRO" type="java.lang.Object"/>
+                    <Column editable="true" title="FECHA" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel11">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="fechapres" min="-2" pref="102" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="buscarpres" min="-2" pref="120" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Component id="agregarpres" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarpres" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="buscarpres" alignment="1" max="32767" attributes="0"/>
+                          <Component id="cancelarpres" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarpres" alignment="1" max="32767" attributes="0"/>
+                          <Component id="fechapres" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="agregarpres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpresMouseClicked"/>
+                <EventHandler event="mouseEntered" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpresMouseEntered"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="agregarpresActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarpres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarpresMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelarpresActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JFormattedTextField" name="fechapres">
+              <Properties>
+                <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+                  <Format format="##/##/####" subtype="-1" type="5"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="buscarpres">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Buscar Fecha"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buscarpresActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jPanel3" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                          <Component id="jPanel2" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="jLabel1" min="-2" pref="378" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="233" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel4" max="32767" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <Component id="jPanel5" max="32767" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jPanel7" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" pref="53" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="jPanel2" min="-2" pref="114" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel4" min="-2" pref="81" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="jPanel5" min="-2" pref="249" max="-2" attributes="0"/>
+                      <Component id="jPanel7" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Gestion de Caja"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="66" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel4">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Usuario"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="340" y="10" width="68" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtusuario">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="410" y="10" width="153" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel5">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Nro "/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="10" y="10" width="30" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtnro">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="62" y="10" width="90" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="botbuscar">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Buscar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botbuscarActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="160" y="10" width="157" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txthoraini">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="text" type="java.lang.String" value="  :   "/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="210" y="70" width="100" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel12">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Hora"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="170" y="70" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JFormattedTextField" name="txtfechaini">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+                  <Format format="##/##/####" subtype="-1" type="5"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="60" y="70" width="90" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel13">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Fecha"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="10" y="70" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="botapertura">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Apertura"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botaperturaActionPerformed"/>
+                <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="botaperturaKeyPressed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="580" y="70" width="80" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel14">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Importe inicial"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="330" y="70" width="80" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtimporteini">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtimporteiniActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="410" y="70" width="150" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel3">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="66" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder title="CIERRE">
+                  <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder thickness="2"/>
+                  </Border>
+                </TitledBorder>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="50" pref="50" max="-2" attributes="0"/>
+                              <Component id="txtfechacie" min="-2" pref="99" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel8" alignment="0" min="-2" pref="58" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="11" pref="11" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel9" alignment="0" min="-2" pref="68" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="50" pref="50" max="-2" attributes="0"/>
+                              <Component id="txthoracie" min="-2" pref="100" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                      <Component id="jLabel10" min="-2" pref="82" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="txtimportecie" min="-2" pref="153" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="botcierre" min="-2" pref="81" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="txtfechacie" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                          <Component id="jLabel8" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                          <Component id="jLabel9" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                          <Component id="txthoracie" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                          <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                              <Component id="jLabel10" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="txtimportecie" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="botcierre" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="55" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel8">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Fecha"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JFormattedTextField" name="txtfechacie">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+                  <Format format="##/##/####" subtype="-1" type="5"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel9">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Hora"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txthoracie">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="text" type="java.lang.String" value="  :   "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel10">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Importe de Cierre"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtimportecie">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="botcierre">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cierre"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botcierreActionPerformed"/>
+                <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="botcierreKeyPressed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel4">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="66" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder title="ARQUEO">
+                  <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder thickness="2"/>
+                  </Border>
+                </TitledBorder>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel11">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Monto Cheques"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="10" y="30" width="80" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtcheque">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtchequeActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="90" y="30" width="110" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txttarjetas">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txttarjetasActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="320" y="30" width="110" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel15">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Monto Tarjetas"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="240" y="30" width="80" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtefectivo">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtefectivoActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="550" y="30" width="110" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel16">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Monto Efectivo"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="470" y="30" width="80" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel5">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="66" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder title="Detalles de Arqueo">
+                  <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                </TitledBorder>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel19" min="-2" pref="50" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="txt10" min="-2" pref="116" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel18" min="-2" pref="50" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="txt5" min="-2" pref="116" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel22" min="-2" pref="50" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="txt2" min="-2" pref="116" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jLabel17" min="-2" pref="50" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="txt100" min="-2" pref="116" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jLabel20" min="-2" pref="50" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="txt50" min="-2" pref="116" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jLabel21" min="-2" pref="50" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="txt20" min="-2" pref="116" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="61" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="jLabel28" min="-2" pref="50" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="txt05" min="-2" pref="116" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="jLabel27" min="-2" pref="50" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="txt1" min="-2" pref="116" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="53" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                              <Component id="txt100" alignment="3" max="32767" attributes="0"/>
+                              <Component id="jLabel27" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="txt1" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel17" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                              <Component id="jLabel28" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="txt05" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel20" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="txt50" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jLabel21" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txt20" alignment="0" pref="30" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel19" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                          <Component id="txt10" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel18" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                          <Component id="txt5" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel22" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                          <Component id="txt2" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel17">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="100.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel18">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="5.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel19">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="10.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel20">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="50.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel21">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="20.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel22">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="2.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt100">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt50">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt10">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt5">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt20">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt2">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel27">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="1.000"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt1">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel28">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="500"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txt05">
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel7">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="66" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder title="Total Caja">
+                  <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                </TitledBorder>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel26" min="-2" pref="94" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                      <Component id="txttotal" min="-2" pref="116" max="-2" attributes="0"/>
+                      <EmptySpace pref="103" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jLabel26" max="32767" attributes="0"/>
+                          <Component id="txttotal" pref="34" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel26">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Total Recaudacion"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txttotal">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txttotalActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

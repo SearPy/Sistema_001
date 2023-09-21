@@ -1,366 +1,1189 @@
-，现已关闭转移功能，进行全力修复。\"}, {\"locale\": \"zh_TW\", \"content\": \"我們發現一個異常，導致地區轉移失敗，現已關閉轉移功能，進行全力修復。\"}], \"publish_locations\": [\"game\", \"riotstatus\"], \"publish\": true, \"updated_at\": \"2023-09-01T00:15:00+00:00\", \"author\": \"Riot Games\", \"id\": 12241}], \"updated_at\": null, \"platforms\": [\"windows\", \"macos\"], \"id\": 7105, \"incident_severity\": \"warning\", \"maintenance_status\": null, \"archive_at\": null}]}"},
-{"t":"ns1","ts":5654147451,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5654147696,"sdi":0,"ddi":10},
-{"t":"br1","ts":5654145699,"ri":7487,"ji":181726,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5654147686,"ri":7487,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5654520754,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5654520885,"sdi":0,"ddi":21},
-{"t":"br1","ts":5654519430,"ri":7488,"ji":181739,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5654520878,"ri":7488,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"br1","ts":5657650970,"ri":7489,"ji":181839,"co":0,"me":6,"ur":"/lol-login/v1/session/invoke","hc":0,"bl":0},
-{"t":"lr1","ts":5657650939,"ri":468151435311,"mi":109,"ds":"loginService","mn":"performLCDSHeartBeat","pc":4,"fl":0,"dds":"[2117075075967552,\"\",47,\"2023-09-07T00:01:59Z\"]"},
-{"t":"rb1","ts":5657909627,"ri":7489,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rl1","ts":5657909654,"ri":468151435311,"rt":"","ie":0,"sc":1,"fl":0,"dds":"5"},
-{"t":"ns1","ts":5660076653,"mi":64,"na":"Update /chat/v4/presences"},
-{"t":"ns1","ts":5660092631,"mi":64,"na":"Update /lol-chat/v1/friends/e9145c94-45ac-579b-b592-b731b6c1f85c@la2.pvp.net"},
-{"t":"ns1","ts":5660093674,"mi":108,"na":"Create /lol-game-client-chat/v1/buddies/CheloKingo"},
-{"t":"ns1","ts":5660093967,"mi":108,"na":"Create /lol-game-client-chat/v2/buddies/e9145c94-45ac-579b-b592-b731b6c1f85c@la2.pvp.net"},
-{"t":"ns1","ts":5660094288,"mi":64,"na":"Update /lol-chat/v1/friend-counts"},
-{"t":"ns1","ts":5660094316,"mi":112,"na":"Update /lol-hovercard/v1/friend-info/e9145c94-45ac-579b-b592-b731b6c1f85c"},
-{"t":"ns1","ts":5660095021,"mi":112,"na":"Update /lol-hovercard/v1/friend-info-by-summoner/25863589"},
-{"t":"mn1","ts":5660076781,"ty":"Update","ur":"/chat/v4/presences","fl":1,"dds":""},
-{"t":"dw1","ts":5660076739,"sdi":0,"ddi":33},
-{"t":"dw1","ts":5660093625,"sdi":30,"ddi":33},
-{"t":"dw1","ts":5660093812,"sdi":30,"ddi":33},
-{"t":"dw1","ts":5660094154,"sdi":20,"ddi":33},
-{"t":"dw1","ts":5660094319,"sdi":17,"ddi":33},
-{"t":"dw1","ts":5660094352,"sdi":20,"ddi":33},
-{"t":"dw1","ts":5660094480,"sdi":9,"ddi":33},
-{"t":"dw1","ts":5660095674,"sdi":22,"ddi":33},
-{"t":"dw1","ts":5660099550,"sdi":0,"ddi":33},
-{"t":"br1","ts":5660076886,"ri":7490,"ji":181915,"co":0,"me":6,"ur":"/product-localization/v2/translate","hc":0,"bl":0},
-{"t":"br1","ts":5660093935,"ri":7491,"ji":181922,"co":0,"me":2,"ur":"/lol-summoner/v2/summoners/puuid/e9145c94-45ac-579b-b592-b731b6c1f85c","hc":0,"bl":0},
-{"t":"br1","ts":5660099539,"ri":7492,"ji":181925,"co":1801655888,"me":2,"ur":"/lol-chat/v1/friends","hc":16,"bl":0},
-{"t":"rb1","ts":5660092262,"ri":7490,"sc":1,"rc":200,"hc":6,"bl":1},
-{"t":"rb1","ts":5660094140,"ri":7491,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rb1","ts":5660104867,"ri":7492,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"xr1","ts":5660076865,"ri":274877907434,"mi":64,"me":6,"ur":"/product-localization/v2/translate"},
-{"t":"rx1","ts":5660092291,"ri":274877907434,"sc":1,"fl":0,"dds":"{\"results\":[{\"found\":true,\"key\":\"chat_presence_product_league_of_legends\",\"product_id\":\"league_of_legends\",\"value\":\"League of Legends\"}]}"},
-{"t":"ns1","ts":5662387647,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5662387764,"sdi":0,"ddi":26},
-{"t":"br1","ts":5662386303,"ri":7493,"ji":181995,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5662387757,"ri":7493,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5662663072,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5662663407,"sdi":0,"ddi":10},
-{"t":"br1","ts":5662661346,"ri":7494,"ji":182007,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5662663398,"ri":7494,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5665642949,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5665643066,"sdi":0,"ddi":6},
-{"t":"br1","ts":5665641499,"ri":7495,"ji":182102,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5665643059,"ri":7495,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5666048814,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5666048949,"sdi":0,"ddi":24},
-{"t":"br1","ts":5666047112,"ri":7496,"ji":182115,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5666048943,"ri":7496,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5684151398,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5684151559,"sdi":0,"ddi":29},
-{"t":"br1","ts":5684149913,"ri":7497,"ji":182673,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5684151552,"ri":7497,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5684533921,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5684534236,"sdi":0,"ddi":16},
-{"t":"br1","ts":5684532350,"ri":7498,"ji":182687,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5684534228,"ri":7498,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5692413246,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5692413380,"sdi":0,"ddi":7},
-{"t":"br1","ts":5692411783,"ri":7499,"ji":182931,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5692413373,"ri":7499,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5692688493,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5692688603,"sdi":0,"ddi":3},
-{"t":"br1","ts":5692687281,"ri":7500,"ji":182943,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5692688598,"ri":7500,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5695651177,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5695651453,"sdi":0,"ddi":29},
-{"t":"br1","ts":5695649749,"ri":7501,"ji":183037,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5695651444,"ri":7501,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5696053261,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5696053394,"sdi":0,"ddi":12},
-{"t":"br1","ts":5696051903,"ri":7502,"ji":183051,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5696053387,"ri":7502,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5714176025,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5714176149,"sdi":0,"ddi":13},
-{"t":"br1","ts":5714174622,"ri":7503,"ji":183609,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5714176141,"ri":7503,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5714545926,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5714546225,"sdi":0,"ddi":5},
-{"t":"br1","ts":5714544402,"ri":7504,"ji":183623,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5714546217,"ri":7504,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5722428351,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5722428609,"sdi":0,"ddi":22},
-{"t":"br1","ts":5722426738,"ri":7505,"ji":183867,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5722428605,"ri":7505,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5722691351,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5722691498,"sdi":0,"ddi":2},
-{"t":"br1","ts":5722689631,"ri":7506,"ji":183877,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5722691487,"ri":7506,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5725667617,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5725667732,"sdi":0,"ddi":26},
-{"t":"br1","ts":5725666233,"ri":7507,"ji":183972,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5725667727,"ri":7507,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5726057001,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5726057128,"sdi":0,"ddi":6},
-{"t":"br1","ts":5726055604,"ri":7508,"ji":183985,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5726057121,"ri":7508,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5744196735,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5744196893,"sdi":0,"ddi":26},
-{"t":"br1","ts":5744195026,"ri":7509,"ji":184542,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5744196885,"ri":7509,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5744563741,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5744564040,"sdi":0,"ddi":6},
-{"t":"br1","ts":5744562002,"ri":7510,"ji":184556,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5744564031,"ri":7510,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5752448759,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5752448938,"sdi":0,"ddi":20},
-{"t":"br1","ts":5752447010,"ri":7511,"ji":184800,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5752448929,"ri":7511,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5752709941,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5752710344,"sdi":0,"ddi":15},
-{"t":"br1","ts":5752707837,"ri":7512,"ji":184810,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5752710334,"ri":7512,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5755674367,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5755674631,"sdi":0,"ddi":11},
-{"t":"br1","ts":5755672009,"ri":7513,"ji":184904,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5755674622,"ri":7513,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5756076798,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5756076906,"sdi":0,"ddi":10},
-{"t":"br1","ts":5756075151,"ri":7514,"ji":184917,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5756076899,"ri":7514,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"dw1","ts":5771366727,"sdi":0,"ddi":1},
-{"t":"br1","ts":5771366578,"ri":7515,"ji":185381,"co":0,"me":2,"ur":"/data-store/v1/system-settings/riotclient/patchline","hc":0,"bl":0},
-{"t":"br1","ts":5771366799,"ri":7516,"ji":185382,"co":0,"me":2,"ur":"/riot-status/v1/products/league_of_legends/patchlines/live/deployments/la2","hc":0,"bl":0},
-{"t":"rb1","ts":5771366718,"ri":7515,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"xr1","ts":5771366789,"ri":571230650417,"mi":133,"me":2,"ur":"/riot-status/v1/products/league_of_legends/patchlines/live/deployments/la2"},
-{"t":"rb1","ts":5771519669,"ri":7516,"sc":1,"rc":200,"hc":6,"bl":1},
-{"t":"rx1","ts":5771519727,"ri":571230650417,"sc":1,"fl":0,"dds":"{\"id\": \"LA2\", \"name\": \"Latin America South\", \"locales\": [\"es_AR\", \"es_MX\"], \"maintenances\": [], \"incidents\": [{\"archive_at\": null, \"id\": 6977, \"updates\": [{\"translations\": [{\"locale\": \"en_US\", \"content\": \"We're aware of issues impacting players on Android and are investigating.\"}, {\"locale\": \"cs_CZ\", \"content\": \"Víme o potížích, které se dotýkají hráčů se systémem Android. Na řešení pracujeme.\"}, {\"locale\": \"de_DE\", \"content\": \"Uns ist bekannt, dass es Probleme für Android-Nutzer gibt, und gehen diesen gerade nach.\"}, {\"locale\": \"el_GR\", \"content\": \"Γνωρίζουμε ότι υπάρχουν κάποια προβλήματα που επηρεάζουν παίκτες που παίζουν σε συσκευές Android και διερευνούμε το ζήτημα.\"}, {\"locale\": \"en_AU\", \"content\": \"We're aware of issues impacting players on Android and are investigating.\"}, {\"locale\": \"en_GB\", \"content\": \"We're aware of issues impacting players on Android and are investigating.\"}, {\"locale\": \"es_AR\", \"content\": \"Estamos al tanto de algunos problemas que afectan a los jugadores en Android y lo estamos investigando.\"}, {\"locale\": \"es_ES\", \"content\": \"Sabemos que existen problemas en Android y estamos investigándolos.\"}, {\"locale\": \"es_MX\", \"content\": \"Estamos al tanto de algunos problemas que afectan a los jugadores en Android y lo estamos investigando.\"}, {\"locale\": \"fr_FR\", \"content\": \"Nous savons que des problèmes affectent le jeu sur Android et nous essayons de les résoudre.\"}, {\"locale\": \"hu_HU\", \"content\": \"Tudunk a(z) Android-felhasználókat érintő problémákról. Dolgozunk a megoldáson.\"}, {\"locale\": \"it_IT\", \"content\": \"Siamo a conoscenza dei problemi riscontrati dai giocatori su Android e stiamo indagando.\"}, {\"locale\": \"ja_JP\", \"content\": \"Android上でのプレイに問題が生じる場合があり、現在調査を行っています。\"}, {\"locale\": \"ko_KR\", \"content\": \"Android 기기로 플레이 시 문제가 발생해 확인 중입니다.\"}, {\"locale\": \"pl_PL\", \"content\": \"Wiemy o dotykających graczy problemach z systemem Android i sprawdzamy je.\"}, {\"locale\": \"pt_BR\", \"content\": \"Estamos cientes dos problemas que estão afetando usuários de Android e já estamos investigando.\"}, {\"locale\": \"ro_RO\", \"content\": \"Știm că există probleme care afectează jucătorii pe Android și căutăm o soluție.\"}, {\"locale\": \"ru_RU\", \"content\": \"Мы знаем о проблемах, с которыми столкнулись пользователи Android, и уже ищем решение.\"}, {\"locale\": \"tr_TR\", \"content\": \"Android kullanan oyuncuları etkileyen sorunlardan haberdarız ve şu anda konuyu araştırıyoruz.\"}], \"publish_locations\": [\"riotstatus\"], \"id\": 11907, \"created_at\": \"2023-08-10T19:08:29.843568+00:00\", \"updated_at\": \"2023-08-10T19:08:00+00:00\", \"publish\": true, \"author\": \"Riot Games\"}], \"created_at\": \"2023-08-10T19:08:29.831714+00:00\", \"maintenance_status\": null, \"updated_at\": \"2023-08-21T09:33:03.459885+00:00\", \"platforms\": [\"android\"], \"titles\": [{\"locale\": \"en_US\", \"content\": \"Android Issues\"}, {\"locale\": \"cs_CZ\", \"content\": \"Potíže se systémem Android\"}, {\"locale\": \"de_DE\", \"content\": \"Probleme mit Android\"}, {\"locale\": \"el_GR\", \"content\": \"Προβλήματα σε συσκευές Android\"}, {\"locale\": \"en_AU\", \"content\": \"Android Issues\"}, {\"locale\": \"en_GB\", \"content\": \"Android Issues\"}, {\"locale\": \"es_AR\", \"content\": \"Problemas con Android\"}, {\"locale\": \"es_ES\", \"content\": \"Problemas con Android\"}, {\"locale\": \"es_MX\", \"content\": \"Problemas con Android\"}, {\"locale\": \"fr_FR\", \"content\": \"Problèmes sur Android\"}, {\"locale\": \"hu_HU\", \"content\": \"Android problémák\"}, {\"locale\": \"it_IT\", \"content\": \"Problemi su Android\"}, {\"locale\": \"ja_JP\", \"content\": \"Android上での不具合\"}, {\"locale\": \"ko_KR\", \"content\": \"Android 문제\"}, {\"locale\": \"pl_PL\", \"content\": \"Problemy z systemem Android\"}, {\"locale\": \"pt_BR\", \"content\": \"Problemas com Android\"}, {\"locale\": \"ro_RO\", \"content\": \"Probleme cu Android\"}, {\"locale\": \"ru_RU\", \"content\": \"Проблемы с Android\"}, {\"locale\": \"tr_TR\", \"content\": \"Android Sorunları\"}], \"incident_severity\": \"critical\"}, {\"titles\": [{\"content\": \"iOS Issues\", \"locale\": \"en_US\"}, {\"content\": \"Potíže se systémem iOS\", \"locale\": \"cs_CZ\"}, {\"content\": \"Probleme mit iOS\", \"locale\": \"de_DE\"}, {\"content\": \"Προβλήματα σε συσκευές iOS\", \"locale\": \"el_GR\"}, {\"content\": \"iOS Issues\", \"locale\": \"en_AU\"}, {\"content\": \"iOS Issues\", \"locale\": \"en_GB\"}, {\"content\": \"Problemas con iOS\", \"locale\": \"es_AR\"}, {\"content\": \"Problemas con iOS\", \"locale\": \"es_ES\"}, {\"content\": \"Problemas con iOS\", \"locale\": \"es_MX\"}, {\"content\": \"Problèmes sur iOS\", \"locale\": \"fr_FR\"}, {\"content\": \"iOS problémák\", \"locale\": \"hu_HU\"}, {\"content\": \"Problemi su iOS\", \"locale\": \"it_IT\"}, {\"content\": \"iOS上での不具合\", \"locale\": \"ja_JP\"}, {\"content\": \"iOS 문제\", \"locale\": \"ko_KR\"}, {\"content\": \"Problemy z systemem iOS\", \"locale\": \"pl_PL\"}, {\"content\": \"Problemas com iOS\", \"locale\": \"pt_BR\"}, {\"content\": \"Probleme cu iOS\", \"locale\": \"ro_RO\"}, {\"content\": \"Проблемы с iOS\", \"locale\": \"ru_RU\"}, {\"content\": \"iOS Sorunları\", \"locale\": \"tr_TR\"}], \"updated_at\": \"2023-08-21T09:33:22.660541+00:00\", \"archive_at\": null, \"maintenance_status\": null, \"platforms\": [\"ios\"], \"incident_severity\": \"critical\", \"created_at\": \"2023-08-10T19:09:29.193124+00:00\", \"updates\": [{\"updated_at\": \"2023-08-10T19:09:00+00:00\", \"author\": \"Riot Games\", \"publish_locations\": [\"riotstatus\"], \"translations\": [{\"content\": \"We're aware of issues impacting players on iOS and are investigating.\", \"locale\": \"en_US\"}, {\"content\": \"Víme o potížích, které se dotýkají hráčů se systémem iOS. Na řešení pracujeme.\", \"locale\": \"cs_CZ\"}, {\"content\": \"Uns ist bekannt, dass es Probleme für iOS-Nutzer gibt, und gehen diesen gerade nach.\", \"locale\": \"de_DE\"}, {\"content\": \"Γνωρίζουμε ότι υπάρχουν κάποια προβλήματα που επηρεάζουν παίκτες που παίζουν σε συσκευές iOS και διερευνούμε το ζήτημα.\", \"locale\": \"el_GR\"}, {\"content\": \"We're aware of issues impacting players on iOS and are investigating.\", \"locale\": \"en_AU\"}, {\"content\": \"We're aware of issues impacting players on iOS and are investigating.\", \"locale\": \"en_GB\"}, {\"content\": \"Estamos al tanto de algunos problemas que afectan a los jugadores en iOS y lo estamos investigando.\", \"locale\": \"es_AR\"}, {\"content\": \"Sabemos que existen problemas en iOS y estamos investigándolos.\", \"locale\": \"es_ES\"}, {\"content\": \"Estamos al tanto de algunos problemas que afectan a los jugadores en iOS y lo estamos investigando.\", \"locale\": \"es_MX\"}, {\"content\": \"Nous savons que des problèmes affectent le jeu sur iOS et nous essayons de les résoudre.\", \"locale\": \"fr_FR\"}, {\"content\": \"Tudunk a(z) iOS-felhasználókat érintő problémákról. Dolgozunk a megoldáson.\", \"locale\": \"hu_HU\"}, {\"content\": \"Siamo a conoscenza dei problemi riscontrati dai giocatori su iOS e stiamo indagando.\", \"locale\": \"it_IT\"}, {\"content\": \"iOS上でのプレイに問題が生じる場合があり、現在調査を行っています。\", \"locale\": \"ja_JP\"}, {\"content\": \"iOS 기기로 플레이 시 문제가 발생해 확인 중입니다.\", \"locale\": \"ko_KR\"}, {\"content\": \"Wiemy o dotykających graczy problemach z systemem iOS i sprawdzamy je.\", \"locale\": \"pl_PL\"}, {\"content\": \"Estamos cientes dos problemas que estão afetando usuários de iOS e já estamos investigando.\", \"locale\": \"pt_BR\"}, {\"content\": \"Știm că există probleme care afectează jucătorii pe iOS și căutăm o soluție.\", \"locale\": \"ro_RO\"}, {\"content\": \"Мы знаем о проблемах, с которыми столкнулись пользователи iOS, и уже ищем решение.\", \"locale\": \"ru_RU\"}, {\"content\": \"iOS kullanan oyuncuları etkileyen sorunlardan haberdarız ve şu anda konuyu araştırıyoruz.\", \"locale\": \"tr_TR\"}], \"publish\": true, \"created_at\": \"2023-08-10T19:09:29.203269+00:00\", \"id\": 11908}], \"id\": 6978}, {\"created_at\": \"2023-09-01T00:15:13.246927+00:00\", \"titles\": [{\"locale\": \"en_US\", \"content\": \"Account Transfers Disabled\"}, {\"locale\": \"cs_CZ\", \"content\": \"Deaktivace převodů účtu\"}, {\"locale\": \"de_DE\", \"content\": \"Kontotransfers deaktiviert\"}, {\"locale\": \"el_GR\", \"content\": \"Οι μεταφορές λογαριασμών απενεργοποιήθηκαν\"}, {\"locale\": \"en_AU\", \"content\": \"Account Transfers Disabled\"}, {\"locale\": \"en_GB\", \"content\": \"Account Transfers Disabled\"}, {\"locale\": \"en_PH\", \"content\": \"Account Transfers Disabled\"}, {\"locale\": \"en_SG\", \"content\": \"Account Transfers Disabled\"}, {\"locale\": \"es_AR\", \"content\": \"Transferencias de cuentas inhabilitadas\"}, {\"locale\": \"es_ES\", \"content\": \"Transferencias de cuentas desactivadas\"}, {\"locale\": \"es_MX\", \"content\": \"Transferencias de cuentas inhabilitadas\"}, {\"locale\": \"fr_FR\", \"content\": \"Transferts de compte désactivés\"}, {\"locale\": \"hu_HU\", \"content\": \"A fiókátvitel szünetel\"}, {\"locale\": \"it_IT\", \"content\": \"Trasferimenti degli account disattivati\"}, {\"locale\": \"ja_JP\", \"content\": \"アカウント移行の停止\"}, {\"locale\": \"pl_PL\", \"content\": \"Transfery kont wyłączone\"}, {\"locale\": \"pt_BR\", \"content\": \"Transferências de conta desabilitadas\"}, {\"locale\": \"ro_RO\", \"content\": \"Transferuri de cont dezactivate\"}, {\"locale\": \"ru_RU\", \"content\": \"Перенос учетной записи отключен\"}, {\"locale\": \"th_TH\", \"content\": \"ปิดการใช้งานการโอนถ่ายข้อมูลบัญชี\"}, {\"locale\": \"tr_TR\", \"content\": \"Hesap Aktarımları Devre Dışı\"}, {\"locale\": \"vi_VN\", \"content\": \"Vô Hiệu Hóa Tính Năng Chuyển Đổi Tài Khoản\"}, {\"locale\": \"zh_MY\", \"content\": \"账号转移无法使用\"}, {\"locale\": \"zh_TW\", \"content\": \"帳號轉移無法使用\"}], \"updates\": [{\"created_at\": \"2023-09-01T00:15:13.364264+00:00\", \"translations\": [{\"locale\": \"en_US\", \"content\": \"We're aware of a problem causing region transfers to fail and have disabled them while we work on a fix.\"}, {\"locale\": \"cs_CZ\", \"content\": \"Jsme si vědomi problému, kvůli kterému nelze převádět účty mezi regiony. Deaktivovali jsme tuto funkci do doby, než dané potíže odstraníme.\"}, {\"locale\": \"de_DE\", \"content\": \"Uns ist bekannt, dass es momentan Probleme mit den Regionstransfers gibt. Wir haben Regionstransfers vorübergehend deaktiviert, während wir an einer Lösung arbeiten.\"}, {\"locale\": \"el_GR\", \"content\": \"Γνωρίζουμε ότι υπάρχει κάποιο πρόβλημα που προκαλεί σφάλματα στις αλλαγές περιοχής και τις απενεργοποιήσαμε προσωρινά όσο εργαζόμαστε για να το διορθώσουμε.\"}, {\"locale\": \"en_AU\", \"content\": \"We're aware of a problem causing region transfers to fail and have disabled them while we work on a fix.\"}, {\"locale\": \"en_GB\", \"content\": \"We're aware of a problem causing region transfers to fail and have disabled them while we work on a fix.\"}, {\"locale\": \"en_PH\", \"content\": \"We're aware of a problem causing region transfers to fail and have disabled them while we work on a fix.\"}, {\"locale\": \"en_SG\", \"content\": \"We're aware of a problem causing region transfers to fail and have disabled them while we work on a fix.\"}, {\"locale\": \"es_AR\", \"content\": \"Estamos al tanto de un problema que está causando una falla en las transferencias de región. Debido a esto, las inhabilitamos mientras trabajamos en una solución.\"}, {\"locale\": \"es_ES\", \"content\": \"Somos conscientes de que existe un problema que provoca que las transferencias de región fallen, y las hemos desactivado mientras trabajamos en una solución.\"}, {\"locale\": \"es_MX\", \"content\": \"Estamos al tanto de un problema que está causando una falla en las transferencias de región. Debido a esto, las inhabilitamos mientras trabajamos en una solución.\"}, {\"locale\": \"fr_FR\", \"content\": \"Nous sommes conscients d'un problème entraînant un échec des transferts de région et nous les avons désactivés, le temps de corriger ce problème.\"}, {\"locale\": \"hu_HU\", \"content\": \"Észleltük a hibát, amelynek következtében meghiúsulnak a régiós átvitelek, és a probléma megoldásáig letiltottuk az átvitelt.\"}, {\"locale\": \"it_IT\", \"content\": \"Siamo a conoscenza di un problema che impedisce i trasferimenti regionali degli account e li abbiamo disattivati per lavorare a una soluzione.\"}, {\"locale\": \"ja_JP\", \"content\": \"地域の移行を正常に行えない問題が発生しているため、一時的にアカウント移行を無効化して修正対応中です。\"}, {\"locale\": \"pl_PL\", \"content\": \"Jesteśmy świadomi problemu z transferami między regionami i wyłączyliśmy je w związku z pracami nad jego rozwiązaniem.\"}, {\"locale\": \"pt_BR\", \"content\": \"Desabilitamos as transferências de região enquanto corrigimos um erro.\"}, {\"locale\": \"ro_RO\", \"content\": \"Știm că există o problemă care împiedică transferurile între regiuni și le-am dezactivat în timp ce căutăm o soluție.\"}, {\"locale\": \"ru_RU\", \"content\": \"Мы знаем о проблеме, которая мешает переносить учетную запись в другие регионы. Пока мы работаем над ее решением, перенос отключен.\"}, {\"locale\": \"th_TH\", \"content\": \"เราได้ทราบถึงปัญหาที่ทำให้เกิดข้อขัดข้องไม่สามารถโอนถ่ายข้อมูลผ่านภูมิภาคได้แล้ว และได้ทำการปิดใช้งานในขณะที่เรากำลังดำเนินการแก้ไข\"}, {\"locale\": \"tr_TR\", \"content\": \"Sunucu aktarımlarının başarısız olmasına yol açan hatadan haberdarız ve bunu çözmek için çalışırken aktarımları devre dışı bıraktık.\"}, {\"locale\": \"vi_VN\", \"content\": \"Chúng tôi đã nhận được báo lỗi về việc không thể chuyển đổi khu vực và đã vô hiệu hóa chức năng này để tìm giải pháp khắc phục.\"}, {\"locale\": \"zh_MY\", \"content\": \"我们发现一个异常，导致地区转移失败，现已关闭转移功能，进行全力修复。\"}, {\"locale\": \"zh_TW\", \"content\": \"我們發現一個異常，導致地區轉移失敗，現已關閉轉移功能，進行全力修復。\"}], \"publish_locations\": [\"game\", \"riotstatus\"], \"publish\": true, \"updated_at\": \"2023-09-01T00:15:00+00:00\", \"author\": \"Riot Games\", \"id\": 12241}], \"updated_at\": null, \"platforms\": [\"windows\", \"macos\"], \"id\": 7105, \"incident_severity\": \"warning\", \"maintenance_status\": null, \"archive_at\": null}]}"},
-{"t":"ns1","ts":5774229009,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5774229710,"sdi":0,"ddi":10},
-{"t":"br1","ts":5774226734,"ri":7517,"ji":185470,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5774229702,"ri":7517,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5774567009,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5774567165,"sdi":0,"ddi":22},
-{"t":"br1","ts":5774565537,"ri":7518,"ji":185484,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5774567155,"ri":7518,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"br1","ts":5777635589,"ri":7519,"ji":185581,"co":0,"me":6,"ur":"/lol-login/v1/session/invoke","hc":0,"bl":0},
-{"t":"lr1","ts":5777635556,"ri":468151435312,"mi":109,"ds":"loginService","mn":"performLCDSHeartBeat","pc":4,"fl":0,"dds":"[2117075075967552,\"\",48,\"2023-09-07T00:03:59Z\"]"},
-{"t":"rb1","ts":5777879466,"ri":7519,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rl1","ts":5777879491,"ri":468151435312,"rt":"","ie":0,"sc":1,"fl":0,"dds":"5"},
-{"t":"ns1","ts":5782461470,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5782461928,"sdi":0,"ddi":27},
-{"t":"br1","ts":5782458857,"ri":7520,"ji":185731,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5782461908,"ri":7520,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5782754033,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5782754308,"sdi":0,"ddi":26},
-{"t":"br1","ts":5782752802,"ri":7521,"ji":185742,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5782754302,"ri":7521,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5785692246,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5785692372,"sdi":0,"ddi":16},
-{"t":"br1","ts":5785690731,"ri":7522,"ji":185836,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5785692365,"ri":7522,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5786090727,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5786091275,"sdi":0,"ddi":25},
-{"t":"br1","ts":5786088177,"ri":7523,"ji":185849,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5786091266,"ri":7523,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5804245285,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5804245416,"sdi":0,"ddi":20},
-{"t":"br1","ts":5804243725,"ri":7524,"ji":186410,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5804245409,"ri":7524,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5804580948,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5804581070,"sdi":0,"ddi":21},
-{"t":"br1","ts":5804579513,"ri":7525,"ji":186423,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5804581063,"ri":7525,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5812478524,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5812478815,"sdi":0,"ddi":12},
-{"t":"br1","ts":5812477105,"ri":7526,"ji":186668,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5812478805,"ri":7526,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5812782737,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5812783040,"sdi":0,"ddi":30},
-{"t":"br1","ts":5812780920,"ri":7527,"ji":186679,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5812783031,"ri":7527,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"er1","ts":5814196078,"ri":237,"mi":27,"me":6,"ur":"https://usw2-green.pp.sgp.pvp.net/session-external/v1/session/refresh","hc":4,"bl":1056,"to":5000,"ia":0,"fl":0,"dds":"{\"lst\":\"eyJraWQiOiJzMSIsImFsZyI6IlJTNTEyIn0.eyJzY3AiOiJMT0wiLCJzdWIiOiJmNDMxYTNjOS0xMmRiLTU5ODMtOTY2My01ZTJhMDUxZjNlODciLCJwcm9kdWN0IjoiTE9MIiwibGlkIjoiQkdISVR3bk8weFBaQWFGajUyRmZVUSIsImNuYW1lIjoibGN1IiwiaGJjIjoicHJ5IiwiYWN0aWQiOjIxMTcwNzUwNzU5Njc1NTIsImlzcyI6Imh0dHBzOlwvXC9zZXNzaW9uLmdwc3J2LnB2cC5uZXQiLCJyaWQiOiJrRUJuWXpEYWdQUSIsInJmYSI6MTY5NDA0NTA4Miwic2lkIjoiZGRhZmY0MDctNDAxNi00ODkwLTk1M2MtYzM2YWVjMWViNTk5IiwiYnlwYXNzIjpmYWxzZSwiZmVkZXJhdGVkX2lkZW50aXR5X3Byb3ZpZGVycyI6W10sInJlZyI6IkxBMiIsImRhdCI6eyJyIjoiTEEyIiwidSI6MjExNzA3NTA3NTk2NzU1Mn0sInJmbyI6MzI0LCJleHAiOjE2OTQwNDUzNTgsImlhdCI6MTY5NDA0NDc1OCwianRpIjoiNDI4ZjhjMmEtODA3MS00OTczLWJjNzgtMjU0MGU0Y2Q4MWRiIiwiY2lkIjoibHNzX2xvbCIsInNpdCI6MTY5NDAzOTI4MX0.XDfLRdl0f63aCwm1CR8y86LqZe9WcjCP2NBryS3jbGsPig9kV_7RclcYsWzX0HpMkSCZXH-XcqeSgB_7ii7bELvBcsM93t6J8ulGchxqGsgd9J1d6iIJLbtpg1S69PfSY86F0UNbAWe03aEZFASsuzuMOi815V_X_lcFtPaNCy2JLbKD_cedxSszcuFqoP1OAaxme3QgUIIhLV8eZp7_-ZS7ezd3AiiA7fNIpRGc51IHz2JPvcS0vgTkYXSQ1GWjmiThlGZHEX8zArntV6IH8NkQyi9csG-0grDVD3dPBJ3zJZnTeYlV258WFFf9SnbscwryUFmTLfa0oTO2FAp0Aw\"}"},
-{"t":"ns1","ts":5814568037,"mi":27,"na":"Update /lol-league-session/v1/league-session-token"},
-{"t":"dw1","ts":5814568237,"sdi":7,"ddi":4},
-{"t":"dw1","ts":5814568267,"sdi":1,"ddi":4},
-{"t":"dw1","ts":5814568279,"sdi":5,"ddi":4},
-{"t":"dw1","ts":5814568299,"sdi":1,"ddi":4},
-{"t":"dw1","ts":5814568309,"sdi":30,"ddi":4},
-{"t":"dw1","ts":5814568329,"sdi":1,"ddi":4},
-{"t":"dw1","ts":5814568358,"sdi":1,"ddi":4},
-{"t":"dw1","ts":5814568361,"sdi":20,"ddi":4},
-{"t":"dw1","ts":5814568385,"sdi":1,"ddi":4},
-{"t":"dw1","ts":5814568410,"sdi":1,"ddi":4},
-{"t":"dw1","ts":5814568445,"sdi":29,"ddi":4},
-{"t":"dw1","ts":5814568469,"sdi":27,"ddi":4},
-{"t":"dw1","ts":5814568474,"sdi":29,"ddi":4},
-{"t":"dw1","ts":5814568504,"sdi":23,"ddi":4},
-{"t":"dw1","ts":5814568535,"sdi":15,"ddi":4},
-{"t":"dw1","ts":5814568552,"sdi":11,"ddi":4},
-{"t":"dw1","ts":5814568569,"sdi":15,"ddi":4},
-{"t":"dw1","ts":5814568598,"sdi":2,"ddi":4},
-{"t":"dw1","ts":5814568605,"sdi":15,"ddi":4},
-{"t":"dw1","ts":5814568627,"sdi":26,"ddi":4},
-{"t":"dw1","ts":5814568656,"sdi":13,"ddi":4},
-{"t":"dw1","ts":5814568681,"sdi":31,"ddi":4},
-{"t":"dw1","ts":5814568702,"sdi":13,"ddi":4},
-{"t":"dw1","ts":5814568725,"sdi":12,"ddi":4},
-{"t":"dw1","ts":5814568750,"sdi":14,"ddi":4},
-{"t":"dw1","ts":5814568765,"sdi":12,"ddi":4},
-{"t":"dw1","ts":5814568793,"sdi":8,"ddi":4},
-{"t":"dw1","ts":5814568800,"sdi":12,"ddi":4},
-{"t":"dw1","ts":5814568829,"sdi":18,"ddi":4},
-{"t":"dw1","ts":5814568863,"sdi":6,"ddi":4},
-{"t":"dw1","ts":5814568865,"sdi":18,"ddi":4},
-{"t":"re1","ts":5814567518,"ri":237,"cr":0,"rc":200,"hc":15,"bl":1048,"fl":0,"dds":"\"eyJraWQiOiJzMSIsImFsZyI6IlJTNTEyIn0.eyJzY3AiOiJMT0wiLCJzdWIiOiJmNDMxYTNjOS0xMmRiLTU5ODMtOTY2My01ZTJhMDUxZjNlODciLCJwcm9kdWN0IjoiTE9MIiwibGlkIjoiQkdISVR3bk8weFBaQWFGajUyRmZVUSIsImNuYW1lIjoibGN1IiwiaGJjIjoicHJ5IiwiYWN0aWQiOjIxMTcwNzUwNzU5Njc1NTIsImlzcyI6Imh0dHBzOlwvXC9zZXNzaW9uLmdwc3J2LnB2cC5uZXQiLCJyaWQiOiJrRUJuWXpEYWdQUSIsInJmYSI6MTY5NDA0NTQxNiwic2lkIjoiZGRhZmY0MDctNDAxNi00ODkwLTk1M2MtYzM2YWVjMWViNTk5IiwiYnlwYXNzIjpmYWxzZSwiZmVkZXJhdGVkX2lkZW50aXR5X3Byb3ZpZGVycyI6W10sInJlZyI6IkxBMiIsImRhdCI6eyJyIjoiTEEyIiwidSI6MjExNzA3NTA3NTk2NzU1Mn0sInJmbyI6MzMzLCJleHAiOjE2OTQwNDU2ODMsImlhdCI6MTY5NDA0NTA4MywianRpIjoiMjM0NDIzNTAtYTYxYy00NDliLTkxZDgtYjBhOTU1ZWZhNjM3IiwiY2lkIjoibHNzX2xvbCIsInNpdCI6MTY5NDAzOTI4MX0.CYasi7SaeOOznv8evQ83W3WFn8lPqTEsG4rF3wZk-kTZadTaV5qF6YhL8C-7eO2TpX1jFTX8upCNBNC6yxkMHy1wF6RTkXcOSbi_giAJ6PJzjV399W01_dOmwYkfKepZMQfjcnzDngv1NDwVY42SYDZh3aydlJIXAExP0_EynsaRAlKaUAXSgdta6JDjEJY8-rSTGd8vVXEQaGIATKx00dGcbw4ZyAvYI3crzZXxYpVMJgcKp7dNHFb2Sx6GIj9R1kCPbYlffZldn0i5o1yBXn5XZB5DKdWb1Vza2ai7nSTo5nci0zKtne2LDRrjEkZ5naqCim7ZKiasQusNlQeHZg\""},
-{"t":"ns1","ts":5814814525,"mi":22,"na":"Create /riot-messaging-service/v1/message/gaps-session-service/v1/notifications"},
-{"t":"ns1","ts":5814814650,"mi":22,"na":"Create /riot-messaging-service/v1/message/gaps-session-service/v1/notifications"},
-{"t":"mn1","ts":5814814598,"ty":"Create","ur":"/riot-messaging-service/v1/message/gaps-session-service/v1/notifications","fl":0,"dds":"{\"ackRequired\":false,\"id\":\"\",\"payload\":\"{\\\"puuid\\\":\\\"f431a3c9-12db-5983-9663-5e2a051f3e87\\\",\\\"region\\\":\\\"LA2\\\",\\\"product\\\":\\\"LOL\\\",\\\"sessionId\\\":\\\"ddaff407-4016-4890-953c-c36aec1eb599\\\",\\\"sessionInitiatedAt\\\":1694039281,\\\"state\\\":\\\"SESSION_CREATED\\\"}\",\"resource\":\"gaps-session-service/v1/notifications\",\"service\":\"gaps-session-service\",\"timestamp\":1694045083382,\"version\":\"\"}"},
-{"t":"dw1","ts":5814814904,"sdi":24,"ddi":1},
-{"t":"dw1","ts":5814814945,"sdi":1,"ddi":3},
-{"t":"dw1","ts":5814814962,"sdi":27,"ddi":1},
-{"t":"dw1","ts":5814814993,"sdi":29,"ddi":1},
-{"t":"dw1","ts":5814815069,"sdi":21,"ddi":1},
-{"t":"dw1","ts":5814815087,"sdi":1,"ddi":15},
-{"t":"dw1","ts":5814815112,"sdi":19,"ddi":1},
-{"t":"dw1","ts":5814815127,"sdi":11,"ddi":1},
-{"t":"dw1","ts":5814815139,"sdi":19,"ddi":1},
-{"t":"dw1","ts":5814815185,"sdi":2,"ddi":1},
-{"t":"dw1","ts":5814815194,"sdi":15,"ddi":1},
-{"t":"dw1","ts":5814815224,"sdi":2,"ddi":1},
-{"t":"dw1","ts":5814815247,"sdi":16,"ddi":1},
-{"t":"dw1","ts":5814815263,"sdi":2,"ddi":1},
-{"t":"dw1","ts":5814815294,"sdi":16,"ddi":1},
-{"t":"dw1","ts":5814815318,"sdi":16,"ddi":1},
-{"t":"dw1","ts":5814815343,"sdi":16,"ddi":1},
-{"t":"dw1","ts":5814815367,"sdi":16,"ddi":1},
-{"t":"dw1","ts":5814815416,"sdi":8,"ddi":1},
-{"t":"dw1","ts":5814815462,"sdi":12,"ddi":1},
-{"t":"dw1","ts":5814815481,"sdi":7,"ddi":1},
-{"t":"dw1","ts":5814815485,"sdi":23,"ddi":1},
-{"t":"dw1","ts":5814815503,"sdi":12,"ddi":1},
-{"t":"dw1","ts":5814815523,"sdi":7,"ddi":1},
-{"t":"dw1","ts":5814815557,"sdi":7,"ddi":1},
-{"t":"dw1","ts":5814815597,"sdi":17,"ddi":1},
-{"t":"dw1","ts":5814815631,"sdi":5,"ddi":1},
-{"t":"dw1","ts":5814815656,"sdi":5,"ddi":1},
-{"t":"dw1","ts":5814815662,"sdi":25,"ddi":1},
-{"t":"dw1","ts":5814815678,"sdi":5,"ddi":1},
-{"t":"dw1","ts":5814815725,"sdi":20,"ddi":1},
-{"t":"dw1","ts":5814815755,"sdi":20,"ddi":1},
-{"t":"dw1","ts":5814815765,"sdi":22,"ddi":1},
-{"t":"dw1","ts":5814815779,"sdi":20,"ddi":1},
-{"t":"dw1","ts":5814815826,"sdi":29,"ddi":1},
-{"t":"dw1","ts":5814815853,"sdi":29,"ddi":1},
-{"t":"dw1","ts":5814815862,"sdi":11,"ddi":1},
-{"t":"ns1","ts":5815706057,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5815706198,"sdi":0,"ddi":1},
-{"t":"br1","ts":5815704164,"ri":7528,"ji":186844,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5815706190,"ri":7528,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5816111665,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5816111930,"sdi":0,"ddi":6},
-{"t":"br1","ts":5816109574,"ri":7529,"ji":186857,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5816111920,"ri":7529,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5834259776,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5834259919,"sdi":0,"ddi":8},
-{"t":"br1","ts":5834258514,"ri":7530,"ji":187417,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5834259911,"ri":7530,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5834597471,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5834597576,"sdi":0,"ddi":5},
-{"t":"br1","ts":5834596203,"ri":7531,"ji":187429,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5834597571,"ri":7531,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5842487987,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5842488090,"sdi":0,"ddi":1},
-{"t":"br1","ts":5842486836,"ri":7532,"ji":187675,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5842488085,"ri":7532,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5842802784,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5842803100,"sdi":0,"ddi":10},
-{"t":"br1","ts":5842800302,"ri":7533,"ji":187686,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5842803090,"ri":7533,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5845727523,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5845727631,"sdi":0,"ddi":10},
-{"t":"br1","ts":5845726274,"ri":7534,"ji":187779,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5845727626,"ri":7534,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5846146331,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5846146465,"sdi":0,"ddi":5},
-{"t":"br1","ts":5846145108,"ri":7535,"ji":187793,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5846146457,"ri":7535,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5864273524,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5864273640,"sdi":0,"ddi":4},
-{"t":"br1","ts":5864272273,"ri":7536,"ji":188351,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5864273635,"ri":7536,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5864616465,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5864616587,"sdi":0,"ddi":21},
-{"t":"br1","ts":5864614956,"ri":7537,"ji":188363,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5864616581,"ri":7537,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5872520938,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5872521065,"sdi":0,"ddi":15},
-{"t":"br1","ts":5872519271,"ri":7538,"ji":188609,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5872521059,"ri":7538,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5872831104,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5872831215,"sdi":0,"ddi":18},
-{"t":"br1","ts":5872829739,"ri":7539,"ji":188620,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5872831209,"ri":7539,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5875742007,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5875742124,"sdi":0,"ddi":18},
-{"t":"br1","ts":5875740746,"ri":7540,"ji":188713,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5875742120,"ri":7540,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5876159397,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5876159655,"sdi":0,"ddi":21},
-{"t":"br1","ts":5876158025,"ri":7541,"ji":188727,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5876159647,"ri":7541,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"dw1","ts":5891387785,"sdi":0,"ddi":25},
-{"t":"br1","ts":5891387688,"ri":7542,"ji":189196,"co":0,"me":2,"ur":"/data-store/v1/system-settings/riotclient/patchline","hc":0,"bl":0},
-{"t":"br1","ts":5891387831,"ri":7543,"ji":189197,"co":0,"me":2,"ur":"/riot-status/v1/products/league_of_legends/patchlines/live/deployments/la2","hc":0,"bl":0},
-{"t":"rb1","ts":5891387780,"ri":7542,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"xr1","ts":5891387824,"ri":571230650418,"mi":133,"me":2,"ur":"/riot-status/v1/products/league_of_legends/patchlines/live/deployments/la2"},
-{"t":"rb1","ts":5891543950,"ri":7543,"sc":1,"rc":200,"hc":6,"bl":1},
-{"t":"rx1","ts":5891544003,"ri":571230650418,"sc":1,"fl":0,"dds":"{\"id\": \"LA2\", \"name\": \"Latin America South\", \"locales\": [\"es_AR\", \"es_MX\"], \"maintenances\": [], \"incidents\": [{\"archive_at\": null, \"id\": 6977, \"updates\": [{\"translations\": [{\"locale\": \"en_US\", \"content\": \"We're aware of issues impacting players on Android and are investigating.\"}, {\"locale\": \"cs_CZ\", \"content\": \"Víme o potížích, které se dotýkají hráčů se systémem Android. Na řešení pracujeme.\"}, {\"locale\": \"de_DE\", \"content\": \"Uns ist bekannt, dass es Probleme für Android-Nutzer gibt, und gehen diesen gerade nach.\"}, {\"locale\": \"el_GR\", \"content\": \"Γνωρίζουμε ότι υπάρχουν κάποια προβλήματα που επηρεάζουν παίκτες που παίζουν σε συσκευές Android και διερευνούμε το ζήτημα.\"}, {\"locale\": \"en_AU\", \"content\": \"We're aware of issues impacting players on Android and are investigating.\"}, {\"locale\": \"en_GB\", \"content\": \"We're aware of issues impacting players on Android and are investigating.\"}, {\"locale\": \"es_AR\", \"content\": \"Estamos al tanto de algunos problemas que afectan a los jugadores en Android y lo estamos investigando.\"}, {\"locale\": \"es_ES\", \"content\": \"Sabemos que existen problemas en Android y estamos investigándolos.\"}, {\"locale\": \"es_MX\", \"content\": \"Estamos al tanto de algunos problemas que afectan a los jugadores en Android y lo estamos investigando.\"}, {\"locale\": \"fr_FR\", \"content\": \"Nous savons que des problèmes affectent le jeu sur Android et nous essayons de les résoudre.\"}, {\"locale\": \"hu_HU\", \"content\": \"Tudunk a(z) Android-felhasználókat érintő problémákról. Dolgozunk a megoldáson.\"}, {\"locale\": \"it_IT\", \"content\": \"Siamo a conoscenza dei problemi riscontrati dai giocatori su Android e stiamo indagando.\"}, {\"locale\": \"ja_JP\", \"content\": \"Android上でのプレイに問題が生じる場合があり、現在調査を行っています。\"}, {\"locale\": \"ko_KR\", \"content\": \"Android 기기로 플레이 시 문제가 발생해 확인 중입니다.\"}, {\"locale\": \"pl_PL\", \"content\": \"Wiemy o dotykających graczy problemach z systemem Android i sprawdzamy je.\"}, {\"locale\": \"pt_BR\", \"content\": \"Estamos cientes dos problemas que estão afetando usuários de Android e já estamos investigando.\"}, {\"locale\": \"ro_RO\", \"content\": \"Știm că există probleme care afectează jucătorii pe Android și căutăm o soluție.\"}, {\"locale\": \"ru_RU\", \"content\": \"Мы знаем о проблемах, с которыми столкнулись пользователи Android, и уже ищем решение.\"}, {\"locale\": \"tr_TR\", \"content\": \"Android kullanan oyuncuları etkileyen sorunlardan haberdarız ve şu anda konuyu araştırıyoruz.\"}], \"publish_locations\": [\"riotstatus\"], \"id\": 11907, \"created_at\": \"2023-08-10T19:08:29.843568+00:00\", \"updated_at\": \"2023-08-10T19:08:00+00:00\", \"publish\": true, \"author\": \"Riot Games\"}], \"created_at\": \"2023-08-10T19:08:29.831714+00:00\", \"maintenance_status\": null, \"updated_at\": \"2023-08-21T09:33:03.459885+00:00\", \"platforms\": [\"android\"], \"titles\": [{\"locale\": \"en_US\", \"content\": \"Android Issues\"}, {\"locale\": \"cs_CZ\", \"content\": \"Potíže se systémem Android\"}, {\"locale\": \"de_DE\", \"content\": \"Probleme mit Android\"}, {\"locale\": \"el_GR\", \"content\": \"Προβλήματα σε συσκευές Android\"}, {\"locale\": \"en_AU\", \"content\": \"Android Issues\"}, {\"locale\": \"en_GB\", \"content\": \"Android Issues\"}, {\"locale\": \"es_AR\", \"content\": \"Problemas con Android\"}, {\"locale\": \"es_ES\", \"content\": \"Problemas con Android\"}, {\"locale\": \"es_MX\", \"content\": \"Problemas con Android\"}, {\"locale\": \"fr_FR\", \"content\": \"Problèmes sur Android\"}, {\"locale\": \"hu_HU\", \"content\": \"Android problémák\"}, {\"locale\": \"it_IT\", \"content\": \"Problemi su Android\"}, {\"locale\": \"ja_JP\", \"content\": \"Android上での不具合\"}, {\"locale\": \"ko_KR\", \"content\": \"Android 문제\"}, {\"locale\": \"pl_PL\", \"content\": \"Problemy z systemem Android\"}, {\"locale\": \"pt_BR\", \"content\": \"Problemas com Android\"}, {\"locale\": \"ro_RO\", \"content\": \"Probleme cu Android\"}, {\"locale\": \"ru_RU\", \"content\": \"Проблемы с Android\"}, {\"locale\": \"tr_TR\", \"content\": \"Android Sorunları\"}], \"incident_severity\": \"critical\"}, {\"titles\": [{\"content\": \"iOS Issues\", \"locale\": \"en_US\"}, {\"content\": \"Potíže se systémem iOS\", \"locale\": \"cs_CZ\"}, {\"content\": \"Probleme mit iOS\", \"locale\": \"de_DE\"}, {\"content\": \"Προβλήματα σε συσκευές iOS\", \"locale\": \"el_GR\"}, {\"content\": \"iOS Issues\", \"locale\": \"en_AU\"}, {\"content\": \"iOS Issues\", \"locale\": \"en_GB\"}, {\"content\": \"Problemas con iOS\", \"locale\": \"es_AR\"}, {\"content\": \"Problemas con iOS\", \"locale\": \"es_ES\"}, {\"content\": \"Problemas con iOS\", \"locale\": \"es_MX\"}, {\"content\": \"Problèmes sur iOS\", \"locale\": \"fr_FR\"}, {\"content\": \"iOS problémák\", \"locale\": \"hu_HU\"}, {\"content\": \"Problemi su iOS\", \"locale\": \"it_IT\"}, {\"content\": \"iOS上での不具合\", \"locale\": \"ja_JP\"}, {\"content\": \"iOS 문제\", \"locale\": \"ko_KR\"}, {\"content\": \"Problemy z systemem iOS\", \"locale\": \"pl_PL\"}, {\"content\": \"Problemas com iOS\", \"locale\": \"pt_BR\"}, {\"content\": \"Probleme cu iOS\", \"locale\": \"ro_RO\"}, {\"content\": \"Проблемы с iOS\", \"locale\": \"ru_RU\"}, {\"content\": \"iOS Sorunları\", \"locale\": \"tr_TR\"}], \"updated_at\": \"2023-08-21T09:33:22.660541+00:00\", \"archive_at\": null, \"maintenance_status\": null, \"platforms\": [\"ios\"], \"incident_severity\": \"critical\", \"created_at\": \"2023-08-10T19:09:29.193124+00:00\", \"updates\": [{\"updated_at\": \"2023-08-10T19:09:00+00:00\", \"author\": \"Riot Games\", \"publish_locations\": [\"riotstatus\"], \"translations\": [{\"content\": \"We're aware of issues impacting players on iOS and are investigating.\", \"locale\": \"en_US\"}, {\"content\": \"Víme o potížích, které se dotýkají hráčů se systémem iOS. Na řešení pracujeme.\", \"locale\": \"cs_CZ\"}, {\"content\": \"Uns ist bekannt, dass es Probleme für iOS-Nutzer gibt, und gehen diesen gerade nach.\", \"locale\": \"de_DE\"}, {\"content\": \"Γνωρίζουμε ότι υπάρχουν κάποια προβλήματα που επηρεάζουν παίκτες που παίζουν σε συσκευές iOS και διερευνούμε το ζήτημα.\", \"locale\": \"el_GR\"}, {\"content\": \"We're aware of issues impacting players on iOS and are investigating.\", \"locale\": \"en_AU\"}, {\"content\": \"We're aware of issues impacting players on iOS and are investigating.\", \"locale\": \"en_GB\"}, {\"content\": \"Estamos al tanto de algunos problemas que afectan a los jugadores en iOS y lo estamos investigando.\", \"locale\": \"es_AR\"}, {\"content\": \"Sabemos que existen problemas en iOS y estamos investigándolos.\", \"locale\": \"es_ES\"}, {\"content\": \"Estamos al tanto de algunos problemas que afectan a los jugadores en iOS y lo estamos investigando.\", \"locale\": \"es_MX\"}, {\"content\": \"Nous savons que des problèmes affectent le jeu sur iOS et nous essayons de les résoudre.\", \"locale\": \"fr_FR\"}, {\"content\": \"Tudunk a(z) iOS-felhasználókat érintő problémákról. Dolgozunk a megoldáson.\", \"locale\": \"hu_HU\"}, {\"content\": \"Siamo a conoscenza dei problemi riscontrati dai giocatori su iOS e stiamo indagando.\", \"locale\": \"it_IT\"}, {\"content\": \"iOS上でのプレイに問題が生じる場合があり、現在調査を行っています。\", \"locale\": \"ja_JP\"}, {\"content\": \"iOS 기기로 플레이 시 문제가 발생해 확인 중입니다.\", \"locale\": \"ko_KR\"}, {\"content\": \"Wiemy o dotykających graczy problemach z systemem iOS i sprawdzamy je.\", \"locale\": \"pl_PL\"}, {\"content\": \"Estamos cientes dos problemas que estão afetando usuários de iOS e já estamos investigando.\", \"locale\": \"pt_BR\"}, {\"content\": \"Știm că există probleme care afectează jucătorii pe iOS și căutăm o soluție.\", \"locale\": \"ro_RO\"}, {\"content\": \"Мы знаем о проблемах, с которыми столкнулись пользователи iOS, и уже ищем решение.\", \"locale\": \"ru_RU\"}, {\"content\": \"iOS kullanan oyuncuları etkileyen sorunlardan haberdarız ve şu anda konuyu araştırıyoruz.\", \"locale\": \"tr_TR\"}], \"publish\": true, \"created_at\": \"2023-08-10T19:09:29.203269+00:00\", \"id\": 11908}], \"id\": 6978}, {\"created_at\": \"2023-09-01T00:15:13.246927+00:00\", \"titles\": [{\"locale\": \"en_US\", \"content\": \"Account Transfers Disabled\"}, {\"locale\": \"cs_CZ\", \"content\": \"Deaktivace převodů účtu\"}, {\"locale\": \"de_DE\", \"content\": \"Kontotransfers deaktiviert\"}, {\"locale\": \"el_GR\", \"content\": \"Οι μεταφορές λογαριασμών απενεργοποιήθηκαν\"}, {\"locale\": \"en_AU\", \"content\": \"Account Transfers Disabled\"}, {\"locale\": \"en_GB\", \"content\": \"Account Transfers Disabled\"}, {\"locale\": \"en_PH\", \"content\": \"Account Transfers Disabled\"}, {\"locale\": \"en_SG\", \"content\": \"Account Transfers Disabled\"}, {\"locale\": \"es_AR\", \"content\": \"Transferencias de cuentas inhabilitadas\"}, {\"locale\": \"es_ES\", \"content\": \"Transferencias de cuentas desactivadas\"}, {\"locale\": \"es_MX\", \"content\": \"Transferencias de cuentas inhabilitadas\"}, {\"locale\": \"fr_FR\", \"content\": \"Transferts de compte désactivés\"}, {\"locale\": \"hu_HU\", \"content\": \"A fiókátvitel szünetel\"}, {\"locale\": \"it_IT\", \"content\": \"Trasferimenti degli account disattivati\"}, {\"locale\": \"ja_JP\", \"content\": \"アカウント移行の停止\"}, {\"locale\": \"pl_PL\", \"content\": \"Transfery kont wyłączone\"}, {\"locale\": \"pt_BR\", \"content\": \"Transferências de conta desabilitadas\"}, {\"locale\": \"ro_RO\", \"content\": \"Transferuri de cont dezactivate\"}, {\"locale\": \"ru_RU\", \"content\": \"Перенос учетной записи отключен\"}, {\"locale\": \"th_TH\", \"content\": \"ปิดการใช้งานการโอนถ่ายข้อมูลบัญชี\"}, {\"locale\": \"tr_TR\", \"content\": \"Hesap Aktarımları Devre Dışı\"}, {\"locale\": \"vi_VN\", \"content\": \"Vô Hiệu Hóa Tính Năng Chuyển Đổi Tài Khoản\"}, {\"locale\": \"zh_MY\", \"content\": \"账号转移无法使用\"}, {\"locale\": \"zh_TW\", \"content\": \"帳號轉移無法使用\"}], \"updates\": [{\"created_at\": \"2023-09-01T00:15:13.364264+00:00\", \"translations\": [{\"locale\": \"en_US\", \"content\": \"We're aware of a problem causing region transfers to fail and have disabled them while we work on a fix.\"}, {\"locale\": \"cs_CZ\", \"content\": \"Jsme si vědomi problému, kvůli kterému nelze převádět účty mezi regiony. Deaktivovali jsme tuto funkci do doby, než dané potíže odstraníme.\"}, {\"locale\": \"de_DE\", \"content\": \"Uns ist bekannt, dass es momentan Probleme mit den Regionstransfers gibt. Wir haben Regionstransfers vorübergehend deaktiviert, während wir an einer Lösung arbeiten.\"}, {\"locale\": \"el_GR\", \"content\": \"Γνωρίζουμε ότι υπάρχει κάποιο πρόβλημα που προκαλεί σφάλματα στις αλλαγές περιοχής και τις απενεργοποιήσαμε προσωρινά όσο εργαζόμαστε για να το διορθώσουμε.\"}, {\"locale\": \"en_AU\", \"content\": \"We're aware of a problem causing region transfers to fail and have disabled them while we work on a fix.\"}, {\"locale\": \"en_GB\", \"content\": \"We're aware of a problem causing region transfers to fail and have disabled them while we work on a fix.\"}, {\"locale\": \"en_PH\", \"content\": \"We're aware of a problem causing region transfers to fail and have disabled them while we work on a fix.\"}, {\"locale\": \"en_SG\", \"content\": \"We're aware of a problem causing region transfers to fail and have disabled them while we work on a fix.\"}, {\"locale\": \"es_AR\", \"content\": \"Estamos al tanto de un problema que está causando una falla en las transferencias de región. Debido a esto, las inhabilitamos mientras trabajamos en una solución.\"}, {\"locale\": \"es_ES\", \"content\": \"Somos conscientes de que existe un problema que provoca que las transferencias de región fallen, y las hemos desactivado mientras trabajamos en una solución.\"}, {\"locale\": \"es_MX\", \"content\": \"Estamos al tanto de un problema que está causando una falla en las transferencias de región. Debido a esto, las inhabilitamos mientras trabajamos en una solución.\"}, {\"locale\": \"fr_FR\", \"content\": \"Nous sommes conscients d'un problème entraînant un échec des transferts de région et nous les avons désactivés, le temps de corriger ce problème.\"}, {\"locale\": \"hu_HU\", \"content\": \"Észleltük a hibát, amelynek következtében meghiúsulnak a régiós átvitelek, és a probléma megoldásáig letiltottuk az átvitelt.\"}, {\"locale\": \"it_IT\", \"content\": \"Siamo a conoscenza di un problema che impedisce i trasferimenti regionali degli account e li abbiamo disattivati per lavorare a una soluzione.\"}, {\"locale\": \"ja_JP\", \"content\": \"地域の移行を正常に行えない問題が発生しているため、一時的にアカウント移行を無効化して修正対応中です。\"}, {\"locale\": \"pl_PL\", \"content\": \"Jesteśmy świadomi problemu z transferami między regionami i wyłączyliśmy je w związku z pracami nad jego rozwiązaniem.\"}, {\"locale\": \"pt_BR\", \"content\": \"Desabilitamos as transferências de região enquanto corrigimos um erro.\"}, {\"locale\": \"ro_RO\", \"content\": \"Știm că există o problemă care împiedică transferurile între regiuni și le-am dezactivat în timp ce căutăm o soluție.\"}, {\"locale\": \"ru_RU\", \"content\": \"Мы знаем о проблеме, которая мешает переносить учетную запись в другие регионы. Пока мы работаем над ее решением, перенос отключен.\"}, {\"locale\": \"th_TH\", \"content\": \"เราได้ทราบถึงปัญหาที่ทำให้เกิดข้อขัดข้องไม่สามารถโอนถ่ายข้อมูลผ่านภูมิภาคได้แล้ว และได้ทำการปิดใช้งานในขณะที่เรากำลังดำเนินการแก้ไข\"}, {\"locale\": \"tr_TR\", \"content\": \"Sunucu aktarımlarının başarısız olmasına yol açan hatadan haberdarız ve bunu çözmek için çalışırken aktarımları devre dışı bıraktık.\"}, {\"locale\": \"vi_VN\", \"content\": \"Chúng tôi đã nhận được báo lỗi về việc không thể chuyển đổi khu vực và đã vô hiệu hóa chức năng này để tìm giải pháp khắc phục.\"}, {\"locale\": \"zh_MY\", \"content\": \"我们发现一个异常，导致地区转移失败，现已关闭转移功能，进行全力修复。\"}, {\"locale\": \"zh_TW\", \"content\": \"我們發現一個異常，導致地區轉移失敗，現已關閉轉移功能，進行全力修復。\"}], \"publish_locations\": [\"game\", \"riotstatus\"], \"publish\": true, \"updated_at\": \"2023-09-01T00:15:00+00:00\", \"author\": \"Riot Games\", \"id\": 12241}], \"updated_at\": null, \"platforms\": [\"windows\", \"macos\"], \"id\": 7105, \"incident_severity\": \"warning\", \"maintenance_status\": null, \"archive_at\": null}]}"},
-{"t":"ns1","ts":5894298533,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5894298676,"sdi":0,"ddi":9},
-{"t":"br1","ts":5894297171,"ri":7544,"ji":189286,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5894298669,"ri":7544,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5894652292,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5894652416,"sdi":0,"ddi":3},
-{"t":"br1","ts":5894650681,"ri":7545,"ji":189301,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5894652410,"ri":7545,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"br1","ts":5897654362,"ri":7546,"ji":189395,"co":0,"me":6,"ur":"/lol-login/v1/session/invoke","hc":0,"bl":0},
-{"t":"lr1","ts":5897654336,"ri":468151435313,"mi":109,"ds":"loginService","mn":"performLCDSHeartBeat","pc":4,"fl":0,"dds":"[2117075075967552,\"\",49,\"2023-09-07T00:05:59Z\"]"},
-{"t":"rb1","ts":5897902542,"ri":7546,"sc":1,"rc":200,"hc":0,"bl":1},
-{"t":"rl1","ts":5897902565,"ri":468151435313,"rt":"","ie":0,"sc":1,"fl":0,"dds":"5"},
-{"t":"ns1","ts":5902534164,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5902534424,"sdi":0,"ddi":14},
-{"t":"br1","ts":5902532878,"ri":7547,"ji":189547,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5902534416,"ri":7547,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5902845343,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5902845490,"sdi":0,"ddi":7},
-{"t":"br1","ts":5902843680,"ri":7548,"ji":189558,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5902845485,"ri":7548,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5905754865,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5905755143,"sdi":0,"ddi":12},
-{"t":"br1","ts":5905753597,"ri":7549,"ji":189651,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5905755135,"ri":7549,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5906171614,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5906171871,"sdi":0,"ddi":11},
-{"t":"br1","ts":5906170268,"ri":7550,"ji":189665,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5906171865,"ri":7550,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5924324981,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5924325093,"sdi":0,"ddi":29},
-{"t":"br1","ts":5924323644,"ri":7551,"ji":190224,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5924325087,"ri":7551,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5924664213,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5924664531,"sdi":0,"ddi":10},
-{"t":"br1","ts":5924662421,"ri":7552,"ji":190238,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5924664525,"ri":7552,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5932547594,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5932547719,"sdi":0,"ddi":23},
-{"t":"br1","ts":5932546313,"ri":7553,"ji":190482,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5932547713,"ri":7553,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5932854623,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5932854740,"sdi":0,"ddi":22},
-{"t":"br1","ts":5932853112,"ri":7554,"ji":190493,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5932854735,"ri":7554,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5935780777,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-lock"},
-{"t":"dw1","ts":5935782255,"sdi":0,"ddi":20},
-{"t":"br1","ts":5935772203,"ri":7555,"ji":190587,"co":0,"me":6,"ur":"/data-store/v1/install-settings/gameflow-patcher-lock","hc":0,"bl":0},
-{"t":"rb1","ts":5935782174,"ri":7555,"sc":1,"rc":204,"hc":0,"bl":0},
-{"t":"ns1","ts":5936202647,"mi":5,"na":"Update /data-store/v1/install-settings/gameflow-patcher-loc                         <Component id="txttotal5" min="-2" pref="133" max="-2" attributes="0"/>
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JDialog" name="Buscar_Presupuesto">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                  <Component id="jLabel30" min="-2" pref="156" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel29" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel11" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane3" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel30" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel11" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane3" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel29" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel29">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel30">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Factura"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablapres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="3" rowCount="4">
+                    <Column editable="true" title="NRO" type="java.lang.Object"/>
+                    <Column editable="true" title="FECHA" type="java.lang.Object"/>
+                    <Column editable="true" title="PROVEEDOR" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel11">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="fechapres" min="-2" pref="102" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="buscarpres" min="-2" pref="120" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Component id="agregarpres" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarpres" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="buscarpres" alignment="1" max="32767" attributes="0"/>
+                          <Component id="cancelarpres" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarpres" alignment="1" max="32767" attributes="0"/>
+                          <Component id="fechapres" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="agregarpres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpresMouseClicked"/>
+                <EventHandler event="mouseEntered" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpresMouseEntered"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="agregarpresActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarpres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarpresMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelarpresActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JFormattedTextField" name="fechapres">
+              <Properties>
+                <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+                  <Format format="##/##/####" subtype="-1" type="5"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="buscarpres">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Buscar Fecha"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buscarpresActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="libroivam">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[850, 600]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jScrollPane2" pref="844" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="combolib" min="-2" pref="102" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jButton1" min="-2" pref="103" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="combolib" max="32767" attributes="0"/>
+                      <Component id="jButton2" alignment="0" pref="43" max="32767" attributes="0"/>
+                      <Component id="jButton1" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="54" max="32767" attributes="0"/>
+                  <Component id="jScrollPane2" min="-2" pref="416" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="62" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablib">
+              <Properties>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="7" rowCount="4">
+                    <Column editable="true" title="FECHA" type="java.lang.Object"/>
+                    <Column editable="true" title="IVA 10%" type="java.lang.Object"/>
+                    <Column editable="true" title="IVA 5%" type="java.lang.Object"/>
+                    <Column editable="true" title="TIPO" type="java.lang.Object"/>
+                    <Column editable="true" title="FACTURA" type="java.lang.Object"/>
+                    <Column editable="true" title="NOTA DE CREDITO" type="java.lang.Object"/>
+                    <Column editable="true" title="TIMBRADO" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JComboBox" name="combolib">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="3">
+                <StringItem index="0" value="TODO"/>
+                <StringItem index="1" value="Credito"/>
+                <StringItem index="2" value="Debito"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Filtrar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Salir"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="Buscar_cliente">
+      <Properties>
+        <Property name="resizable" type="boolean" value="false"/>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                  <Component id="jLabel21" min="-2" pref="156" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel20" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel7" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane4" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel21" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel7" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane4" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel20" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel20">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel21">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Cliente"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablaclie">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="3" rowCount="4">
+                    <Column editable="true" title="ID" type="java.lang.Object"/>
+                    <Column editable="true" title="RUC" type="java.lang.Object"/>
+                    <Column editable="true" title="RAZON SOCIAL" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel7">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="filcliente" min="-2" pref="282" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
+                      <Component id="agregarclie" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarclie" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="cancelarclie" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarclie" alignment="1" max="32767" attributes="0"/>
+                          <Component id="filcliente" alignment="1" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JTextField" name="filcliente">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="filclienteKeyTyped"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="agregarclie">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarclieMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarclie">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarclieMouseClicked"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="Buscar_producto">
+      <Properties>
+        <Property name="resizable" type="boolean" value="false"/>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                  <Component id="jLabel33" min="-2" pref="156" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel22" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel6" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane6" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel33" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel6" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane6" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel22" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel22">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel33">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Producto"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane6">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablaprod">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="2" rowCount="4">
+                    <Column editable="true" title="CODIGO" type="java.lang.Object"/>
+                    <Column editable="true" title="DESCRIPCION" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel6">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="filtroprod" min="-2" pref="282" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
+                      <Component id="agregarprod" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarprod" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="cancelarprod" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarprod" alignment="1" max="32767" attributes="0"/>
+                          <Component id="filtroprod" alignment="1" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JTextField" name="filtroprod">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="filtroprodKeyTyped"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="agregarprod">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarprodMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="agregarprodActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarprod">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarprodMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelarprodActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="cobros">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[875, 270]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel14" max="32767" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <Component id="jPanel10" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jPanel12" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jPanel13" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="jPanel13" max="32767" attributes="0"/>
+                      <Component id="jPanel12" max="32767" attributes="0"/>
+                      <Component id="jPanel10" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel14" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="15" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel10">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="66" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder title="Cheque">
+                  <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder thickness="2"/>
+                  </Border>
+                </TitledBorder>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jLabel3" max="32767" attributes="0"/>
+                          <Component id="jLabel27" max="32767" attributes="0"/>
+                          <Component id="jLabel28" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txtnrocheque" max="32767" attributes="0"/>
+                          <Component id="txtbanco" max="32767" attributes="0"/>
+                          <Component id="txtmontocheque" pref="150" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="37" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txtnrocheque" min="-2" pref="36" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="jLabel3" max="32767" attributes="0"/>
+                              <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="txtbanco" pref="35" max="32767" attributes="0"/>
+                          <Component id="jLabel27" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel28" min="-2" pref="26" max="-2" attributes="0"/>
+                          <Component id="txtmontocheque" min="-2" pref="34" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Cheque nro"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel27">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Banco"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel28">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Monto"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtnrocheque">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="-"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtbanco">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtmontocheque">
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel12">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="66" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder title="Tarjeta">
+                  <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder thickness="2"/>
+                  </Border>
+                </TitledBorder>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jLabel34" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jLabel35" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jLabel36" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txtmarcatarjeta" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txtcomprobante" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txtmontotarjeta" alignment="0" pref="150" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="37" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txtmarcatarjeta" min="-2" pref="36" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="jLabel34" max="32767" attributes="0"/>
+                              <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jLabel35" max="32767" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                              <Component id="txtcomprobante" pref="34" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                              <Component id="jLabel36" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="txtmontotarjeta" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel34">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Marca Tarjeta"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtmarcatarjeta">
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtmarcatarjetaActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel35">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Comprobante"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtcomprobante">
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtcomprobanteActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel36">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Monto"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtmontotarjeta">
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtmontotarjetaActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel13">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="66" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder title="Efectivo">
+                  <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder thickness="2"/>
+                  </Border>
+                </TitledBorder>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel37" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="txtefectivo" pref="150" max="32767" attributes="0"/>
+                      <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="txtefectivo" max="32767" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jLabel37" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="74" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel37">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Monto"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtefectivo">
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtefectivoActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel14">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="66" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="jLabel38" min="-2" pref="54" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="txttotalcobro" min="-2" pref="126" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                      <Component id="botcobrar" min="-2" pref="105" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="67" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="txttotalcobro" alignment="1" min="-2" pref="42" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                                  <Component id="jLabel38" min="-2" pref="33" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                                  <Component id="botcobrar" min="-2" pref="42" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="35" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="botcobrar">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Cobrar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botcobrarActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel38">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="TOTAL"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txttotalcobro">
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="Buscar_Produccion">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                  <Component id="jLabel40" min="-2" pref="156" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel39" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel15" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane5" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel40" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel15" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane5" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel39" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel39">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel40">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Servicio"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablapres1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="3" rowCount="4">
+                    <Column editable="true" title="NRO" type="java.lang.Object"/>
+                    <Column editable="true" title="FECHA" type="java.lang.Object"/>
+                    <Column editable="true" title="CLIENTE" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel15">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="fechapres1" min="-2" pref="102" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="buscarpres1" min="-2" pref="120" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Component id="agregarpres1" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarpres1" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="buscarpres1" alignment="1" max="32767" attributes="0"/>
+                          <Component id="cancelarpres1" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarpres1" alignment="1" max="32767" attributes="0"/>
+                          <Component id="fechapres1" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="agregarpres1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpres1MouseClicked"/>
+                <EventHandler event="mouseEntered" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpres1MouseEntered"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="agregarpres1ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarpres1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarpres1MouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelarpres1ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JFormattedTextField" name="fechapres1">
+              <Properties>
+                <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+                  <Format format="##/##/####" subtype="-1" type="5"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="buscarpres1">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Buscar Fecha"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buscarpres1ActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="modalityType" type="java.awt.Dialog$ModalityType" editor="org.netbeans.modules.form.editors.EnumEditor">
+      <Value id="DOCUMENT_MODAL"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="botiva" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jPanel5" alignment="0" max="32767" attributes="0"/>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="botimprimir" min="-2" pref="88" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="jLabel17" min="-2" pref="61" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="txttotal5" min="-2" pref="133" max="-2" attributes="0"/>
                           <EmptySpace type="unrelated" max="-2" attributes="0"/>
                           <Component id="jLabel16" min="-2" pref="61" max="-2" attributes="0"/>
                           <EmptySpace type="unrelated" max="-2" attributes="0"/>

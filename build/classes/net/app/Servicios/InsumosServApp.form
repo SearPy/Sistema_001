@@ -1,703 +1,1451 @@
-NzU5Njc1NTIsImxpZCI6IkJHSElUd25PMHhQWkFhRmo1MkZmVVEifSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImV4cCI6MTY5Mzk2MjM4NywiaWF0IjoxNjkzOTU4Nzg3LCJqdGkiOiJtc2FUTXU1QVpRcyIsImNpZCI6ImxvbCJ9.cb9WxAEnDbCDeEyL73U4YlWjC-gVJcWRVktWg84XP2j-jzD3b56Y4AquEgdrkKDiUsIh4iXOjI7I6AU5A5v_DOIs2g7jAP05LX7y_HLhOK9XdMzRcC9SjH3UldM9RMEQLFY-XyZ_BRma4YT89PeVCfNhUWgtzJgsNFB1YPafa-4\"},\"idToken\":{\"expiry\":1694045187,\"token\":\"eyJraWQiOiJzMSIsInR5cCI6ImlkX3Rva2VuK2p3dCIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiLTNJbDJuQzhvekhKYmQ1OXV2X2swQSIsInN1YiI6ImY0MzFhM2M5LTEyZGItNTk4My05NjYzLTVlMmEwNTFmM2U4NyIsImNvdW50cnkiOiJwcnkiLCJwbGF5ZXJfcGxvY2FsZSI6ImVzIiwiYW1yIjpbInBhc3N3b3JkIiwibWZhIiwiY29va2llIl0sImlzcyI6Imh0dHBzOlwvXC9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7InVpZCI6MjExNzA3NTA3NTk2NzU1MiwiY3VpZCI6MjExNzA3NTA3NTk2NzU1MiwidW5hbWUiOiJzZWFycHkiLCJjcGlkIjoiTEEyIiwicHRyaWQiOm51bGwsInBpZCI6IkxBMiIsInN0YXRlIjoiRU5BQkxFRCJ9XSwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjp0cnVlLCJub25jZSI6Il9ucXpjeDVBdEppRnM0SGFHSHBxRmciLCJhY2NvdW50X3ZlcmlmaWVkIjp0cnVlLCJhdWQiOiJsb2wiLCJhY3IiOiIwIiwibG9sX3JlZ2lvbiI6W3sidWlkIjoyMTE3MDc1MDc1OTY3NTUyLCJjdWlkIjoyMTE3MDc1MDc1OTY3NTUyLCJscCI6ZmFsc2UsImNwaWQiOiJMQTIiLCJhY3RpdmUiOnRydWUsInBpZCI6IkxBMiJ9XSwicGxheWVyX2xvY2FsZSI6ImVzIiwiZXhwIjoxNjk0MDQ1MTg3LCJpYXQiOjE2OTM5NTg3ODcsImFjY3QiOnsiZ2FtZV9uYW1lIjoiU2VhclBZIiwidGFnX2xpbmUiOiIyNTA3In0sImFnZSI6MjYsImp0aSI6Im1oVzdKODExTTBZIiwibG9naW5fY291bnRyeSI6InByeSJ9.kEXKdUmUt5r0ueY0Jf-ZNDIo24aWhEmg6MhL37Y0ubUgA2g4XD6w2fZl6WseXg9jHy7IrgMDKS1B_h-f-TZBbXKcd_EMgSGGuJLEX7aY0UD5Pll0ipMNJfpVGlnTm9I9bn18LiwOPGF-DxzBXZCe0UrEI-y34rPSIO17-IFY0sQ\"}},\"country\":\"pry\",\"type\":\"authorized\"}"},
-{"t":"cf1","ts":17118170,"en":"BE_LOGIN_COMPLETE","sc":1,"fl":0,"dds":""},
-{"t":"cf1","ts":17118174,"en":"BE_LOL_SESSION_TOKEN","sc":1,"fl":0,"dds":""},
-{"t":"su1","ts":17137994,"mi":101,"na":"/lol-inventory/v2/inventory/CHAMPION_SKIN"},
-{"t":"su1","ts":17197956,"mi":69,"na":"/lol-inventory/v2/inventory/EMOTE"},
-{"t":"su1","ts":17199503,"mi":115,"na":"/lol-platform-config/v1/namespaces/LeaverBuster/IsLockoutModalEnabled"},
-{"t":"su1","ts":17208593,"mi":121,"na":"/lol-settings/v2/ready"},
-{"t":"su1","ts":17208627,"mi":121,"na":"/lol-settings/v2/account/LCUPreferences/lol-npe-tutorial-path"},
-{"t":"su1","ts":17208695,"mi":121,"na":"/lol-platform-config/v1/namespaces/LcuTutorial/TutorialSummonerIcon"},
-{"t":"su1","ts":17237015,"mi":121,"na":"/lol-summoner/v1/current-summoner"},
-{"t":"su1","ts":17237090,"mi":128,"na":"/lol-platform-config/v1/namespaces/Voice/Enabled"},
-{"t":"ns1","ts":17132996,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/AccountVerification/Enabled"},
-{"t":"ns1","ts":17133142,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/AccountVerification/IsNewAvsServiceEnabled"},
-{"t":"ns1","ts":17133388,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/AccountVerification/KrPhoneDisplayEnabled"},
-{"t":"ns1","ts":17133450,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/AccountVerification/PasswordEnabled"},
-{"t":"ns1","ts":17133668,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/AccountVerification/PhoneValidationEnabled"},
-{"t":"ns1","ts":17133731,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/AccountVerification/SettingsEnable"},
-{"t":"ns1","ts":17134019,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/AccountVerification/SettingsEnabled"},
-{"t":"ns1","ts":17134206,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/AccountVerification/SettingsVerifyEnabled"},
-{"t":"ns1","ts":17134264,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/AccountVerification/ShouldUseNewAvs"},
-{"t":"ns1","ts":17134486,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/AccountVerification"},
-{"t":"ns1","ts":17134760,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Banners/IsEnabledOnProfile"},
-{"t":"ns1","ts":17134824,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Banners/IsEquipEnabled"},
-{"t":"ns1","ts":17135070,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Banners/IsOtherSummonersProfileEnabled"},
-{"t":"ns1","ts":17135142,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Banners"},
-{"t":"ns1","ts":17135337,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/BetterRewards/DayOneModalEnabled"},
-{"t":"ns1","ts":17135568,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/BetterRewards/GetPostgameXpFromRms"},
-{"t":"ns1","ts":17135631,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/BetterRewards/VisualUpdateEnabled"},
-{"t":"ns1","ts":17135921,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/BetterRewards"},
-{"t":"ns1","ts":17136116,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/BotConfigurations/IntermediateInCustoms"},
-{"t":"ns1","ts":17136349,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/BotConfigurations"},
-{"t":"ns1","ts":17136419,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/CareerStats/StatsEnabled"},
-{"t":"ns1","ts":17136648,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/CareerStats"},
-{"t":"ns1","ts":17136902,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Challenges/ChallengeUpdateDelaySeconds"},
-{"t":"ns1","ts":17136972,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Challenges/ClientState"},
-{"t":"ns1","ts":17137178,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Challenges/CollectionEnabled"},
-{"t":"ns1","ts":17137343,"mi":101,"na":"Update /lol-challenges/v1/client-state"},
-{"t":"ns1","ts":17137404,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Challenges/CustomizeIdentityEnabled"},
-{"t":"ns1","ts":17137800,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Challenges/EnabledInventoryTypes"},
-{"t":"ns1","ts":17138046,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Challenges/FeatureIntroEnabled"},
-{"t":"ns1","ts":17138109,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Challenges/LobbyChallengesEnabled"},
-{"t":"ns1","ts":17138309,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Challenges/MaxNotificationSubscriptionDelaySeconds"},
-{"t":"ns1","ts":17138374,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Challenges/PartiesV2Enabled"},
-{"t":"ns1","ts":17138628,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Challenges/PostgameOverride"},
-{"t":"ns1","ts":17138863,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Challenges/RankIdentityOverride"},
-{"t":"ns1","ts":17138956,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Challenges"},
-{"t":"ns1","ts":17139273,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionMasteryConfig/CapUnlockChampionLevel"},
-{"t":"ns1","ts":17139507,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionMasteryConfig/ChampionPointQueueTypes"},
-{"t":"ns1","ts":17139776,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionMasteryConfig/Enabled"},
-{"t":"ns1","ts":17140014,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionMasteryConfig/EndOfGameEnabled"},
-{"t":"ns1","ts":17140083,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionMasteryConfig/GradeEnabled"},
-{"t":"ns1","ts":17140299,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionMasteryConfig/LegsEnabled"},
-{"t":"ns1","ts":17140361,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionMasteryConfig/LootChestsEnabled"},
-{"t":"ns1","ts":17140597,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionMasteryConfig/MaxChampionLevel"},
-{"t":"ns1","ts":17140848,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionMasteryConfig/MinSummonerLevel"},
-{"t":"ns1","ts":17140924,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionMasteryConfig/ShowGradeAvailablePopup"},
-{"t":"ns1","ts":17141160,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionMasteryConfig/SupportedQueueTypes"},
-{"t":"ns1","ts":17141264,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionMasteryConfig"},
-{"t":"ns1","ts":17141459,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionSelect/AllChampsAvailableInAram"},
-{"t":"ns1","ts":17141633,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionSelect/AlwaysShowRewardIcon"},
-{"t":"ns1","ts":17141847,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionSelect/AutoReconnectEnabled"},
-{"t":"ns1","ts":17141921,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionSelect/CollatorChampionFilterEnabled"},
-{"t":"ns1","ts":17142151,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionSelect/UseActionPatchV2"},
-{"t":"ns1","ts":17142219,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionSelect/UseOptimizedBotChampionSelectProcessor"},
-{"t":"ns1","ts":17142446,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionSelect/UseOptimizedChampSelectProcessor"},
-{"t":"ns1","ts":17142527,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionSelect/UseOptimizedSpellSelectProcessor"},
-{"t":"ns1","ts":17142754,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionSelect"},
-{"t":"ns1","ts":17143108,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionTradeService/Enabled"},
-{"t":"ns1","ts":17143338,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChampionTradeService"},
-{"t":"ns1","ts":17143411,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Chat/ChatHistoryEnabled"},
-{"t":"ns1","ts":17143468,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Chat/ChatHistoryThreshold"},
-{"t":"ns1","ts":17144000,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Chat/Default_public_chat_rooms"},
-{"t":"ns1","ts":17144253,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Chat/MaximumRosterSize"},
-{"t":"ns1","ts":17144451,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Chat/MobileEnabled"},
-{"t":"ns1","ts":17144673,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Chat/Rename_general_group_throttle"},
-{"t":"ns1","ts":17144745,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Chat"},
-{"t":"ns1","ts":17144965,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChatDomain/ChampSelectDomainName"},
-{"t":"ns1","ts":17145194,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChatDomain/PostGameDomainName"},
-{"t":"ns1","ts":17145261,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ChatDomain"},
-{"t":"ns1","ts":17145543,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Chroma/IsEnabled"},
-{"t":"ns1","ts":17145755,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Chroma"},
-{"t":"ns1","ts":17146032,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Clash/AramIntroModalEnabled"},
-{"t":"ns1","ts":17146096,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Clash"},
-{"t":"ns1","ts":17146340,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/AwardsTabEnabled"},
-{"t":"ns1","ts":17146576,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/BracketSpectateEnabled"},
-{"t":"ns1","ts":17146637,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/CapacityIndicatorEnabled"},
-{"t":"ns1","ts":17146866,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/ClashStartModalEnabled"},
-{"t":"ns1","ts":17146927,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/DarkModeEntitlement"},
-{"t":"ns1","ts":17147141,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/EnabledState"},
-{"t":"ns1","ts":17147204,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/EndOfGameFlowEnabled"},
-{"t":"ns1","ts":17147449,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/FindTeamViewEnabled"},
-{"t":"ns1","ts":17147686,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/HonorLevelRequired"},
-{"t":"ns1","ts":17147774,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/IconConfig"},
-{"t":"ns1","ts":17148192,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/InviteModalTiersEnabled"},
-{"t":"ns1","ts":17148424,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/IsPlaymodeRestrictionEnabled"},
-{"t":"ns1","ts":17148648,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/IsRewardsModalEnabled"},
-{"t":"ns1","ts":17148722,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/IsSeasonMemorialModalEnabled"},
-{"t":"ns1","ts":17148949,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/LftEnabled"},
-{"t":"ns1","ts":17149016,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/LoginModalEnabled"},
-{"t":"ns1","ts":17149239,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/PremiumTicketsEnabled"},
-{"t":"ns1","ts":17149300,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/ScoutingEnabled"},
-{"t":"ns1","ts":17149529,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/SmsVerificationEnabled"},
-{"t":"ns1","ts":17149592,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/StorePageLink"},
-{"t":"ns1","ts":17149770,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/SubstitutionEnabled"},
-{"t":"ns1","ts":17149991,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/ThirdPartyInvitesEnabled"},
-{"t":"ns1","ts":17150052,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/TutorialEnabled"},
-{"t":"ns1","ts":17150285,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/Visibility"},
-{"t":"ns1","ts":17150348,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/VoiceEnabled"},
-{"t":"ns1","ts":17150524,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig/Worlds2020LootModalEnabled"},
-{"t":"ns1","ts":17150795,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClashConfig"},
-{"t":"ns1","ts":17151512,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/advancedTutorialEnabled"},
-{"t":"ns1","ts":17151631,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/archivedStatsEnabled"},
-{"t":"ns1","ts":17151698,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/buddyNotesEnabled"},
-{"t":"ns1","ts":17151794,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/championTradeThroughLCDS"},
-{"t":"ns1","ts":17152039,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/clientHeartBeatRateSeconds"},
-{"t":"ns1","ts":17152310,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/currentSeason"},
-{"t":"ns1","ts":17152504,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/displayPromoGamesPlayedEnabled"},
-{"t":"ns1","ts":17152566,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/enabledQueueIdsList"},
-{"t":"ns1","ts":17152775,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/freeToPlayChampionForNewPlayersIdList"},
-{"t":"ns1","ts":17152880,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/freeToPlayChampionIdList"},
-{"t":"ns1","ts":17153298,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/freeToPlayChampionsForNewPlayersMaxLevel"},
-{"t":"ns1","ts":17153663,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/gameMapEnabledDTOList"},
-{"t":"ns1","ts":17154080,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/gameModeToInactiveSpellIds"},
-{"t":"ns1","ts":17154691,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/inactiveAramSpellIdList"},
-{"t":"ns1","ts":17154813,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/inactiveChampionIdList"},
-{"t":"ns1","ts":17155073,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/inactiveClassicSpellIdList"},
-{"t":"ns1","ts":17155323,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/inactiveOdinSpellIdList"},
-{"t":"ns1","ts":17155406,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/inactiveSpellIdList"},
-{"t":"ns1","ts":17155607,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/inactiveTutorialSpellIdList"},
-{"t":"ns1","ts":17155846,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/knownGeographicGameServerRegions"},
-{"t":"ns1","ts":17155933,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/leagueServiceEnabled"},
-{"t":"ns1","ts":17156179,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/leaguesDecayMessagingEnabled"},
-{"t":"ns1","ts":17156406,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/localeSpecificChatRoomsEnabled"},
-{"t":"ns1","ts":17156480,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/masteryPageOnServer"},
-{"t":"ns1","ts":17156708,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/maxMasteryPagesOnServer"},
-{"t":"ns1","ts":17156778,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/minNumPlayersForPracticeGame"},
-{"t":"ns1","ts":17156999,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/modularGameModeEnabled"},
-{"t":"ns1","ts":17157062,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/observableCustomGameModes"},
-{"t":"ns1","ts":17157355,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/observableGameModes"},
-{"t":"ns1","ts":17157842,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/observerModeEnabled"},
-{"t":"ns1","ts":17158093,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/practiceGameEnabled"},
-{"t":"ns1","ts":17158379,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/practiceGameTypeConfigIdList"},
-{"t":"ns1","ts":17158653,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/queueThrottleDTO"},
-{"t":"ns1","ts":17158894,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/replayServiceAddress"},
-{"t":"ns1","ts":17158972,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/replaySystemStates"},
-{"t":"ns1","ts":17159289,"mi":40,"na":"Update /lol-settings/v2/config"},
-{"t":"ns1","ts":17159345,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/riotDataServiceDataSendProbability"},
-{"t":"ns1","ts":17159544,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/runeUniquePerSpellBook"},
-{"t":"ns1","ts":17159599,"mi":130,"na":"Update /lol-replays/v1/configuration"},
-{"t":"ns1","ts":17159769,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/sendFeedbackEventsEnabled"},
-{"t":"ns1","ts":17159849,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/spectatorSlotLimit"},
-{"t":"ns1","ts":17160043,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/storeCustomerEnabled"},
-{"t":"ns1","ts":17160188,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/teamServiceEnabled"},
-{"t":"ns1","ts":17160233,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/tournamentSendStatsEnabled"},
-{"t":"ns1","ts":17160368,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/tournamentShortCodesEnabled"},
-{"t":"ns1","ts":17160406,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/tribunalEnabled"},
-{"t":"ns1","ts":17160588,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates/unobtainableChampionSkinIDList"},
-{"t":"ns1","ts":17160804,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ClientSystemStates"},
-{"t":"ns1","ts":17161503,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Clubs/ClubPresenceDecryptionKey"},
-{"t":"ns1","ts":17161561,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Clubs/ClubServiceUrl"},
-{"t":"ns1","ts":17161590,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Clubs/ClubsActiveIcon"},
-{"t":"ns1","ts":17161618,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Clubs/ClubsEnabled"},
-{"t":"ns1","ts":17161649,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Clubs/ClubsLCUEnabled"},
-{"t":"ns1","ts":17161675,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Clubs/ClubsMemberIcon"},
-{"t":"ns1","ts":17161701,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Clubs/InviteToClubLobbyEnabled"},
-{"t":"ns1","ts":17161821,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Clubs"},
-{"t":"ns1","ts":17162077,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Companions/SelectorInChampSelectEnabled"},
-{"t":"ns1","ts":17162112,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Companions"},
-{"t":"ns1","ts":17162233,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ContextualEducation/Enabled"},
-{"t":"ns1","ts":17162264,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ContextualEducation/MaxTargetSummonerLevel"},
-{"t":"ns1","ts":17162418,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ContextualEducation/TargetMinionsPerWave"},
-{"t":"ns1","ts":17162519,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ContextualEducation"},
-{"t":"ns1","ts":17162611,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ContextualEducationURLs/LAST_HIT"},
-{"t":"ns1","ts":17162638,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ContextualEducationURLs"},
-{"t":"ns1","ts":17162721,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/CustomGame/BotsAvailableInAram"},
-{"t":"ns1","ts":17162927,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/CustomGame"},
-{"t":"ns1","ts":17162967,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampionSkins/DisabledChampionSkins"},
-{"t":"ns1","ts":17163086,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampionSkins/DisabledChromas"},
-{"t":"ns1","ts":17163196,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampionSkins"},
-{"t":"ns1","ts":17163234,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/ARAM"},
-{"t":"ns1","ts":17163334,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/ARAM_BOT"},
-{"t":"ns1","ts":17163429,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/ARAM_CLASH"},
-{"t":"ns1","ts":17163457,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/ARAM_UNRANKED_5x5"},
-{"t":"ns1","ts":17163551,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/ARSR"},
-{"t":"ns1","ts":17163582,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/ASCENSION"},
-{"t":"ns1","ts":17163679,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/BILGEWATER"},
-{"t":"ns1","ts":17163707,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/BOT"},
-{"t":"ns1","ts":17163785,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/BOT_3x3"},
-{"t":"ns1","ts":17163812,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/CHERRY"},
-{"t":"ns1","ts":17163905,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/CLASH"},
-{"t":"ns1","ts":17163930,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/CLASSIC"},
-{"t":"ns1","ts":17164044,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/COUNTER_PICK"},
-{"t":"ns1","ts":17164139,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/FIRSTBLOOD"},
-{"t":"ns1","ts":17164169,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/FIRSTBLOOD_1x1"},
-{"t":"ns1","ts":17164272,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/FIRSTBLOOD_2x2"},
-{"t":"ns1","ts":17164302,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/GAMEMODEX"},
-{"t":"ns1","ts":17164396,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/HEXAKILL"},
-{"t":"ns1","ts":17164443,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/KINGPORO"},
-{"t":"ns1","ts":17164558,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/KING_PORO"},
-{"t":"ns1","ts":17164649,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/LNY23_TFT"},
-{"t":"ns1","ts":17164743,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/NEXUSBLITZ"},
-{"t":"ns1","ts":17164827,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/NIGHTMARE_BOT"},
-{"t":"ns1","ts":17164855,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/NORMAL"},
-{"t":"ns1","ts":17164937,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/NORMAL_3x3"},
-{"t":"ns1","ts":17164965,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/NORMAL_TFT"},
-{"t":"ns1","ts":17165041,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/ODIN"},
-{"t":"ns1","ts":17165123,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/ODIN_UNRANKED"},
-{"t":"ns1","ts":17165153,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/ODYSSEY"},
-{"t":"ns1","ts":17165233,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/ONEFORALL"},
-{"t":"ns1","ts":17165315,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/ONEFORALL_5x5"},
-{"t":"ns1","ts":17165403,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/PRACTICETOOL"},
-{"t":"ns1","ts":17165432,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/RANKED_FLEX_SR"},
-{"t":"ns1","ts":17165521,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/RANKED_FLEX_TT"},
-{"t":"ns1","ts":17165610,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/RANKED_SOLO_5x5"},
-{"t":"ns1","ts":17165696,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/RANKED_TEAM_3x3"},
-{"t":"ns1","ts":17165725,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/RANKED_TEAM_5x5"},
-{"t":"ns1","ts":17165813,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/RANKED_TFT"},
-{"t":"ns1","ts":17165895,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/RANKED_TFT_DOUBLE_UP"},
-{"t":"ns1","ts":17165979,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/RANKED_TFT_PAIRS"},
-{"t":"ns1","ts":17166007,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/RANKED_TFT_TURBO"},
-{"t":"ns1","ts":17166096,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/SF_TFT"},
-{"t":"ns1","ts":17166177,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/SIEGE"},
-{"t":"ns1","ts":17166260,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/SNOWURF"},
-{"t":"ns1","ts":17166290,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/SR_6x6"},
-{"t":"ns1","ts":17166378,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/TFT"},
-{"t":"ns1","ts":17166459,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/TUTORIAL"},
-{"t":"ns1","ts":17166544,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/TUTORIAL_MODULE_1"},
-{"t":"ns1","ts":17166573,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/TUTORIAL_MODULE_2"},
-{"t":"ns1","ts":17166661,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/TUTORIAL_MODULE_3"},
-{"t":"ns1","ts":17166745,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/TUTORIAL_TFT"},
-{"t":"ns1","ts":17166829,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/ULTBOOK"},
-{"t":"ns1","ts":17166856,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/URF"},
-{"t":"ns1","ts":17166946,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions/URF_BOT"},
-{"t":"ns1","ts":17167053,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DisabledChampions"},
-{"t":"ns1","ts":17167291,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DockedPrompt/EnabledNewDockedPromptRenderer"},
-{"t":"ns1","ts":17167326,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/DockedPrompt"},
-{"t":"ns1","ts":17167354,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/CS_CZ_Enabled"},
-{"t":"ns1","ts":17167377,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/DE_DE_Enabled"},
-{"t":"ns1","ts":17167456,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/EL_GR_Enabled"},
-{"t":"ns1","ts":17167481,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/EN_AU_Enabled"},
-{"t":"ns1","ts":17167558,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/EN_GB_Enabled"},
-{"t":"ns1","ts":17167638,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/EN_PH_Enabled"},
-{"t":"ns1","ts":17167668,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/EN_PL_Enabled"},
-{"t":"ns1","ts":17167749,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/EN_SG_Enabled"},
-{"t":"ns1","ts":17167830,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/EN_US_Enabled"},
-{"t":"ns1","ts":17167856,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/ES_AR_Enabled"},
-{"t":"ns1","ts":17167930,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/ES_ES_Enabled"},
-{"t":"ns1","ts":17167954,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/ES_MX_Enabled"},
-{"t":"ns1","ts":17168034,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/EsportsHubDataURL"},
-{"t":"ns1","ts":17168115,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/EsportsHubInitialized"},
-{"t":"ns1","ts":17168141,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/EsportsHubLongPollMinutes"},
-{"t":"ns1","ts":17168215,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/EsportsHubShortPollMinutes"},
-{"t":"ns1","ts":17168294,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/FR_FR_Enabled"},
-{"t":"ns1","ts":17168321,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/HU_HU_Enabled"},
-{"t":"ns1","ts":17168404,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/ID_ID_Enabled"},
-{"t":"ns1","ts":17168485,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/IT_IT_Enabled"},
-{"t":"ns1","ts":17168511,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/JA_JP_Enabled"},
-{"t":"ns1","ts":17168582,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/KO_KR_Enabled"},
-{"t":"ns1","ts":17168607,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/KillHub"},
-{"t":"ns1","ts":17168686,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/Landing_Embed_URL"},
-{"t":"ns1","ts":17168771,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/MS_MY_Enabled"},
-{"t":"ns1","ts":17168796,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/PL_PL_Enabled"},
-{"t":"ns1","ts":17168871,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/PT_BR_Enabled"},
-{"t":"ns1","ts":17168950,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/RO_RO_Enabled"},
-{"t":"ns1","ts":17168977,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/RU_RU_Enabled"},
-{"t":"ns1","ts":17169060,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/Staging"},
-{"t":"ns1","ts":17169086,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/TH_TH_Enabled"},
-{"t":"ns1","ts":17169160,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/TR_TR_Enabled"},
-{"t":"ns1","ts":17169186,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/VN_VN_Enabled"},
-{"t":"ns1","ts":17169260,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/ZH_CN_Enabled"},
-{"t":"ns1","ts":17169286,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/ZH_MY_Enabled"},
-{"t":"ns1","ts":17169360,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports/ZH_TW_Enabled"},
-{"t":"ns1","ts":17169456,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ESports"},
-{"t":"ns1","ts":17169659,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Emotes/IsEmotePanelEnabled"},
-{"t":"ns1","ts":17169692,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Emotes/IsEmoteTutorialModalEnabled"},
-{"t":"ns1","ts":17169772,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Emotes"},
-{"t":"ns1","ts":17169861,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/EndOfGameGiftSettings/GiftRecipientLevelMin"},
-{"t":"ns1","ts":17169888,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/EndOfGameGiftSettings/GiftSenderLevelMin"},
-{"t":"ns1","ts":17169971,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/EndOfGameGiftSettings/GiftSenderRPMax"},
-{"t":"ns1","ts":17170051,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/EndOfGameGiftSettings/RecipientGiftDailyMax"},
-{"t":"ns1","ts":17170135,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/EndOfGameGiftSettings/SenderGiftDailyMax"},
-{"t":"ns1","ts":17170165,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/EndOfGameGiftSettings"},
-{"t":"ns1","ts":17170257,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/EndOfGameGifting/Enabled"},
-{"t":"ns1","ts":17170337,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/EndOfGameGifting/Test"},
-{"t":"ns1","ts":17170364,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/EndOfGameGifting"},
-{"t":"ns1","ts":17170440,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/EoGReporting/GameAgnosticReportingTrinary"},
-{"t":"ns1","ts":17170533,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/EoGReporting"},
-{"t":"ns1","ts":17170618,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Esports/NotificationsAssetMagickURL"},
-{"t":"ns1","ts":17170648,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Esports/NotificationsEnabled"},
-{"t":"ns1","ts":17170723,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Esports/NotificationsServiceEndpoint"},
-{"t":"ns1","ts":17170809,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Esports/NotificationsStreamGroupSlug"},
-{"t":"ns1","ts":17170837,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Esports/NotificationsStreamURL"},
-{"t":"ns1","ts":17170916,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Esports"},
-{"t":"ns1","ts":17171063,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Eternals/Enabled"},
-{"t":"ns1","ts":17171146,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Eternals/ServiceUrl"},
-{"t":"ns1","ts":17171187,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Eternals"},
-{"t":"ns1","ts":17171268,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FeaturedGame/MetadataEnabled"},
-{"t":"ns1","ts":17171371,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FeaturedGame"},
-{"t":"ns1","ts":17171457,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FeaturedModes/DisabledRgmButtonEnabled"},
-{"t":"ns1","ts":17171537,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FeaturedModes/GoldenSpatulaClubDisabled"},
-{"t":"ns1","ts":17171621,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FeaturedModes/MaxNotificationSaveDelayMinutes"},
-{"t":"ns1","ts":17171648,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FeaturedModes/NotificationsEnabled"},
-{"t":"ns1","ts":17171726,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FeaturedModes/QueueToggleNotificationMinutesThreshold"},
-{"t":"ns1","ts":17171812,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FeaturedModes"},
-{"t":"ns1","ts":17171916,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/AssociationUrlTemplate"},
-{"t":"ns1","ts":17171946,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/ContactDetailsUrlTemplate"},
-{"t":"ns1","ts":17172020,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/ContactsUrlTemplate"},
-{"t":"ns1","ts":17172101,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/EnableAddFriendButton"},
-{"t":"ns1","ts":17172128,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/EnableSocial"},
-{"t":"ns1","ts":17172210,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/EnableViewAllPanel"},
-{"t":"ns1","ts":17172290,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/EnabledPercent"},
-{"t":"ns1","ts":17172374,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/EnabledSocialNetworks"},
-{"t":"ns1","ts":17172401,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/FacebookAssociationUrlTemplate"},
-{"t":"ns1","ts":17172479,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/FacebookUnlinkUrlTemplate"},
-{"t":"ns1","ts":17172563,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/FaqLink"},
-{"t":"ns1","ts":17172590,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/HideFriends"},
-{"t":"ns1","ts":17172668,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/PlayerLevelForNewNotification"},
-{"t":"ns1","ts":17172751,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/RegistrationPollDurationMillis"},
-{"t":"ns1","ts":17172779,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/RegistrationPollRateMillis"},
-{"t":"ns1","ts":17172857,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/ShowToolTip"},
-{"t":"ns1","ts":17172940,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/StatusExpiryMillis"},
-{"t":"ns1","ts":17172967,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/UnlinkUrlTemplate"},
-{"t":"ns1","ts":17173045,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations/UseNativeFacebookPop"},
-{"t":"ns1","ts":17173138,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/FriendRecommendations"},
-{"t":"ns1","ts":17173332,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GameClientCmdLineToggles/EnableLNP"},
-{"t":"ns1","ts":17173359,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GameClientCmdLineToggles/UseDX11"},
-{"t":"ns1","ts":17173449,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GameClientCmdLineToggles/UseMetal"},
-{"t":"ns1","ts":17173532,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GameClientCmdLineToggles/UseNewX3D"},
-{"t":"ns1","ts":17173617,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GameClientCmdLineToggles/UseNewX3DFramebuffers"},
-{"t":"ns1","ts":17173648,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GameClientCmdLineToggles"},
-{"t":"ns1","ts":17173738,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GameInvites/InviteBulkMaxSize"},
-{"t":"ns1","ts":17173832,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GameInvites/LobbyCreationEnabled"},
-{"t":"ns1","ts":17173932,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GameInvites/ServiceEnabled"},
-{"t":"ns1","ts":17174032,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GameInvites"},
-{"t":"ns1","ts":17174118,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GameTimerSync/Enabled"},
-{"t":"ns1","ts":17174198,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GameTimerSync/PercentOfTotalTimerToSyncAt"},
-{"t":"ns1","ts":17174227,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GameTimerSync"},
-{"t":"ns1","ts":17174301,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GeoInfo/Enabled"},
-{"t":"ns1","ts":17174381,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GeoInfo"},
-{"t":"ns1","ts":17174466,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GuestSlots/Enabled"},
-{"t":"ns1","ts":17174493,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/GuestSlots"},
-{"t":"ns1","ts":17174583,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Highlights/Enabled"},
-{"t":"ns1","ts":17174663,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Highlights"},
-{"t":"ns1","ts":17174749,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Honor/DayOneModalEnabled"},
-{"t":"ns1","ts":17174776,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Honor/Enabled"},
-{"t":"ns1","ts":17174892,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Honor/Honor2018Enabled"},
-{"t":"ns1","ts":17174977,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Honor/SecondsToVote"},
-{"t":"ns1","ts":17175003,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Honor"},
-{"t":"ns1","ts":17175084,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Inventory/BaseServiceUrl"},
-{"t":"ns1","ts":17175173,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Inventory/Enabled"},
-{"t":"ns1","ts":17175254,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Inventory"},
-{"t":"ns1","ts":17175350,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ItemSets/EditorEnabled"},
-{"t":"ns1","ts":17175435,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ItemSets/MaxItemSets"},
-{"t":"ns1","ts":17175463,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ItemSets/SendItemSetsToGame"},
-{"t":"ns1","ts":17175551,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/ItemSets"},
-{"t":"ns1","ts":17175655,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Karma/Worlds2017VotingEnabled"},
-{"t":"ns1","ts":17175743,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Karma"},
-{"t":"ns1","ts":17175849,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCU/AirClientAlphaInviteEnabled"},
-{"t":"ns1","ts":17175933,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCU/AirClientAlphaInviteURL"},
-{"t":"ns1","ts":17176017,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCU"},
-{"t":"ns1","ts":17176106,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUACS/Endpoint"},
-{"t":"ns1","ts":17176137,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUACS/UseIdTokens"},
-{"t":"ns1","ts":17176208,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUACS"},
-{"t":"ns1","ts":17176308,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUCollections/LCUAugmentsVisible"},
-{"t":"ns1","ts":17176397,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUCollections/LCUCollectiblesWardSkinsEnabled"},
-{"t":"ns1","ts":17176478,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUCollections/LCUMasteriesVisible"},
-{"t":"ns1","ts":17176503,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUCollections/LCUPerksVisible"},
-{"t":"ns1","ts":17176580,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUCollections/LCURunesVisible"},
-{"t":"ns1","ts":17176663,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUCollections/LCUSkinsViewerEnabled"},
-{"t":"ns1","ts":17176691,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUCollections"},
-{"t":"ns1","ts":17176757,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUStore/CanQueryInactiveItems"},
-{"t":"ns1","ts":17176779,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUStore/DisableCapRMS"},
-{"t":"ns1","ts":17176862,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUStore/EnableDropRatesInPurchaseModal"},
-{"t":"ns1","ts":17176949,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUStore/EnableFetchOffers"},
-{"t":"ns1","ts":17177047,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUStore/Enabled"},
-{"t":"ns1","ts":17177148,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUStore/LookupMissingCatalogItemKeys"},
-{"t":"ns1","ts":17177234,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUStore/PlayerGiftingNotificationsEnabled"},
-{"t":"ns1","ts":17177334,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUStore/SinglePageApplicationEnabled"},
-{"t":"ns1","ts":17177414,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUStore/UseGameDataAssets"},
-{"t":"ns1","ts":17177495,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUStore/UseRMS"},
-{"t":"ns1","ts":17177531,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUStore/UseRsoAccessToken"},
-{"t":"ns1","ts":17177614,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LCUStore"},
-{"t":"ns1","ts":17177690,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuAlphaShutdown/Countdown"},
-{"t":"ns1","ts":17177765,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuAlphaShutdown/Enabled"},
-{"t":"ns1","ts":17177857,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuAlphaShutdown"},
-{"t":"ns1","ts":17177864,"mi":134,"na":"Delete /lol-shutdown/v1/notification"},
-{"t":"ns1","ts":17177988,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuAutoLogout/IdleExitAfterWarningMinutes"},
-{"t":"ns1","ts":17178016,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuAutoLogout/IdleWarningMinutes"},
-{"t":"ns1","ts":17178102,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuAutoLogout"},
-{"t":"ns1","ts":17178191,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuBuddySpectate/Enabled"},
-{"t":"ns1","ts":17178220,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuBuddySpectate"},
-{"t":"ns1","ts":17178298,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionDetails/AbilitiesSectionEnabled"},
-{"t":"ns1","ts":17178379,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionDetails/Enabled"},
-{"t":"ns1","ts":17178404,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionDetails/PawEnabled"},
-{"t":"ns1","ts":17178480,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionDetails/SkinsSectionEnabled"},
-{"t":"ns1","ts":17178563,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionDetails"},
-{"t":"ns1","ts":17178654,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/AlliedSkinDisplayEnabled"},
-{"t":"ns1","ts":17178737,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/ChampSelectChangeTooltipDurationMillis"},
-{"t":"ns1","ts":17178766,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/ChampSelectChangeTooltipKey"},
-{"t":"ns1","ts":17178854,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/ChampSelectMutingEnabled"},
-{"t":"ns1","ts":17178947,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/ChampSelectReportV2Enabled"},
-{"t":"ns1","ts":17179029,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/ChampTradingTooltipEnabled"},
-{"t":"ns1","ts":17179112,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/EnableFavorites"},
-{"t":"ns1","ts":17179140,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/EnablePositionFilters"},
-{"t":"ns1","ts":17179228,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/IsDisconnectNotificationEnabled"},
-{"t":"ns1","ts":17179332,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/PickOrderSwappingTooltipEnabled"},
-{"t":"ns1","ts":17179430,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/PositionAssignmentAnimationEnabled"},
-{"t":"ns1","ts":17179519,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/PotatoModeForced"},
-{"t":"ns1","ts":17179612,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/RandomChampionEnabledGameQueues"},
-{"t":"ns1","ts":17179703,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/RandomChampionRateLimitInterval"},
-{"t":"ns1","ts":17179796,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/RandomChampionRateLimitMaxActions"},
-{"t":"ns1","ts":17179887,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/ReportingEnabled"},
-{"t":"ns1","ts":17179968,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/ShowChampSelectChangeTooltip"},
-{"t":"ns1","ts":17179997,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/ShowEmoteButton"},
-{"t":"ns1","ts":17180072,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/SkinPurchaseEnabled"},
-{"t":"ns1","ts":17180155,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/SkinPurchaseNotificationEnabled"},
-{"t":"ns1","ts":17180181,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect/SkinPurchaseTime"},
-{"t":"ns1","ts":17180265,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuChampionSelect"},
-{"t":"ns1","ts":17180420,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/ABTestFilterEnabled"},
-{"t":"ns1","ts":17180448,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/ABTestFilterGroups"},
-{"t":"ns1","ts":17180524,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/ABTestFilterSalt"},
-{"t":"ns1","ts":17180549,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/Enabled"},
-{"t":"ns1","ts":17180624,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/EntitlementsFilterEnabled"},
-{"t":"ns1","ts":17180704,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/LaneFilterEnabled"},
-{"t":"ns1","ts":17180730,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/LevelFilterEnabled"},
-{"t":"ns1","ts":17180805,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/LocationFiltersEnabled"},
-{"t":"ns1","ts":17180885,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/Mapping"},
-{"t":"ns1","ts":17180911,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/MasteryFilterChampionLimit"},
-{"t":"ns1","ts":17180985,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/MasteryFilterDaysSinceLastPlayed"},
-{"t":"ns1","ts":17181066,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/MasteryFilterEnabled"},
-{"t":"ns1","ts":17181091,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/MasteryFilterLevelThreshold"},
-{"t":"ns1","ts":17181165,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/MissionsFilterEnabled"},
-{"t":"ns1","ts":17181246,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/RankFilterEnabled"},
-{"t":"ns1","ts":17181271,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/RankedFilterEnabled"},
-{"t":"ns1","ts":17181345,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/RevivalFilterEnabled"},
-{"t":"ns1","ts":17181426,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/RevivalFilterThreshold"},
-{"t":"ns1","ts":17181451,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/TargetingAttributeStorageBaseUri"},
-{"t":"ns1","ts":17181526,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/TargetingAttributeStorageEnabled"},
-{"t":"ns1","ts":17181606,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/TargetingAttributeStorageRolloutPct"},
-{"t":"ns1","ts":17181632,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting/TargetingAttributeStorageUri"},
-{"t":"ns1","ts":17181715,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuContentTargeting"},
-{"t":"ns1","ts":17181897,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuDisambiguation/Enabled"},
-{"t":"ns1","ts":17181986,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuDisambiguation/Required"},
-{"t":"ns1","ts":17182012,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuDisambiguation"},
-{"t":"ns1","ts":17182101,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuEmailVerification/Enabled"},
-{"t":"ns1","ts":17182185,"mi":110,"na":"Update /lol-highlights/v1/config"},
-{"t":"ns1","ts":17182201,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuEmailVerification/IsOptional"},
-{"t":"ns1","ts":17182343,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuEmailVerification/MandatoryAt"},
-{"t":"ns1","ts":17182403,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuEmailVerification/MaxOptionalLevel"},
-{"t":"ns1","ts":17182504,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuEmailVerification/MinimumSummonerLevel"},
-{"t":"ns1","ts":17182536,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuEmailVerification/RequiredLogins"},
-{"t":"ns1","ts":17182627,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuEmailVerification"},
-{"t":"ns1","ts":17182732,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuGameSettings/GameplayEnabled"},
-{"t":"ns1","ts":17182856,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuGameSettings/HotkeysEnabled"},
-{"t":"ns1","ts":17182954,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuGameSettings/InterfaceEnabled"},
-{"t":"ns1","ts":17183051,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuGameSettings/SoundEnabled"},
-{"t":"ns1","ts":17183141,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuGameSettings"},
-{"t":"ns1","ts":17183210,"mi":40,"na":"Update /lol-settings/v2/config"},
-{"t":"ns1","ts":17183255,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuHome/LandingPagesTimeout"},
-{"t":"ns1","ts":17183287,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuHome/ReloadEnabled"},
-{"t":"ns1","ts":17183359,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuHome/ReloadPollerInterval"},
-{"t":"ns1","ts":17183385,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuHome/ReloadStaleInterval"},
-{"t":"ns1","ts":17183455,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuHome/RequireItemLoaded"},
-{"t":"ns1","ts":17183538,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuHome"},
-{"t":"ns1","ts":17183639,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuHovercard/Disabled"},
-{"t":"ns1","ts":17183666,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuHovercard/RoleInfoEnabled"},
-{"t":"ns1","ts":17183737,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuHovercard"},
-{"t":"ns1","ts":17183769,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLeagueSpectate/Enabled"},
-{"t":"ns1","ts":17183839,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLeagueSpectate"},
-{"t":"ns1","ts":17183921,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLevelUp/ModalNotificationDisabled"},
-{"t":"ns1","ts":17183947,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLevelUp"},
-{"t":"ns1","ts":17184022,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLobby/AutoGrantInviteEnabled"},
-{"t":"ns1","ts":17184113,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLobby/ForcePotatoMode"},
-{"t":"ns1","ts":17184193,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLobby/GameInvitesEnabled"},
-{"t":"ns1","ts":17184273,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLobby/ObserverModeEnabled"},
-{"t":"ns1","ts":17184301,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLobby/PotatoModeForced"},
-{"t":"ns1","ts":17184387,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLobby/PracticeGameEnabled"},
-{"t":"ns1","ts":17184490,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLobby/PracticeGameListEnabled"},
-{"t":"ns1","ts":17184586,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLobby/QueueEligibilityGateKeeperEnabled"},
-{"t":"ns1","ts":17184681,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLobby/QueueEligibilityV2Enabled"},
-{"t":"ns1","ts":17184764,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLobby/SendInventoryTokenMetricsEnabled"},
-{"t":"ns1","ts":17184845,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLobby/UseInventoryToken"},
-{"t":"ns1","ts":17184932,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLobby"},
-{"t":"ns1","ts":17185050,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLoyalty/LeagueUnlockedEnabled"},
-{"t":"ns1","ts":17185138,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLoyalty/LolcafeEnabled"},
-{"t":"ns1","ts":17185238,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuLoyalty"},
-{"t":"ns1","ts":17185331,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuNpe/HardMaxSummonerLevel"},
-{"t":"ns1","ts":17185434,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuNpe/MaxSummonerLevel"},
-{"t":"ns1","ts":17185529,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuNpe/RewardsChallengesEnabled"},
-{"t":"ns1","ts":17185625,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuNpe/RewardsEnabled"},
-{"t":"ns1","ts":17185721,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuNpe/RewardsLoginEnabled"},
-{"t":"ns1","ts":17185819,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuNpe"},
-{"t":"ns1","ts":17185961,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuPayments/BypassAccountIds"},
-{"t":"ns1","ts":17186060,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuPayments/Host"},
-{"t":"ns1","ts":17186145,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuPayments/PmcEdgeHost"},
-{"t":"ns1","ts":17186229,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuPayments/PmcSessionsEnabled"},
-{"t":"ns1","ts":17186312,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuPayments/RiotPayEnabled"},
-{"t":"ns1","ts":17186340,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuPayments/RiotPayThrottle"},
-{"t":"ns1","ts":17186427,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuPayments"},
-{"t":"ns1","ts":17186521,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuProfiles/Enabled"},
-{"t":"ns1","ts":17186591,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuProfiles/ForceLayout"},
-{"t":"ns1","ts":17186680,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuProfiles"},
-{"t":"ns1","ts":17186773,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuPurchaseWidget/BaseUrl"},
-{"t":"ns1","ts":17186863,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuPurchaseWidget/CapOrdersUrl"},
-{"t":"ns1","ts":17186956,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuPurchaseWidget/Enabled"},
-{"t":"ns1","ts":17187047,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuPurchaseWidget/NonRefundableDisclaimerEnabled"},
-{"t":"ns1","ts":17187137,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuPurchaseWidget/PurchaseDisclaimerEnabled"},
-{"t":"ns1","ts":17187230,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuPurchaseWidget"},
-{"t":"ns1","ts":17187341,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuReadyCheckUpdate/Enabled"},
-{"t":"ns1","ts":17187415,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuReadyCheckUpdate"},
-{"t":"ns1","ts":17187504,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuRevivals/FoundationEnabled"},
-{"t":"ns1","ts":17187595,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuRevivals"},
-{"t":"ns1","ts":17187686,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSentryJSErrors/Enabled"},
-{"t":"ns1","ts":17187776,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSentryJSErrors/SampleRate"},
-{"t":"ns1","ts":17187858,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSentryJSErrors/SentryDSN"},
-{"t":"ns1","ts":17187942,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSentryJSErrors"},
-{"t":"ns1","ts":17188034,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSettings/FullRepairEnabled"},
-{"t":"ns1","ts":17188116,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSettings"},
-{"t":"ns1","ts":17188208,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/AutoLinkEnabled"},
-{"t":"ns1","ts":17188237,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/ChatWindowPopoutEnabled"},
-{"t":"ns1","ts":17188314,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/ChatWindowResizeEnabled"},
-{"t":"ns1","ts":17188405,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/ClearChatHistoryEnabled"},
-{"t":"ns1","ts":17188510,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/DefaultGameQueues"},
-{"t":"ns1","ts":17188590,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/DetachedChatWindowResizeDisabled"},
-{"t":"ns1","ts":17188683,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/EnabledGameQueues"},
-{"t":"ns1","ts":17188773,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/FriendRequestToastsDisabled"},
-{"t":"ns1","ts":17188853,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/FriendsListGiftingEnabled"},
-{"t":"ns1","ts":17188935,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/LcuSupportedGameQueues"},
-{"t":"ns1","ts":17188966,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/MoreUnreadsEnabled"},
-{"t":"ns1","ts":17189037,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/NewChatButtonEnabled"},
-{"t":"ns1","ts":17189122,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/RecentlyPlayedDisabled"},
-{"t":"ns1","ts":17189202,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/SlashMeEnabled"},
-{"t":"ns1","ts":17189285,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/SortConversationsByTimeEnabled"},
-{"t":"ns1","ts":17189313,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/StatusesDisabled"},
-{"t":"ns1","ts":17189391,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/VirtualizedMessagesEnabled"},
-{"t":"ns1","ts":17189482,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial/VirtualizedRosterEnabled"},
-{"t":"ns1","ts":17189595,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSocial"},
-{"t":"ns1","ts":17189778,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSummonerIconPicker/Enabled"},
-{"t":"ns1","ts":17189826,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuSummonerIconPicker"},
-{"t":"ns1","ts":17189861,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTft/BattlepassHubEnabled"},
-{"t":"ns1","ts":17189947,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTft/EligibilityInventoryTypes"},
-{"t":"ns1","ts":17190042,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTft/HubEnabled"},
-{"t":"ns1","ts":17190047,"mi":82,"na":"Update /lol-clash/v1/time"},
-{"t":"ns1","ts":17190070,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTft/MatchHistoryEnabled"},
-{"t":"ns1","ts":17190186,"mi":82,"na":"Update /lol-clash/v1/visible"},
-{"t":"ns1","ts":17190204,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTft/OrbEnabled"},
-{"t":"ns1","ts":17190305,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTft/PlayButtonEnabled"},
-{"t":"ns1","ts":17190384,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTft/SeriesInternalName"},
-{"t":"ns1","ts":17190527,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTft/TftHomeEnabled"},
-{"t":"ns1","ts":17190633,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTft"},
-{"t":"ns1","ts":17190788,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTutorial/CarouselChampIds"},
-{"t":"ns1","ts":17190929,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTutorial/Enabled"},
-{"t":"ns1","ts":17190956,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTutorial/GameModeSelectEnabled"},
-{"t":"ns1","ts":17191035,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTutorial/IntroABTestPercentage"},
-{"t":"ns1","ts":17191126,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTutorial/NewPlayerExperienceEnabled"},
-{"t":"ns1","ts":17191229,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTutorial/PracticeToolEnabled"},
-{"t":"ns1","ts":17191320,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTutorial/SkipTutorialPathAfterLevel"},
-{"t":"ns1","ts":17191414,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTutorial/StatsTimeout"},
-{"t":"ns1","ts":17191498,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTutorial/TutorialSummonerIcon"},
-{"t":"ns1","ts":17191594,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuTutorial"},
-{"t":"ns1","ts":17191671,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuUiKit/CelebrationModalsDisabled"},
-{"t":"ns1","ts":17191747,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LcuUiKit"},
-{"t":"ns1","ts":17191834,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/ApexDemotionNotificationEnabled"},
-{"t":"ns1","ts":17191931,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/CurrentSplit"},
-{"t":"ns1","ts":17192017,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/CurrentYear"},
-{"t":"ns1","ts":17192108,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/EosNotificationEndTime"},
-{"t":"ns1","ts":17192199,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/EosNotificationSettingsName"},
-{"t":"ns1","ts":17192289,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/EosNotificationStartTime1"},
-{"t":"ns1","ts":17192380,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/EosNotificationStartTime2"},
-{"t":"ns1","ts":17192472,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/EosNotificationStartTime3"},
-{"t":"ns1","ts":17192554,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/EosNotificationsConfig"},
-{"t":"ns1","ts":17192636,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/EosNotificationsEnabled"},
-{"t":"ns1","ts":17192743,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/EosRewardGroupsConfig"},
-{"t":"ns1","ts":17192944,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/EosRewardsConfig"},
-{"t":"ns1","ts":17193148,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/FlexRestrictionModalEnabled"},
-{"t":"ns1","ts":17193198,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/IsGlobalNotificationsEnabled"},
-{"t":"ns1","ts":17193229,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/IsPreseason"},
-{"t":"ns1","ts":17193306,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/IsSeasonMemorialModalEnabled"},
-{"t":"ns1","ts":17193387,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/IsSplitStartModalEnabled"},
-{"t":"ns1","ts":17193415,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/JWTEnabled"},
-{"t":"ns1","ts":17193494,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/MasterTierEnabled"},
-{"t":"ns1","ts":17193575,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/PreseasonName"},
-{"t":"ns1","ts":17193656,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/PromoHelperEnabled"},
-{"t":"ns1","ts":17193683,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/PromotionVignetteV2Enabled"},
-{"t":"ns1","ts":17193763,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/Ranked2017Enabled"},
-{"t":"ns1","ts":17193843,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/Ranked2019Enabled"},
-{"t":"ns1","ts":17193923,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/RankedReferenceModalEnabled"},
-{"t":"ns1","ts":17193955,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/RankedRewardConfig"},
-{"t":"ns1","ts":17194023,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/RankedRewardsConfig"},
-{"t":"ns1","ts":17194099,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/SeasonModalEnabled"},
-{"t":"ns1","ts":17194187,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/SeasonName"},
-{"t":"ns1","ts":17194290,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/SendSignedRankedOverview"},
-{"t":"ns1","ts":17194385,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig/TftSeasonNameLocKey"},
-{"t":"ns1","ts":17194509,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueConfig"},
-{"t":"ns1","ts":17194890,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClient/Enabled"},
-{"t":"ns1","ts":17194933,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClient/LeagueSessionEnabled"},
-{"t":"ns1","ts":17194957,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClient"},
-{"t":"ns1","ts":17194990,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientEnabledServices/GSMv2"},
-{"t":"ns1","ts":17195016,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientEnabledServices/GameAgnosticMatchHistory"},
-{"t":"ns1","ts":17195039,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientEnabledServices/Leagues"},
-{"t":"ns1","ts":17195111,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientEnabledServices/MarketingPreferences"},
-{"t":"ns1","ts":17195201,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientEnabledServices/Missions"},
-{"t":"ns1","ts":17195229,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientEnabledServices/Parties"},
-{"t":"ns1","ts":17195307,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientEnabledServices/PlayerBehavior"},
-{"t":"ns1","ts":17195387,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientEnabledServices/PublishingContent"},
-{"t":"ns1","ts":17195470,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientEnabledServices/Summoner"},
-{"t":"ns1","ts":17195562,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientEnabledServices/Tastes"},
-{"t":"ns1","ts":17195655,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientEnabledServices/Teambuilder"},
-{"t":"ns1","ts":17195692,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientEnabledServices"},
-{"t":"ns1","ts":17196667,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientLeagueSessionServicesEnabled/Leagues"},
-{"t":"ns1","ts":17196738,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientLeagueSessionServicesEnabled"},
-{"t":"ns1","ts":17196829,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientServiceTrafficBalanceRate/Parties"},
-{"t":"ns1","ts":17196920,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeagueEdgeClientServiceTrafficBalanceRate"},
-{"t":"ns1","ts":17197012,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeaverBuster/IsLbsEnabled"},
-{"t":"ns1","ts":17197108,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeaverBuster/IsLockoutModalEnabled"},
-{"t":"ns1","ts":17197195,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LeaverBuster"},
-{"t":"ns1","ts":17197287,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Loadouts/EnableStarShardsServices"},
-{"t":"ns1","ts":17197378,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Loadouts/EnableStarShardsUpgradeFlow"},
-{"t":"ns1","ts":17197458,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Loadouts/Enabled"},
-{"t":"ns1","ts":17197486,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Loadouts/InventoryServiceUrl"},
-{"t":"ns1","ts":17197564,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Loadouts/LoadoutsServiceUrl"},
-{"t":"ns1","ts":17197655,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Loadouts/NewLoadoutPickerEnabled"},
-{"t":"ns1","ts":17197747,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Loadouts/UseV4LoadoutFlow"},
-{"t":"ns1","ts":17197841,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Loadouts/ValidInventoryTypes"},
-{"t":"ns1","ts":17197957,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Loadouts"},
-{"t":"ns1","ts":17198124,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/bannedUntilDateMillis"},
-{"t":"ns1","ts":17198206,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/broadcastNotification"},
-{"t":"ns1","ts":17198238,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/coOpVsAiMinutesLeftToday"},
-{"t":"ns1","ts":17198309,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/coOpVsAiMsecsUntilReset"},
-{"t":"ns1","ts":17198395,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/competitiveRegion"},
-{"t":"ns1","ts":17198480,"mi":69,"na":"Update /lol-loadouts/v1/enabled"},
-{"t":"ns1","ts":17198487,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/customMinutesLeftToday"},
-{"t":"ns1","ts":17198520,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/customMsecsUntilReset"},
-{"t":"ns1","ts":17198616,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/displayPrimeReformCard"},
-{"t":"ns1","ts":17198696,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/emailStatus"},
-{"t":"ns1","ts":17198853,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/gameTypeConfigs"},
-{"t":"ns1","ts":17198949,"mi":27,"na":"Create /lol-league-session/v1/league-session-token"},
-{"t":"ns1","ts":17199726,"mi":143,"na":"Update /lol-yourshop/v1/ready"},
-{"t":"ns1","ts":17199778,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/inGhostGame"},
-{"t":"ns1","ts":17199814,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/languages"},
-{"t":"ns1","ts":17199840,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/matchMakingEnabled"},
-{"t":"ns1","ts":17199880,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/maxPracticeGameSize"},
-{"t":"ns1","ts":17199913,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/minor"},
-{"t":"ns1","ts":17199994,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/minorShutdownEnforced"},
-{"t":"ns1","ts":17200026,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/minutesUntilMidnight"},
-{"t":"ns1","ts":17200049,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/minutesUntilShutdown"},
-{"t":"ns1","ts":17200123,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/minutesUntilShutdownEnabled"},
-{"t":"ns1","ts":17200211,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/platformGameLifecycle"},
-{"t":"ns1","ts":17200292,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/platformId"},
-{"t":"ns1","ts":17200452,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/playerStatSummaries"},
-{"t":"ns1","ts":17200534,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/restrictedChatGamesRemaining"},
-{"t":"ns1","ts":17200615,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/restrictedGamesRemainingForRanked"},
-{"t":"ns1","ts":17200645,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/showEmailVerificationPopup"},
-{"t":"ns1","ts":17200727,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket/simpleMessages"},
-{"t":"ns1","ts":17200959,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LoginDataPacket"},
-{"t":"ns1","ts":17201586,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/ChestBundleDiscount1"},
-{"t":"ns1","ts":17201630,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/ChestBundleDiscount2"},
-{"t":"ns1","ts":17201652,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/ChestBundleDiscount3"},
-{"t":"ns1","ts":17201680,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/ChestBundleDiscount4"},
-{"t":"ns1","ts":17201704,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/ChestBundleDiscount5"},
-{"t":"ns1","ts":17201731,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/EnableMythicEssenceDisplay"},
-{"t":"ns1","ts":17201809,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/Enabled"},
-{"t":"ns1","ts":17201848,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/EventChestBundleId1"},
-{"t":"ns1","ts":17201934,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/EventChestBundleId2"},
-{"t":"ns1","ts":17202026,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/EventChestBundleId3"},
-{"t":"ns1","ts":17202118,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/EventChestBundleId4"},
-{"t":"ns1","ts":17202210,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/EventChestBundleId5"},
-{"t":"ns1","ts":17202301,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/EventChestsEnabled"},
-{"t":"ns1","ts":17202391,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/LEdgeAccessEnabled"},
-{"t":"ns1","ts":17202471,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/LEdgeAccessPercentage"},
-{"t":"ns1","ts":17202552,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/LcuEnabled"},
-{"t":"ns1","ts":17202644,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/LootMilestonesEnabled"},
-{"t":"ns1","ts":17202671,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/LootOddsQueryEvaluationEnabled"},
-{"t":"ns1","ts":17202753,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/MATERIAL_112LearnMoreURL"},
-{"t":"ns1","ts":17202844,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/MinSummonerLevel"},
-{"t":"ns1","ts":17202947,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/NewPlayerChestEnabled"},
-{"t":"ns1","ts":17203031,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/NoRefundConfirmationEnabled"},
-{"t":"ns1","ts":17203133,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/PurchaseChestsEnabled"},
-{"t":"ns1","ts":17203216,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/Visible"},
-{"t":"ns1","ts":17203297,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig/WorldsTokensEnabled"},
-{"t":"ns1","ts":17203390,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/LootConfig"},
-{"t":"ns1","ts":17203566,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Masteries/ShowPointsResetMessage"},
-{"t":"ns1","ts":17203611,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Masteries"},
-{"t":"ns1","ts":17203647,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Missions/EligibilityInventoryTypes"},
-{"t":"ns1","ts":17203742,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Missions/MissionsEnabled"},
-{"t":"ns1","ts":17203820,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Missions/MissionsFrontEndEnabled"},
-{"t":"ns1","ts":17203911,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Missions/MissionsPollingTime"},
-{"t":"ns1","ts":17204007,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Missions/MissionsTabTrackerEnabled"},
-{"t":"ns1","ts":17204106,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Missions/MissionsUseV4Api"},
-{"t":"ns1","ts":17204189,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Missions/SendSimpleInventoryTokens"},
-{"t":"ns1","ts":17204274,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Missions"},
-{"t":"ns1","ts":17204420,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Mutators/BasicTutorialMutators"},
-{"t":"ns1","ts":17204563,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Mutators/BattleTrainingMutators"},
-{"t":"ns1","ts":17204647,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Mutators/CustomGameMutators"},
-{"t":"ns1","ts":17204680,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Mutators/EnabledAssetMutators"},
-{"t":"ns1","ts":17204751,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Mutators/EnabledModes"},
-{"t":"ns1","ts":17204839,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Mutators/EnabledMutators"},
-{"t":"ns1","ts":17204934,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Mutators"},
-{"t":"ns1","ts":17205088,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Navigation/NavBarDisplayMode"},
-{"t":"ns1","ts":17205169,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Navigation/UseEnhancedMenu"},
-{"t":"ns1","ts":17205197,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Navigation/UseTextLabels"},
-{"t":"ns1","ts":17205277,"mi":21,"na":"Create /lol-platform-config/v1/namespaces/Navigation"},
-{"t":"ns1","ts":17205370,"mi
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JDialog" name="Buscar_producto">
+      <Properties>
+        <Property name="resizable" type="boolean" value="false"/>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                  <Component id="jLabel13" min="-2" pref="156" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel12" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel4" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane2" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel13" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel4" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane2" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel12" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel12">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel13">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Producto"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablaprod">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="2" rowCount="4">
+                    <Column editable="true" title="CODIGO" type="java.lang.Object"/>
+                    <Column editable="true" title="DESCRIPCION" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel4">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="filtroprod" min="-2" pref="282" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
+                      <Component id="agregarprod" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarprod" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="cancelarprod" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarprod" alignment="1" max="32767" attributes="0"/>
+                          <Component id="filtroprod" alignment="1" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JTextField" name="filtroprod">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="filtroprodKeyTyped"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="agregarprod">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarprodMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarprod">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarprodMouseClicked"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="Buscar_Presupuesto">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="326" max="-2" attributes="0"/>
+                  <Component id="jLabel14" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel9" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane3" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jLabel21" min="-2" pref="251" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="236" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel21" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel9" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane3" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel14" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel14">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel21">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Registros"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablaped">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="2" rowCount="4">
+                    <Column editable="true" title="NRO" type="java.lang.Object"/>
+                    <Column editable="true" title="FECHA" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel9">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="fechaped" min="-2" pref="102" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="buscarped" min="-2" pref="120" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Component id="agregarped" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarped" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="buscarped" alignment="1" max="32767" attributes="0"/>
+                          <Component id="cancelarped" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarped" alignment="1" max="32767" attributes="0"/>
+                          <Component id="fechaped" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="agregarped">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpedMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarped">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarpedMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JFormattedTextField" name="fechaped">
+              <Properties>
+                <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+                  <Format format="##/##/####" subtype="-1" type="5"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="buscarped">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Buscar Fecha"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buscarpedActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JDialog" name="Buscar_Produccion">
+      <Properties>
+        <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[650, 750]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+                  <Component id="jLabel26" min="-2" pref="156" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel25" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jPanel10" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane4" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel26" min="-2" pref="37" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jPanel10" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane4" min="-2" pref="569" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel25" pref="43" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel25">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel26">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Servicio"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tablapres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="3" rowCount="4">
+                    <Column editable="true" title="NRO" type="java.lang.Object"/>
+                    <Column editable="true" title="FECHA" type="java.lang.Object"/>
+                    <Column editable="true" title="CLIENTE" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel10">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="fechapres" min="-2" pref="102" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="buscarpres" min="-2" pref="120" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Component id="agregarpres" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="cancelarpres" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace pref="47" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="buscarpres" alignment="1" max="32767" attributes="0"/>
+                          <Component id="cancelarpres" alignment="1" pref="39" max="32767" attributes="0"/>
+                          <Component id="agregarpres" alignment="1" max="32767" attributes="0"/>
+                          <Component id="fechapres" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="agregarpres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpresMouseClicked"/>
+                <EventHandler event="mouseEntered" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="agregarpresMouseEntered"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="agregarpresActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelarpres">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Cancelar"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarpresMouseClicked"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelarpresActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JFormattedTextField" name="fechapres">
+              <Properties>
+                <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+                  <Format format="##/##/####" subtype="-1" type="5"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="buscarpres">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Buscar Fecha"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buscarpresActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="modalityType" type="java.awt.Dialog$ModalityType" editor="org.netbeans.modules.form.editors.EnumEditor">
+      <Value id="DOCUMENT_MODAL"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="botimprimir" min="-2" pref="88" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="72" max="-2" attributes="0"/>
+                      <Component id="jLabel15" min="-2" pref="61" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="txttotal" min="-2" pref="166" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                      <Component id="jScrollPane1" alignment="0" pref="1070" max="32767" attributes="0"/>
+                      <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jPanel7" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jPanel5" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jPanel3" alignment="0" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="273" max="-2" attributes="0"/>
+                          <Component id="jLabel2" min="-2" pref="250" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="35" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="57" pref="57" max="-2" attributes="0"/>
+                      <Component id="jPanel1" min="-2" pref="50" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jLabel2" min="-2" pref="68" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel3" min="-2" pref="70" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel7" min="-2" pref="70" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel5" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="129" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="jLabel15" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                      <Component id="txttotal" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="botimprimir" min="-2" pref="33" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="21" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Insumos Utilizados"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JFormattedTextField" name="txtfecha">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+              <Format format="##/##/####" subtype="-1" type="5"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="610" y="10" width="99" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Fecha"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="550" y="10" width="58" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Usuario"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="730" y="10" width="68" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtusuario">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="800" y="10" width="153" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro "/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="10" width="135" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtnro">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="150" y="10" width="112" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="botbuscar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar "/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botbuscarActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="280" y="10" width="157" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder title="Servicio">
+              <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+              <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel9">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="30" width="40" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtpedido">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="70" y="30" width="110" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="botbuscarpedido">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar "/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botbuscarpedidoActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="200" y="30" width="130" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JPanel" name="jPanel6">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder title="Producto">
+                  <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                  <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+                </TitledBorder>
+              </Border>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="-1" height="-1"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel16">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Nro"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="30" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField13">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="70" y="30" width="50" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel17">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Descripcion"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="130" y="30" width="90" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField14">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="210" y="30" width="370" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton14">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Buscar Producto"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="600" y="30" width="130" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel18">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Precio"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="740" y="30" width="80" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField15">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="790" y="30" width="120" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton15">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar Producto"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="930" y="30" width="130" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JFormattedTextField" name="txtfechapedido">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="formatterFactory" type="javax.swing.JFormattedTextField$AbstractFormatterFactory" editor="org.netbeans.modules.form.editors.AbstractFormatterFactoryEditor" preCode="try {" postCode="} catch (java.text.ParseException ex) {&#xa;ex.printStackTrace();&#xa;}">
+              <Format format="##/##/####" subtype="-1" type="5"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="370" y="30" width="99" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="tabla">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="5" rowCount="4">
+                <Column editable="true" title="CANTIDAD" type="java.lang.Object"/>
+                <Column editable="true" title="CODIGO" type="java.lang.Object"/>
+                <Column editable="true" title="DESCRIPCION" type="java.lang.Object"/>
+                <Column editable="true" title="PRECIO" type="java.lang.Object"/>
+                <Column editable="true" title="TOTAL" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+              <TableColumnModel selectionModel="0">
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+              </TableColumnModel>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="tablaMouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="botimprimir">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Imprimir"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botimprimirActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel7">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder title="Insumo">
+              <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+              <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel19">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nro"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="30" width="40" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtnroproducto">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="70" y="30" width="50" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel20">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Descripcion"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="130" y="30" width="90" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtdescripcion">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="210" y="30" width="370" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="botbuscarproducto">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Buscar Producto"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botbuscarproductoActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="600" y="30" width="130" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="botagregar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Agregar Producto"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botagregarActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="930" y="30" width="130" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JPanel" name="jPanel8">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+                <TitledBorder title="Producto">
+                  <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                    <LineBorder/>
+                  </Border>
+                  <Font PropertyName="font" name="Times New Roman" size="14" style="1"/>
+                </TitledBorder>
+              </Border>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="-1" height="-1"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel22">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Nro"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="30" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField19">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="70" y="30" width="50" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel23">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Descripcion"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="130" y="30" width="90" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField20">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="210" y="30" width="370" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton18">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Buscar Producto"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="600" y="30" width="130" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel24">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Precio"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="740" y="30" width="80" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="jTextField21">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="790" y="30" width="120" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="jButton19">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="10" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Agregar Producto"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="930" y="30" width="130" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JTextField" name="txtprecio">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="790" y="30" width="120" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel11">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Precio"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="740" y="30" width="80" height="30"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel5">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="66" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+                  <Component id="botnuevo" min="-2" pref="86" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Component id="botguardar" min="-2" pref="79" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="botanular" min="-2" pref="87" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="482" max="-2" attributes="0"/>
+                  <Component id="botquitar" min="-2" pref="87" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="botcancelar" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="botsalir" min="-2" pref="69" max="-2" attributes="0"/>
+                  <EmptySpace pref="62" max="32767" attributes="0"/>
+              </Group>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="414" max="-2" attributes="0"/>
+                      <Component id="txtestado" min="-2" pref="240" max="-2" attributes="0"/>
+                      <EmptySpace pref="414" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="botnuevo" alignment="0" min="-2" pref="33" max="-2" attributes="0"/>
+                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                  <Component id="botguardar" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                                  <Component id="botanular" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="0" pref="1" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="botquitar" alignment="0" max="32767" attributes="0"/>
+                              <Component id="botcancelar" alignment="0" max="32767" attributes="0"/>
+                              <Component id="botsalir" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="txtestado" max="32767" attributes="0"/>
+                      <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JButton" name="botnuevo">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Nuevo"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botnuevoActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botguardar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Guardar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botguardarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botsalir">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Salir"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botsalirActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botcancelar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Cancelar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botcancelarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botquitar">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Quitar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botquitarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="botanular">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="10" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Anular"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="botanularActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="txtestado">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="14" style="1"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel15">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="TOTAL"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txttotal">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="10" style="1"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txttotalActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

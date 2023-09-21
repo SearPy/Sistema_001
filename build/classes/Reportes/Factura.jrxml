@@ -1,38 +1,181 @@
-82,79,0,0,185,Wireless,59132,9023,0,0,0,0,0,0,0,0,73,76,0,1717,0,0,131,0,79,0,0,0,0,264,0,265,0,138.0.12.13,5171,0.008616,0,0,13.18,0.109601,0.025918,Connected,18371309,0,0,0,0,0,10.005119,7,
-0.006597,0.000002,277.277069,130,0,0,267,Wireless,108424,12890,0,0,0,0,0,0,0,38,28,29,0,2819,0,0,172,0,130,0,0,0,0,397,0,396,0,138.0.12.13,5171,0.013982,0,0,13.18,0.094581,0.011774,Connected,18371309,0,0,0,0,0,10.001518,7,
-0.006279,0.000003,287.280151,103,0,0,165,Wireless,47046,8672,0,0,0,0,0,0,0,0,28,29,0,1035,0,0,124,0,103,0,0,0,0,268,0,267,0,138.0.12.13,5171,0.008981,0,0,13.18,0.076995,0.000955,Connected,18371309,0,0,0,0,0,10.002986,7,
-0.006274,0.000003,297.280823,83,0,0,196,Wireless,59752,9402,0,0,0,0,0,0,0,3,3,4,0,1844,0,0,95,0,83,0,0,0,0,279,0,279,0,138.0.12.13,5171,0.009013,0,0,13.18,0.077117,0.001119,Connected,18371309,0,0,0,0,0,10.000635,7,
-0.005854,0.000002,307.284760,59,0,0,99,Wireless,24146,5215,0,0,0,0,0,0,0,0,3,4,0,558,0,0,64,0,59,0,0,0,0,158,0,158,0,138.0.12.13,5171,0.005733,0,0,13.18,0.077610,0.001672,Connected,18371309,0,0,0,0,0,10.003842,7,
-0.005711,0.000002,317.285004,54,0,0,85,Wireless,19075,4604,0,0,0,0,0,0,0,0,3,4,0,439,0,0,59,0,54,0,0,0,0,139,0,139,0,138.0.12.13,5171,0.004803,0,0,13.18,0.077087,0.001084,Connected,18371309,0,0,0,0,0,10.000074,7,
-0.005818,0.000002,327.285767,53,0,0,114,Wireless,24944,5556,0,0,0,0,0,0,0,0,3,4,0,700,0,0,57,0,53,0,0,0,0,167,0,168,0,138.0.12.13,5171,0.005125,0,0,13.18,0.077183,0.001155,Connected,18371309,0,0,0,0,0,10.000598,7,
-0.006060,0.000001,337.291412,94,0,0,190,Wireless,66144,9371,0,0,0,0,0,0,0,0,3,4,0,1893,0,0,117,0,94,0,0,0,0,284,0,284,0,138.0.12.13,5171,0.010294,0,0,13.18,0.077350,0.001551,Connected,18371309,0,0,0,0,0,10.005540,7,
-0.006628,0.000002,347.293976,141,0,0,318,Wireless,136745,14824,0,0,0,0,0,0,0,5,3,4,0,3464,0,0,190,0,141,0,0,0,0,459,0,458,0,138.0.12.13,5171,0.016982,0,0,13.18,0.077021,0.001003,Connected,18371309,0,0,0,0,0,10.002352,7,
-0.006158,0.000002,357.300385,112,0,0,215,Wireless,73343,10569,0,0,0,0,0,0,0,0,3,4,0,1712,0,0,135,0,112,0,0,0,0,327,0,327,0,138.0.12.13,5171,0.012338,0,0,13.18,0.076904,0.000872,Connected,18371309,0,0,0,0,0,10.006337,7,
-0.007308,0.000005,367.304779,93,0,0,182,Wireless,45968,9581,0,0,0,0,0,0,0,3,3,4,0,1192,0,0,113,0,93,0,0,0,0,275,0,277,0,138.0.12.13,5171,0.009779,0,0,13.18,0.077285,0.001343,Connected,18371309,0,0,0,0,0,10.004226,7,
-0.010014,0.000001,377.308960,186,0,0,153,Wireless,18632,11828,0,0,0,0,0,0,0,0,3,4,0,264,0,0,216,0,186,0,0,0,0,339,0,339,0,138.0.12.13,5171,0.011357,0,0,13.18,0.077114,0.001056,Connected,18371309,0,0,0,0,0,10.004119,7,
-0.009494,0.000001,387.316284,203,0,0,179,Wireless,26504,13486,0,0,0,0,0,0,0,0,3,4,0,492,0,0,260,0,203,0,0,0,0,382,0,380,0,138.0.12.13,5171,0.012757,0,0,13.18,0.077089,0.001178,Connected,18371309,0,0,0,0,0,10.007129,7,
-0.009202,0.000002,397.318970,106,0,0,141,Wireless,27931,8531,0,0,0,0,0,0,0,0,3,4,0,726,0,0,153,0,107,0,0,0,0,247,0,249,0,138.0.12.13,5171,0.009228,0,0,13.18,0.076928,0.000841,Connected,18371309,0,0,0,0,0,10.002522,7,
-0.006712,0.000002,407.320435,77,0,0,151,Wireless,45486,7528,0,0,0,0,0,0,0,0,3,4,0,1192,0,0,82,0,77,0,0,0,0,228,0,228,0,138.0.12.13,5171,0.008155,0,0,13.18,0.078133,0.002402,Connected,18371309,0,0,0,0,0,10.001339,7,
-0.006176,0.000002,417.324951,58,0,0,96,Wireless,22545,5043,0,0,0,0,0,0,0,0,3,4,0,492,0,0,64,0,58,0,0,0,0,154,0,153,0,138.0.12.13,5171,0.005317,0,0,13.18,0.077432,0.001775,Connected,18371309,0,0,0,0,0,10.004432,7,
-0.005966,0.000002,427.330597,43,0,0,72,Wireless,13565,3799,0,0,0,0,0,0,0,0,3,4,0,285,0,0,44,0,43,0,0,0,0,115,0,115,0,138.0.12.13,5171,0.003965,0,0,13.18,0.077146,0.001471,Connected,18371309,0,0,0,0,0,10.005408,7,
-0.006408,0.000001,437.333069,84,0,0,186,Wireless,60489,9037,0,0,0,0,0,0,0,0,3,4,0,1814,0,0,101,0,84,0,0,0,0,270,0,272,0,138.0.12.13,5171,0.009528,0,0,13.18,0.077279,0.001288,Connected,18371309,0,0,0,0,0,10.002324,7,
-0.006814,0.000001,447.336731,134,0,0,301,Wireless,135833,14076,0,0,0,0,0,0,0,11,9,10,0,3587,0,0,180,0,134,0,0,0,0,435,0,434,0,138.0.12.13,5171,0.015270,0,0,13.18,0.077189,0.001041,Connected,18371309,0,0,0,0,0,10.003375,7,
-0.006507,0.000001,457.337433,123,0,0,219,Wireless,76959,10979,0,0,0,0,0,0,0,20,15,31,0,1808,0,0,143,0,123,0,0,0,0,342,0,341,0,138.0.12.13,5171,0.011805,0,0,13.18,0.077003,0.000903,Connected,18371309,0,0,0,0,0,10.000600,7,
-0.006089,0.000002,467.342224,73,0,0,209,Wireless,62974,9630,0,0,0,0,0,0,0,11,11,12,0,1924,0,0,88,0,73,0,0,0,0,282,0,282,0,138.0.12.13,5171,0.008463,0,0,13.18,0.077111,0.001414,Connected,18371309,0,0,0,0,0,10.004610,7,
-0.006290,0.000002,477.343689,62,0,0,100,Wireless,23598,5373,0,0,0,0,0,0,0,0,11,12,0,501,0,0,68,0,62,0,0,0,0,162,0,162,0,138.0.12.13,5171,0.005657,0,0,13.18,0.076847,0.000907,Connected,18371309,0,0,0,0,0,10.001421,7,
-0.006368,0.000002,487.348053,56,0,0,85,Wireless,17753,4610,0,0,0,0,0,0,0,0,11,12,0,404,0,0,58,0,56,0,0,0,0,141,0,141,0,138.0.12.13,5171,0.004987,0,0,13.18,0.077461,0.001681,Connected,18371309,0,0,0,0,0,10.004192,7,
-0.006566,0.000002,497.354828,55,0,0,145,Wireless,42055,6708,0,0,0,0,0,0,0,0,11,12,0,1210,0,0,61,0,55,0,0,0,0,200,0,200,0,138.0.12.13,5171,0.006688,0,0,13.18,0.077441,0.001883,Connected,18371309,0,0,0,0,0,10.006652,7,
-0.006941,0.000002,507.356964,143,0,0,311,Wireless,136969,14673,0,0,0,0,0,0,0,0,11,12,0,3630,0,0,187,0,143,0,0,0,0,454,0,454,0,138.0.12.13,5171,0.016367,0,0,13.18,0.077216,0.001307,Connected,18371309,0,0,0,0,0,10.002018,7,
-0.006817,0.000001,517.364380,132,0,0,272,Wireless,107093,12979,0,0,0,0,0,0,0,0,11,12,0,2452,0,0,162,0,132,0,0,0,0,404,0,405,0,138.0.12.13,5171,0.013889,0,0,13.18,0.077029,0.000935,Connected,18371309,0,0,0,0,0,10.007250,7,
-0.006658,0.000002,527.371643,82,0,0,235,Wireless,79222,17734,0,0,0,0,0,0,0,71,59,60,0,2543,0,0,103,0,82,0,0,0,0,317,0,327,0,138.0.12.13,5171,0.010233,0,0,13.18,0.077141,0.001069,Connected,18371309,0,0,0,0,0,10.007312,7,
-0.006734,0.000001,537.372070,128,0,0,94,Wireless,22486,21444,0,0,0,0,0,0,0,0,59,60,0,400,0,0,124,0,128,0,0,0,0,222,0,212,0,138.0.12.13,5171,0.008885,0,0,13.18,0.077527,0.000713,Connected,18371309,0,0,0,0,0,10.000379,7,
-0.006802,0.000002,547.377441,76,0,0,160,Wireless,42620,7845,0,0,0,0,0,0,0,24,24,25,0,1343,0,0,95,0,76,0,0,0,0,236,0,237,0,138.0.12.13,5171,0.008027,0,0,13.18,0.077349,0.001274,Connected,18371309,0,0,0,0,0,10.005159,7,
-0.006668,0.000001,557.379395,177,0,0,339,Wireless,161780,17210,0,0,0,0,0,0,0,38,38,39,0,4632,0,0,248,0,177,0,0,0,0,516,0,516,0,138.0.12.13,5171,0.018701,0,0,13.18,0.077093,0.001239,Connected,18371309,0,0,0,0,0,10.001751,7,
-0.006558,0.000000,567.380249,205,0,0,279,Wireless,120092,16717,0,0,0,0,0,0,0,0,38,39,0,3065,0,0,282,0,205,0,0,0,0,484,0,485,0,138.0.12.13,5171,0.017936,0,0,13.18,0.076920,0.000913,Connected,18371309,0,0,0,0,0,10.000666,7,
-0.006817,0.000003,577.380981,148,0,0,242,Wireless,82138,13793,0,0,0,0,0,0,0,76,75,76,0,2370,0,0,190,0,148,0,0,0,0,390,0,388,0,138.0.12.13,5171,0.014857,0,0,13.18,0.077089,0.001252,Connected,18371309,0,0,0,0,0,10.000412,7,
-0.006716,0.000003,587.381348,70,0,0,115,Wireless,26481,6071,0,0,0,0,0,0,0,1,1,2,0,490,0,0,71,0,70,0,0,0,0,185,0,183,0,138.0.12.13,5171,0.006249,0,0,13.18,0.077188,0.001274,Connected,18371309,0,0,0,0,0,10.000306,7,
-0.006619,0.000001,597.382996,68,0,0,104,Wireless,22290,5700,0,0,0,0,0,0,0,0,1,2,0,434,0,0,72,0,68,0,0,0,0,172,0,172,0,138.0.12.13,5171,0.005789,0,0,13.18,0.076946,0.001080,Connected,18371309,0,0,0,0,0,10.001490,7,
-0.007035,0.000003,607.386292,81,0,0,158,Wireless,43227,8224,0,0,0,0,0,0,0,5,4,5,0,1156,0,0,95,0,81,0,0,0,0,239,0,240,0,138.0.12.13,5171,0.008456,0,0,13.18,0.077500,0.001581,Connected,18371309,0,0,0,0,0,10.003229,7,
-0.007282,0.000001,617.392334,109,0,0,231,Wireless,91117,11113,0,0,0,0,0,0,0,0,4,5,0,2453,0,0,141,0,109,0,0,0,0,340,0,340,0,138.0.12.13,5171,0.012952,0,0,13.18,0.077145,0.001336,Connected,18371309,0,0,0,0,0,10.005869,7,
-0.007595,0.000002,627.394775,153,0,0,330,Wireless,153812,15683,0,0,0,0,0,0,0,26,19,20,0,3714,0,0,213,0,153,0,0,0,0,483,0,483,0,138.0.12.13,5171,0.018046,0,0,13.18,0.077821,0.001720,Connected,18371309,0,0,0,0,0,10.002477,7,
-0.007221,0.000003,637.
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report name" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="40ef8aed-e921-4d54-8fb8-71c2452217f9">
+	<property name="ireport.zoom" value="1.3310000000000004"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="nro" class="java.lang.String"/>
+	<parameter name="timbrado" class="java.lang.String"/>
+	<parameter name="fecha" class="java.lang.String"/>
+	<parameter name="usser" class="java.lang.String"/>
+	<parameter name="cliente" class="java.lang.String"/>
+	<parameter name="ruc" class="java.lang.String"/>
+	<parameter name="total" class="java.lang.String"/>
+	<parameter name="total5" class="java.lang.String"/>
+	<parameter name="total10" class="java.lang.String"/>
+	<field name="cantidad" class="java.lang.String"/>
+	<field name="codigo" class="java.lang.String"/>
+	<field name="descripcion" class="java.lang.String"/>
+	<field name="precio" class="java.lang.String"/>
+	<field name="total" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="51" splitType="Stretch">
+			<staticText>
+				<reportElement x="167" y="14" width="233" height="15" uuid="d9376e36-4ac2-4d28-83b4-3f05101ca5bd"/>
+				<text><![CDATA[FACTURA DE COMPRA DE PRODUCTOS]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="222" y="29" width="100" height="20" uuid="b5a8a33c-34a9-417b-9e0a-96cfecf611a1"/>
+				<text><![CDATA[uso interno]]></text>
+			</staticText>
+			<line>
+				<reportElement x="0" y="48" width="555" height="1" uuid="0ed915fc-81f8-42c2-9456-d59748363a84"/>
+			</line>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="89" splitType="Stretch">
+			<textField>
+				<reportElement x="27" y="0" width="43" height="20" uuid="521645b5-2375-4681-924d-fb9c1a507c51"/>
+				<textFieldExpression><![CDATA[$P{nro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="355" y="20" width="100" height="20" uuid="acba86a9-bb9b-4eba-bda8-233ce7c55d7b"/>
+				<textFieldExpression><![CDATA[$P{timbrado}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="67" y="20" width="100" height="20" uuid="6bf3dfd3-6920-462b-b9b3-ddc92449a056"/>
+				<textFieldExpression><![CDATA[$P{fecha}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="67" y="40" width="100" height="20" uuid="22c9882a-2e93-4b80-94f9-788c61addb4e"/>
+				<textFieldExpression><![CDATA[$P{usser}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="100" y="64" width="140" height="20" uuid="fa8c4d4a-442b-417c-ac29-6fcef6300ac7"/>
+				<textFieldExpression><![CDATA[$P{cliente}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="278" y="64" width="100" height="20" uuid="dde3ad0a-812c-4805-b0eb-b7f74bf3c02d"/>
+				<textFieldExpression><![CDATA[$P{ruc}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="0" y="0" width="27" height="20" uuid="856f54b2-b9ec-47e4-9234-6032fb919771"/>
+				<text><![CDATA[NRO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="20" width="67" height="20" uuid="53bb1464-3756-4eb2-b91a-4fbe9289a748"/>
+				<text><![CDATA[FECHA]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="40" width="67" height="20" uuid="236e4411-edb1-4aa0-8873-207056aa9d7c"/>
+				<text><![CDATA[USUARIO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="64" width="100" height="20" uuid="d17c4256-57f1-4a4a-8ec2-077e06cd2788"/>
+				<text><![CDATA[PROVEEDOR]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="240" y="64" width="38" height="20" uuid="ecfe939d-7fd4-419a-acda-383a2906d1a9"/>
+				<text><![CDATA[RUC]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="355" y="0" width="100" height="20" uuid="7bb9773e-86fc-424a-9f2d-c4ac667e06aa"/>
+				<text><![CDATA[TIMBRADO]]></text>
+			</staticText>
+			<line>
+				<reportElement x="0" y="88" width="555" height="1" uuid="094bb4d8-0373-4948-93e6-c07e4c7342e2"/>
+			</line>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="33" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="13" width="54" height="20" uuid="98bda684-aea7-41eb-ab32-8de2e2ae0e9f"/>
+				<text><![CDATA[CANTIDAD]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="100" y="13" width="43" height="20" uuid="72b48c58-a497-4520-9392-25ecd4ce1bea"/>
+				<text><![CDATA[CODIGO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="167" y="13" width="133" height="20" uuid="bc513576-cdba-468e-a701-f9d0a63b670b"/>
+				<text><![CDATA[DESCRIPCION]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="300" y="13" width="100" height="20" uuid="427a77f8-f5c6-4ab1-9708-d1cecffdf858"/>
+				<text><![CDATA[PRECIO UNITARIO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="400" y="13" width="55" height="20" uuid="f357baa4-a862-45ec-8e1d-db6686ef4e8d"/>
+				<text><![CDATA[TOTAL]]></text>
+			</staticText>
+			<line>
+				<reportElement x="0" y="32" width="555" height="1" uuid="b90bde9d-ecbc-458f-bda2-f30b615bf27d"/>
+			</line>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="20" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="54" height="20" uuid="abe5743f-e6c4-48f4-93b9-51e3f26097d3"/>
+				<textFieldExpression><![CDATA[$F{cantidad}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="100" y="0" width="43" height="20" uuid="fe724b9a-51e7-464b-a4d9-5f6f60b08eb1"/>
+				<textFieldExpression><![CDATA[$F{codigo}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="167" y="0" width="133" height="20" uuid="3b1974fc-d8ec-4be7-957c-5f555db53d7c"/>
+				<textFieldExpression><![CDATA[$F{descripcion}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="300" y="0" width="100" height="20" uuid="b5097a10-b196-4383-a4e7-59c6b9c01890"/>
+				<textFieldExpression><![CDATA[$F{precio}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="400" y="0" width="55" height="20" uuid="375e07eb-1acb-400f-bfe0-ecc33e0c360d"/>
+				<textFieldExpression><![CDATA[$F{total}]]></textFieldExpression>
+			</textField>
+			<line>
+				<reportElement x="0" y="0" width="100" height="1" uuid="23427d47-770e-462e-b03e-2df4a4f8d676"/>
+			</line>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="32" splitType="Stretch">
+			<textField>
+				<reportElement x="400" y="0" width="55" height="20" uuid="ca321709-96da-4bc3-8fdf-e19f06d764e9"/>
+				<textFieldExpression><![CDATA[$P{total}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="300" y="0" width="51" height="20" uuid="57815ce1-2a2b-408a-bfbf-2b484bd8971e"/>
+				<textFieldExpression><![CDATA[$P{total10}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="200" y="0" width="56" height="20" uuid="c14ea1d8-b081-4283-bd37-a4e74a5e1e07"/>
+				<textFieldExpression><![CDATA[$P{total5}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="167" y="0" width="33" height="20" uuid="e51f668c-9020-4c12-a35b-ef937a9fd8a9"/>
+				<text><![CDATA[5%]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="256" y="0" width="44" height="20" uuid="6e3eef51-6540-49bf-965b-dceb55906414"/>
+				<text><![CDATA[10%]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="351" y="0" width="49" height="20" uuid="c0b1a272-6d55-48e5-afa5-560dfac10c52"/>
+				<text><![CDATA[TOTAL]]></text>
+			</staticText>
+		</band>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

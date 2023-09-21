@@ -1,144 +1,357 @@
-equest of /lol-chat/v1/conversations//messages failed with HTTP Error 400
-    at XMLHttpRequest.h.onreadystatechange (https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js:1:93962)", source: https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js (1)
-[0917/195622.890:INFO:CONSOLE(1)] "Uncaught (in promise) Error: jsonRequest of /lol-chat/v1/conversations/c329bab6-51f8-408c-b8a6-5cfc196c205c%40sec.la2.pvp.net failed with HTTP Error 404", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/195622.968:INFO:CONSOLE(1)] "Uncaught (in promise) Error: jsonRequest of /lol-chat/v1/conversations/ac0f434e-dbd9-4987-9429-b5b104dfd310%40champ-select.la2.pvp.net failed with HTTP Error 404", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204135.626:INFO:CONSOLE(1)] "        rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204135.642:INFO:CONSOLE(1)] "        rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204137.633:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204137.633:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="honor-vote"", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204137.633:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: honorEnabled, detail=true", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204137.634:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: isShowing", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204137.634:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: Attempt to showHonor", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204137.693:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: api: showHonor", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204137.743:INFO:CONSOLE(1)] "TypeError: Cannot read property 'playerName' of undefined
-    at https://127.0.0.1:50282/fe/lol-postgame/rcp-fe-lol-postgame.js:1:114823
-    at Array.forEach (<anonymous>)
-    at https://127.0.0.1:50282/fe/lol-postgame/rcp-fe-lol-postgame.js:1:114728
-    at Array.forEach (<anonymous>)
-    at i.<anonymous> (https://127.0.0.1:50282/fe/lol-postgame/rcp-fe-lol-postgame.js:1:114567)
-    at c.p.get (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:133996)
-    at i (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:173162)
-    at o (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:173360)
-    at Object.i [as get] (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:173151)
-    at i.get (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:253343)
-    at i.processChampionMasteryUpdates (https://127.0.0.1:50282/fe/lol-postgame/rcp-fe-lol-postgame.js:1:115230)
-    at invokeWithOnError (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:6231)
-    at a.flush (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:6670)
-    at u.flush (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:7642)
-    at l.end (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:7986)
-    at https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:5082", source: https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js (1)
-[0917/204137.881:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: startCountdown", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204139.804:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: beginTransition: selectionChosen, detail=true", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204141.585:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="honor-vote"", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204141.585:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="challenge-level-up-celebration"", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204141.586:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: hideHonor: Attempt to hideHonor", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204141.720:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: api: hideHonor", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204141.756:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="challenge-level-up-celebration"", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204141.756:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="missions-celebration"", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204141.849:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="missions-celebration"", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204141.849:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="ranked-celebration"", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204141.865:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="ranked-celebration"", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204141.880:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204141.933:INFO:CONSOLE(1)] "       rcp-fe-lol-postgame| EoG Eternals updates length: 0", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204213.094:INFO:CONSOLE(1)] "Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22", source: https://127.0.0.1:50282/fe/lol-parties/rcp-fe-lol-parties.js (1)
-[0917/204213.094:INFO:CONSOLE(1)] "Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22", source: https://127.0.0.1:50282/fe/lol-parties/rcp-fe-lol-parties.js (1)
-[0917/204213.094:INFO:CONSOLE(1)] "Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22", source: https://127.0.0.1:50282/fe/lol-parties/rcp-fe-lol-parties.js (1)
-[0917/204213.094:INFO:CONSOLE(1)] "Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22", source: https://127.0.0.1:50282/fe/lol-parties/rcp-fe-lol-parties.js (1)
-[0917/204213.094:INFO:CONSOLE(1)] "Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22", source: https://127.0.0.1:50282/fe/lol-parties/rcp-fe-lol-parties.js (1)
-[0917/204213.095:INFO:CONSOLE(1)] "Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22", source: https://127.0.0.1:50282/fe/lol-parties/rcp-fe-lol-parties.js (1)
-[0917/204216.922:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: honorEnabled, detail=true", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204216.937:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: isShowing", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204217.266:INFO:CONSOLE(1)] "         rcp-fe-ember-libs| ember-data-binding instantiated with no socket, will not receive updates, detail="ember-data-binding:unknown"", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204219.200:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[0917/204219.202:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[0917/204219.202:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[0917/204219.203:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[0917/204219.387:INFO:CONSOLE(1)] "TypeError: (this.get(...) || {}).filter is not a function
-    at i.<anonymous> (https://127.0.0.1:50282/fe/lol-parties/rcp-fe-lol-parties.js:1:888386)
-    at c.p.get (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:133996)
-    at Object.i [as get] (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:173162)
-    at e.compute (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:117628)
-    at e.value (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:116856)
-    at t.iterate (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:113886)
-    at t.isEmpty (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:332545)
-    at t.value (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:396457)
-    at t.initialize (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:339242)
-    at t.peek (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:338901)
-    at e.evaluate (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:406748)
-    at t.execute (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:467830)
-    at t.resume (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:467444)
-    at e.handleException (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:476187)
-    at t.handleException (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:479136)
-    at t.throw (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:474612)
-    at e.evaluate (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:407044)
-    at t.execute (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:474388)
-    at t.rerender (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:473297)
-    at t.a.render (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:82801)
-    at l (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:82180)
-    at e.t._renderRoots (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:85775)
-    at e.t._renderRootsTransaction (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:86081)
-    at e.t._revalidate (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:86614)
-    at invokeWithOnError (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:6231)
-    at a.flush (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:6670)
-    at u.flush (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:7642)
-    at l.end (https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js:1:7986)", source: https://127.0.0.1:50282/fe/ember-libs/rcp-fe-ember-libs.js (1)
-[0917/204253.304:INFO:CONSOLE(1)] "        rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204253.509:INFO:CONSOLE(1)] "Uncaught (in promise) Error: jsonRequest of /lol-lobby/v2/lobby failed with HTTP Error 404", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204256.940:INFO:CONSOLE(1)] "         rcp-fe-ember-libs| ember-data-binding instantiated with no socket, will not receive updates, detail="ember-data-binding:unknown"", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204706.511:INFO:CONSOLE(1)] "        rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204706.701:INFO:CONSOLE(0)] "Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22", source: https://riot:Yp5P_BUKp4u0coeTzJ6PYQ@127.0.0.1:50282/index.html (0)
-[0917/204706.733:INFO:CONSOLE(1)] "        rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204706.734:INFO:CONSOLE(1)] "        rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/204706.774:INFO:CONSOLE(1)] "Uncaught (in promise) Error: jsonRequest of /lol-chat/v1/conversations/42d27dff-d6c2-4140-9733-3ecf6657591f%40champ-select.la2.pvp.net failed with HTTP Error 404", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211731.633:INFO:CONSOLE(1)] "        rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211731.633:INFO:CONSOLE(1)] "        rcp-fe-common-libs| Error thrown by observer., detail={"path":"/lol-lobby/v2/lobby","error":{}}", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211733.586:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211742.564:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="honor-vote"", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211742.564:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: honorEnabled, detail=true", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211742.565:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: isShowing", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211742.566:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: processBallot: Attempt to showHonor", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211742.576:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: api: showHonor", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211742.587:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: startCountdown", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211743.846:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: optOutHonor: selectionChosen", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211744.170:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: currentPhase, detail="honor-vote"", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211744.185:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePreEndOfGameSequence: sequenceName, detail="challenge-level-up-celebration"", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211744.185:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: hideHonor: Attempt to hideHonor", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211744.296:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: api: hideHonor", source: https://127.0.0.1:50282/fe/common-libs/rcp-fe-common-libs.js (1)
-[0917/211745.220:INFO:CONSOLE(1)] "          rcp-fe-lol-honor| rcp-fe-lol-honor: handlePre5,2,10971,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,10966,10966,0
-500189,X.X.X.X,3776601,896102,23737,105169,2,11290,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,11283,11283,0
-510194,X.X.X.X,3882819,938389,42287,106218,2,11649,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,11643,11643,0
-520198,X.X.X.X,3992268,960605,22216,109449,2,11940,78,0,0,0,0,0,78,0.000000,0,78,78,78,78,11936,11936,0
-530203,X.X.X.X,4112261,983765,23160,119993,2,12241,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,12236,12236,0
-540212,X.X.X.X,4198452,1004540,20775,86191,2,12525,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,12519,12519,0
-550216,X.X.X.X,4331641,1029728,25188,133189,2,12842,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,12837,12837,0
-560220,X.X.X.X,4425253,1052490,22762,93612,2,13150,78,0,0,0,0,0,78,0.000000,0,78,78,78,78,13145,13145,0
-570227,X.X.X.X,4509006,1073448,20958,83753,2,13427,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,13421,13421,0
-580231,X.X.X.X,4619490,1096361,22913,110484,2,13722,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,13717,13717,0
-590237,X.X.X.X,4712905,1115534,19173,93415,2,13958,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,13953,13953,0
-600242,X.X.X.X,4809858,1133401,17867,96953,2,14178,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,14171,14171,0
-610250,X.X.X.X,4912255,1153764,20363,102397,2,14430,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,14424,14424,0
-620253,X.X.X.X,4998077,1171445,17681,85822,2,14655,79,0,0,0,0,0,79,0.000000,3,79,79,79,79,14649,14649,0
-630256,X.X.X.X,5069412,1187846,16401,71335,2,14862,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,14858,14858,0
-640264,X.X.X.X,5155838,1207677,19831,86426,2,15111,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,15106,15106,0
-650269,X.X.X.X,5290231,1231772,24095,134393,2,15406,84,0,0,0,0,0,84,0.000000,6,84,84,84,84,15400,15400,0
-660274,X.X.X.X,5393691,1254922,23150,103460,2,15718,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,15711,15711,0
-670278,X.X.X.X,5494055,1277409,22487,100364,2,16004,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,15998,15998,0
-680278,X.X.X.X,5591818,1299590,22181,97763,5,16297,78,0,0,0,0,0,78,0.010239,1,78,78,78,78,16291,16291,0
-690282,X.X.X.X,5684569,1321132,21542,92751,5,16575,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,16571,16571,0
-700291,X.X.X.X,5809094,1345241,24109,124525,5,16889,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,16884,16884,0
-710292,X.X.X.X,5887581,1364123,18882,78487,5,17146,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,17142,17142,0
-720293,X.X.X.X,5959937,1382286,18163,72356,5,17388,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,17384,17384,0
-730297,X.X.X.X,6063895,1402524,20238,103958,6,17650,79,0,0,0,0,0,79,0.003831,2,79,79,79,79,17645,17645,0
-740301,X.X.X.X,6165336,1422627,20103,101441,6,17915,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,17909,17909,0
-750304,X.X.X.X,6261226,1444237,21610,95890,6,18205,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,18199,18199,0
-760305,X.X.X.X,6404037,1469611,25374,142811,6,18515,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,18508,18508,0
-770313,X.X.X.X,6514950,1492956,23345,110913,6,18823,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,18820,18820,0
-780314,X.X.X.X,6621135,1516867,23911,106185,6,19131,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,19126,19126,0
-790316,X.X.X.X,6733084,1540152,23285,111949,6,19430,79,0,0,0,0,0,79,0.000000,1,79,79,79,79,19425,19425,0
-800322,X.X.X.X,6808497,1560649,20497,75413,6,19710,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,19705,19705,0
-810323,X.X.X.X,6867556,1575662,15013,59059,6,19902,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,19896,19896,0
-820330,X.X.X.X,6950253,1592980,17318,82697,6,20115,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,20110,20110,0
-830335,X.X.X.X,7028570,1609666,16686,78317,6,20317,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,20312,20312,0
-840337,X.X.X.X,7106272,1628164,18498,77702,6,20565,79,0,0,0,0,0,79,0.000000,2,79,79,79,79,20559,20559,0
-850342,X.X.X.X,7235368,1652020,23856,129096,6,20856,78,0,0,0,0,0,78,0.000000,1,78,78,78,78,20852,20852,0
-860350,X.X.X.X,7363048,1675113,23093,127680,6,21140,79,0,0,0,0,0,79,
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[750, 650]"/>
+    </Property>
+    <Property name="modal" type="boolean" value="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" pref="888" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" pref="530" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Dialog" size="18" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Mantener Registro de Usuarios"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="250" y="20" width="270" height="40"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Properties>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder thickness="2"/>
+              </Border>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="66" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="90" width="870" height="200"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="true"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel2">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="ID"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="30" y="20" width="20" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtid">
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtidActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="60" y="20" width="40" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="NOBMRE"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="120" y="20" width="70" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtnombre">
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="210" y="20" width="300" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel4">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="CONTRASE&#xd1;A"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="520" y="20" width="90" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel5">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="PERFIL"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="30" y="80" width="60" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="combo">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="2">
+                    <StringItem index="0" value="Compra"/>
+                    <StringItem index="1" value="Servicio"/>
+                  </StringArray>
+                </Property>
+                <Property name="toolTipText" type="java.lang.String" value=""/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="comboActionPerformed"/>
+              </Events>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="130" y="80" width="170" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JPasswordField" name="txtpass">
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtpassActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="630" y="20" width="160" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel7">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="CONFIRMAR"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="520" y="70" width="90" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JPasswordField" name="txtpass2">
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtpass2ActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="630" y="80" width="160" height="30"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel3">
+          <Properties>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder thickness="2"/>
+              </Border>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="66" red="66" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="300" width="870" height="70"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                      <Component id="nuevo" min="-2" pref="93" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="guardar" min="-2" pref="94" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="editar" min="-2" pref="92" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="eliminar" min="-2" pref="91" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="119" max="-2" attributes="0"/>
+                      <Component id="cancelar" min="-2" pref="102" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="salir" min="-2" pref="102" max="-2" attributes="0"/>
+                      <EmptySpace pref="130" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="nuevo" pref="44" max="32767" attributes="0"/>
+                          <Component id="guardar" alignment="0" max="32767" attributes="0"/>
+                          <Component id="editar" alignment="0" max="32767" attributes="0"/>
+                          <Component id="eliminar" alignment="0" max="32767" attributes="0"/>
+                          <Component id="salir" alignment="0" max="32767" attributes="0"/>
+                          <Component id="cancelar" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="nuevo">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="NUEVO"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="nuevoMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="guardar">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="GUARDAR"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="guardarMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="editar">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="EDITAR"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="editarMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="eliminar">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="ELIMINAR"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="eliminarMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="cancelar">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="CANCELAR"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="cancelarMouseClicked"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="salir">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="SALIR"/>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="salirMouseClicked"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="380" width="870" height="130"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="tab">
+              <Properties>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="3" rowCount="4">
+                    <Column editable="true" title="ID" type="java.lang.Object"/>
+                    <Column editable="true" title="NOMBRE" type="java.lang.Object"/>
+                    <Column editable="true" title="ROLL" type="java.lang.Object"/>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="tabMouseClicked"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
